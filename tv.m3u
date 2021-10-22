@@ -1,533 +1,2793 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png",+ Listas en M3U.CL * | CL
-https://vdo1.streamgato.us:3776/stream/play.m3u8
-#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",MEDIA TV CANAL 1
-https://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",MEDIA TV CANAL 2
-https://rtmp02.portalexpress.es/radiopk2s/radiopk2s/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",MEDIA TV CANAL 3
-http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia", ATB
-http://136.243.3.70:1935/Atb/Atb/playlist.m3u8
-#EXTINF:-1 group-title="Bolivia" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20",ATB LA PAZ
-http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia", ATB-LA PAZ (Losting)
-https://stream-03.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOmOA77jka2jXI5vfZl7vQe0)/dm/3/x84eirw/s/live-1.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia", ATB-CBBA
-http://live.cdn.comteco.com.bo/comgo/0201/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia", ATB-CBBA (Mirror)
-https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia", ATB-STA CRUZ
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia",ATB-STA CRUZ (Losting)
-http://200.105.156.10/live/danielmc/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244412793_102059192256095_6658901679465809711_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=mQJAGAgz9O0AX_aoUHV&_nc_ht=scontent.flpb1-1.fna&oh=dede92aec69822927fda901e11417d37&oe=617FFD20" group-title="Bolivia", ATB-STA CRUZ (Mirror)
-https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/seotv.png" group-title="Bolivia",SEO TV
-http://seo.tv.bo/hls/seo.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/seotv.png" group-title="Bolivia",SEO TV Opt-2
-https://vdo.mediacp.eu:3131/live/cwvyihjulive.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logokaribeñatv.png" group-title="Perú",Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/KoNmgiw.png" group-title="Perú", Exitosa Tv (opc 1)
-https://cu.onliv3.com/livevd1/user2_low/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rCBhSh4.png" group-title="Perú", Exitosa Tv opc 2
-https://cu.onliv3.com:443/livevd1/user2.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/rCBhSh4.png" group-title="Perú", Exitosa Tv (opc 3)
-https://cu.onliv3.com/livevd1/user2.m3u8
-#EXTINF:-1 group-title="Bolivia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Bolivia", BOLIVIA TV 7.1
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Bolivia", BOLIVIA TV (Losting)
-http://live.cdn.comteco.com.bo/comgo/0203/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Bolivia", BOLIVIA TV
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVIATV/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Nueva_imagen_Bolivia_TV.jpg" group-title="Bolivia", BOLIVIA TV 7.2
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/149251117_2813562388905385_3864114112494374508_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=EoO69hEXYeEAX8qW98S&_nc_ht=scontent.flpb1-1.fna&oh=1e22b6fb0c49606d553124c847c9c318&oe=617F6BC0" group-title="Bolivia", TV CULTURAS
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVCULTURA/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/tvlatina.png" group-title="Bolivia",LatinaTV (HD)- Montero 
-http://data.tucableip.com/live/tvlatinamontero/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tucableip.com/canales/neotv.png" group-title="Bolivia",NEOTV (HD)- Minero
-https://master.tucableip.com/neotv/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/35camargo.png" group-title="Bolivia",35 CAMARGO
-http://master.tucableip.com/35camargo/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/cristaltv.png" group-title="Bolivia",Cristal TV
-http://america.tucableip.com/bolivia/cristaltv/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/canal27trinidad.png" group-title="Bolivia",Canal 27 Trinidad 
-https://master.tucableip.com/canal27/index.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/nettv.png" group-title="Bolivia",NetTV 29 Trinidad 
-https://master.tucableip.com/NetTv/index.m3u8
-#EXTINF:-1 tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia",RED UNO HD-LPZ 24/7
-http://136.243.3.70:1935/RedUno/RedUno/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia", RED UNO HD-CBBA
-http://live.cdn.comteco.com.bo/comgo/0206/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia", RED UNO HD-STA CRUZ
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia", RED UNO HD-SCZ 24/7
-http://200.58.160.67:8081/envivo/redunohd/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia", RED UNO HD-LA PAZ
-https://ott.streann.com/loadbalancer/services/public/channels/5ea9f3ab2cdc31ce152b0097/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia", RED UNO HD-COCHABAMBA
-https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f2d22cdc31ce152b0090/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia", RED UNO HD-SANTA CRUZ
-https://ott.streann.com/loadbalancer/services/public/channels-secure/5ea9f31a2cdc654acd294aaf/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/11/logoredunonew.png" group-title="Bolivia", RED UNO HD-SCZ
-https://stmv.panel.grupolimalive.com/frecuencia/frecuencia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/TV-Shop-Ph.png/revision/latest?cb=20160530031712" group-title="Philppines", Shop TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/157/157639/45392-294x165-FFFFFF.jpg" group-title="Philppines", Life TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/55365e3d066de9087b6a5bad/frases-educacion_0.jpg" group-title="Philppines", DepEd TV
-https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2JAQtwH" group-title="Philppines",Beam TV
-http://59c3ec70cfde0.streamlock.net/channel_5/channel5/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="Bolivia", CADENA A (HD)-LA PAZ
-http://live.cdn.comteco.com.bo/comgo/0213/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://tvmi.com.bo/wp-content/uploads/sites/2/2018/10/logocadenaa.png" group-title="Bolivia", CADENA A (HD)-LA PAZ 24/7
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CADENAA/__op/hls-default/__f/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/117127376_657212288227980_8299337096516787168_n.png?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=ZxsNue-wauIAX89KRLB&_nc_ht=scontent.flpb1-2.fna&oh=d1c07b4f19fc18eb9d3bca2b6a93629e&oe=61827CFF" group-title="Bolivia", DTPLAY
-http://rtmp02.portalexpress.es/dtplay/dtplay/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://comteco.com.bo/img/upload/canales/cpTwUl.png" group-title="Bolivia", COMTECO TV
-http://live.cdn.comteco.com.bo/comgo/0220/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://comteco.com.bo/img/upload/canales/ShofNi.png" group-title="Bolivia", GAME CON
-http://live.cdn.comteco.com.bo/comgo/0500/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243178578_102070438921637_4279292939419871595_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=cTSv0fsipPEAX93LkJP&_nc_ht=scontent.flpb1-2.fna&oh=9a9f4eb02661db5c9cafd585bdc8ed18&oe=617F62E9" group-title="Bolivia", UPP TV
-https://bo-bolivision-santacruz-live.ned.media/vid_486p.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzODg4NjQzLCJzZXNzaW9uIjoiMTgxLjExNS4xNjAuMjMyIiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTYwLjIzMiJdfSwic2lnbmF0dXJlIjoiNTUwZjNjZjQwZjA3NWQ1ZWQ2Nzc1NjA0MDlmZTcyODllYTNjYTM1ZCJ9
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://comteco.com.bo/img/upload/canales/cpTwUl.png" group-title="Bolivia", EVENTO 1 COMTECO TV
-http://live.cdn.comteco.com.bo/comgo/0426/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://comteco.com.bo/img/upload/canales/cpTwUl.png" group-title="Bolivia", EVENTO 2 COMTECO TV
-http://live.cdn.comteco.com.bo/comgo/0408/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243178578_102070438921637_4279292939419871595_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=cTSv0fsipPEAX93LkJP&_nc_ht=scontent.flpb1-2.fna&oh=9a9f4eb02661db5c9cafd585bdc8ed18&oe=617F62E9" group-title="Bolivia", BOLIVISION SC
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243178578_102070438921637_4279292939419871595_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=cTSv0fsipPEAX93LkJP&_nc_ht=scontent.flpb1-2.fna&oh=9a9f4eb02661db5c9cafd585bdc8ed18&oe=617F62E9" group-title="Bolivia", BOLIVISION CB
-http://live.cdn.comteco.com.bo/comgo/0202/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243178578_102070438921637_4279292939419871595_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=cTSv0fsipPEAX93LkJP&_nc_ht=scontent.flpb1-2.fna&oh=9a9f4eb02661db5c9cafd585bdc8ed18&oe=617F62E9" group-title="Bolivia", BOLIVISION LP
-http://200.58.160.67:8081/envivo/bolivision/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/p526x296/243178578_102070438921637_4279292939419871595_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_ohc=cTSv0fsipPEAX93LkJP&_nc_ht=scontent.flpb1-2.fna&oh=9a9f4eb02661db5c9cafd585bdc8ed18&oe=617F62E9" group-title="Bolivia", BOLIVISION 24/7
-https://bo-bolivision-lapaz-live.ned.media/vid_486p.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMzODg4NDg2LCJzZXNzaW9uIjoiMTgxLjExNS4xNjAuMjMyIiwid2hpdGVsaXN0IjpbIjE4MS4xMTUuMTYwLjIzMiJdfSwic2lnbmF0dXJlIjoiMzAwNzliYTYzYzU2OWI3OTIzZmZlNzNkNTVjMTcxYWMzMjZkYThiOCJ9
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244487008_102059295589418_8757305359013609619_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=kkrsJFkuocUAX8F7LHF&_nc_ht=scontent.flpb1-1.fna&oh=7880a8791cc0d7269e1cde95b30bb32e&oe=6181F6B1" group-title="Bolivia", Red PAT (Losting)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-#EXTINF: -1 tvg-id="135" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244487008_102059295589418_8757305359013609619_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=kkrsJFkuocUAX8F7LHF&_nc_ht=scontent.flpb1-1.fna&oh=7880a8791cc0d7269e1cde95b30bb32e&oe=6181F6B1" group-title="Bolivia", PAT
-http://95.211.214.198:8181/pat/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244487008_102059295589418_8757305359013609619_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=kkrsJFkuocUAX8F7LHF&_nc_ht=scontent.flpb1-1.fna&oh=7880a8791cc0d7269e1cde95b30bb32e&oe=6181F6B1" group-title="Bolivia", PAT (Mirror) 
-http://200.58.160.67:8081/envivo/pat/playlist.m3u8
-#EXTINF: -1 tvg-id="135" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/244487008_102059295589418_8757305359013609619_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=kkrsJFkuocUAX8F7LHF&_nc_ht=scontent.flpb1-1.fna&oh=7880a8791cc0d7269e1cde95b30bb32e&oe=6181F6B1" group-title="Bolivia", RED PAT
-http://live.cdn.comteco.com.bo/comgo/0215/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQfEUIGzraeGwUiQbZr6V7ElcOfcdhljNbB9BlQbA=s900-c-k-c0x00ffffff-no-rj" group-title="Bolivia", XTO TV
-http://136.243.3.70:1935/XtoTv/XtoTv/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="Bolivia", RTP 
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1DYPzkDGsnWqzAQ2SiZOKA7Hi9CrNj1h6SpIup_yMJtTEHN9EKMPvD0nz8thRaCB1Lo&usqp=CAU" group-title="Juegos", LEVEL UP TV
-https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/ad73dbb1-f092-462e-926d-aa8400cf4d1c/0.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="Bolivia", RTP (Losting)
-http://live.cdn.comteco.com.bo/comgo/0209/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://www.rtpbolivia.com.bo/wp-content/uploads/sites/18/2021/05/logo-300x155.png" group-title="Bolivia", RTP (Mirror)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://tvusucre.com/images/Cabeza-logo.png" group-title="Bolivia", TVU SUCRE
-https://solo.disfrutaenlared.com:1936/tuch/mp4:tuch_480p/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.18169-9/14441190_523098687900711_7857308024037805710_n.png?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7qd_6jbzXvoAX-dHd6N&_nc_ht=scontent.flpb1-2.fna&oh=71f55c7d78d892d3db2d6f2b24aa4aae&oe=6184D24E" group-title="Bolivia", CVC
-https://cp.sradiotv.com:1936/8058/8058/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://comteco.com.bo/img/upload/canales/96U37M.png" group-title="Bolivia", RTL
-http://live.cdn.comteco.com.bo/comgo/0217/index.m3u8
-#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",IMPERIAL TV
-https://stmv.panel.grupolimalive.com/marvision/marvision/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://thumbs.dreamstime.com/b/old-tv-icon-elements-media-neon-style-icons-simple-websites-web-design-mobile-app-info-graphics-dark-gradient-134636918.jpg" group-title="Bolivia",IMPERIAL TV Opt-2
-https://stmv.panel.grupolimalive.com/imperial/imperial/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/73056409_144643800234825_6575534074784382976_n.png?_nc_cat=101&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=cYNSc2NdR5UAX-6Pwmu&_nc_ht=scontent.flpb1-1.fna&oh=0d803abe47925faad4cba962af6328a6&oe=617FE12A" group-title="Bolivia", SNTV (HD)-Santa Cruz
-http://200.58.160.67:8081/envivo/solonoticias/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.18169-9/14691012_547821868741019_5762955511133398050_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=rm_2PER9PVoAX9WaTLQ&_nc_ht=scontent.flpb1-2.fna&oh=acdb9524f1e07ed8f4607275fb2c3dbd&oe=617FDBDA" group-title="Bolivia",TELEVISION UNIVERSITARIA DE SANTA CRUZ
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVUNIVERSITARIA/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="#" group-title="Perú",TV Cosmos
-https://59d39900ebfb8.streamlock.net/str15live/str15live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-a6-jFincYx4/XoKGQM0oJWI/AAAAAAAAxWA/JPXlKZwqMPE26VLeUAg9y0wBYOfSIGotwCK8BGAsYHg/s0/2020-03-30.png" group-title="Perú",Unitel
-https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t39.30808-6/240907968_1956464991175137_5376541965949674846_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=_LpcAwi232YAX-7IQh4&_nc_ht=scontent.flpb1-2.fna&oh=ad9490c44b654deb371305bbd6cda97d&oe=61605774" group-title="Bolivia",CEA COM TV
-https://cloud2.streaminglivehd.com:1936/ceacom/ceacom/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/fec09de82f8dfa3d668fda6019d4a966.png" group-title="Bolivia",MEGAvision (HD)-Santa Cruz
-https://livefocamundo.com:8081/megavisiontv/index.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://boplus.tv/wp-content/uploads/2021/08/LOGOTIPO-BOPLUS-uso-horizontal-1.png" group-title="Bolivia", Bo Plus 13.1 y 48.1
-https://mediastreamm.com:3342/live/boplustvlive.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/mvMRNou.png" group-title="Bolivia", TELE ESTRELLA 
-http://hd.istbolivia.com:1935/Teleestrella/Teleestrella/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="http://136.243.3.70/tvu/wp-content/uploads/2018/01/logotvu-300x162.png" group-title="Bolivia", TVU 
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://e=617FFD20" group-title="Bolivia", ANDINA TV ORURO
-https://cp.sradiotv.com:1936/andinatv/andinatv/playlist.m3u8
-#EXTINF: -1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="Bolivia", Unitel HD 
-http://200.58.160.67:8081/envivo/unitelhd/unitelhd/unitelhd/playlist.m3u8
-#EXTINF: -1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="Bolivia", Unitel (HD)-Santa Cruz
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF: -1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="Bolivia", Unitel (HD)-La Paz
-http://95.211.214.198:8181/tuver/evento1/index.m3u8
-#EXTINF: -1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="Bolivia", Unitel (HD) 24/7
-https://srv1.painelvideo.com/vavizacli/vavizacli/playlist.m3u8
-#EXTINF: -1 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" group-title="Bolivia", Unitel (HD)-Cochabamba
-http://live.cdn.comteco.com.bo/comgo/0208/index.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/243186242_102068468921834_8213494536842105025_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=5AzGpcVOpDoAX97dTmZ&tn=GEahjiTdOGKvj7uc&_nc_ht=scontent.flpb1-1.fna&oh=0a948115a760ff6f341e025d9c26a3f2&oe=61801854" group-title="Bolivia",GIGAvision (HD)-Santa Cruz
-http://200.58.160.67:8081/envivo/gigavision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/243186242_102068468921834_8213494536842105025_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_ohc=5AzGpcVOpDoAX97dTmZ&tn=GEahjiTdOGKvj7uc&_nc_ht=scontent.flpb1-1.fna&oh=0a948115a760ff6f341e025d9c26a3f2&oe=61801854" group-title="Bolivia",GIGAvision (HD)-Santa Cruz (Mirror)
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id=" 18 "tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="Perú", Canal BHTV
-https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nXOHzqA.png" group-title="Perú", Latina Television
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nXOHzqA.png" group-title="Perú", Latina Television Opt-2
-https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/319698305
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nXOHzqA.png" group-title="Perú", Latina Television Opt-3
-https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Panamericana Television Opt-2
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/video/x774s7s
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú",Willax Television
-https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
-#EXTINF:-1 group-title="Bolivia" tvg-id="" tvg-name="" tvg-logo="",RED ADVENIR
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/637288244506402816/D9GYBBZ3.jpg" group-title="Bolivia",FTV (HD)-Santa Cruz
-https://master.tucableip.com/ftv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg/260px-Informaci%C3%B3n_Period%C3%ADstica_IP_Logo.svg.png" group-title="Argentina", IP  24.5
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=4499968.m3u8
-#EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/fJqimK3.png",TV Peru
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJqimK3.png" group-title="Perú", TV Peru Internacional
-https://cdnh8.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/LogoCanal26.png/120px-LogoCanal26.png" group-title="Argentina", CANAL 26  24.2
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I3WrAkE.png" group-title="Chile", Telecanal
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/YahooFinance_450x450.png?raw=true" group-title="USA",Yahoo! Finance | Source 1
-https://yahoo-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/YahooFinance_450x450.png?raw=true" group-title="USA",Yahoo! Finance | Source 2
-https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/I3WrAkE.png" group-title="USA", Yahoo! News
-https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/aynity.png" group-title="Bolivia", AYNI TV
-http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.tucableip.com/canales/vostv.png" group-title="Bolivia", VOS TV
-rtmp://canaltv.istbolivia.com:1935/vostv/vostv
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/216148287_830190014347274_2366903252446439373_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=d8h7sy0ssOwAX_AmnmY&tn=GEahjiTdOGKvj7uc&_nc_ht=scontent.flpb1-1.fna&oh=6d5451df3aab4d5d12f0b66c3002aa88&oe=6183980D" group-title="Bolivia",UNE TV EDUCATIVA
-https://stmvideo1.livecastv.com/unetv/unetv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://lamega973fm.com/wp-content/uploads/2019/09/lamega973fm-logo-1.png" group-title="Bolivia", RADIO MEGA 97.3
-https://cdnhd.iblups.com/hls/Ghhf9SS1HB.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A24_%282019-1%29.png/150px-A24_%282019-1%29.png" group-title="Argentina", A24  36.3
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/145px-TN_todo_noticias_logo.svg.png" group-title="Argentina", * Todo Noticias
-http://edge1.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="Argentina", VIAJAR
-https://cdn.cvattv.com.ar/live/c2live/Turismo_Vision_Argentina/SA_Live_dash_enc_2A/Turismo_Vision_Argentina.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", AMERICA 36.1
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",AMERICA 36.1 (OPCION 2)
-https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina", TELEFE  34.1
-http://edge1.stg.cvattv.com.ar/live/live2/TelefeHD/SA_Live_fta/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/120px-Net_TV_logo.png" group-title="Argentina", NET TV  27.2
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="Argentina", Canal Encuentro
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="Argentina", Encuentro
-http://168.197.196.98:8000/play/a02a
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/150px-Logo_del_canal_Encuentro.svg.png" group-title="Argentina", Encuentro 22.1
-https://edge-live31-hr.cvattv.com.ar/live/c2live/Encuentro/SA_Live_dash_enc_2A/Encuentro.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="Infantil", Paka Paka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="Infantil", Pakapaka 22.1
-http://168.197.196.98:8000/play/a033
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="Infantil", Canal Pakapaka
-http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/245px-Paka-paka.svg.png" group-title="Infantil", Canal Pakapaka 22.1
-https://edge-live34-sl.cvattv.com.ar/live/c2live/PAKA_PAKA/SA_Live_dash_enc_2A/PAKA_PAKA.mpd
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/142-1427596_disney-channel-2018-on-screen-bugs-logo-disney.png" group-title="Infantil", DISNEY CHANNEL
-https://edge-live32-hr.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc_2A/DisneyChannelHD.mpd
-#EXTINF:-1 tvg-logo="https://git.io/JOTL6" group-title="Infantil", DISCOVERY KIDS
-https://edge-live12-hr.cvattv.com.ar/live/c2live/Discovery_Kids/SA_Live_dash_enc_2A/Discovery_Kids.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="Infantil", NICKELODEON
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc_2A/Nickelodeon.mpd
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/c0/07/45c007277fa928e6c11179540eec3d56.png" group-title="Infantil", Canal Panda
-http://94.61.44.29:7500/play/a037/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ultraverse/images/c/c8/Cartoon_Network_International_Logo.png/revision/latest?cb=20191111001338" group-title="Infantil", CARTOON NETWORK
-https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Infantil", DISNEY XD
-https://edge-live11-hr.cvattv.com.ar/live/live/DisneyXD/SA_Live_dash_enc_2A/DisneyXD.mpd
-#EXTINF:-1 tvg-logo="https://www.disneylapresspack.com/storage/posts/1556572921_image002.png" group-title="Infantil", DISNEY JUNIOR
-https://edge-live13-sl.cvattv.com.ar/live/live/DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
-#EXTINF:-1 tvg-logo="http://images.uncyclomedia.co/inciclopedia/es/5/5e/Natgeokids.png" group-title="Infantil", NATGEO KIDS
-https://edge-live34-hr.cvattv.com.ar/live/c2live/NatGeo_Kids/SA_Live_dash_enc_2A/NatGeo_Kids.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", NICK JR.
-https://edge-live34-hr.cvattv.com.ar/live/c2live/Nick_Jr/SA_Live_dash_enc_2A/Nick_Jr.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Infantil", BOOMERANG
-https://edge-live13-sl.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="Argentina", CINEAR  22.4
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_225affef1b924d43b4279fd196d296ae~mv2.png" group-title="Argentina", CINE.AR
-https://edge-live12-sl.cvattv.com.ar/live/c2live/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="Deportes", DEPOR TV 24.1
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/1200px-HispanTv_logo.svg.png" group-title="Internacional", HISPAN TV
-https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vydia.com/wp-content/uploads/brand-logo-vh1-white.png" group-title="Musica", VH1
-https://edge-live13-hr.cvattv.com.ar/live/live/VH1/SA_Live_dash_enc_2A/VH1.mpd
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1246468579622400000/2PZnQjrY_400x400.jpg" group-title="Internacional", CGTN ESPAÑOL
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80324_TV_Peru_Noticias.png" group-title="Perú", TV PERU NOTICIAS
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s303640/images/logog.png?t=151602" group-title="Internacional", FRANCE 24 ESPAÑOL - 24.3
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/log-iso-telesur.png_253617125.png" group-title="Internacional", TELESUR  25.4
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica", CM
-https://edge-live12-hr.cvattv.com.ar/live/c2live/CM/SA_Live_dash_enc_2A/CM.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/1200px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Colombia", CARACOL
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Logo_de_Se%C3%B1al_Colombia.png/1200px-Logo_de_Se%C3%B1al_Colombia.png" group-title="Colombia", SEÑAL COLOMBIA
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/l1zzq8S.png",Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1200px-Rai_News_24_-_Logo_2013.svg.png" group-title="Internacional", RAI NEWS
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1200/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/245px-Rai_3_-_Logo_2016.svg.png" group-title="Internacional", RAI 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w994803816.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" group-title="Internacional", RT  25.5
+#EXTINF:-1,DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,Canal 6 CDMX
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+#EXTINF:-1,Canal Once
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1,Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1,TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1,Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1,Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1,Canal 6 MTY
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,Canal 6 LAG
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1,Canal 6 GDL
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+#EXTINF:-1,Canal 6 PUE
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+#EXTINF:-1,Canal 6 GTO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+#EXTINF:-1,Canal 6 SAL
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+#EXTINF:-1,Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+#EXTINF:-1,Teleritmo
+http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1,Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1,Mexiquense Televisión
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,Jalisco TV
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1,Canal 28 NL
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1,Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1,SM 16.1
+https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1,TV Mas 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1,Sizart TV
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1,RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,RT (Español)
 https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Musica", QUIERO MÚSICA
-https://edge-live12-hr.cvattv.com.ar/live/c2live/Quiero_HD/SA_Live_dash_enc_2A/Quiero_HD.mpd
-#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="Musica", Quiero Musica mi idioma
-http://168.197.196.98:8000/play/a034
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/TV5-Monde-Info.png" group-title="Internacional", TV5 Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s900-c-k-c0x00ffffff-no-rj" tvg-group="Argentina", CRONICA
-https://edge-live13-hr.cvattv.com.ar/live/live/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Internacional", FOX NEWS
-https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="Internacional",Euronews
-https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="Internacional",Euronews (Opt-2)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="Internacional",Euronews (Opt-3)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="Internacional",Euronews (Opt-4)
-https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Internacional", Euronews (Opt-5)
-https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="Internacional", Euronews (Opt-6)
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="Internacional",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/120px-CNN_International_logo.svg.png" group-title="Internacional", CNN INTERNATIONAL
-https://edge-live31-hr.cvattv.com.ar/live/c2live/CNN_Internacional/SA_Live_dash_enc_2A/CNN_Internacional.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="Internacional",CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Internacional", CNN EN ESPAÑOL
-https://edge-live12-hr.cvattv.com.ar/live/c2live/CNN_en_Espanol/SA_Live_dash_enc_2A/CNN_en_Espanol.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Internacional", CNN
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELESUR/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Internacional", CNN EN ESPAÑOL
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CNNESPANOL/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tNxumYO.png" group-title="Chile",CNN Chile
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="Internacional", CNN
-http://live.cdn.comteco.com.bo/comgo/0301/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="Internacional",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="Internacional",France 24
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-logo="https://elgourmet.com/theme/assets/logo.png" group-title="Intervarios", EL GOURMET
-https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2014/01/13/54697E0F-8599-45F8-8DED-51FB09BD5AE3/58.jpg" group-title="Intervarios", HOLA TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/M%C3%A1s_Chic.svg/revision/latest/scale-to-width-down/200?cb=20200114222838&path-prefix=es" group-title="Intervarios", MAS CHIC
-https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-rural-tv.png" group-title="Argentina", RURAL TV
-https://cda2.streaming.ws/elrural/live/playlist.m3u8
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/iN1iXqN.png",Canal Capital
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="Internacional", CGTN
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 tvg-logo="http://admin.beta2.mytvnet.vn/upload/channel/65.png" group-title="Internacional" ,TV5MONDE
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="Internacional", DW ESPAÑOL
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://git.io/JOTLM" group-title="Internacional", DW ESPAÑOL
-https://cdn.cvattv.com.ar/live/c2live/DW/SA_Live_dash_enc_2A/DW.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/0/09/TV_Chile_2020.svg/revision/latest?cb=20210109041540&path-prefix=es" group-title="Chile", TV CHILE
-https://edge-live12-hr.cvattv.com.ar/live/c2live/Tv_Chile/SA_Live_dash_enc_2A/Tv_Chile.mpd
-#EXTINF:-1 tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="Internacional", TV5 MONDE
-https://edge-live34-sl.cvattv.com.ar/live/c2live/TV5_Monde/SA_Live_dash_enc_2A/TV5_Monde.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Antena3_Atresmedia.png" group-title="Internacional", ANTENA 3 INTERNACIONAL
-https://edge-live34-sl.cvattv.com.ar/live/c2live/Antena_3/SA_Live_dash_enc_2A/Antena_3.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlT9TyPbVEmRmTrv3cg-Ta5g_DDjs2N-F6Eg&usqp=CAU" group-title="Deportes", TyC SPORTS
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b12542_b5759506a6454328bad9a4a0ac404326~mv2.png" group-title="Deportes", TyC SPORTS
-https://edge4-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Am%C3%A9rica_Tucum%C3%A1n_Canal_28.1_%282019-1%29.png" group-title="Argentina", AMERICA TUCUMAN 
-http://45.6.4.154/americatuc/vivo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/133px-Telefe_Rosario_%282018%29.png" group-title="Argentina", TELEFE ROSARIO
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/68751849_2417740988510280_6351849029797675008_n.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=g1VMNkWs00wAX825oYP&tn=GEahjiTdOGKvj7uc&_nc_ht=scontent.flpb1-2.fna&oh=dce52a63e07bb624722c4153a6c92efc&oe=6182DDDF" group-title="Infantil", CANAL IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t1.6435-9/68751849_2417740988510280_6351849029797675008_n.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=g1VMNkWs00wAX825oYP&tn=GEahjiTdOGKvj7uc&_nc_ht=scontent.flpb1-2.fna&oh=dce52a63e07bb624722c4153a6c92efc&oe=6182DDDF" group-title="Infantil", CANAL IPE Opt-2
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1 tvg-logo="https://scontent.flpb1-1.fna.fbcdn.net/v/t1.6435-9/242906715_1526989057660066_4841047022390655655_n.png?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=bk-uNaF4jloAX-d6fRl&_nc_ht=scontent.flpb1-1.fna&oh=4bfe7278ba915baf0504253c7fdab476&oe=6183AFC0" group-title="Perú", USMP TV
-http://200.48.236.2:8080/live/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XwScc3i.png" group-title="USA",Rainbow Ruby
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/1200px-Logotipo_Color_2_NTV%28Chile%29.svg.png",NTV
+#EXTINF:-1,80s Hits
+http://45.179.140.242:8000/play/a0gb
+#EXTINF:-1,AE Mundo
+http://45.179.140.242:8000/play/a0ig
+#EXTINF:-1,AXN
+http://45.179.140.242:8000/play/a0j9
+#EXTINF:-1,Animal Planet
+http://45.179.140.242:8000/play/a0i9
+#EXTINF:-1,CNN Espanol
+http://45.179.140.242:8000/play/a0i6
+#EXTINF:-1,Canal Estrellas
+http://45.179.140.242:8000/play/a0ij
+#EXTINF:-1,Canal Uno TV Ecu
+http://45.179.140.242:8000/play/a0iz
+#EXTINF:-1,Cartoon Network
+http://45.179.140.242:8000/play/a0h7
+#EXTINF:-1,Cinemax
+http://45.179.140.242:8000/play/a0j7
+#EXTINF:-1,Claro Sports
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1,Discovery Channel
+http://45.179.140.242:8000/play/a0i8
+#EXTINF:-1,Discovery ID
+http://45.179.140.242:8000/play/a0jg
+#EXTINF:-1,Discovery Kids
+http://45.179.140.242:8000/play/a0i5
+#EXTINF:-1,Discovery Turbo
+http://45.179.140.242:8000/play/a0hi
+#EXTINF:-1,Disney Channel
+http://45.179.140.242:8000/play/a0i7
+#EXTINF:-1,Disney Jr
+http://45.179.140.242:8000/play/a0i3
+#EXTINF:-1,E Entertainment
+http://45.179.140.242:8000/play/a0gh
+#EXTINF:-1,Enlace
+http://45.179.140.242:8000/play/a0h9
+#EXTINF:-1,Esne TV
+http://45.179.140.242:8000/play/a0jd
+#EXTINF:-1,FX
+http://45.179.140.242:8000/play/a0jb
+#EXTINF:-1,FXM
+http://45.179.140.242:8000/play/a0hx
+#EXTINF:-1,France 24
+http://45.179.140.242:8000/play/a0jh
+#EXTINF:-1,GamaTV
+http://45.179.140.242:8000/play/a0jq
+#EXTINF:-1,HomeandHealth
+http://45.179.140.242:8000/play/a0jj
+#EXTINF:-1,MTV
+http://45.179.140.242:8000/play/a0h3
+#EXTINF:-1,Nat Geo
+http://45.179.140.242:8000/play/a0h2
+#EXTINF:-1,NatGeo Kids
+http://45.179.140.242:8000/play/a0h6
+#EXTINF:-1,Nick Jr
+http://45.179.140.242:8000/play/a0jc
+#EXTINF:-1,RCN Novelas
+http://45.179.140.242:8000/play/a0jf
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
+#EXTINF:-1,Space
+http://45.179.140.242:8000/play/a0ja
+#EXTINF:-1,TBS
+http://45.179.140.242:8000/play/a0ji
+#EXTINF:-1,TC Television
+http://45.179.140.242:8000/play/a0j0
+#EXTINF:-1,TLC
+http://45.179.140.242:8000/play/a0ii
+#EXTINF:-1,TVE
+http://45.179.140.242:8000/play/a0jr
+#EXTINF:-1,Teleamazonas
+http://45.179.140.242:8000/play/a0j4
+#EXTINF:-1,Telemundo
+http://45.179.140.242:8000/play/a0il
+#EXTINF:-1,Venus
+http://45.179.140.242:8000/play/a0ih
+#EXTINF:-1,Warner
+http://45.179.140.242:8000/play/a0ia
+#EXTINF:-1,24 Horas
+http://38.131.11.34:1080/play/a00m
+#EXTINF:-1,AE Mundo
+http://38.131.11.34:1080/play/a02q
+#EXTINF:-1,AXN
+http://38.131.11.34:1080/play/a01x
+#EXTINF:-1,Animal Planet
+http://38.131.11.34:1080/play/a02h
+#EXTINF:-1,CANAL 13
+http://38.131.11.34:1080/play/a07u
+#EXTINF:-1,CDF Basico
+http://38.131.11.34:1080/play/a02p
+#EXTINF:-1,CDF PREMIUM
+http://38.131.11.34:1080/play/a00b
+#EXTINF:-1,CHV
+http://38.131.11.34:1080/play/a008
+#EXTINF:-1,CNN Chile
+http://38.131.11.34:1080/play/a00z
+#EXTINF:-1,CNN Espanol
+http://38.131.11.34:1080/play/a004
+#EXTINF:-1,Canal de Las estrellas
+http://38.131.11.34:1080/play/a032
+#EXTINF:-1,Cartoon Network
+http://38.131.11.34:1080/play/a012
+#EXTINF:-1,Cinecanal
+http://38.131.11.34:1080/play/a00s
+#EXTINF:-1,Cinemax
+http://38.131.11.34:1080/play/a01v
+#EXTINF:-1,Discovery Channel
+http://38.131.11.34:1080/play/a02g
+#EXTINF:-1,Discovery ID
+http://38.131.11.34:1080/play/a01a
+#EXTINF:-1,Discovery Kids
+http://38.131.11.34:1080/play/a003
+#EXTINF:-1,Discovery Turbo
+http://38.131.11.34:1080/play/a027
+#EXTINF:-1,Disney Channel
+http://38.131.11.34:1080/play/a02f
+#EXTINF:-1,Disney Jr
+http://38.131.11.34:1080/play/a00k
+#EXTINF:-1,Disney XD
+http://38.131.11.34:1080/play/a00p
+#EXTINF:-1,E Entertainment
+http://38.131.11.34:1080/play/a02j
+#EXTINF:-1,ESPN
+http://38.131.11.34:1080/play/a02l
+#EXTINF:-1,ESPN 2
+http://38.131.11.34:1080/play/a02m
+#EXTINF:-1,ESPN 3
+http://38.131.11.34:1080/play/a029
+#EXTINF:-1,Enlace
+http://38.131.11.34:1080/play/a03f
+#EXTINF:-1,FOX P ACTION
+http://38.131.11.34:1080/play/a00f
+#EXTINF:-1,FOX P MOVIES
+http://38.131.11.34:1080/play/a00d
+#EXTINF:-1,FOX P SERIES E
+http://38.131.11.34:1080/play/a07l
+#EXTINF:-1,FX
+http://38.131.11.34:1080/play/a01z
+#EXTINF:-1,FX Movies
+http://38.131.11.34:1080/play/a00a
+#EXTINF:-1,Fox Life
+http://38.131.11.34:1080/play/a00y
+#EXTINF:-1,Fox Sports
+http://38.131.11.34:1080/play/a02k
+#EXTINF:-1,Fox Sports 2
+http://38.131.11.34:1080/play/a033
+#EXTINF:-1,Fox Sports 3
+http://38.131.11.34:1080/play/a034
+#EXTINF:-1,Fox Sports Premium
+http://38.131.11.34:1080/play/a00c
+#EXTINF:-1,HBO
+http://38.131.11.34:1080/play/a01u
+#EXTINF:-1,HBO 2
+http://38.131.11.34:1080/play/a00g
+#EXTINF:-1,HBO Family
+http://38.131.11.34:1080/play/a00j
+#EXTINF:-1,HBO Plus
+http://38.131.11.34:1080/play/a00h
+#EXTINF:-1,History Channel
+http://38.131.11.34:1080/play/a00r
+#EXTINF:-1,Home and Health
+http://38.131.11.34:1080/play/a01d
+#EXTINF:-1,I-Sat
+http://38.131.11.34:1080/play/a00v
+#EXTINF:-1,La Red
+http://38.131.11.34:1080/play/a005
+#EXTINF:-1,MTV
+http://38.131.11.34:1080/play/a00w
+#EXTINF:-1,Max Prime
+http://38.131.11.34:1080/play/a00i
+#EXTINF:-1,Mega
+http://38.131.11.34:1080/play/a007
+#EXTINF:-1,Nat Geo
+http://38.131.11.34:1080/play/a00q
+#EXTINF:-1,NatGeo Kids
+http://38.131.11.34:1080/play/a011
+#EXTINF:-1,Nick Jr
+http://38.131.11.34:1080/play/a026
+#EXTINF:-1,Nickelodeon
+http://38.131.11.34:1080/play/a00o
+#EXTINF:-1,RCN Novelas
+http://38.131.11.34:1080/play/a037
+#EXTINF:-1,STAR CHANNEL
+http://38.131.11.34:1080/play/a07m
+#EXTINF:-1,Sony
+http://38.131.11.34:1080/play/a01w
+#EXTINF:-1,Space
+http://38.131.11.34:1080/play/a01y
+#EXTINF:-1,TBS
+http://38.131.11.34:1080/play/a038
+#EXTINF:-1,TCM
+http://38.131.11.34:1080/play/a010
+#EXTINF:-1,TNT
+http://38.131.11.34:1080/play/a013
+#EXTINF:-1,TV+
+http://38.131.11.34:1080/play/a044
+#EXTINF:-1,TV+ HD
+http://38.131.11.34:1080/play/a051
+#EXTINF:-1,TVE
+http://38.131.11.34:1080/play/a03g
+#EXTINF:-1,TVEDUCA
 http://38.131.11.34:1080/play/a07k
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_NTV.svg/1200px-Logo_NTV.svg.png",NTV Opt-2
-http://190.151.12.26:8000/play/a03l
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://scontent.flpb1-2.fna.fbcdn.net/v/t39.30808-6/235403073_182188467309761_7194143127233639174_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=IAujiybg8o4AX80Eiqz&_nc_ht=scontent.flpb1-2.fna&oh=bc3c42bc380b3a7b010624301563f51d&oe=61638255",NTV Opt-3
-http://190.151.12.26:8000/play/a00o
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://estaticos.tvn.cl/skins/web-assets/images/ntv/LOGO-BANNER-INFANCIA.png",NTV Opt-4
-http://181.163.81.40:8000/play/a06j/index.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/NTV_Chile_2021_primera_infancia.svg/revision/latest?cb=20210812144016&path-prefix=es",NTV Opt-5
-http://138.36.253.12:8009/play/a01b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/917f67c1114c976386292333e1dd00e6.png" group-title="Infantil", ANIMAX
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/uGwFXeM.png",Educa TV
-https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0puBqJ2.png" group-title="USA",Yo Gabba Gabba!
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.carolina.cl/_templates/globals/img/carolina-tv-logo.png" group-title="Musica", CAROLINA TV
-https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="Religion", ORBE 21  21.2
-https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/logo.png" group-title="Religion", UNIFE TV  25.1
-https://dcunilive262-lh.akamaihd.net/i/dclive_1@424583/index_150_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-luz_m.jpg" group-title="Religion", CANAL LUZ
-https://edge-live11-sl.cvattv.com.ar/live/live/CANAL_LUZ/SA_Live_dash_enc_2A/CANAL_LUZ.mpd
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/Mh2-ei2dzWJqMJBRMXqs9w/featured_channel.jpg?v=5d6e901d" group-title="Religion", ORBE 21
-https://edge-live31-hr.cvattv.com.ar/live/c2live/Canal_21/SA_Live_dash_enc_2A/Canal_21.mpd
-#EXTINF:-1 tvg-logo="https://dz92jh1unkapm.cloudfront.net/accounts/5cf95117cb97cae8e2c36676/favicon.png" group-title="Religion", UNIFE TV
-https://latamstreaming-live-os.akamaized.net/live_passthrough_static/unifearg1_ar_only/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Religion", 3ABN Latino
-https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0qwmBEm.png" group-title="Religion", Aliento Vision
-http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gm4fs9W.png" group-title="Religion",CBN Español
-https://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KlJnXF3.jpg" group-title="Religion",CDM International
-https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/gallery/image/5272-ewtn-2016/?do=download" group-title="Religion", EWTN
-https://edge-live34-hr.cvattv.com.ar/live/c2live/EWTN/SA_Live_dash_enc_2A/EWTN.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BNtmf7o.png" group-title="Religion",Comunion TV 
-http://50.30.37.36:1935/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="Internacional" tvg-logo="http://vthanh.live/ic/216.png", France 24
-http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_old_900.m3u8
-#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="http://vthanh.live/ic/218.png", NHK World
-https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 tvg-id="" group-title="Internacional" tvg-logo="http://vthanh.live/ic/219.png", TV5Monde
-https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3wG4o4X.png" group-title="USA",Pocket Watch
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia",*RCN
-https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Colombia",*, *Canal RCN
-https://qlobbidev.s.llnwi.net/bpk-tv/RCN/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Argentina", Telefe 11.1
-http://168.197.196.98:8000/play/a03k
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="Infantil", Disney Channel
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/170px-Disney_Junior_logo.png" group-title="Infantil",*Disney Junior
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="Infantil", NatGeo Kids
-https://qlobbidev.s.llnwi.net/bpk-tv/NATGEOKIDS/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantil", Disney XD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/index.m3u8
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://i.imgur.com/RAiUxSx.png",Rec OnLine
-https://master.tucableip.com/reconline/live/video.m3u8
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="Deportes", EVENTOS TIGO SPORTS 1
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="Deportes", EVENTOS TIGO SPORTS 2
-https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
-#EXTINF:-1 tvg-logo="https://www.elperiodico-digital.com/wp-content/uploads/2020/02/eventosPost2-scaled-min.jpg" group-title="Deportes", EVENTOS TIGO SPORTS 3
-https://d1pox267xtn5kq.cloudfront.net/out/v1/4270f13bab1547b39f44e52e867abcfa/index_6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN
-http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Chile", La Red
-https://unlimited1-cl-movistar.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sL057W6.png" group-title="Chile", Cámara De Diputados
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Chile", Canal 21  Chillan
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i1wxNqd.png" group-title="Chile", TVR
-https://unlimited1-cl-movistar.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMzfi10.png" group-title="Chile", Campo Abierto TV Huechuraba
-https://v2.tustreaming.cl/campoabierto/live1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31
-https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OFLWkjb.png" group-title="Chile", Antofagasta TV
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kMzBkKg.png" group-title="Chile", Natural TV
-https://srv1.zcast.com.br/miguel/miguel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPA11ts.png" group-title="Chile", Holvoet TV
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PSDKboh.png" group-title="Chile", TV Salud
-https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/62DM1qo.png" group-title="Chile", Thema TV La Serena
-https://unlimited2-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/Vpb5j5X.jpg",Tec TV Temuco
-http://evo.eltelon.com:1935/live/tec-tv/playlist.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/Vpb5j5X.jpg",Tec TV Temuco Opt-2
-http://190.107.176.55:1935/live/tec-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="Chile", Canal VTV
-http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/hoYBepx.png",Canal TV5 Linares
-https://unlimited10-cl.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vcWDMBo.jpg" group-title="Chile", Canal 2 San Antonio
-http://unlimited1-cl.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J5RzXtn.png" group-title="Chile", Campus TV
-https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GdVsiaO.png" group-title="Chile", TVU Concepción
-http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpnkBzN.png" group-title="Chile", UATV Temuco
-https://unlimited1-cl.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TE7bduN.png" group-title="Chile", ITV Patagonia Punta Arenas
-http://unlimited1-cl.dps.live/itv/itv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="Internacional", CABLE NOTICIAS
-https://qlobbidev.s.llnwi.net/bpk-tv/CABLENOTICIAS/hls/CABLENOTICIAS-audio_132113_spa=128000-video=1900000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logotipo_del_Canal_24_Horas.png/1280px-Logotipo_del_Canal_24_Horas.png" group-title="Internacional", CANAL 24H
-https://rtvelivestreamv3.akamaized.net/24h_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSFmJD0JllhnsMDvAAh3lVsXmehY_9rY8ZYgO9PJA=s900-c-k-c0x00ffffff-no-rj" group-title="Internacional", EL TRECE
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ELTRECE/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica", MTV 00S
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/VH1/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTp2xotD_O3U25klqBdcON1UX2ysytysUZBtWZ_=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", AMERICA SPORTS
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/AMERICASPORTS/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.france24.com/meta_og_twcards/jsonld_publisher.png" group-title="Internacional", FRANCE 24
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/FRANCE24/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTJUiShlC8W7HXZsAFXTDCNEKvFSMH139voK9dn=s900-c-k-c0x00ffffff-no-rj" group-title="Internacional", DW
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DW/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="Internacional", NHK WORLD JAPAN
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NHK/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png" group-title="Infantil", DISNEY JUNIOR
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217905122446983168/0lrHmU9E_400x400.jpg" group-title="Infantil", DISNEY XD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYXD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/03/Enlace-Juvenil-TV-en-vivo-Online.png" group-title="Musica", EJTV
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EJTV/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9jkppMcsHpk/YG4eEGNPyII/AAAAAAAAQK0/X7CvjU1UbL0URQbi2ny2Iq0gq7zx9qFQgCLcBGAsYHQ/s400/166986594_4144847278860731_3210902760820712213_n.png" group-title="Infantil", DISCOVERY KIDS
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISCOVERYKIDSHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/1QJpYkVJcEdAAowMCbriMAf1_cAdOU19PA9z77-3ld6js4aI1FpdIaeMHRtwkVB6nlQ" group-title="Internacional", YTN
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/CCTV/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://3abn.org/img/logos/tv/3ABN.png" group-title="Deportes", 3ABN
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/3ABN/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantil", DISNEY XD
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYXD/hls/DISNEYXD-audio_129324_und=128000-video=2900000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="Infantil", DISNEY CHANNEL
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYCHANNEL/hls/DISNEYCHANNEL-audio_128052_und=128000-video=2900000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="Infantil", DISNEY JUNIOR
-https://qlobbidev.s.llnwi.net/bpk-tv/DISNEYJUNIOR/hls/DISNEYJUNIOR-audio_129224_spa=128000-video=2900000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/3f/Rede_Globo_logo.svg.png/revision/latest?cb=20200614184524&path-prefix=es" group-title="Internacional", TV GLOBO
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVGLOBO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Infantil", NICK
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKELODEONHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="Infantil", NICK JR
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/NICKJRHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="Argentina", TELEFE
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TELEFEHD/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tinaeventplanner.com/wp-content/uploads/2021/03/congreso.jpg" group-title="Bolivia", EVENTOS
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/EVENTOSDIGITAL1/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://media.giphy.com/avatars/enlacetv/NnYoApYZygiP.jpg" group-title="Religion", ENLACE
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ENLACETBN/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvcable/images/0/09/TV_Chile_2020.svg/revision/latest?cb=20210109041540&path-prefix=es" group-title="Chile", TV CHILE
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/TVNCHILE/__op/hls-default/__f/index.m3u8
+#EXTINF:-1,TVN
+http://38.131.11.34:1080/play/a006
+#EXTINF:-1,Telemundo
+http://38.131.11.34:1080/play/a035
+#EXTINF:-1,Travel and Living
+http://38.131.11.34:1080/play/a030
+#EXTINF:-1,Universal
+http://38.131.11.34:1080/play/a00t
+#EXTINF:-1,ViaX
+http://38.131.11.34:1080/play/a031
+#EXTINF:-1,Warner
+http://38.131.11.34:1080/play/a05i
+#EXTINF:-1,Zona Latina
+http://38.131.11.34:1080/play/a00x
+#EXTINF:-1,PREM HD: STARZ ENCORE ACTION
+http://odenfull.co:2086/142536/142536/108639
+#EXTINF:-1,PREM HD: STARZ ENCORE WESTERN
+http://odenfull.co:2086/142536/142536/108645
+#EXTINF:-1,PREM HD: STARZ ENCORE EAST
+http://odenfull.co:2086/142536/142536/108652
+#EXTINF:-1,PREM HD: STARZ ENCORE CINEMA
+http://odenfull.co:2086/142536/142536/108653
+#EXTINF:-1,PREM HD: STARZ ENCORE COMEDY
+http://odenfull.co:2086/142536/142536/108654
+#EXTINF:-1,PREM HD: STARZ ENCORE FAMILY
+http://odenfull.co:2086/142536/142536/108655
+#EXTINF:-1,PREM HD: STARZ ENCORE CLASSIC
+http://odenfull.co:2086/142536/142536/108657
+#EXTINF:-1,PREM SD: HBO
+http://odenfull.co:2086/142536/142536/108658
+#EXTINF:-1,PREM HD: HBO
+http://odenfull.co:2086/142536/142536/108659
+#EXTINF:-1,PREM SD: HBO EAST
+http://odenfull.co:2086/142536/142536/108661
+#EXTINF:-1,PREM HD: HBO EAST
+http://odenfull.co:2086/142536/142536/108663
+#EXTINF:-1,PREM SD: HBO WEST
+http://odenfull.co:2086/142536/142536/108685
+#EXTINF:-1,PREM SD: HBO FAMILY
+http://odenfull.co:2086/142536/142536/108692
+#EXTINF:-1,PREM HD: HBO FAMILY
+http://odenfull.co:2086/142536/142536/108694
+#EXTINF:-1,PREM SD: HBO 2
+http://odenfull.co:2086/142536/142536/108696
+#EXTINF:-1,PREM HD: HBO 2
+http://odenfull.co:2086/142536/142536/108697
+#EXTINF:-1,PREM SD: HBO 2 WEST
+http://odenfull.co:2086/142536/142536/108698
+#EXTINF:-1,PREM HD: HBO 2 EAST
+http://odenfull.co:2086/142536/142536/108704
+#EXTINF:-1,PREM HD: HBO +
+http://odenfull.co:2086/142536/142536/108707
+#EXTINF:-1,PREM SD: HBO +
+http://odenfull.co:2086/142536/142536/108708
+#EXTINF:-1,PREM SD: HBO SIGNATURE
+http://odenfull.co:2086/142536/142536/108709
+#EXTINF:-1,PREM HD: HBO SIGNATURE
+http://odenfull.co:2086/142536/142536/108710
+#EXTINF:-1,PREM SD: HBO POP
+http://odenfull.co:2086/142536/142536/108711
+#EXTINF:-1,PREM HD: HBO POP
+http://odenfull.co:2086/142536/142536/108712
+#EXTINF:-1,PREM SD: HBO XTREME
+http://odenfull.co:2086/142536/142536/108713
+#EXTINF:-1,PREM HD: HBO XTREME
+http://odenfull.co:2086/142536/142536/108715
+#EXTINF:-1,PREM SD: HBO MUNDI
+http://odenfull.co:2086/142536/142536/108719
+#EXTINF:-1,PREM HD: HBO MUNDI
+http://odenfull.co:2086/142536/142536/108721
+#EXTINF:-1,PREM SD: STAR LIFE
+http://odenfull.co:2086/142536/142536/108729
+#EXTINF:-1,PREM HD: STAR LIFE
+http://odenfull.co:2086/142536/142536/108732
+#EXTINF:-1,PREM SD: STAR  CHANNEL
+http://odenfull.co:2086/142536/142536/108734
+#EXTINF:-1,PREM HD: STAR CHANNEL
+http://odenfull.co:2086/142536/142536/108735
+#EXTINF:-1,PREM SD: STAR ACTION
+http://odenfull.co:2086/142536/142536/108737
+#EXTINF:-1,PREM HD: STAR ACTION
+http://odenfull.co:2086/142536/142536/108742
+#EXTINF:-1,PREM SD: STAR HITS
+http://odenfull.co:2086/142536/142536/108750
+#EXTINF:-1,PREM HD: STAR HITS
+http://odenfull.co:2086/142536/142536/108751
+#EXTINF:-1,PREM SD: STAR FAMILY
+http://odenfull.co:2086/142536/142536/108752
+#EXTINF:-1,PREM HD: STAR FAMILY
+http://odenfull.co:2086/142536/142536/108753
+#EXTINF:-1,PREM SD: STAR COMEDY
+http://odenfull.co:2086/142536/142536/108754
+#EXTINF:-1,PREM HD: STAR COMEDY
+http://odenfull.co:2086/142536/142536/108755
+#EXTINF:-1,PREM SD: STAR CINEMA
+http://odenfull.co:2086/142536/142536/108756
+#EXTINF:-1,PREM HD: STAR CINEMA
+http://odenfull.co:2086/142536/142536/108757
+#EXTINF:-1,PREM HD: STAR CLASSICS
+http://odenfull.co:2086/142536/142536/108759
+#EXTINF:-1,PREM SD: STAR SERIES
+http://odenfull.co:2086/142536/142536/108760
+#EXTINF:-1,PREM HD: STAR SERIES
+http://odenfull.co:2086/142536/142536/108761
+#EXTINF:-1,PREM SD: FX
+http://odenfull.co:2086/142536/142536/108765
+#EXTINF:-1,PREM HD : FX
+http://odenfull.co:2086/142536/142536/108766
+#EXTINF:-1,PREM SD: FXM
+http://odenfull.co:2086/142536/142536/108767
+#EXTINF:-1,PREM HD: FXM
+http://odenfull.co:2086/142536/142536/108768
+#EXTINF:-1,PREM SD: CINECANAL EAST
+http://odenfull.co:2086/142536/142536/108772
+#EXTINF:-1,PREM HD: CINECANAL EAST
+http://odenfull.co:2086/142536/142536/108775
+#EXTINF:-1,PREM SD: CINECANAL WEST
+http://odenfull.co:2086/142536/142536/108776
+#EXTINF:-1,PREM HD: CINECANAL WEST
+http://odenfull.co:2086/142536/142536/108777
+#EXTINF:-1,PREM HD: CINEMAX EAST
+http://odenfull.co:2086/142536/142536/108779
+#EXTINF:-1,PREM SD: CINEMAX WEST
+http://odenfull.co:2086/142536/142536/108780
+#EXTINF:-1,PREM SD: GOLDEN
+http://odenfull.co:2086/142536/142536/108789
+#EXTINF:-1,PREM HD: GOLDEN PLUS
+http://odenfull.co:2086/142536/142536/108795
+#EXTINF:-1,PREM SD: GOLDEN EDGE
+http://odenfull.co:2086/142536/142536/108798
+#EXTINF:-1,PREM HD: GOLDEN EDGE
+http://odenfull.co:2086/142536/142536/108799
+#EXTINF:-1,PREM SD: GOLDEN PREMIER 1
+http://odenfull.co:2086/142536/142536/108802
+#EXTINF:-1,PREM HD: GOLDEN PREMIER 2
+http://odenfull.co:2086/142536/142536/108805
+#EXTINF:-1,PREM SD: TNT
+http://odenfull.co:2086/142536/142536/108807
+#EXTINF:-1,PREM HD: TNT
+http://odenfull.co:2086/142536/142536/108808
+#EXTINF:-1,PREM SD: TNT SERIES
+http://odenfull.co:2086/142536/142536/108829
+#EXTINF:-1,PREM HD: TNT SERIES
+http://odenfull.co:2086/142536/142536/108830
+#EXTINF:-1,PREM HD: SPACE WEST
+http://odenfull.co:2086/142536/142536/108832
+#EXTINF:-1,PREM HD: SPACE EAST
+http://odenfull.co:2086/142536/142536/108837
+#EXTINF:-1,PREM SD: WARNER
+http://odenfull.co:2086/142536/142536/109059
+#EXTINF:-1,PREM HD: WARNER
+http://odenfull.co:2086/142536/142536/109060
+#EXTINF:-1,PREM SD: UNIVERSAL CHANNEL
+http://odenfull.co:2086/142536/142536/109063
+#EXTINF:-1,PREM HD: UNIVERSAL CHANNEL
+http://odenfull.co:2086/142536/142536/109069
+#EXTINF:-1,PREM SD: STUDIO UNIVERSAL
+http://odenfull.co:2086/142536/142536/109070
+#EXTINF:-1,PREM HD: STUDIO UNIVERSAL
+http://odenfull.co:2086/142536/142536/109071
+#EXTINF:-1,PREM SD: PARAMOUNT NETWORK 1
+http://odenfull.co:2086/142536/142536/109072
+#EXTINF:-1,PREM HD: PARAMOUNT NETWORK 1
+http://odenfull.co:2086/142536/142536/109073
+#EXTINF:-1,PREM SD: PARAMOUNT NETWORK 2
+http://odenfull.co:2086/142536/142536/109074
+#EXTINF:-1,PREM HD: PARAMOUNT NETWORK 2
+http://odenfull.co:2086/142536/142536/109075
+#EXTINF:-1,PREM SD: SONY CHANNEL 1
+http://odenfull.co:2086/142536/142536/109076
+#EXTINF:-1,PREM SD: SONY CHANNEL 2
+http://odenfull.co:2086/142536/142536/109078
+#EXTINF:-1,PREM HD: SONY CHANNEL 2
+http://odenfull.co:2086/142536/142536/109079
+#EXTINF:-1,PREM SD: SYFY
+http://odenfull.co:2086/142536/142536/109208
+#EXTINF:-1,PREM HD: SYFY
+http://odenfull.co:2086/142536/142536/109209
+#EXTINF:-1,PREM SD: AXN
+http://odenfull.co:2086/142536/142536/109212
+#EXTINF:-1,PREM HD: AXN
+http://odenfull.co:2086/142536/142536/109213
+#EXTINF:-1,PREM HD: AMC EAST
+http://odenfull.co:2086/142536/142536/109219
+#EXTINF:-1,PREM SD: AMC WEST
+http://odenfull.co:2086/142536/142536/109220
+#EXTINF:-1,PREM HD: AMC WEST
+http://odenfull.co:2086/142536/142536/109221
+#EXTINF:-1,PREM SD: DHE
+http://odenfull.co:2086/142536/142536/109425
+#EXTINF:-1,PREM HD: DHE
+http://odenfull.co:2086/142536/142536/109426
+#EXTINF:-1,PREM SD: TCM
+http://odenfull.co:2086/142536/142536/109427
+#EXTINF:-1,PREM HD: TCM
+http://odenfull.co:2086/142536/142536/109428
+#EXTINF:-1,PREM SD: ISAT
+http://odenfull.co:2086/142536/142536/109429
+#EXTINF:-1,PREM HD: ISAT
+http://odenfull.co:2086/142536/142536/109430
+#EXTINF:-1,PREM SD: CINELATINO
+http://odenfull.co:2086/142536/142536/109431
+#EXTINF:-1,PREM SD: DE PEL\u00cdCULA
+http://odenfull.co:2086/142536/142536/109432
+#EXTINF:-1,PREM SD: DE PEL\u00cdCULAS CLASICO
+http://odenfull.co:2086/142536/142536/109433
+#EXTINF:-1,PREM SD: DE PEL\u00cdCULA PLUS
+http://odenfull.co:2086/142536/142536/109434
+#EXTINF:-1,PREM HD: STARZ  ENCORE SUSPENSO
+http://odenfull.co:2086/142536/142536/114209
+#EXTINF:-1,PREM SD: CINE DINAMITA
+http://odenfull.co:2086/142536/142536/121584
+#EXTINF:-1,OUTERMAX
+http://odenfull.co:2086/142536/142536/121596
+#EXTINF:-1,MOREMAX
+http://odenfull.co:2086/142536/142536/121597
+#EXTINF:-1,PREM HD: ACTIONMAX
+http://odenfull.co:2086/142536/142536/121598
+#EXTINF:-1,PREM HD: CINEMAX (OPC 1)
+http://odenfull.co:2086/142536/142536/134191
+#EXTINF:-1,PREM HD: CINEMAX (OPC 2)
+http://odenfull.co:2086/142536/142536/134192
+#EXTINF:-1,PREM HD: VIP ESTRENOS 2021
+http://odenfull.co:2086/142536/142536/186092
+#EXTINF:-1,LAT SD: A&E
+http://odenfull.co:2086/142536/142536/1127
+#EXTINF:-1,LAT HD: A&E
+http://odenfull.co:2086/142536/142536/1303
+#EXTINF:-1,LAT SD: Europa Europa
+http://odenfull.co:2086/142536/142536/1362
+#EXTINF:-1,LAT SD: Film & Arts
+http://odenfull.co:2086/142536/142536/1363
+#EXTINF:-1,LAT SD: GLITZ
+http://odenfull.co:2086/142536/142536/1383
+#EXTINF:-1,LAT HD: HOLA TV
+http://odenfull.co:2086/142536/142536/1389
+#EXTINF:-1,LAT HD:UNICABLE
+http://odenfull.co:2086/142536/142536/1442
+#EXTINF:-1,LAT HD:TRU TV
+http://odenfull.co:2086/142536/142536/2594
+#EXTINF:-1,LAT SD: BH TV
+http://odenfull.co:2086/142536/142536/3277
+#EXTINF:-1,LAT SD: HOLA TV
+http://odenfull.co:2086/142536/142536/3586
+#EXTINF:-1,LATHD: LIFETIME
+http://odenfull.co:2086/142536/142536/3587
+#EXTINF:-1,ENTRE: WAPA AMERICA
+http://odenfull.co:2086/142536/142536/5541
+#EXTINF:-1,LAT SD:TRU TV
+http://odenfull.co:2086/142536/142536/16303
+#EXTINF:-1,LAT SD:UNICABLE
+http://odenfull.co:2086/142536/142536/24584
+#EXTINF:-1,ENTRE: E! ENTERTAIMENT TV
+http://odenfull.co:2086/142536/142536/31610
+#EXTINF:-1,HD:WOBI
+http://odenfull.co:2086/142536/142536/37293
+#EXTINF:-1,ENTRET: RTP
+http://odenfull.co:2086/142536/142536/45296
+#EXTINF:-1,ENTRET: TF1
+http://odenfull.co:2086/142536/142536/58071
+#EXTINF:-1,ENTRET: RETE 4
+http://odenfull.co:2086/142536/142536/58072
+#EXTINF:-1,EL GOURMET LATINO
+http://odenfull.co:2086/142536/142536/133001
+#EXTINF:-1,ENTERTAIMENT HD 03
+http://odenfull.co:2086/142536/142536/134232
+#EXTINF:-1,ENTRE: FASHION & LIFESTYLE
+http://odenfull.co:2086/142536/142536/145920
+#EXTINF:-1,MAS CHIC
+http://odenfull.co:2086/142536/142536/188714
+#EXTINF:-1,TELENOVELAS
+http://odenfull.co:2086/142536/142536/31666
+#EXTINF:-1,KIDS: LOCOMOTION
+http://odenfull.co:2086/142536/142536/58035
+#EXTINF:-1,KIDS HD : PLAY KIDS
+http://odenfull.co:2086/142536/142536/58036
+#EXTINF:-1,KIDS SD : HEY KIDS
+http://odenfull.co:2086/142536/142536/58037
+#EXTINF:-1,KIDS HD: KIDS tv
+http://odenfull.co:2086/142536/142536/58038
+#EXTINF:-1,KIDS SD: SAGAS INFANTILES
+http://odenfull.co:2086/142536/142536/58039
+#EXTINF:-1,KIDS HD: CINEMA DISNEY pixar
+http://odenfull.co:2086/142536/142536/58042
+#EXTINF:-1,KIDS HD: CINEMA DISNEY
+http://odenfull.co:2086/142536/142536/58043
+#EXTINF:-1, KIDS SD : CARTOON NETWORK
+http://odenfull.co:2086/142536/142536/58046
+#EXTINF:-1,KIDS HD : CARTOON NETWORK
+http://odenfull.co:2086/142536/142536/58047
+#EXTINF:-1,KIDS SD : DISNEY CHANNEL
+http://odenfull.co:2086/142536/142536/58050
+#EXTINF:-1,KIDS HD : DISNEY CHANNEL
+http://odenfull.co:2086/142536/142536/58051
+#EXTINF:-1,KIDS SD : DISNEY XD
+http://odenfull.co:2086/142536/142536/58052
+#EXTINF:-1,KIDS HD : DISNEY XD
+http://odenfull.co:2086/142536/142536/58053
+#EXTINF:-1,KIDS HD : BOOMERANG
+http://odenfull.co:2086/142536/142536/58054
+#EXTINF:-1,KIDS HD : DISNEY JUNIOR
+http://odenfull.co:2086/142536/142536/58055
+#EXTINF:-1,KIDS HD : DISCOVERY KIDS
+http://odenfull.co:2086/142536/142536/58056
+#EXTINF:-1,KIDS SD : DISCOVERY KIDS
+http://odenfull.co:2086/142536/142536/58057
+#EXTINF:-1,KIDS SD : BOOMERANG
+http://odenfull.co:2086/142536/142536/58058
+#EXTINF:-1,KIDS HD : BOOMERANG
+http://odenfull.co:2086/142536/142536/58059
+#EXTINF:-1,KIDS SD : NICKELODEON
+http://odenfull.co:2086/142536/142536/58060
+#EXTINF:-1,KIDS HD : NICKELODEON
+http://odenfull.co:2086/142536/142536/58062
+#EXTINF:-1,KIDS SD : NICK
+http://odenfull.co:2086/142536/142536/58063
+#EXTINF:-1,KIDS HD : NICK
+http://odenfull.co:2086/142536/142536/58065
+#EXTINF:-1,KIDS SD: NICK JR
+http://odenfull.co:2086/142536/142536/58066
+#EXTINF:-1, KIDS HD : NICK JR
+http://odenfull.co:2086/142536/142536/58067
+#EXTINF:-1,KIDS SD: BABY TV
+http://odenfull.co:2086/142536/142536/58068
+#EXTINF:-1,KIDS HD :BABY TV
+http://odenfull.co:2086/142536/142536/91827
+#EXTINF:-1,KIDS HD: BABY FIRST
+http://odenfull.co:2086/142536/142536/91828
+#EXTINF:-1,KIDS SD: TOONCAST
+http://odenfull.co:2086/142536/142536/91831
+#EXTINF:-1,KIDS HD: TOONCAST
+http://odenfull.co:2086/142536/142536/121591
+#EXTINF:-1,KIDS SD : NAT GEO KIDS
+http://odenfull.co:2086/142536/142536/125969
+#EXTINF:-1,KIDS HD : NAT GEO KIDS
+http://odenfull.co:2086/142536/142536/190658
+#EXTINF:-1,WIN SPORTS + 5MG
+http://odenfull.co:2086/142536/142536/134308
+#EXTINF:-1,A&E
+http://odenfull.co:2086/142536/142536/31563
+#EXTINF:-1,ANTENA3
+http://odenfull.co:2086/142536/142536/31566
+#EXTINF:-1,AXN
+http://odenfull.co:2086/142536/142536/31567
+#EXTINF:-1,AZTECA CORAZON
+http://odenfull.co:2086/142536/142536/31569
+#EXTINF:-1,AZTECA CINEMA
+http://odenfull.co:2086/142536/142536/31570
+#EXTINF:-1,AZTECA CLICK
+http://odenfull.co:2086/142536/142536/31571
+#EXTINF:-1,AZTECA CINEMA
+http://odenfull.co:2086/142536/142536/31574
+#EXTINF:-1,BOOMERANG
+http://odenfull.co:2086/142536/142536/31581
+#EXTINF:-1,:CINECANAL
+http://odenfull.co:2086/142536/142536/31593
+#EXTINF:-1,:COMEDY CENTRAL
+http://odenfull.co:2086/142536/142536/31596
+#EXTINF:-1,:DE PELICULA
+http://odenfull.co:2086/142536/142536/31597
+#EXTINF:-1,:DISCOVERY ID
+http://odenfull.co:2086/142536/142536/31600
+#EXTINF:-1,:DISCOVERY SCI
+http://odenfull.co:2086/142536/142536/31602
+#EXTINF:-1,:DISCOVERY TURBO
+http://odenfull.co:2086/142536/142536/31604
+#EXTINF:-1,:DISCOVERY WORLD
+http://odenfull.co:2086/142536/142536/31605
+#EXTINF:-1,:FOOD NETWORK
+http://odenfull.co:2086/142536/142536/31614
+#EXTINF:-1,STAR CHANNEL MX
+http://odenfull.co:2086/142536/142536/31616
+#EXTINF:-1,STAR CHANNEL ARG
+http://odenfull.co:2086/142536/142536/31618
+#EXTINF:-1,FOX LIFE
+http://odenfull.co:2086/142536/142536/31621
+#EXTINF:-1,:GOLDEN EDGE
+http://odenfull.co:2086/142536/142536/31627
+#EXTINF:-1,GOLDEN PLUS
+http://odenfull.co:2086/142536/142536/31628
+#EXTINF:-1,:GOLF CH
+http://odenfull.co:2086/142536/142536/31629
+#EXTINF:-1,:HOLA TV
+http://odenfull.co:2086/142536/142536/31632
+#EXTINF:-1,:i CLASSIC
+http://odenfull.co:2086/142536/142536/31633
+#EXTINF:-1,:I SAT
+http://odenfull.co:2086/142536/142536/31634
+#EXTINF:-1,:MTV LIVE
+http://odenfull.co:2086/142536/142536/31641
+#EXTINF:-1,:NAT GEO
+http://odenfull.co:2086/142536/142536/31644
+#EXTINF:-1,:NICK 2
+http://odenfull.co:2086/142536/142536/31648
+#EXTINF:-1,NTN24
+http://odenfull.co:2086/142536/142536/31651
+#EXTINF:-1,:a+
+http://odenfull.co:2086/142536/142536/31653
+#EXTINF:-1,:TELEHIT URBANO
+http://odenfull.co:2086/142536/142536/31654
+#EXTINF:-1,:SONY
+http://odenfull.co:2086/142536/142536/31657
+#EXTINF:-1,STAR TVE
+http://odenfull.co:2086/142536/142536/31659
+#EXTINF:-1,:STUDIO UNIVERSAL
+http://odenfull.co:2086/142536/142536/31660
+#EXTINF:-1,:SYFY
+http://odenfull.co:2086/142536/142536/31662
+#EXTINF:-1,TBS
+http://odenfull.co:2086/142536/142536/31663
+#EXTINF:-1,TCM
+http://odenfull.co:2086/142536/142536/31664
+#EXTINF:-1,CANAL 4
+http://odenfull.co:2086/142536/142536/31585
+#EXTINF:-1,CANAL 5
+http://odenfull.co:2086/142536/142536/31586
+#EXTINF:-1,CANAL 8
+http://odenfull.co:2086/142536/142536/31588
+#EXTINF:-1,:CANAL JUDICIAL
+http://odenfull.co:2086/142536/142536/31590
+#EXTINF:-1,:CARTOON NETWORK
+http://odenfull.co:2086/142536/142536/31592
+#EXTINF:-1,:DISCOVERY KIDS
+http://odenfull.co:2086/142536/142536/31601
+#EXTINF:-1,:DISNEY XD
+http://odenfull.co:2086/142536/142536/31608
+#EXTINF:-1,:DW
+http://odenfull.co:2086/142536/142536/31609
+#EXTINF:-1,:HLN
+http://odenfull.co:2086/142536/142536/31631
+#EXTINF:-1,:MAS CHIC
+http://odenfull.co:2086/142536/142536/31639
+#EXTINF:-1,:MEXIQUICE
+http://odenfull.co:2086/142536/142536/31640
+#EXTINF:-1,:MULTIMEDIOS
+http://odenfull.co:2086/142536/142536/31642
+#EXTINF:-1,:MULTIMEDIOS P.
+http://odenfull.co:2086/142536/142536/31643
+#EXTINF:-1,:NAT GEO KIDS
+http://odenfull.co:2086/142536/142536/31645
+#EXTINF:-1,:NICK
+http://odenfull.co:2086/142536/142536/31647
+#EXTINF:-1,:NICKTOONS
+http://odenfull.co:2086/142536/142536/31650
+#EXTINF:-1,MUSIC: MTV Hits
+http://odenfull.co:2086/142536/142536/1398
+#EXTINF:-1,MUSIC: TELEHIT URBANO
+http://odenfull.co:2086/142536/142536/1413
+#EXTINF:-1,MUSIC HD: Telehit Plus
+http://odenfull.co:2086/142536/142536/1427
+#EXTINF:-1,MUSIC: MTV CLASSIC
+http://odenfull.co:2086/142536/142536/1444
+#EXTINF:-1,MUSIC: VH1 HD
+http://odenfull.co:2086/142536/142536/1445
+#EXTINF:-1,MUSIC: MUCH MUSIC
+http://odenfull.co:2086/142536/142536/2551
+#EXTINF:-1,MUSIC: BANDAMAX
+http://odenfull.co:2086/142536/142536/22316
+#EXTINF:-1,MUSIC: HTV
+http://odenfull.co:2086/142536/142536/24814
+#EXTINF:-1,MUSIC: RITMOSON
+http://odenfull.co:2086/142536/142536/31888
+#EXTINF:-1,MUSIC: TELEHIT PLUS
+http://odenfull.co:2086/142536/142536/31889
+#EXTINF:-1,MUS: RETRO MUSIC TV
+http://odenfull.co:2086/142536/142536/36249
+#EXTINF:-1,MUSIC: VIRGIN RADIO
+http://odenfull.co:2086/142536/142536/38482
+#EXTINF:-1,MUSIC: VH1 USA
+http://odenfull.co:2086/142536/142536/40023
+#EXTINF:-1,MUSIC: VH1
+http://odenfull.co:2086/142536/142536/40024
+#EXTINF:-1,MUSIC: BET JAMS
+http://odenfull.co:2086/142536/142536/53960
+#EXTINF:-1,MUSIC: RETRO PLUS
+http://odenfull.co:2086/142536/142536/56525
+#EXTINF:-1,MUSIC: SURAM TV
+http://odenfull.co:2086/142536/142536/108454
+#EXTINF:-1,MUSIC: TROPICAL
+http://odenfull.co:2086/142536/142536/121715
+#EXTINF:-1,MUSIC: ROCK
+http://odenfull.co:2086/142536/142536/135050
+#EXTINF:-1,MUSIC: RAP
+http://odenfull.co:2086/142536/142536/181648
+#EXTINF:-1,MUSIC: TOP 100
+http://odenfull.co:2086/142536/142536/181649
+#EXTINF:-1,MUS: MTV BASE
+http://odenfull.co:2086/142536/142536/188784
+#EXTINF:-1,MEX HD: ADN 40
+http://odenfull.co:2086/142536/142536/1305
+#EXTINF:-1,MEX HD: AZ CINEMA
+http://odenfull.co:2086/142536/142536/1313
+#EXTINF:-1,MEX: AZTECA CLICK
+http://odenfull.co:2086/142536/142536/1314
+#EXTINF:-1,MEX HD: AZTECA CORAZON
+http://odenfull.co:2086/142536/142536/1316
+#EXTINF:-1,MEX HD: AZTECA MUNDO
+http://odenfull.co:2086/142536/142536/1317
+#EXTINF:-1,MEX HD: AZTECA 7
+http://odenfull.co:2086/142536/142536/1318
+#EXTINF:-1,MEX: CANAL 2
+http://odenfull.co:2086/142536/142536/1326
+#EXTINF:-1,MEX: CANAL 4
+http://odenfull.co:2086/142536/142536/1328
+#EXTINF:-1,MEX:CANAL 8
+http://odenfull.co:2086/142536/142536/1330
+#EXTINF:-1,MEX :CANAL DE LAS ESTRELLAS HD
+http://odenfull.co:2086/142536/142536/1331
+#EXTINF:-1,MEX HD:CANAL ONCE
+http://odenfull.co:2086/142536/142536/1333
+#EXTINF:-1,MEX: DISTRITO COMEDIA
+http://odenfull.co:2086/142536/142536/1353
+#EXTINF:-1,MEX: MEXIQUICE
+http://odenfull.co:2086/142536/142536/1396
+#EXTINF:-1,MEX SD: MULTIMEDIOS PLUS
+http://odenfull.co:2086/142536/142536/1401
+#EXTINF:-1,MEX: TELENOVELAS
+http://odenfull.co:2086/142536/142536/1428
+#EXTINF:-1,MEX FHD: AZTECA  1
+http://odenfull.co:2086/142536/142536/1431
+#EXTINF:-1,MEX: CANAL DE LAS ESTRELLAS SD
+http://odenfull.co:2086/142536/142536/1804
+#EXTINF:-1,MEX: AZTECA CINEMA
+http://odenfull.co:2086/142536/142536/2167
+#EXTINF:-1,MX SD: CANAL 5
+http://odenfull.co:2086/142536/142536/2481
+#EXTINF:-1,MEX SD: AZTECA  1
+http://odenfull.co:2086/142536/142536/2482
+#EXTINF:-1,MEX SD: CANAL 8
+http://odenfull.co:2086/142536/142536/2485
+#EXTINF:-1,MEX SD: CANAL 4
+http://odenfull.co:2086/142536/142536/2488
+#EXTINF:-1,MEX SD: ADN 40
+http://odenfull.co:2086/142536/142536/2490
+#EXTINF:-1,MEX SD: AZTECA MUNDO
+http://odenfull.co:2086/142536/142536/2491
+#EXTINF:-1,MEX SD: AZTECA CORAZON
+http://odenfull.co:2086/142536/142536/2497
+#EXTINF:-1,MEX SD:TELENOVELA
+http://odenfull.co:2086/142536/142536/2709
+#EXTINF:-1,MEX: IMAGENTV HD
+http://odenfull.co:2086/142536/142536/5377
+#EXTINF:-1,MX HD: CANAL 5
+http://odenfull.co:2086/142536/142536/5378
+#EXTINF:-1,MEX HD: Estrella TV
+http://odenfull.co:2086/142536/142536/16272
+#EXTINF:-1,MEX SD: AZTECA 7
+http://odenfull.co:2086/142536/142536/22303
+#EXTINF:-1,MEX SD: DISTRITO COMEDIA
+http://odenfull.co:2086/142536/142536/22310
+#EXTINF:-1,MEX: AZTECA7
+http://odenfull.co:2086/142536/142536/31576
+#EXTINF:-1,MEX: Once ni\u00f1os
+http://odenfull.co:2086/142536/142536/31584
+#EXTINF:-1,MEX: Galavision HD
+http://odenfull.co:2086/142536/142536/31883
+#EXTINF:-1,MEX:UNIMAS HD
+http://odenfull.co:2086/142536/142536/31904
+#EXTINF:-1,Mex: Bitme HD
+http://odenfull.co:2086/142536/142536/47197
+#EXTINF:-1,Mex: Bitme SD
+http://odenfull.co:2086/142536/142536/47198
+#EXTINF:-1,MEX : AFIZZIONADOS
+http://odenfull.co:2086/142536/142536/58029
+#EXTINF:-1,MEX: FORO TV
+http://odenfull.co:2086/142536/142536/58034
+#EXTINF:-1,MEX: FORO TV HD
+http://odenfull.co:2086/142536/142536/63397
+#EXTINF:-1,MEX: TVC DEPORTES
+http://odenfull.co:2086/142536/142536/121593
+#EXTINF:-1,MEX:AYM SPORT
+http://odenfull.co:2086/142536/142536/121595
+#EXTINF:-1,MX: TUDN
+http://odenfull.co:2086/142536/142536/203087
+#EXTINF:-1,TELEVISA PUEBLA
+http://odenfull.co:2086/142536/142536/203254
+#EXTINF:-1,MEX: TELEVISA
+http://odenfull.co:2086/142536/142536/31668
+#EXTINF:-1,Azteca 13
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263448
+#EXTINF:-1,Canal 5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263434
+#EXTINF:-1,Imagen Tv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263439
+#EXTINF:-1,A&E
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263279
+#EXTINF:-1,El Gourmet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263444
+#EXTINF:-1,FX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263442
+#EXTINF:-1,TBS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263451
+#EXTINF:-1,Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263294
+#EXTINF:-1,Animal Planet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263295
+#EXTINF:-1,Nat Geo Wild
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263297
+#EXTINF:-1,Discovery H&H
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263299
+#EXTINF:-1,Discovery TLC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263348
+#EXTINF:-1,Discovery Turbo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263349
+#EXTINF:-1,Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263438
+#EXTINF:-1,History Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263300
+#EXTINF:-1,Investigacion Discovery
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263293
+#EXTINF:-1,National Geographic
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263296
+#EXTINF:-1,Canal Uno Colombia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263503
+#EXTINF:-1,Caracol
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263446
+#EXTINF:-1,Pasiones
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263522
+#EXTINF:-1,Disney XD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263302
+#EXTINF:-1,Nick Jr
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263292
+#EXTINF:-1,AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263354
+#EXTINF:-1,Cinecanal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263281
+#EXTINF:-1,Cinemax
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263356
+#EXTINF:-1,Golden
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263340
+#EXTINF:-1,Golden Edge
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263341
+#EXTINF:-1,HBO 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263289
+#EXTINF:-1,HBO Extreme
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263437
+#EXTINF:-1,HBO Signature
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263449
+#EXTINF:-1,Paramount Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263357
+#EXTINF:-1,Star Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263285
+#EXTINF:-1,Star Action
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263343
+#EXTINF:-1,Star Cinema
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263345
+#EXTINF:-1,Star Hits
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263344
+#EXTINF:-1,TNT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263280
+#EXTINF:-1,TNT Series
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263342
+#EXTINF:-1,Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263282
+#EXTINF:-1,Universal Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263283
+#EXTINF:-1,VH1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263352
+#EXTINF:-1,Canal Once
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264121
+#EXTINF:-1,Claro Sports
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264122
+#EXTINF:-1,Distrito Comedia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266813
+#EXTINF:-1,24H | Peliculas Infantiles
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/451
+#EXTINF:-1,24H | Los Simpsons 1-20
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/464
+#EXTINF:-1,24H | Cinema Disney Pixar
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/490
+#EXTINF:-1,24H | La Familia Peluche
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/10594
+#EXTINF:-1,24H | Cantinflas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/11526
+#EXTINF:-1,24H | El Chavo del 8
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/11527
+#EXTINF:-1,24H | Chapulin Colorado
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40829
+#EXTINF:-1,24H | Peliculas Infantiles
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/202426
+#EXTINF:-1,24H | Los Simpson 1-5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/202427
+#EXTINF:-1,24H | Peliculas Terror
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/202829
+#EXTINF:-1,24H | Blaze y los Monster Machines
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/202913
+#EXTINF:-1,24H | Paw Patrol
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/203599
+#EXTINF:-1,24H | El Show de Bugs Bunny
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/203845
+#EXTINF:-1,24H | Minimalitos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/203847
+#EXTINF:-1,24H | Los Simpson 6-10
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/203850
+#EXTINF:-1,24H | Coraje - El Perro Cobarde
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/203851
+#EXTINF:-1,24H | El show de los Looney Tunes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/203852
+#EXTINF:-1,24H | Los Picapiedra
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/203853
+#EXTINF:-1,24H | Plim Plim
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/207821
+#EXTINF:-1,24H | Pokémon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/208207
+#EXTINF:-1,24H | Bob Sponja
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/208582
+#EXTINF:-1,24H | Reino Infantil
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/208583
+#EXTINF:-1,24H | Mr Bean
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/208602
+#EXTINF:-1,24H | Pocoyo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/208611
+#EXTINF:-1,24H | Dragon Ball Z
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/217685
+#EXTINF:-1,24H | Cinema Universe
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230604
+#EXTINF:-1,24h | Disney Movies
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230605
+#EXTINF:-1,24H | Los 3 Chiflados
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230607
+#EXTINF:-1,24H | Hey Arnold
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/231023
+#EXTINF:-1,24H | Mi Bella Genio
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232326
+#EXTINF:-1,24H | Malcolm
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232327
+#EXTINF:-1,24H | Megaman
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232328
+#EXTINF:-1,24H | Los Caballeros del  Zodiaco
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232329
+#EXTINF:-1,24H | Baron Rojo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232332
+#EXTINF:-1,24H | Pinky & Cerebro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232474
+#EXTINF:-1,24H | Phineas & Ferb
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232500
+#EXTINF:-1,24H | 31 Minutos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/233788
+#EXTINF:-1,24H | Anime
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/233789
+#EXTINF:-1,24H | Batman
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/233790
+#EXTINF:-1,24H | Crisis en Tierras Infinitas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/233991
+#EXTINF:-1,24H | Gargolas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/234422
+#EXTINF:-1, El Hombre Increible
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/234423
+#EXTINF:-1,24H | Jessica Jones
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/234424
+#EXTINF:-1,24H | Jonny Bravo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/234425
+#EXTINF:-1,24H | Timon y Pymba
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/234428
+#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/236511
+#EXTINF:-1,24/7| ALF
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/236535
+#EXTINF:-1,24/7 | La Casa de Mickey Mouse
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/236546
+#EXTINF:-1,24/7 Rugrats: Aventuras en pañales
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/236602
+#EXTINF:-1,24H - VIP | Moisés y los Diez Mandamientos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/237112
+#EXTINF:-1,24H - VIP | The Last Kingdom
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/237115
+#EXTINF:-1,24H | Dragon Ball
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239329
+#EXTINF:-1,24H - VIP | Dragon Ball Heroes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239330
+#EXTINF:-1,24H | The Big Bang Theory
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239662
+#EXTINF:-1,24H - VIP | Rocky
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239663
+#EXTINF:-1,24H | iCarly
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240980
+#EXTINF:-1,24H - VIP | Peliculas Play
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240981
+#EXTINF:-1,24H - VIP | Los supersónicos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240982
+#EXTINF:-1,24H - VIP | Harry Potter
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/241042
+#EXTINF:-1,24H - VIP | La Familia P. Luche
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/241071
+#EXTINF:-1,24H | Los supersónicos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/241072
+#EXTINF:-1,24H - VIP | Misión Imposible
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/241682
+#EXTINF:-1,24H | Hora de Aventura
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262290
+#EXTINF:-1,24H | Una Familia de Diez
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262297
+#EXTINF:-1,24H | Manual de Supervivencia Escolar de Ned
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262300
+#EXTINF:-1,24H | Los Pitufos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262301
+#EXTINF:-1,24H | Peppa Pig
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262302
+#EXTINF:-1,24H | Robotech
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262303
+#EXTINF:-1,24H | Naruto Shippuden
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262304
+#EXTINF:-1,24H-VIP | Games of Thrones
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262945
+#EXTINF:-1,24H-VIP | JURASSIC PARK
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262947
+#EXTINF:-1,24H-VIP | Estrenos 2020 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262948
+#EXTINF:-1,24H-VIP | Game Of Thrones (Do)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262950
+#EXTINF:-1,24H-VIP |  Billy y Mandy (ES)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262952
+#EXTINF:-1,24H-VIP | Dragon ball GT (M)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262953
+#EXTINF:-1,24H-VIP | Estrenos 2020 (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262954
+#EXTINF:-1,24H-VIP | Estrenos 2019 (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262955
+#EXTINF:-1,24H-VIP | Dr. House (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262956
+#EXTINF:-1,24H-VIP | La Tremenda Corte (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262957
+#EXTINF:-1,24H-VIP | Pedro Infante (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262958
+#EXTINF:-1,24H-VIP | Jackie Chan (e)(HQ)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262959
+#EXTINF:-1,24H-VIP | Supervivencia (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262960
+#EXTINF:-1,24H-VIP | American Crime Story (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262962
+#EXTINF:-1,24H-VIP | American Dad (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262963
+#EXTINF:-1,24H-VIP | Amor Real (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262964
+#EXTINF:-1,24H-VIP | Anatomia de Grey (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262965
+#EXTINF:-1,24H-VIP | Animaniacs (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262966
+#EXTINF:-1,24H-VIP | Aqui no hay quien viva (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262967
+#EXTINF:-1,24H-VIP | Arrow (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262968
+#EXTINF:-1,24H-VIP | Basado en Hechos Reales (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262970
+#EXTINF:-1,24H-VIP | Ben 10 (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262971
+#EXTINF:-1,24H-VIP | Ben 10 Alien Force (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262972
+#EXTINF:-1,24H-VIP | BeyBlade (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262973
+#EXTINF:-1,24H-VIP | Bob Esponja (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262974
+#EXTINF:-1,24H-VIP | Bonanza (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262975
+#EXTINF:-1,24H-VIP | Breaking Bad (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262976
+#EXTINF:-1,24H-VIP | Bruce Lee (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262977
+#EXTINF:-1,24H-VIP | Buffy La Cazavampiros (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262978
+#EXTINF:-1,24H-VIP | Caballeros del Zodiaco (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262979
+#EXTINF:-1,24H-VIP | Cabalozos y Dragones (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262980
+#EXTINF:-1,24H-VIP | Candy Candy (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262981
+#EXTINF:-1,24H-VIP | Capitan Planeta (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262982
+#EXTINF:-1,24H-VIP | Chicago P.D (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262983
+#EXTINF:-1,24H-VIP | Chip N Dale (e) (720) (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262984
+#EXTINF:-1,24H-VIP | CienciaFiccion (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262985
+#EXTINF:-1,24H-VIP | Cine Belico (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262986
+#EXTINF:-1,24H-VIP | Cine Biografico (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262987
+#EXTINF:-1,24H-VIP | Cine Catastrofico (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262988
+#EXTINF:-1,24H-VIP | Comedia (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262989
+#EXTINF:-1,24H-VIP | Comedia Sangrienta (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262990
+#EXTINF:-1,24H-VIP | Conan el Niño del Futuro (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262991
+#EXTINF:-1,24H-VIP | Coraje El Perro Cobarde (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262992
+#EXTINF:-1,24H-VIP | Crimen (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262993
+#EXTINF:-1,24H-VIP | Cristianas (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262994
+#EXTINF:-1,24H-VIP | Daria (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262995
+#EXTINF:-1,24H-VIP | DC Comics Peliculas (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262996
+#EXTINF:-1,24H-VIP | DC Lego (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262997
+#EXTINF:-1,24H-VIP | DC Leyendas Del Mañana (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262998
+#EXTINF:-1,24H-VIP | Death Note (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262999
+#EXTINF:-1,24H-VIP | Defensores de la Tierra (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263000
+#EXTINF:-1,24H-VIP | Detective Conan (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263001
+#EXTINF:-1,24H-VIP | Dexter (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263002
+#EXTINF:-1,24H-VIP | Digimon (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263003
+#EXTINF:-1,24H-VIP | Disney Animacion 3D (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263004
+#EXTINF:-1,24H-VIP | Disney Clasicos Animados (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263005
+#EXTINF:-1,24H-VIP | Doraemon (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263006
+#EXTINF:-1,24H-VIP | Dos Hombres y Medio (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263007
+#EXTINF:-1,24H-VIP | Dragon Ball (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263008
+#EXTINF:-1,24H-VIP | Gotham (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263033
+#EXTINF:-1,24H-VIP | Gravity Falls (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263034
+#EXTINF:-1,24H-VIP | Hajime no Ippo (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263035
+#EXTINF:-1,24H-VIP | Happy Tree Friends (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263036
+#EXTINF:-1,24H-VIP | Harry Potter (e) (1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263037
+#EXTINF:-1,24H-VIP | HBO Signature(M)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263038
+#EXTINF:-1,24H-VIP | He-Man y los amos del universo (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263039
+#EXTINF:-1,24H-VIP | Hechizada (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263040
+#EXTINF:-1,24H-VIP | Heidi (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263041
+#EXTINF:-1,24H-VIP | Hora de Aventura (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263042
+#EXTINF:-1,24H-VIP | Hunter x Hunter 2011 (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263043
+#EXTINF:-1,24H-VIP | Infantil (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263045
+#EXTINF:-1,24H-VIP | Ink Master (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263046
+#EXTINF:-1,24H-VIP | Inspector Gadget (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263047
+#EXTINF:-1,24H-VIP | Inuyasha (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263048
+#EXTINF:-1,24H-VIP | Jimmy Neutron (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263049
+#EXTINF:-1,24H-VIP | Juego de Tronos (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263050
+#EXTINF:-1,24H-VIP | Kick Buttowski (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263051
+#EXTINF:-1,24H-VIP | KND  Los Chicos Del Barrio (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263052
+#EXTINF:-1,24H-VIP | La casa de los dibujos (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263053
+#EXTINF:-1,24H-VIP | La Casa de Mickey Mouse (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263054
+#EXTINF:-1,24H-VIP | La Casa de Papel (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263055
+#EXTINF:-1,24H-VIP | La Familia Ingalls (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263056
+#EXTINF:-1,24H-VIP | La Familia Monster (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263057
+#EXTINF:-1,24H-VIP | La Familia P. Luche (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263058
+#EXTINF:-1,24H-VIP | La que se avecina (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263059
+#EXTINF:-1,24H-VIP | Lady Oscar La Rosa de Versalles (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263060
+#EXTINF:-1,24H-VIP | Las Locuras del Emperador (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263061
+#EXTINF:-1,24H-VIP | LGBT - Queer As Folk (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263062
+#EXTINF:-1,24H-VIP | Looney Tunes (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263064
+#EXTINF:-1,24H-VIP | Los 100 (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263065
+#EXTINF:-1,24H-VIP | Los Años Maravillosos (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263066
+#EXTINF:-1,24H-VIP | Los Expedientes Secretos X (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263067
+#EXTINF:-1,24H-VIP | Los Halcones Galacticos (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263068
+#EXTINF:-1,24H-VIP | Los justicieros HQ (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263069
+#EXTINF:-1,24H-VIP | Los Locos Addams  (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263070
+#EXTINF:-1,24H-VIP | Los Magnificos (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263071
+#EXTINF:-1,24H-VIP | Los Padrinos Magicos (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263072
+#EXTINF:-1,24H-VIP | Los Pinguinos de Madagascar (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263073
+#EXTINF:-1,24H-VIP | Los Pitufos (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263074
+#EXTINF:-1,24H-VIP | Los Simpsons S01 a S20 (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263075
+#EXTINF:-1,24H-VIP | Los Simpsons S20 a S30  (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263076
+#EXTINF:-1,24H-VIP | Los Thundercats (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263078
+#EXTINF:-1,24H-VIP | Lost (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263079
+#EXTINF:-1,24H-VIP | Lucifer (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263080
+#EXTINF:-1,24H-VIP | Macgyver (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263081
+#EXTINF:-1,24H-VIP | Malcolm in the Middle (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263082
+#EXTINF:-1,24H-VIP | Manual de supervivencia escolar de Ned (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263083
+#EXTINF:-1,24H-VIP | Marvel Peliculas (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263084
+#EXTINF:-1,24H-VIP | Masha y el Oso (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263085
+#EXTINF:-1,24H-VIP | Matrimonio con hijos (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263086
+#EXTINF:-1,24H-VIP | Mazinger Z (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263087
+#EXTINF:-1,24H-VIP | Meteoro (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263088
+#EXTINF:-1,24H-VIP | Mi Bella Genio (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263089
+#EXTINF:-1,24H-VIP | Mighty Morphin Power Rangers (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263090
+#EXTINF:-1,24H-VIP | Mikami la Cazafantasmas (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263091
+#EXTINF:-1,24H-VIP | Modern Family (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263092
+#EXTINF:-1,24H-VIP | MonsterVerse (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263093
+#EXTINF:-1,24H-VIP | Naruto Shippuden (e)()
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263094
+#EXTINF:-1,24H-VIP | Neon Genesis Evangelion (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263095
+#EXTINF:-1,24H-VIP | Padre De Familia (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263096
+#EXTINF:-1,24H-VIP | Patoaventuras (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263097
+#EXTINF:-1,24H-VIP | Paw Patrol (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263098
+#EXTINF:-1,24H-VIP | Peliculas Musicales (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263099
+#EXTINF:-1,24H-VIP | Pocoyo (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263100
+#EXTINF:-1,24H-VIP | Pokemon (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263101
+#EXTINF:-1,24H-VIP | Pokemon (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263102
+#EXTINF:-1,24H-VIP | Popeye El Marino (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263103
+#EXTINF:-1,24H-VIP | Prison Break (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263104
+#EXTINF:-1,24H-VIP | Ranma ½ (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263105
+#EXTINF:-1,24H-VIP | Rick y Morty (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263106
+#EXTINF:-1,24H-VIP | Robotech (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263107
+#EXTINF:-1,24H-VIP | Rubi (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263108
+#EXTINF:-1,24H-VIP | Sabrina la bruja adolescente (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263109
+#EXTINF:-1,24H-VIP | Sagas (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263110
+#EXTINF:-1,24H-VIP | Sailor Moon (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263111
+#EXTINF:-1,24H-VIP | Sailor Moon Crystal (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263112
+#EXTINF:-1,24H-VIP | Caballeros del Zodiaco Hades & Alma de oro (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263113
+#EXTINF:-1,24H-VIP | Sakura Card Captor (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263114
+#EXTINF:-1,24H-VIP | Sam y Cat (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263115
+#EXTINF:-1,24H-VIP | Sexo en la ciudad (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263116
+#EXTINF:-1,24H-VIP | SHE-RA La princesa del poder (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263117
+#EXTINF:-1,24H-VIP | Slam Dunk (e) (720) (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263119
+#EXTINF:-1,24H-VIP | SmallVille (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263120
+#EXTINF:-1,24H-VIP | South Park (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263121
+#EXTINF:-1,24H-VIP | Spartacus (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263122
+#EXTINF:-1,24H-VIP | Star Wars (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263124
+#EXTINF:-1,24H-VIP | Starz Comedy(M)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263125
+#EXTINF:-1,24H-VIP | Starz Encore Action (M)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263126
+#EXTINF:-1,24H-VIP | Starz Encore Suspense(M)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263127
+#EXTINF:-1,24H-VIP | Starz Encore Western(M)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263128
+#EXTINF:-1,24H-VIP | Super Agente 86 (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263129
+#EXTINF:-1,24H-VIP | Super Campeones (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263130
+#EXTINF:-1,24H-VIP | Super Campeones 2002 (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263131
+#EXTINF:-1,24H-VIP | Supernatural (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263132
+#EXTINF:-1,24H-VIP | Suspenso (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263133
+#EXTINF:-1,24H-VIP | Terror (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263134
+#EXTINF:-1,24H-VIP | The Big Bang Theory (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263135
+#EXTINF:-1,24H-VIP | The Walking Dead (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263136
+#EXTINF:-1,24H-VIP | Tom and Jerry The Classic  (e)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263137
+#EXTINF:-1,24H-VIP | Un Show Mas (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263138
+#EXTINF:-1,24H-VIP | Una familia de Diez  (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263139
+#EXTINF:-1,24H-VIP | Universo DC (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263140
+#EXTINF:-1,24H-VIP | Universo Marvel (e)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263141
+#EXTINF:-1,24H-VIP | Vecinos (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263142
+#EXTINF:-1,24H-VIP | Victorious (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263143
+#EXTINF:-1,24H-VIP | Walker Texas Ranger (e)(SD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263144
+#EXTINF:-1,24H-VIP | Winnie de Pooh (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263145
+#EXTINF:-1,24H-VIP | X-Men (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263146
+#EXTINF:-1,24H-VIP | Zenki (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263149
+#EXTINF:-1,24H Kids | Peppa Pig
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263156
+#EXTINF:-1,24H Kids | Garfield Y Amigos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263157
+#EXTINF:-1,la exploradora
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263158
+#EXTINF:-1,24H Kids | ThunderCats (ES)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263159
+#EXTINF:-1,24H Kids | Los misterios de Moville
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263160
+#EXTINF:-1,24H Kids |  Billy y Mandy (ES)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263161
+#EXTINF:-1,24H Kids | Los padrinos mágicos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263162
+#EXTINF:-1,24H Kids | Los Simpsons (M)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263163
+#EXTINF:-1,24H Kids | Dinosaurios (M)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263164
+#EXTINF:-1,24H Kids | CANTINFLAS (M)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263165
+#EXTINF:-1,24H Kids | Dragon Ball (M)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263166
+#EXTINF:-1,24H Kids | Dragon ball GT (M)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263167
+#EXTINF:-1,24H Kids | BOB ESPONJA (M)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263168
+#EXTINF:-1,24H Kids | Dragon Ball Z
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263169
+#EXTINF:-1,24H Kids | Pokémon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263170
+#EXTINF:-1,24H Kids | Dragon Ball Super
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263171
+#EXTINF:-1,24H Kids | Los supersonicos (p)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263172
+#EXTINF:-1,24H Kids | Scooby-Doo (p)(1080)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263173
+#EXTINF:-1,24H Kids | Los Picapiedra
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263174
+#EXTINF:-1,24H Kids |  |  Tom y Jerry
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263176
+#EXTINF:-1,24H Kids |  |  Teen Titans Go
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263177
+#EXTINF:-1,24H Kids | Ben 10
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263178
+#EXTINF:-1,24H Kids | La Pequeña LuLu
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263179
+#EXTINF:-1,24H Kids | Los super campeones
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263180
+#EXTINF:-1,24H Kids | Garfield
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263181
+#EXTINF:-1,24H Kids | Family Guy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263182
+#EXTINF:-1,24H Kids | Dinosaurios
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263183
+#EXTINF:-1,24H Kids | Dragon Ball
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263185
+#EXTINF:-1,24H Kids | El Pajaro Loco
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263186
+#EXTINF:-1,24H Kids | Hey Arnold
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263187
+#EXTINF:-1,24H Kids | Infantiles
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263188
+#EXTINF:-1,24H Kids | Looney Tunes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263189
+#EXTINF:-1,24H Kids | One Punch Man
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263191
+#EXTINF:-1,24H Kids | Ranma 1/2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263192
+#EXTINF:-1,24H Kids | Samurai X
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263193
+#EXTINF:-1,24H Kids | Tom y Jerry
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263194
+#EXTINF:-1,24H Kids | Paw Patrol
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263196
+#EXTINF:-1,24H Kids | Animaniacs
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263197
+#EXTINF:-1,24H Kids | Street Sharks
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263198
+#EXTINF:-1,24H Kids | El proyecto Z
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263199
+#EXTINF:-1,24H Kids | Los 4 Fantásticos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263200
+#EXTINF:-1,24H Kids | Static Shock
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263201
+#EXTINF:-1,24H Kids | Gravity Falls (ES)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263202
+#EXTINF:-1,24H Kids | El Chapulin Colorado Animado (p)(480)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263204
+#EXTINF:-1,24/7 | PEPPA PIG | HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263205
+#EXTINF:-1,24/7 | STRANGER THINGS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263206
+#EXTINF:-1,24/7 | Mickey Mouse Clubhouse | HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263209
+#EXTINF:-1,24/7 | Star Wars Rebels | HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263210
+#EXTINF:-1,24/7 | Vikings | HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263211
+#EXTINF:-1,24/7 | The Vampire Diaries | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263212
+#EXTINF:-1,24/7 | Game of Thrones | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263213
+#EXTINF:-1,24/7 | Arrow | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263214
+#EXTINF:-1,24/7 | The Walking Dead | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263215
+#EXTINF:-1,24/7 | American Dad | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263216
+#EXTINF:-1,24/7 | Adventure Time | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263219
+#EXTINF:-1,24/7 | Batman the Animated Series | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263220
+#EXTINF:-1,24/7 | Boardwalk Empire | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263221
+#EXTINF:-1,24/7 | Breaking Bad | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263222
+#EXTINF:-1,24/7 | Dexter | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263223
+#EXTINF:-1,24/7 | Family Guy | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263224
+#EXTINF:-1,24/7 | Johny Test | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263225
+#EXTINF:-1,24/7 | Orange Is the New Black | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263232
+#EXTINF:-1,24/7 | Peaky Blinders | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263234
+#EXTINF:-1,24/7 | Peter Kay's Phoenix Nights | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263235
+#EXTINF:-1,24/7 | Pokemon | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263236
+#EXTINF:-1,24/7 | Poldark | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263237
+#EXTINF:-1,24/7 | Prison Break | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263238
+#EXTINF:-1,24/7 | Red Dwarf | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263239
+#EXTINF:-1,24/7 | Rugrats | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263240
+#EXTINF:-1,24/7 | Scream Queens | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263241
+#EXTINF:-1,24/7 | Scrubs | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263242
+#EXTINF:-1,24/7 | Sherlock | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263244
+#EXTINF:-1,24/7 | Star Wars The Clone Wars | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263250
+#EXTINF:-1,24/7 | The Big Bang Theory | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263251
+#EXTINF:-1,24h Kids | Don gato y su Pandilla
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263252
+#EXTINF:-1,24H | Dragon Ball - Saga Cell
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263253
+#EXTINF:-1,24H VIP | Drake y Josh
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263254
+#EXTINF:-1,24H VIP | Futurama
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263256
+#EXTINF:-1,24H - VIP | Popeye el Marino
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267522
+#EXTINF:-1,24H - VIP | Pedro Infantes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244341
+#EXTINF:-1,24H - VIP | Cantinflas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244343
+#EXTINF:-1,24H-VIP | Phineas y Ferb  (e)(720)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252095
+#EXTINF:-1,24H | Pocoyo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248597
+#EXTINF:-1,24H | South Park
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248602
+#EXTINF:-1,24H | Ben 10
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248609
+#EXTINF:-1,24H | Batman SA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248611
+#EXTINF:-1,24H | La Pantera Rosa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248612
+#EXTINF:-1,24H | Bob Esponja
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248615
+#EXTINF:-1,24H | Dragon Ball GT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248616
+#EXTINF:-1,24H | Dragon Ball Z
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248617
+#EXTINF:-1,24H | Naruto
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248621
+#EXTINF:-1,24H | South Park
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248625
+#EXTINF:-1,24H | He-Man
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248632
+#EXTINF:-1,24H | Los PicaPiedra
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248638
+#EXTINF:-1,24H | La Hora Pico
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248641
+#EXTINF:-1,24H | Sailor Moon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248647
+#EXTINF:-1,24H | Death Note
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248650
+#EXTINF:-1,24H | Gravity Falls
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248672
+#EXTINF:-1,24H | El Correcaminos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248674
+#EXTINF:-1,24H | Los padrinos mágicos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248678
+#EXTINF:-1,24H | Garfield Y Amigos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248681
+#EXTINF:-1,24H | Chespirito
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248684
+#EXTINF:-1,24H | The Walking Dead
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248685
+#EXTINF:-1,24H | Malcolm in the Middle
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248687
+#EXTINF:-1,24H | Iron Man
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248696
+#EXTINF:-1,24H | El chapulin colorado
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248713
+#EXTINF:-1,24H | Smallville
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248718
+#EXTINF:-1,24H | La casa de papel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248722
+#EXTINF:-1,24H | Alf
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248726
+#EXTINF:-1,24H | El Chavo del Ocho
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248727
+#EXTINF:-1,24H | iCarly
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/248744
+#EXTINF:-1,24H | Dragon Ball Z: La Saga de Majin Boo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262288
+#EXTINF:-1,24H | Kick Buttowski
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262293
+#EXTINF:-1,MX | Baby First
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/151
+#EXTINF:-1,MX | Cartoon Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/147
+#EXTINF:-1,MX | Disney Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/144
+#EXTINF:-1,MX | Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/141
+#EXTINF:-1,MX | Nick Junior
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/143
+#EXTINF:-1,MX | NickToons
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/145
+#EXTINF:-1,AR | Boomerang
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244264
+#EXTINF:-1,AR | Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244266
+#EXTINF:-1,AR | Disney Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244267
+#EXTINF:-1,AR | Disney Junior
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244268
+#EXTINF:-1,AR | Disney XD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244269
+#EXTINF:-1,AR | Nat Geo Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244270
+#EXTINF:-1,AR | Nickelodeon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244271
+#EXTINF:-1,AR | Baby TV 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265009
+#EXTINF:-1,MX | HBO 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/134
+#EXTINF:-1,MX | HBO Plus
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/135
+#EXTINF:-1,MX | MAX UP
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/139
+#EXTINF:-1,MX | Star Action
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/115
+#EXTINF:-1,MX | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/124
+#EXTINF:-1,MX | Cinema Dinamita
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264237
+#EXTINF:-1,MX | Golden
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/129
+#EXTINF:-1,MX | Golden Edge
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/130
+#EXTINF:-1,MX | TNT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/121
+#EXTINF:-1,MX | Animal Planet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/79
+#EXTINF:-1,MX | Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/78
+#EXTINF:-1,MX | Discovery Civilization
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/82
+#EXTINF:-1,MX | Food Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/73
+#EXTINF:-1,MX | Film & Arts
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/83
+#EXTINF:-1,MX | History
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/75
+#EXTINF:-1,MX | History 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1510
+#EXTINF:-1,MX | Ingenio Tv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/72
+#EXTINF:-1,MX | NatGeo Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/80
+#EXTINF:-1,MX | NatGeo Wild
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/76
+#EXTINF:-1,MX | HGTV HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/257650
+#EXTINF:-1,MX | Star Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/84
+#EXTINF:-1,MX | Sony
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/85
+#EXTINF:-1,MX | Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/86
+#EXTINF:-1,MX | FX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/88
+#EXTINF:-1,MX | A&E
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/89
+#EXTINF:-1,MX | AXN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/90
+#EXTINF:-1,MX | TruTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/91
+#EXTINF:-1,MX | Unicable
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/93
+#EXTINF:-1,MX | Hola TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/94
+#EXTINF:-1,MX | Mas Chic
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/95
+#EXTINF:-1,MX | E! Entertainment
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/96
+#EXTINF:-1,MX | Syfy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/97
+#EXTINF:-1,MX | Discovery Investigation
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/98
+#EXTINF:-1,MX | Star Life
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/101
+#EXTINF:-1,MX | Distrito Comedia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/102
+#EXTINF:-1,MX | TBS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/103
+#EXTINF:-1,MX | Lifetime
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/106
+#EXTINF:-1,MX | TLC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/107
+#EXTINF:-1,MX | FX Movies
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/108
+#EXTINF:-1,MX | Studio Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/109
+#EXTINF:-1,MX | Europa Europa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/110
+#EXTINF:-1,MX | Discovery Turbo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/111
+#EXTINF:-1,MX | Paramount
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/112
+#EXTINF:-1,MX | Pasiones
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1468
+#EXTINF:-1,MX | I sat
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1503
+#EXTINF:-1,MX | Telemundo Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1504
+#EXTINF:-1,MX | Telemundo New York
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1507
+#EXTINF:-1,MX | Distrito Comedia HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1505
+#EXTINF:-1,NEWS | NTN24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40831
+#EXTINF:-1,NEWS | CNN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40832
+#EXTINF:-1,NEWS | TVPE Noticias
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40833
+#EXTINF:-1,NEWS | 24/7 Noticias Argentina
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40835
+#EXTINF:-1,NEWS | ABC News
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40836
+#EXTINF:-1,MX | CNN En español
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253
+#EXTINF:-1,MX | CNN Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1506
+#EXTINF:-1,NT | Hispantv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262782
+#EXTINF:-1,MX | Foro Tv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/59
+#EXTINF:-1,MX | Azteca 7
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/61
+#EXTINF:-1,MX | Gala TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/62
+#EXTINF:-1,MX | El Nueve
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230603
+#EXTINF:-1,MX | Canal 4 Guadalajara
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258996
+#EXTINF:-1,MX | Televisa Puebla
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255793
+#EXTINF:-1,MX | Canal Once
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/63
+#EXTINF:-1,MX | Mexiquense
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/64
+#EXTINF:-1,MX | ADN 40
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/71
+#EXTINF:-1,MX | Canal 22
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258239
+#EXTINF:-1,MX | Multimedios Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255792
+#EXTINF:-1,MX | Azteca 7 Op2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18840
+#EXTINF:-1,MX | Azteca Uno Op2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18841
+#EXTINF:-1,MX | Canal del Congreso
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226482
+#EXTINF:-1,MX | Canal 4 Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252764
+#EXTINF:-1,MX | RCG 1 Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252777
+#EXTINF:-1,MX | RCG 2 Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252778
+#EXTINF:-1,Multimedios Laguna
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252772
+#EXTINF:-1,MX | TV Cuatro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264522
+#EXTINF:-1,MX | Canal 5 *
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264756
+#EXTINF:-1,MX | Telemax Hermosillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252784
+#EXTINF:-1,MX | TVMAS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267243
+#EXTINF:-1,MX | Telever
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267244
+#EXTINF:-1,EC | ECUAVISA SD (GYE)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/364
+#EXTINF:-1,EC | ECUAVISA HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/365
+#EXTINF:-1,EC | ECUAVISA FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/366
+#EXTINF:-1,EC | RTS HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/367
+#EXTINF:-1,EC | TELEAMAZONAS SD (GYE)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/369
+#EXTINF:-1,EC | TELEAMAZONAS HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/370
+#EXTINF:-1,EC | GAMAVISION FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/374
+#EXTINF:-1,EC | CANAL UNO SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/378
+#EXTINF:-1,EC | CANAL UNO FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/380
+#EXTINF:-1,EC | OROMAR TV HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/387
+#EXTINF:-1,EC | CANELA TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/388
+#EXTINF:-1,EC | TVC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/390
+#EXTINF:-1,EC | RTS SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/391
+#EXTINF:-1,EC | RTS FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244589
+#EXTINF:-1,EC | DTV SPORTS SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/386
+#EXTINF:-1,EC | GOL TV HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/382
+#EXTINF:-1,EC | GOL TV 720
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/383
+#EXTINF:-1,EC | Gol TV HD  op A
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255153
+#EXTINF:-1,EC | Gol TV op C
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255154
+#EXTINF:-1,EC | CineCable TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/260701
+#EXTINF:-1,EC | Canal del Futbol (Solo Eventos)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261992
+#EXTINF:-1,EC | ECUAVISA SD (UIO)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263814
+#EXTINF:-1,EC | Telerama
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264240
+#EXTINF:-1,EC | El Canal del Futbol SD*
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264789
+#EXTINF:-1,EC | Canal del Futbol
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263816
+#EXTINF:-1,EC | DTV SPORTS 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267389
+#EXTINF:-1,EC | DTV SPORTS HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267391
+#EXTINF:-1,CH | TELETRAk TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/524
+#EXTINF:-1,CH | TVN HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/525
+#EXTINF:-1,CH | LA RED SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/526
+#EXTINF:-1,CH | LA RED HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/527
+#EXTINF:-1,CH | CHILEVISION SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/528
+#EXTINF:-1,CH | CHILEVISION HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/529
+#EXTINF:-1,CH | CANAL 13 SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/530
+#EXTINF:-1,CH | ETC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/531
+#EXTINF:-1,CH | CANAL 13 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/532
+#EXTINF:-1,CH | MEGA SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/534
+#EXTINF:-1,CH | MEGA FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/535
+#EXTINF:-1,CH | TVN SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/536
+#EXTINF:-1,CH | 24 HORAS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/537
+#EXTINF:-1,CH | TV Chile
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/224851
+#EXTINF:-1,CH | CNN Chile
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/224852
+#EXTINF:-1,CH | CANAL 13 FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226556
+#EXTINF:-1,CH | ChocolateFM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230295
+#EXTINF:-1,CH | STGO.TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230320
+#EXTINF:-1,CH | UCL Televisión LATAM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230387
+#EXTINF:-1,Radio 4ever
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230503
+#EXTINF:-1,Chocolate FM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230548
+#EXTINF:-1,CH | MEGA HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232382
+#EXTINF:-1,CH | CHILEVISION FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232383
+#EXTINF:-1,CH | FOX SPORTS 1 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/236572
+#EXTINF:-1,Play | CAMPEONATO ESTADIO HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240691
+#EXTINF:-1,Play | CAMPEONATO NACIONAL HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240690
+#EXTINF:-1,CH | TV+
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/242968
+#EXTINF:-1,CH | LA RED FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252167
+#EXTINF:-1,America Tucuman
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252403
+#EXTINF:-1,Azahares Radio multimedia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252404
+#EXTINF:-1,Informacion Periodistica
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252406
+#EXTINF:-1,La Voz de Tucuman
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252410
+#EXTINF:-1,Señal Urbana
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252411
+#EXTINF:-1,Crossing TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252412
+#EXTINF:-1,Cadena 103
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252419
+#EXTINF:-1,Canal 13 Jujuy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252421
+#EXTINF:-1,Canal 13 La Rioja
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252422
+#EXTINF:-1,Canal 20 Villamaria
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252424
+#EXTINF:-1,Canal 3 La Pampa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252426
+#EXTINF:-1,Canal 3 Las Heras
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252427
+#EXTINF:-1,Canal 50 Morteros
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252428
+#EXTINF:-1,CANAL 5TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252429
+#EXTINF:-1,Canal 7 Santiago del estero
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252430
+#EXTINF:-1,Canal 8 Catamarca
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252431
+#EXTINF:-1,Ciudad TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252433
+#EXTINF:-1,Litus TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252437
+#EXTINF:-1,Medios Rioja
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252438
+#EXTINF:-1,Power
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252439
+#EXTINF:-1,Telefe Rosario
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252442
+#EXTINF:-1,Telenord Corrientes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252444
+#EXTINF:-1,Television Regional Unimar
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252445
+#EXTINF:-1,UNIRIO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252447
+#EXTINF:-1,Uni Teve
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252448
+#EXTINF:-1,5TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252449
+#EXTINF:-1,9Link
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252450
+#EXTINF:-1,Canal 3 Rosario
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252456
+#EXTINF:-1,Canal 4 Jujuy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252458
+#EXTINF:-1,Canal 4 Esquel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252459
+#EXTINF:-1,Canal 6 Moreno
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252463
+#EXTINF:-1,Canal 6 Posadas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252464
+#EXTINF:-1,Canal 7 Chubut
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252465
+#EXTINF:-1,Canal 7 Jujuy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252466
+#EXTINF:-1,Canal 7 Salta
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252467
+#EXTINF:-1,Canal 9 Televida Mendoza
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252468
+#EXTINF:-1,Canal 10
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252469
+#EXTINF:-1,Canal 10 Mar del Plata
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252470
+#EXTINF:-1,Canal 12 Madryn TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252471
+#EXTINF:-1,Canal 13 San Luis
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252472
+#EXTINF:-1,CN 24/7 Neuquen
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252473
+#EXTINF:-1,Canal 26
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252474
+#EXTINF:-1,Canal 79 Mar del Plata
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252475
+#EXTINF:-1,Canal 907 FM Comunicar
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252476
+#EXTINF:-1,Canal Cinco Tigre
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252477
+#EXTINF:-1,Canal Coop
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252478
+#EXTINF:-1,Canal U
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252479
+#EXTINF:-1,Canal XFN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252480
+#EXTINF:-1,Chacra TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252481
+#EXTINF:-1,CL3 Cablevision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252483
+#EXTINF:-1,Garage TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252485
+#EXTINF:-1,Multivisión
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252488
+#EXTINF:-1,RTN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252491
+#EXTINF:-1,Sicardi TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252492
+#EXTINF:-1,TDC TV Santa Fe
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252494
+#EXTINF:-1,Telediario Televisión
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252496
+#EXTINF:-1,Telemax
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252497
+#EXTINF:-1,Telpin Canal 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252498
+#EXTINF:-1,Terramia TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252499
+#EXTINF:-1,Telesol San Juan
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252500
+#EXTINF:-1,TV Mana
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252502
+#EXTINF:-1,TV Publica Fueguina
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252503
+#EXTINF:-1,Music Top
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252504
+#EXTINF:-1,Retro Plus TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252505
+#EXTINF:-1,ATV Argentina
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252507
+#EXTINF:-1,Canal 10 Rio Negro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252508
+#EXTINF:-1,Canal 3 Las Flores Digital
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252510
+#EXTINF:-1,El Eco TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252512
+#EXTINF:-1,UTN TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252513
+#EXTINF:-1,Canal Rural
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252515
+#EXTINF:-1,Red AD Venir Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252521
+#EXTINF:-1,ATB
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252522
+#EXTINF:-1,RTP
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252523
+#EXTINF:-1,TV Grande Natal HDTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252526
+#EXTINF:-1,Retro Plus TV Señal 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252527
+#EXTINF:-1,SBT GO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252528
+#EXTINF:-1,TV Infor Bahia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252532
+#EXTINF:-1,TV Destak
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252534
+#EXTINF:-1,Kuriakos Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252537
+#EXTINF:-1,TV Digital Birigui
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252539
+#EXTINF:-1,Web TV Progresso
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252544
+#EXTINF:-1,TV Jornal do Nordeste
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252545
+#EXTINF:-1,TV Nova Onda
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252546
+#EXTINF:-1,TV Japi
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252553
+#EXTINF:-1,TV Água Boa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252554
+#EXTINF:-1,Retro Cartoon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252558
+#EXTINF:-1,Canal 29
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252562
+#EXTINF:-1,Band
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252563
+#EXTINF:-1,Via Morena
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252565
+#EXTINF:-1,TV Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252566
+#EXTINF:-1,TV Rede Gospel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252569
+#EXTINF:-1,TV Mundial
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252570
+#EXTINF:-1,Record News Espirito Santo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252575
+#EXTINF:-1,All Sports
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252577
+#EXTINF:-1,TV Vicosa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252579
+#EXTINF:-1,TV Atividade
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252581
+#EXTINF:-1,TV Caravelas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252582
+#EXTINF:-1,TV Plan
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252584
+#EXTINF:-1,TV Candides
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252585
+#EXTINF:-1,Rede Brasil de Televisao
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252587
+#EXTINF:-1,TV Poços
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252590
+#EXTINF:-1,TV CN Agitos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252591
+#EXTINF:-1,Agro Brasil TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252597
+#EXTINF:-1,Cali TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252603
+#EXTINF:-1,Canal Visión Dorada
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252611
+#EXTINF:-1,Caracol
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252612
+#EXTINF:-1,Mundo +
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252616
+#EXTINF:-1,Suram
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252618
+#EXTINF:-1,Telecaribe
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252621
+#EXTINF:-1,Telecaribe Deportes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252622
+#EXTINF:-1,Tele Islas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252626
+#EXTINF:-1,TV Agro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252627
+#EXTINF:-1,Amé
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252637
+#EXTINF:-1,Cibervision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252644
+#EXTINF:-1,Farovision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252647
+#EXTINF:-1,Global TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252651
+#EXTINF:-1,Megavision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252654
+#EXTINF:-1,Microvision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252655
+#EXTINF:-1,Musavision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252656
+#EXTINF:-1,Naranja TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252657
+#EXTINF:-1,Onda TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252658
+#EXTINF:-1,Orbit TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252659
+#EXTINF:-1,Ready TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252661
+#EXTINF:-1,Resplandor Vision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252662
+#EXTINF:-1,RNN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252663
+#EXTINF:-1,Romana TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252664
+#EXTINF:-1,Super TV 55
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252666
+#EXTINF:-1,Telecanal 28
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252669
+#EXTINF:-1,Telecibao
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252671
+#EXTINF:-1,Telefuturo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252672
+#EXTINF:-1,Telemilenio
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252673
+#EXTINF:-1,Telenord 8
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252674
+#EXTINF:-1,Telenord 10
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252675
+#EXTINF:-1,Teleunion
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252680
+#EXTINF:-1,Televisión del Este
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252684
+#EXTINF:-1,TNI 51
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252685
+#EXTINF:-1,TV Montaña
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252687
+#EXTINF:-1,TV Plata
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252688
+#EXTINF:-1,Vallevisión
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252690
+#EXTINF:-1,Zol 106.5 FM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252693
+#EXTINF:-1,Momentos G
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252695
+#EXTINF:-1,TVE 24H
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252696
+#EXTINF:-1,7TV Murcia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252698
+#EXTINF:-1,Canal 33 Madrid
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252700
+#EXTINF:-1,Castilla-La Mancha Media
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252703
+#EXTINF:-1,ETB SAT Pais Vasco
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252707
+#EXTINF:-1,Euskal Telebista 1 Pais Vasco
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252708
+#EXTINF:-1,Euskal Telebista 2 Pais Vasco
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252709
+#EXTINF:-1,La 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252712
+#EXTINF:-1,Lancelot TV Canarias
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252713
+#EXTINF:-1,Levante TV | SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252714
+#EXTINF:-1,Onda Algeciras
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252715
+#EXTINF:-1,Television Municipal de Cordoba
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252720
+#EXTINF:-1,TV Galicia America
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252722
+#EXTINF:-1,TV Galicia Europa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252723
+#EXTINF:-1,Xabarin TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252727
+#EXTINF:-1,Alcarria TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252728
+#EXTINF:-1,Canal Parlamento - Madrid
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252731
+#EXTINF:-1,Cultura 365
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252732
+#EXTINF:-1,TV Lobo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252736
+#EXTINF:-1,Canal 12.1 Colima
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252738
+#EXTINF:-1,Genesis TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252744
+#EXTINF:-1,SIZART Canal 24 Zacatecas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252745
+#EXTINF:-1,Tlaxcala TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252746
+#EXTINF:-1,TVP Los Mochis
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252747
+#EXTINF:-1,TVP Mazatlan
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252748
+#EXTINF:-1,TVP Obregon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252749
+#EXTINF:-1,TVP Culiacan
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252750
+#EXTINF:-1,Mexiquense TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252752
+#EXTINF:-1,Conecta TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252753
+#EXTINF:-1,TV4 Deportes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252754
+#EXTINF:-1,TV4 Noticias
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252756
+#EXTINF:-1,15TV Sabinas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252757
+#EXTINF:-1,ADN 40
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252758
+#EXTINF:-1,Canal 10 Chiapas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252761
+#EXTINF:-1,Canal Once Nacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252766
+#EXTINF:-1,Multimedios Guadalajara
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252771
+#EXTINF:-1,Multimedios Monterrey
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252773
+#EXTINF:-1,MVM Noticias Oaxaca
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252774
+#EXTINF:-1,RTQ Queretaro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252780
+#EXTINF:-1,Transmedia TV Morelia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252786
+#EXTINF:-1,TVperuanisima
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252793
+#EXTINF:-1,Canal IPE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252794
+#EXTINF:-1,Vision Noticias Peru
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252795
+#EXTINF:-1,Exitosa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252801
+#EXTINF:-1,Karibeña TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252802
+#EXTINF:-1,BHTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252809
+#EXTINF:-1,Cultura 24 TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252810
+#EXTINF:-1,Monterrico TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252812
+#EXTINF:-1,Pax TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252814
+#EXTINF:-1,Unitel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252817
+#EXTINF:-1,Via Television Tarapoto
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252818
+#EXTINF:-1,Central TV Chosica
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252819
+#EXTINF:-1,TV Peru Noticias
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252820
+#EXTINF:-1,Canal Once Del Zulia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252822
+#EXTINF:-1,Catatumbo TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252824
+#EXTINF:-1,Reforma TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252827
+#EXTINF:-1,Telearagua
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252828
+#EXTINF:-1,TLT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252829
+#EXTINF:-1,TVO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252831
+#EXTINF:-1,Zapping Music
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252838
+#EXTINF:-1,Ruidos TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252848
+#EXTINF:-1,Cloud Server Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252850
+#EXTINF:-1,Latinos Up! TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252855
+#EXTINF:-1,WOW TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252857
+#EXTINF:-1,Telered
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252858
+#EXTINF:-1,Telesistema
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252859
+#EXTINF:-1,Retro TV Palmares
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252860
+#EXTINF:-1,UCV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252880
+#EXTINF:-1,Campus TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252881
+#EXTINF:-1,U Los Lagos
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252885
+#EXTINF:-1,UMAG TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252886
+#EXTINF:-1,UMAG TV 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252887
+#EXTINF:-1,Campo Abierto TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252891
+#EXTINF:-1,tevex
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252892
+#EXTINF:-1,TV Senado
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252897
+#EXTINF:-1,AM Canal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252910
+#EXTINF:-1,Holvoet TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252911
+#EXTINF:-1,Atacama TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252913
+#EXTINF:-1,Enfoque Digital TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252914
+#EXTINF:-1,Canal VTV Los Andes - San Felipe
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252920
+#EXTINF:-1,Girovisual TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252922
+#EXTINF:-1,Canal 2 de San Antonio
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252923
+#EXTINF:-1,TV Costa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252924
+#EXTINF:-1,Canal 74 TeVe Señal 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252926
+#EXTINF:-1,VTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252929
+#EXTINF:-1,Canal 57 Melipilla
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252933
+#EXTINF:-1,TVR Canal 11
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252938
+#EXTINF:-1,Vivo TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252939
+#EXTINF:-1,Nativa TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252945
+#EXTINF:-1,Tele2 Web
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252946
+#EXTINF:-1,Canal 21 Chillán
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252947
+#EXTINF:-1,Estacion TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252948
+#EXTINF:-1,ClickTv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252949
+#EXTINF:-1,TV4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252953
+#EXTINF:-1,TecTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252958
+#EXTINF:-1,Canal Latino 54
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252960
+#EXTINF:-1,Decima TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252961
+#EXTINF:-1,Canal 5 Puerto Montt
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252966
+#EXTINF:-1,Chiloe Red 25
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252967
+#EXTINF:-1,Rocco TV 4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252968
+#EXTINF:-1,Canal 11 TV Aysen
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252969
+#EXTINF:-1,Soberania Radio
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252970
+#EXTINF:-1,PinguinoTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252973
+#EXTINF:-1,TVGE Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252979
+#EXTINF:-1,TV Marti
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252980
+#EXTINF:-1,Arirang
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252984
+#EXTINF:-1,CGNTV Japan
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252986
+#EXTINF:-1,ETB
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252990
+#EXTINF:-1,RTVE24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252992
+#EXTINF:-1,France 24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252993
+#EXTINF:-1,ADN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253065
+#EXTINF:-1,CH | ESPN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262205
+#EXTINF:-1,CH | Mega + HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262783
+#EXTINF:-1,CH | NTV (Tvn Educa)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263458
+#EXTINF:-1,CH | CDO PREMIUN HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264150
+#EXTINF:-1,CH | CDO BASICO  FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264151
+#EXTINF:-1,CH | TVN FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264152
+#EXTINF:-1,CH | DTV SPORTS 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264242
+#EXTINF:-1,CH | ESPN 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264243
+#EXTINF:-1,CH | FOX SPORTS 2 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264245
+#EXTINF:-1,CH | FOX SPORTS 3 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264246
+#EXTINF:-1,CH | LA RED (Directo)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264604
+#EXTINF:-1,CH | The Giannys
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265007
+#EXTINF:-1,CH | CaracolaFM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267210
+#EXTINF:-1,CH | DTV SPORTS 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267393
+#EXTINF:-1,HD | Azteca Uno
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258240
+#EXTINF:-1,HD | Canal 5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226525
+#EXTINF:-1,HD | A&E
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/10
+#EXTINF:-1,HD | Bitme
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/53
+#EXTINF:-1,HD | Comedy Central
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/13
+#EXTINF:-1,HD | TLC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/31
+#EXTINF:-1,HD | TNT Series
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/229850
+#EXTINF:-1,HD | Universal Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/8
+#EXTINF:-1,HD | Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/7
+#EXTINF:-1,HD | Boomerang
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/23
+#EXTINF:-1,HD | Cartoon Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/21
+#EXTINF:-1,HD | Disney XD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/22
+#EXTINF:-1,HD | Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/17
+#EXTINF:-1,HD | Nick HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/20
+#EXTINF:-1,HD | Discovery ID
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/16
+#EXTINF:-1,HD | Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/42
+#EXTINF:-1,HD | Discovery World
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/25
+#EXTINF:-1,HD | Food Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/46
+#EXTINF:-1,HD | History
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/24
+#EXTINF:-1,HD | History 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1512
+#EXTINF:-1,HD | NatGeo Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/28
+#EXTINF:-1,HD | Natgeo Wild
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/51
+#EXTINF:-1,HD | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/37
+#EXTINF:-1,HD | Cinecanal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/34
+#EXTINF:-1,HD | Cinemax
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/55
+#EXTINF:-1,HD | Star Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/50
+#EXTINF:-1,HD | Star Action
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/47
+#EXTINF:-1,HD | FX Movies
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/41
+#EXTINF:-1,HD | Golden Edge
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/36
+#EXTINF:-1,HD | Golden Premier
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/8053
+#EXTINF:-1,HD | HBO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1472
+#EXTINF:-1,HD | HBO 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1473
+#EXTINF:-1,HD | HBO Family
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1475
+#EXTINF:-1,HD | HBO Plus
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/189383
+#EXTINF:-1,HD | HBO Signature
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1474
+#EXTINF:-1,HD | Max Prime
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1463
+#EXTINF:-1,HD | Morbido
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/38
+#EXTINF:-1,HD | MTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40
+#EXTINF:-1,Nickelodeon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263291
+#EXTINF:-1,Star Series
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263346
+#EXTINF:-1,Sony
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263347
+#EXTINF:-1,RCN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263447
+#EXTINF:-1,Star Classics
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263531
+#EXTINF:-1,MX | TUDN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262194
+#EXTINF:-1,LA | TUDN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/245567
+#EXTINF:-1,LAT | ESTRELLA TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244541
+#EXTINF:-1,LAT | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239632
+#EXTINF:-1,LAT | STAR ACTION
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239636
+#EXTINF:-1,LAT | STAR CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239641
+#EXTINF:-1,LAT | STAR SERIES
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239643
+#EXTINF:-1,LAT | FXM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239645
+#EXTINF:-1,LAT | HBO FAMILY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239647
+#EXTINF:-1,LAT | HBO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239648
+#EXTINF:-1,LAT | HBO 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240948
+#EXTINF:-1,LAT | PARAMOUNT CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239652
+#EXTINF:-1,LAT | SONY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239653
+#EXTINF:-1,LAT | SPACE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239654
+#EXTINF:-1,LAT | Studio Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239655
+#EXTINF:-1,LAT | TBS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239657
+#EXTINF:-1,LAT | TNT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239658
+#EXTINF:-1,LAT | TNT SERIES
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239659
+#EXTINF:-1,LAT | UNIVERSAL CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239660
+#EXTINF:-1,LAT | WARNER CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239661
+#EXTINF:-1,AR | TV PUBLICA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/491
+#EXTINF:-1,AR | TELEFE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/492
+#EXTINF:-1,AR | AMERICA TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/494
+#EXTINF:-1,AR | EL NUEVE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/495
+#EXTINF:-1,AR | EL TRECE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/496
+#EXTINF:-1,AR | TELEFE SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/498
+#EXTINF:-1,AR | TV PUBLICA*
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/499
+#EXTINF:-1,AR | A24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/501
+#EXTINF:-1,AR | C5N
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/503
+#EXTINF:-1,AR | Canal-26-HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/505
+#EXTINF:-1,AR | Canal 3 Rosario
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/506
+#EXTINF:-1,AR | Canal de Noticias 24/7
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/511
+#EXTINF:-1,AR | Cine AR
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/512
+#EXTINF:-1,AR | Cronica-HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/514
+#EXTINF:-1,AR | DeporTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/515
+#EXTINF:-1,AR | El Nueve HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/516
+#EXTINF:-1,AR | Garage TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/518
+#EXTINF:-1,AR | Paka Paka
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/520
+#EXTINF:-1,AR | TN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/522
+#EXTINF:-1,AR | El Trece HD op2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240910
+#EXTINF:-1,AR | El Trece HD op3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240911
+#EXTINF:-1,AR | El Trece Op3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240912
+#EXTINF:-1,AR | El Trece Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240921
+#EXTINF:-1,AR | America TV *
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263318
+#EXTINF:-1,AR | El Nueve SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265945
+#EXTINF:-1,AR | Telefe SD*
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265947
+#EXTINF:-1,URU | VTV + HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1513
+#EXTINF:-1,URU | VTV HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1514
+#EXTINF:-1,URU | Teledoce
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1515
+#EXTINF:-1,URU | A+V
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1517
+#EXTINF:-1,URU | Canal 4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226565
+#EXTINF:-1,URU | Canal 10 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240769
+#EXTINF:-1,URU | Canal 4 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240770
+#EXTINF:-1,URU | VTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259419
+#EXTINF:-1,URU | VTV+
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259420
+#EXTINF:-1,URU | VTV + FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259421
+#EXTINF:-1,URU | Teledoce SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259425
+#EXTINF:-1,URU | Canal 12
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259431
+#EXTINF:-1,URU | Canal 4 SALTO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259436
+#EXTINF:-1,URU | TELESUR
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259444
+#EXTINF:-1,URU | TNU
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262588
+#EXTINF:-1,URU | TV Ciudad
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262597
+#EXTINF:-1,URU | VTV FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264265
+#EXTINF:-1,URU | CANAL MONTECARLO SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264728
+#EXTINF:-1,URU | CANAL 4 MONTECARLO SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264729
+#EXTINF:-1,URU | CANAL SAETA SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264732
+#EXTINF:-1,URU | CANAL 11 PUNTA DEL ESTE SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264733
+#EXTINF:-1,URU | CANAL 12 SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264734
+#EXTINF:-1,URU | CANAL 10 SAETA HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264740
+#EXTINF:-1,URU | TV CIUDAD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264744
+#EXTINF:-1,URU | CANAL 11 PUNTA DEL ESTE HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264745
+#EXTINF:-1,URU | CANAL 12 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264746
+#EXTINF:-1,URU | LA RED SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264747
+#EXTINF:-1,URU | CANAL MONTECARLO HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264748
+#EXTINF:-1,URU | CANAL 12 DE MELO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264750
+#EXTINF:-1,URU | VTV SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264751
+#EXTINF:-1,URU | CANAL A + V
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264753
+#EXTINF:-1,URU | CANAL 12 SD 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264754
+#EXTINF:-1,CA | A&E
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261484
+#EXTINF:-1,CA | ABC EAST
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261485
+#EXTINF:-1,CA | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261486
+#EXTINF:-1,CA | BBC CANADA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261488
+#EXTINF:-1,CA | CANAL D
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261490
+#EXTINF:-1,CA | CANAL VIE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261491
+#EXTINF:-1,CA | CNN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261492
+#EXTINF:-1,CA | COOKING CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261493
+#EXTINF:-1,CA | CP24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261494
+#EXTINF:-1,CA | DISNEY JR
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261495
+#EXTINF:-1,CA | DIY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261496
+#EXTINF:-1,CA | GLOBAL TORONTO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261498
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261499
+#EXTINF:-1,CA | HBO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261500
+#EXTINF:-1,CA | MAX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261504
+#EXTINF:-1,CA | SPIKE TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261505
+#EXTINF:-1,CA | BEIN SPORTS CANADA**
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261506
+#EXTINF:-1,CA | TSN 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261507
+#EXTINF:-1,CA | TSN 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261508
+#EXTINF:-1,CA | TSN 4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261510
+#EXTINF:-1,CA | SPORTS NET 360
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261511
+#EXTINF:-1,CA | SPORTS NET ONE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261512
+#EXTINF:-1,CA | SUPER ECRAN 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261513
+#EXTINF:-1,CA | SUPER ECRAN 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261514
+#EXTINF:-1,CA | SUPER ECRAN 4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261516
+#EXTINF:-1,CA | TRAVEL SCAPE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261518
+#EXTINF:-1,CA | TVO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261519
+#EXTINF:-1,CA | CPAC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261520
+#EXTINF:-1,CA | ICI MONTREAL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261521
+#EXTINF:-1,CA | ICI VANCOUVER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261522
+#EXTINF:-1,CA | INVESTIGATION
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261523
+#EXTINF:-1,CA | LCN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261524
+#EXTINF:-1,CA | RDS 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261526
+#EXTINF:-1,CA | RDS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261527
+#EXTINF:-1,CA | RDS INFO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261528
+#EXTINF:-1,CA | YOOPA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261532
+#EXTINF:-1,CA | CBC TORONTO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261534
+#EXTINF:-1,CA | CBC REGGINA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261536
+#EXTINF:-1,CAN| CBC Charlottetown
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261537
+#EXTINF:-1,CA | CBC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261538
+#EXTINF:-1,CA | CBC MONTREAL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261539
+#EXTINF:-1,CA | CBC NEWS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261540
+#EXTINF:-1,CA | CBC VANCOUVER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261542
+#EXTINF:-1,CA | CTV COMEDY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261544
+#EXTINF:-1,CA | CTV DRAMA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261545
+#EXTINF:-1,CA | CTV BARRIE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261546
+#EXTINF:-1,CA | CTV KITCHENER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261548
+#EXTINF:-1,CA | CTV LONDON
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261549
+#EXTINF:-1,CA | LEAFS TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261551
+#EXTINF:-1,CA | TSN 5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261552
