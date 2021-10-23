@@ -43,8 +43,6 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, CANAL 26 AGUASCALIENTES
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1, CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1, AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=84&p=3&k=srregio&f=.m3u8
