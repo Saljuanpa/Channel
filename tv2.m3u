@@ -16,7 +16,7 @@ http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=89&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, DISCOVERY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=86&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/640px-2015_Discovery_theater_HD_logo.svg.png" , DISCOVERY THEATER 
+#EXTINF:-1 tvg-logo="https://logoeps.com/wp-content/uploads/2013/08/discovery-hd-theater-vector-logo.png" , DISCOVERY THEATER 
 http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=95&p=3&k=srregio&f=.m3u8
 
 *** NACIONALES***
