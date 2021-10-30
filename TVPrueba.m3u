@@ -1,0 +1,1277 @@
+#EXTM3U
+#EXTINF:-1,DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,Canal 6 CDMX
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+#EXTINF:-1,Canal Once
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1,Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1,TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1,Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1,Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1,Canal 6 MTY
+http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,Canal 6 LAG
+http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
+#EXTINF:-1,Canal 6 GDL
+http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
+#EXTINF:-1,Canal 6 PUE
+http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
+#EXTINF:-1,Canal 6 GTO
+http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
+#EXTINF:-1,Canal 6 SAL
+http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
+#EXTINF:-1,Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
+#EXTINF:-1,Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1,Mexiquense Televisión
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1,Canal 28 NL
+https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1,SET TV 26.1
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1,TV4 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1,TV4.2 Gto.
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1,TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv43/videotv43_720p/playlist.m3u8
+#EXTINF:-1,Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1,RTQ
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,RT (Español)
+https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1,AE Mundo
+http://45.179.140.242:8000/play/a0ig
+#EXTINF:-1,AXN
+http://45.179.140.242:8000/play/a0j9
+#EXTINF:-1,Animal Planet
+http://45.179.140.242:8000/play/a0i9
+#EXTINF:-1,CNN Espanol
+http://45.179.140.242:8000/play/a0i6
+#EXTINF:-1,Canal Estrellas
+http://45.179.140.242:8000/play/a0ij
+#EXTINF:-1,Canal Uno TV Ecu
+http://45.179.140.242:8000/play/a0iz
+#EXTINF:-1,Cartoon Network
+http://45.179.140.242:8000/play/a0h7
+#EXTINF:-1,Cinemax
+http://45.179.140.242:8000/play/a0j7
+#EXTINF:-1,Discovery Channel
+http://45.179.140.242:8000/play/a0i8
+#EXTINF:-1,Discovery ID
+http://45.179.140.242:8000/play/a0jg
+#EXTINF:-1,Discovery Kids
+http://45.179.140.242:8000/play/a0i5
+#EXTINF:-1,Discovery Turbo
+http://45.179.140.242:8000/play/a0hi
+#EXTINF:-1,Disney Channel
+http://45.179.140.242:8000/play/a0i7
+#EXTINF:-1,Disney Jr
+http://45.179.140.242:8000/play/a0i3
+#EXTINF:-1,E Entertainment
+http://45.179.140.242:8000/play/a0gh
+#EXTINF:-1,Enlace
+http://45.179.140.242:8000/play/a0h9
+#EXTINF:-1,FX
+http://45.179.140.242:8000/play/a0jb
+#EXTINF:-1,FXM
+http://45.179.140.242:8000/play/a0hx
+#EXTINF:-1,Fox Sports
+http://45.179.140.242:8000/play/a0ic
+#EXTINF:-1,Fox Sports 1
+http://45.179.140.242:8000/play/a0jo
+#EXTINF:-1,Fox Sports 3
+http://45.179.140.242:8000/play/a0ik
+#EXTINF:-1,France 24
+http://45.179.140.242:8000/play/a0jh
+#EXTINF:-1,HomeandHealth
+http://45.179.140.242:8000/play/a0jj
+#EXTINF:-1,MTV
+http://45.179.140.242:8000/play/a0h3
+#EXTINF:-1,Nat Geo
+http://45.179.140.242:8000/play/a0h2
+#EXTINF:-1,NatGeo Kids
+http://45.179.140.242:8000/play/a0h6
+#EXTINF:-1,Nick Jr
+http://45.179.140.242:8000/play/a0jc
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
+#EXTINF:-1,Space
+http://45.179.140.242:8000/play/a0ja
+#EXTINF:-1,TBS
+http://45.179.140.242:8000/play/a0ji
+#EXTINF:-1,TLC
+http://45.179.140.242:8000/play/a0ii
+#EXTINF:-1,TVE
+http://45.179.140.242:8000/play/a0jr
+#EXTINF:-1,Warner
+http://45.179.140.242:8000/play/a0ia
+#EXTINF:-1,AE Mundo
+http://38.131.11.34:1080/play/a02q
+#EXTINF:-1,AXN
+http://38.131.11.34:1080/play/a01x
+#EXTINF:-1,Animal Planet
+http://38.131.11.34:1080/play/a02h
+#EXTINF:-1,CANAL 13
+http://38.131.11.34:1080/play/a07u
+#EXTINF:-1,CDF Basico
+http://38.131.11.34:1080/play/a02p
+#EXTINF:-1,CDF PREMIUM
+http://38.131.11.34:1080/play/a00b
+#EXTINF:-1,CHV
+http://38.131.11.34:1080/play/a008
+#EXTINF:-1,CNN Chile
+http://38.131.11.34:1080/play/a00z
+#EXTINF:-1,CNN Espanol
+http://38.131.11.34:1080/play/a004
+#EXTINF:-1,Canal de Las estrellas
+http://38.131.11.34:1080/play/a032
+#EXTINF:-1,Cartoon Network
+http://38.131.11.34:1080/play/a012
+#EXTINF:-1,Cinecanal
+http://38.131.11.34:1080/play/a00s
+#EXTINF:-1,Cinemax
+http://38.131.11.34:1080/play/a01v
+#EXTINF:-1,Discovery Channel
+http://38.131.11.34:1080/play/a02g
+#EXTINF:-1,Discovery ID
+http://38.131.11.34:1080/play/a01a
+#EXTINF:-1,Discovery Kids
+http://38.131.11.34:1080/play/a003
+#EXTINF:-1,Discovery Turbo
+http://38.131.11.34:1080/play/a027
+#EXTINF:-1,Disney Channel
+http://38.131.11.34:1080/play/a02f
+#EXTINF:-1,Disney Jr
+http://38.131.11.34:1080/play/a00k
+#EXTINF:-1,Disney XD
+http://38.131.11.34:1080/play/a00p
+#EXTINF:-1,E Entertainment
+http://38.131.11.34:1080/play/a02j
+#EXTINF:-1,Enlace
+http://38.131.11.34:1080/play/a03f
+#EXTINF:-1,FOX P ACTION
+http://38.131.11.34:1080/play/a00f
+#EXTINF:-1,FOX P MOVIES
+http://38.131.11.34:1080/play/a00d
+#EXTINF:-1,FOX P SERIES E
+http://38.131.11.34:1080/play/a07l
+#EXTINF:-1,FX
+http://38.131.11.34:1080/play/a01z
+#EXTINF:-1,FX Movies
+http://38.131.11.34:1080/play/a00a
+#EXTINF:-1,Fox Life
+http://38.131.11.34:1080/play/a00y
+#EXTINF:-1,Fox Sports
+http://38.131.11.34:1080/play/a02k
+#EXTINF:-1,Fox Sports 2
+http://38.131.11.34:1080/play/a033
+#EXTINF:-1,Fox Sports 3
+http://38.131.11.34:1080/play/a034
+#EXTINF:-1,Fox Sports Premium
+http://38.131.11.34:1080/play/a00c
+#EXTINF:-1,HBO
+http://38.131.11.34:1080/play/a01u
+#EXTINF:-1,HBO 2
+http://38.131.11.34:1080/play/a00g
+#EXTINF:-1,HBO Family
+http://38.131.11.34:1080/play/a00j
+#EXTINF:-1,HBO Plus
+http://38.131.11.34:1080/play/a00h
+#EXTINF:-1,History Channel
+http://38.131.11.34:1080/play/a00r
+#EXTINF:-1,Home and Health
+http://38.131.11.34:1080/play/a01d
+#EXTINF:-1,I-Sat
+http://38.131.11.34:1080/play/a00v
+#EXTINF:-1,MTV
+http://38.131.11.34:1080/play/a00w
+#EXTINF:-1,Nat Geo
+http://38.131.11.34:1080/play/a00q
+#EXTINF:-1,NatGeo Kids
+http://38.131.11.34:1080/play/a011
+#EXTINF:-1,Nick Jr
+http://38.131.11.34:1080/play/a026
+#EXTINF:-1,Nickelodeon
+http://38.131.11.34:1080/play/a00o
+#EXTINF:-1,STAR CHANNEL
+http://38.131.11.34:1080/play/a07m
+#EXTINF:-1,Sony
+http://38.131.11.34:1080/play/a01w
+#EXTINF:-1,Space
+http://38.131.11.34:1080/play/a01y
+#EXTINF:-1,TBS
+http://38.131.11.34:1080/play/a038
+#EXTINF:-1,TCM
+http://38.131.11.34:1080/play/a010
+#EXTINF:-1,TNT
+http://38.131.11.34:1080/play/a013
+#EXTINF:-1,TV+
+http://38.131.11.34:1080/play/a044
+#EXTINF:-1,TV+ HD
+http://38.131.11.34:1080/play/a051
+#EXTINF:-1,TVE
+http://38.131.11.34:1080/play/a03g
+#EXTINF:-1,TVEDUCA
+http://38.131.11.34:1080/play/a07k
+#EXTINF:-1,TVN
+http://38.131.11.34:1080/play/a006
+#EXTINF:-1,Travel and Living
+http://38.131.11.34:1080/play/a030
+#EXTINF:-1,Universal
+http://38.131.11.34:1080/play/a00t
+#EXTINF:-1,Warner
+http://38.131.11.34:1080/play/a05i
+#EXTINF:-1,Azteca 13
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263448
+#EXTINF:-1,Las Estrellas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263287
+#EXTINF:-1,Las Estrellas -2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263524
+#EXTINF:-1,Canal 5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263434
+#EXTINF:-1,Azteca 7
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263435
+#EXTINF:-1,Imagen Tv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263439
+#EXTINF:-1,FORO TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263443
+#EXTINF:-1,AXN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263277
+#EXTINF:-1,A&E
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263279
+#EXTINF:-1,E! Entertaiment
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263298
+#EXTINF:-1,El Gourmet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263444
+#EXTINF:-1,Food Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263445
+#EXTINF:-1,FX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263442
+#EXTINF:-1,Lifetime
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263440
+#EXTINF:-1,TBS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263451
+#EXTINF:-1,Unicable
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263278
+#EXTINF:-1,Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263294
+#EXTINF:-1,Animal Planet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263295
+#EXTINF:-1,Nat Geo Wild
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263297
+#EXTINF:-1,Discovery H&H
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263299
+#EXTINF:-1,Discovery TLC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263348
+#EXTINF:-1,Discovery Turbo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263349
+#EXTINF:-1,Discovery Science
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263436
+#EXTINF:-1,Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263438
+#EXTINF:-1,History Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263300
+#EXTINF:-1,Investigacion Discovery
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263293
+#EXTINF:-1,National Geographic
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263296
+#EXTINF:-1,Canal Uno Colombia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263503
+#EXTINF:-1,Caracol
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263446
+#EXTINF:-1,Pasiones
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263522
+#EXTINF:-1,Cartoon Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263286
+#EXTINF:-1,Disney Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263301
+#EXTINF:-1,Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263303
+#EXTINF:-1,Disney XD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263302
+#EXTINF:-1,Nick Jr
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263292
+#EXTINF:-1,AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263354
+#EXTINF:-1,Cinecanal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263281
+#EXTINF:-1,Cinemax
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263356
+#EXTINF:-1,FXM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263441
+#EXTINF:-1,Golden
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263340
+#EXTINF:-1,Golden Edge
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263341
+#EXTINF:-1,HBO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263288
+#EXTINF:-1,HBO 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263289
+#EXTINF:-1,HBO Extreme
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263437
+#EXTINF:-1,HBO Signature
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263449
+#EXTINF:-1,Paramount Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263357
+#EXTINF:-1,Star Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263285
+#EXTINF:-1,Star Action
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263343
+#EXTINF:-1,Star Cinema
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263345
+#EXTINF:-1,Star Hits
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263344
+#EXTINF:-1,Space
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263355
+#EXTINF:-1,TNT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263280
+#EXTINF:-1,TNT Series
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263342
+#EXTINF:-1,Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263282
+#EXTINF:-1,Universal Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263283
+#EXTINF:-1,MTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263351
+#EXTINF:-1,Canal Once
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264121
+#EXTINF:-1,Distrito Comedia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266813
+#EXTINF:-1,MX | Baby First
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/151
+#EXTINF:-1,MX | Baby Tv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/140
+#EXTINF:-1,MX | Boomerang
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/149
+#EXTINF:-1,MX | Nat Geo Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1471
+#EXTINF:-1,MX | Nick
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/146
+#EXTINF:-1,MX | Nick 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/152
+#EXTINF:-1,MX | Nick Junior
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/143
+#EXTINF:-1,MX | NickToons
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/145
+#EXTINF:-1,MX | Tooncast
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/150
+#EXTINF:-1,AR | Baby TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244263
+#EXTINF:-1,AR | Boomerang
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244264
+#EXTINF:-1,AR | Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244266
+#EXTINF:-1,AR | Disney Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244267
+#EXTINF:-1,AR | Disney Junior
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244268
+#EXTINF:-1,AR | Disney XD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244269
+#EXTINF:-1,AR | Nickelodeon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244271
+#EXTINF:-1,AR | Baby First
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265008
+#EXTINF:-1,AR | Baby TV 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265009
+#EXTINF:-1,MX | HBO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/133
+#EXTINF:-1,MX | HBO Signature
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/136
+#EXTINF:-1,MX | Max Prime
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1464
+#EXTINF:-1,MX | Star Fun
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/138
+#EXTINF:-1,MX | Star hits
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/116
+#EXTINF:-1,MX | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/124
+#EXTINF:-1,MX | Cinemax
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/128
+#EXTINF:-1,MX | De Pelicula
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/131
+#EXTINF:-1,MX | De Pelicula Clasico
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/245528
+#EXTINF:-1,MX | De Pelicula Plus
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/123
+#EXTINF:-1,MX | Cinema Dinamita
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264237
+#EXTINF:-1,MX | Golden
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/129
+#EXTINF:-1,MX | Golden Edge
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/130
+#EXTINF:-1,MX | Golden Plus
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/122
+#EXTINF:-1,MX | Sundance Tv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/126
+#EXTINF:-1,MX | TNT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/121
+#EXTINF:-1,MX | Animal Planet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/79
+#EXTINF:-1,MX | Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/78
+#EXTINF:-1,MX | Discovery World
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/77
+#EXTINF:-1,MX | Food Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/73
+#EXTINF:-1,MX | Film & Arts
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/83
+#EXTINF:-1,MX | Ingenio Tv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/72
+#EXTINF:-1,MX | NatGeo Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/80
+#EXTINF:-1,MX | NatGeo Wild
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/76
+#EXTINF:-1,MX | HGTV HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/257650
+#EXTINF:-1,MX | Star Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/84
+#EXTINF:-1,MX | Sony
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/85
+#EXTINF:-1,MX | Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/86
+#EXTINF:-1,MX | FX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/88
+#EXTINF:-1,MX | Unicable
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/93
+#EXTINF:-1,MX | Mas Chic
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/95
+#EXTINF:-1,MX | Syfy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/97
+#EXTINF:-1,MX | Discovery Investigation
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/98
+#EXTINF:-1,MX | El Gourmet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/99
+#EXTINF:-1,MX | Glitz
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/100
+#EXTINF:-1,MX | Star Life
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/101
+#EXTINF:-1,MX | Distrito Comedia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/102
+#EXTINF:-1,MX | TBS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/103
+#EXTINF:-1,MX | Tlnovelas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/104
+#EXTINF:-1,MX | Discovery Home and Health
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/105
+#EXTINF:-1,MX | Studio Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/109
+#EXTINF:-1,MX | Discovery Turbo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/111
+#EXTINF:-1,MX | I sat
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1503
+#EXTINF:-1,MX | TCM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1509
+#EXTINF:-1,MX | Distrito Comedia HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1505
+#EXTINF:-1,IT | RAI
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/10542
+#EXTINF:-1,MX | HolaTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263901
+#EXTINF:-1,NEWS | NTN24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40831
+#EXTINF:-1,NEWS | 24/7 Noticias Argentina
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40835
+#EXTINF:-1,NEWS | ABC News
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40836
+#EXTINF:-1,NEWS | Cable Noticias
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40837
+#EXTINF:-1,NEWS | DW
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40838
+#EXTINF:-1,MX | CNN En español
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253
+#EXTINF:-1,MX | CNN Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1506
+#EXTINF:-1,UK | BBC Entertaiment
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244515
+#EXTINF:-1,BBC WORLD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244516
+#EXTINF:-1,MX | Canal De Las Estrellas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/57
+#EXTINF:-1,MX | Imagen TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232388
+#EXTINF:-1,MX | Canal 5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/60
+#EXTINF:-1,MX | El Nueve
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230603
+#EXTINF:-1,MX | Canal 4 Guadalajara
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258996
+#EXTINF:-1,MX | Televisa Puebla
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255793
+#EXTINF:-1,MX | Canal Once
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/63
+#EXTINF:-1,MX | Mexiquense
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/64
+#EXTINF:-1,MX | ADN 40
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/71
+#EXTINF:-1,MX | Canal 22
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258239
+#EXTINF:-1,MX | A+
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/24327
+#EXTINF:-1,MX | Multimedios
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/66
+#EXTINF:-1,MX | Multimedios Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255792
+#EXTINF:-1,MX | TVC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/67
+#EXTINF:-1,MX | Az Mundo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/68
+#EXTINF:-1,MX |  Az Clic
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/69
+#EXTINF:-1,MX | Azteca Uno Op2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18841
+#EXTINF:-1,MX | Canal del Congreso
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226482
+#EXTINF:-1,MX | Canal 4 Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252764
+#EXTINF:-1,MX | RCG 1 Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252777
+#EXTINF:-1,MX | RCG 3 Saltillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252779
+#EXTINF:-1,MX | AZ Mundo SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264270
+#EXTINF:-1,MX | TV Cuatro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264522
+#EXTINF:-1,MX | Canal 5 *
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264756
+#EXTINF:-1,MX | Telemax Hermosillo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252784
+#EXTINF:-1,MX | TVMAS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267243
+#EXTINF:-1,MX | Telever
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267244
+#EXTINF:-1,CH | TELETRAk TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/524
+#EXTINF:-1,CH | TVN HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/525
+#EXTINF:-1,CH | CHILEVISION SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/528
+#EXTINF:-1,CH | CHILEVISION HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/529
+#EXTINF:-1,CH | CANAL 13 SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/530
+#EXTINF:-1,CH | CANAL 13 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/532
+#EXTINF:-1,CH | MEGA SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/534
+#EXTINF:-1,CH | MEGA FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/535
+#EXTINF:-1,CH | TVN SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/536
+#EXTINF:-1,CH | 24 HORAS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/537
+#EXTINF:-1,CH | TV Chile
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/224851
+#EXTINF:-1,CH | CNN Chile
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/224852
+#EXTINF:-1,CH | CANAL 13 FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226556
+#EXTINF:-1,CH | STGO.TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230320
+#EXTINF:-1,CH | UCL Televisión LATAM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230387
+#EXTINF:-1,CH | MEGA HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232382
+#EXTINF:-1,CH | CHILEVISION FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232383
+#EXTINF:-1,CH | TV+
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/242968
+#EXTINF:-1,Informacion Periodistica
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252406
+#EXTINF:-1,Crossing TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252412
+#EXTINF:-1,Cadena 103
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252419
+#EXTINF:-1,Canal 13 Jujuy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252421
+#EXTINF:-1,Canal 13 La Rioja
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252422
+#EXTINF:-1,Canal 20 Villamaria
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252424
+#EXTINF:-1,Canal 3 La Pampa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252426
+#EXTINF:-1,Canal 3 Las Heras
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252427
+#EXTINF:-1,Canal 50 Morteros
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252428
+#EXTINF:-1,CANAL 5TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252429
+#EXTINF:-1,Canal 7 Santiago del estero
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252430
+#EXTINF:-1,Canal 8 Catamarca
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252431
+#EXTINF:-1,Ciudad TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252433
+#EXTINF:-1,Power
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252439
+#EXTINF:-1,UNIRIO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252447
+#EXTINF:-1,Uni Teve
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252448
+#EXTINF:-1,Canal 3 Rosario
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252456
+#EXTINF:-1,Canal 4 Jujuy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252458
+#EXTINF:-1,Canal 4 Esquel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252459
+#EXTINF:-1,Canal 6 Moreno
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252463
+#EXTINF:-1,Canal 6 Posadas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252464
+#EXTINF:-1,Canal 7 Jujuy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252466
+#EXTINF:-1,Canal 7 Salta
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252467
+#EXTINF:-1,Canal 9 Televida Mendoza
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252468
+#EXTINF:-1,Canal 10
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252469
+#EXTINF:-1,Canal 10 Mar del Plata
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252470
+#EXTINF:-1,Canal 12 Madryn TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252471
+#EXTINF:-1,Canal 13 San Luis
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252472
+#EXTINF:-1,CN 24/7 Neuquen
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252473
+#EXTINF:-1,Canal 26
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252474
+#EXTINF:-1,Canal 79 Mar del Plata
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252475
+#EXTINF:-1,Canal Cinco Tigre
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252477
+#EXTINF:-1,Canal Coop
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252478
+#EXTINF:-1,Canal U
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252479
+#EXTINF:-1,Canal XFN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252480
+#EXTINF:-1,Chacra TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252481
+#EXTINF:-1,CL3 Cablevision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252483
+#EXTINF:-1,Multivisión
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252488
+#EXTINF:-1,RTN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252491
+#EXTINF:-1,Canal 10 Rio Negro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252508
+#EXTINF:-1,Canal 3 Las Flores Digital
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252510
+#EXTINF:-1,Canal Rural
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252515
+#EXTINF:-1,RTP
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252523
+#EXTINF:-1,Gospel Movies Television
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252543
+#EXTINF:-1,Canal 29
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252562
+#EXTINF:-1,TV Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252566
+#EXTINF:-1,TV Vicosa
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252579
+#EXTINF:-1,Cali TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252603
+#EXTINF:-1,Caracol
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252612
+#EXTINF:-1,Suram
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252618
+#EXTINF:-1,Amé
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252637
+#EXTINF:-1,Cibervision
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252644
+#EXTINF:-1,Naranja TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252657
+#EXTINF:-1,TNI 51
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252685
+#EXTINF:-1,TVS TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252689
+#EXTINF:-1,TVE 24H
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252696
+#EXTINF:-1,Canal 33 Madrid
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252700
+#EXTINF:-1,Castilla-La Mancha Media
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252703
+#EXTINF:-1,La 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252712
+#EXTINF:-1,Cultura 365
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252732
+#EXTINF:-1,SET TV Puebla
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252742
+#EXTINF:-1,Tlaxcala TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252746
+#EXTINF:-1,TVP Los Mochis
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252747
+#EXTINF:-1,TVP Obregon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252749
+#EXTINF:-1,TVP Culiacan
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252750
+#EXTINF:-1,Mexiquense TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252752
+#EXTINF:-1,TV4 Noticias
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252756
+#EXTINF:-1,ADN 40
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252758
+#EXTINF:-1,Canal 10 Chiapas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252761
+#EXTINF:-1,Canal Once Nacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252766
+#EXTINF:-1,RTQ Queretaro
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252780
+#EXTINF:-1,Transmedia TV Morelia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252786
+#EXTINF:-1,Canal IPE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252794
+#EXTINF:-1,Cultura 24 TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252810
+#EXTINF:-1,Unitel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252817
+#EXTINF:-1,Canal Once Del Zulia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252822
+#EXTINF:-1,Catatumbo TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252824
+#EXTINF:-1,TVO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252831
+#EXTINF:-1,Cloud Server Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252850
+#EXTINF:-1,UCV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252880
+#EXTINF:-1,Campus TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252881
+#EXTINF:-1,UMAG TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252886
+#EXTINF:-1,UMAG TV 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252887
+#EXTINF:-1,UesTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252888
+#EXTINF:-1,Campo Abierto TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252891
+#EXTINF:-1,AM Canal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252910
+#EXTINF:-1,Canal VTV Los Andes - San Felipe
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252920
+#EXTINF:-1,Canal 2 de San Antonio
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252923
+#EXTINF:-1,Canal 57 Melipilla
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252933
+#EXTINF:-1,TVR Canal 11
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252938
+#EXTINF:-1,Nativa TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252945
+#EXTINF:-1,Canal 21 Chillán
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252947
+#EXTINF:-1,ClickTv
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252949
+#EXTINF:-1,Canal 9 Bío Bí­o TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252951
+#EXTINF:-1,TV4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252953
+#EXTINF:-1,Canal Latino 54
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252960
+#EXTINF:-1,Decima TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252961
+#EXTINF:-1,Canal 11 TV Aysen
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252969
+#EXTINF:-1,TVGE Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252979
+#EXTINF:-1,CGNTV Japan
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252986
+#EXTINF:-1,TV vconline.cl
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253014
+#EXTINF:-1,Canal 38
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253017
+#EXTINF:-1,ADN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253065
+#EXTINF:-1,Futuro TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253067
+#EXTINF:-1,Canal Dios Te Ve
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253075
+#EXTINF:-1,Dios Te Ve Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253076
+#EXTINF:-1,Gracia TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253078
+#EXTINF:-1,Canal ISB
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253079
+#EXTINF:-1,NCTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253081
+#EXTINF:-1,CH | Mega + HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262783
+#EXTINF:-1,CH | NTV (Tvn Educa)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263458
+#EXTINF:-1,CH | CDO PREMIUN HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264150
+#EXTINF:-1,CH | TVN FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264152
+#EXTINF:-1,CH | The Giannys
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265007
+#EXTINF:-1,CH | Zona Latina
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/269309
+#EXTINF:-1,HD | Azteca Uno
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258240
+#EXTINF:-1,HD | Azteca 7
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/52
+#EXTINF:-1,HD | Canal De Las Estrellas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/54
+#EXTINF:-1,HD | Canal 5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226525
+#EXTINF:-1,HD | Imagen TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/33445
+#EXTINF:-1,HD | A&E
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/10
+#EXTINF:-1,HD | AXN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/11
+#EXTINF:-1,HD | Comedy Central
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/13
+#EXTINF:-1,HD | E! entertainment
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/14
+#EXTINF:-1,HD | FX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/9
+#EXTINF:-1,HD | TLC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/31
+#EXTINF:-1,HD | TNT Series
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/229850
+#EXTINF:-1,HD | Universal Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/8
+#EXTINF:-1,HD | Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/7
+#EXTINF:-1,HD | Boomerang
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/23
+#EXTINF:-1,HD | Cartoon Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/21
+#EXTINF:-1,HD | Disney Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/19
+#EXTINF:-1,HD | Disney XD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/22
+#EXTINF:-1,HD | Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/17
+#EXTINF:-1,HD | Nick HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/20
+#EXTINF:-1,HD | Nick JR
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/238049
+#EXTINF:-1,HD | Animal Planet
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/43
+#EXTINF:-1,HD | Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/26
+#EXTINF:-1,HD | Discovery Home and Health
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/27
+#EXTINF:-1,HD | Discovery ID
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/16
+#EXTINF:-1,HD | Discovery Science
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/30
+#EXTINF:-1,HD | Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/42
+#EXTINF:-1,HD | Discovery World
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/25
+#EXTINF:-1,| HD Discovery Turbo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/44
+#EXTINF:-1,HD | Food Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/46
+#EXTINF:-1,HD | History
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/24
+#EXTINF:-1,HD | History 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1512
+#EXTINF:-1,HD | NatGeo Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/28
+#EXTINF:-1,HD | Natgeo Wild
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/51
+#EXTINF:-1,HD | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/37
+#EXTINF:-1,HD | Cinecanal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/34
+#EXTINF:-1,HD | Cinemax
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/55
+#EXTINF:-1,HD | Star Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/50
+#EXTINF:-1,HD | Star Action
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/47
+#EXTINF:-1,HD | Star Comedy
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/20746
+#EXTINF:-1,HD | Star Fun
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/250264
+#EXTINF:-1,HD | FX Movies
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/41
+#EXTINF:-1,HD | Golden Edge
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/36
+#EXTINF:-1,HD | Golden Premier
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/8053
+#EXTINF:-1,HD | HBO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1472
+#EXTINF:-1,HD | HBO 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1473
+#EXTINF:-1,HD | HBO Family
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1475
+#EXTINF:-1,HD | HBO Plus
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/189383
+#EXTINF:-1,HD | HBO Signature
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1474
+#EXTINF:-1,HD | Max Prime
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1463
+#EXTINF:-1,HD | Morbido
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/38
+#EXTINF:-1,HD | Space
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/45
+#EXTINF:-1,HD | Studio Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/39
+#EXTINF:-1,HD | TNT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/35
+#EXTINF:-1,HD | MTV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40
+#EXTINF:-1,Studio Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263284
+#EXTINF:-1,Nickelodeon
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263291
+#EXTINF:-1,Star Series
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263346
+#EXTINF:-1,Sony
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263347
+#EXTINF:-1,Discovery World
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263350
+#EXTINF:-1,Star Classics
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263531
+#EXTINF:-1,MX | TUDN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262194
+#EXTINF:-1,MX | Fox Sports
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1324
+#EXTINF:-1,MX | Fox Sports 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1325
+#EXTINF:-1,MX | Fox Sports 3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1329
+#EXTINF:-1,MX | Espn
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262192
+#EXTINF:-1,MX | Espn 3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1323
+#EXTINF:-1,MX | Espn Plus
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1322
+#EXTINF:-1,Deportes | Afizzionados HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244539
+#EXTINF:-1,MX | TVC Deportes
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18704
+#EXTINF:-1,MX | El Garage
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1320
+#EXTINF:-1,MX | Golf Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1321
+#EXTINF:-1,MX | AyM Sports
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1330
+#EXTINF:-1,CH | CDO Premium SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261280
+#EXTINF:-1,CH | CDO Basico
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/241050
+#EXTINF:-1,CH | CDO PREMIUM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1231
+#EXTINF:-1,CO | Win Sports
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1265
+#EXTINF:-1,CA | TSN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1519
+#EXTINF:-1,US | UFC TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1262
+#EXTINF:-1,US | LongHorn Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1279
+#EXTINF:-1,US | MLB Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1280
+#EXTINF:-1,US | MSG
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1281
+#EXTINF:-1,US | MSNBC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1283
+#EXTINF:-1,US | NBCSN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1309
+#EXTINF:-1,US | NFL Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1286
+#EXTINF:-1,US | Outdoor Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1289
+#EXTINF:-1,US | SNY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1294
+#EXTINF:-1,US | World Fishing Network
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/236447
+#EXTINF:-1,CA | SportsNets Ontario
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/245395
+#EXTINF:-1,US | TVG
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/254187
+#EXTINF:-1,US | TVG 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/254188
+#EXTINF:-1,SP | Formula 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/260370
+#EXTINF:-1,ES | COCINA HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/260641
+#EXTINF:-1,AR | ESPN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263377
+#EXTINF:-1,US | Sports Time Ohio
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263624
+#EXTINF:-1,US | MASN (Mid-Atlantic Sports Network)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263628
+#EXTINF:-1,US | The Sportsman Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263629
+#EXTINF:-1,CA | MAVTV (Red de deportes de motor)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264238
+#EXTINF:-1,US | FOX 35 Orlando
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265417
+#EXTINF:-1,US | Red Bull TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266007
+#EXTINF:-1,Deportes | Afizzionados 2 HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/269758
+#EXTINF:-1,LAT | ESTRELLA TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244541
+#EXTINF:-1,LAT | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239632
+#EXTINF:-1,LAT | CINECANAL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239633
+#EXTINF:-1,LAT | DE PELICULA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239635
+#EXTINF:-1,LAT | STAR FUN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239640
+#EXTINF:-1,LAT | STAR CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239641
+#EXTINF:-1,LAT | STAR SERIES
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239643
+#EXTINF:-1,LAT | FX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239644
+#EXTINF:-1,LAT | FXM
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239645
+#EXTINF:-1,LAT | HBO FAMILY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239647
+#EXTINF:-1,LAT | HBO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239648
+#EXTINF:-1,LAT | HBO 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240948
+#EXTINF:-1,LAT | PARAMOUNT CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239652
+#EXTINF:-1,LAT | SONY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239653
+#EXTINF:-1,LAT | SPACE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239654
+#EXTINF:-1,LAT | Studio Universal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239655
+#EXTINF:-1,LAT | TBS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239657
+#EXTINF:-1,LAT | TNT
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239658
+#EXTINF:-1,LAT | TNT SERIES
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239659
+#EXTINF:-1,LAT | UNIVERSAL CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239660
+#EXTINF:-1,LAT | WARNER CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239661
+#EXTINF:-1,CO | Caracol SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/410
+#EXTINF:-1,CO | Caracol HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/411
+#EXTINF:-1,CO | Canal TRO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/414
+#EXTINF:-1,CO | Canal Uno
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/415
+#EXTINF:-1,CO | RCN SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/416
+#EXTINF:-1,CO | RCN HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/417
+#EXTINF:-1,CO | RCN Novelas
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/418
+#EXTINF:-1,CO | RCN Nuestra Tele
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/419
+#EXTINF:-1,CO | Señal Colombia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/420
+#EXTINF:-1,CO | Teleantioquia
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/421
+#EXTINF:-1,CO | Telecafe
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/422
+#EXTINF:-1,CO | Telecaribe
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/423
+#EXTINF:-1,CO | Telemedellin
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/424
+#EXTINF:-1,CO | Telepacifico
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/425
+#EXTINF:-1,CO | Win Sports
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/426
+#EXTINF:-1,CO | Win Sports HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/427
+#EXTINF:-1,CO | Caracol Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1520
+#EXTINF:-1,CO | Win Sports +
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18642
+#EXTINF:-1,CO | Win Sports + SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/25155
+#EXTINF:-1,CO | Win Sports + HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/25156
+#EXTINF:-1,CO | RCN FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/254190
+#EXTINF:-1,CO | CARACOL FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/254191
+#EXTINF:-1,CO | CITY TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/254192
+#EXTINF:-1,CO | NTN24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/254193
+#EXTINF:-1,CO | CARACOL HD2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252733
+#EXTINF:-1,CO | CONCERT CHANNEL HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252402
+#EXTINF:-1,CO | Win Sports + FHD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252516
+#EXTINF:-1,CO | DTV SPORT PLUS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/259251
+#EXTINF:-1,CO | LA KALLE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261775
+#EXTINF:-1,CO | ESPN 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262312
+#EXTINF:-1,CO | Win Sports Op1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264717
+#EXTINF:-1,CO | Win Sports Op2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264718
+#EXTINF:-1,CO | Win Sports + (EVENTOS FHD)
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264719
+#EXTINF:-1,CO | Dtv Sports
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267390
+#EXTINF:-1,AR | AMERICA TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/494
+#EXTINF:-1,AR | EL NUEVE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/495
+#EXTINF:-1,AR | EL TRECE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/496
+#EXTINF:-1,AR | C5N
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/503
+#EXTINF:-1,AR | El Nueve HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/516
+#EXTINF:-1,AR | El Trece HD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/517
+#EXTINF:-1,AR | El Trece HD op2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240910
+#EXTINF:-1,AR | El Trece HD op3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240911
+#EXTINF:-1,AR | El Trece Op3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240912
+#EXTINF:-1,AR | El Trece Internacional
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240921
+#EXTINF:-1,AR | America TV *
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263318
+#EXTINF:-1,AR | El Nueve SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265945
+#EXTINF:-1,AR | El trece SD
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265950
+#EXTINF:-1,CA | A&E
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261484
+#EXTINF:-1,CA | ABC EAST
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261485
+#EXTINF:-1,CA | AMC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261486
+#EXTINF:-1,CA | BBC CANADA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261488
+#EXTINF:-1,CA | CANAL D
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261490
+#EXTINF:-1,CA | CANAL VIE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261491
+#EXTINF:-1,CA | CNN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261492
+#EXTINF:-1,CA | COOKING CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261493
+#EXTINF:-1,CA | CP24
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261494
+#EXTINF:-1,CA | DISNEY JR
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261495
+#EXTINF:-1,CA | DIY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261496
+#EXTINF:-1,CA | GLOBAL TORONTO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261498
+#EXTINF:-1,CA | GLOBAL VANCOUVER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261499
+#EXTINF:-1,CA | MAX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261504
+#EXTINF:-1,CA | SPIKE TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261505
+#EXTINF:-1,CA | BEIN SPORTS CANADA**
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261506
+#EXTINF:-1,CA | TSN 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261507
+#EXTINF:-1,CA | TSN 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261508
+#EXTINF:-1,CA | TSN 3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261509
+#EXTINF:-1,CA | TSN 4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261510
+#EXTINF:-1,CA | SPORTS NET 360
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261511
+#EXTINF:-1,CA | SPORTS NET ONE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261512
+#EXTINF:-1,CA | SUPER ECRAN 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261513
+#EXTINF:-1,CA | SUPER ECRAN 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261514
+#EXTINF:-1,CA | SUPER ECRAN 3
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261515
+#EXTINF:-1,CA | SUPER ECRAN 4
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261516
+#EXTINF:-1,CA | TRAVEL SCAPE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261518
+#EXTINF:-1,CA | TVO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261519
+#EXTINF:-1,CA | CPAC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261520
+#EXTINF:-1,CA | ICI MONTREAL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261521
+#EXTINF:-1,CA | ICI VANCOUVER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261522
+#EXTINF:-1,CA | INVESTIGATION
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261523
+#EXTINF:-1,CA | LCN
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261524
+#EXTINF:-1,CA | RDS 2
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261526
+#EXTINF:-1,CA | RDS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261527
+#EXTINF:-1,CA | RDS INFO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261528
+#EXTINF:-1,CA | YOOPA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261532
+#EXTINF:-1,CA | CITY TV TORONTO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261533
+#EXTINF:-1,CA | CBC TORONTO
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261534
+#EXTINF:-1,CA | CBC REGGINA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261536
+#EXTINF:-1,CAN| CBC Charlottetown
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261537
+#EXTINF:-1,CA | CBC
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261538
+#EXTINF:-1,CA | CBC MONTREAL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261539
+#EXTINF:-1,CA | CBC NEWS
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261540
+#EXTINF:-1,CA | CBC VANCOUVER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261542
+#EXTINF:-1,CA | CTV COMEDY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261544
+#EXTINF:-1,CA | CTV DRAMA
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261545
+#EXTINF:-1,CA | CTV BARRIE
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261546
+#EXTINF:-1,CA | CTV HALIFAX
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261547
+#EXTINF:-1,CA | CTV KITCHENER
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261548
+#EXTINF:-1,CA | CTV LONDON
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261549
+#EXTINF:-1,CA | CTV NEWS NETWORK
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261550
+#EXTINF:-1,CA | LEAFS TV
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261551
+#EXTINF:-1,CA | TSN 5
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261552
+#EXTINF:-1,Paraguay | Noticias PY
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244322
+#EXTINF:-1,Paraguay | Telefuturo
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244330
+#EXTINF:-1,Paraguay | Unicanal
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244334
+#EXTINF:-1,Paraguay | Tigo Sports 1
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/247032
+#EXTINF:-1,Paraguay | Canal 13
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264289
+#EXTINF:-1,Paraguay | PARAVISION
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264291
