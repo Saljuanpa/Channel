@@ -15,11 +15,15 @@ http://190.83.2.50:8000/play/a0cf/index.m3u8
 http://190.83.2.50:8000/play/a05s/index.m3u8
 #EXTINF:-1,El Gourmet
 http://190.83.2.50:8000/play/a00q/index.m3u8
-
+#EXTINF:-1,Food Network
+http://78.58.133.179:28000/play/a00i/index.m3u8
 #EXTINF:-1,History HD
 http://190.83.2.50:8000/play/a026/index.m3u8
 #EXTINF:-1,H2
 http://190.83.2.50:8000/play/a033/index.m3u8
+
+#EXTINF:-1,MuseumHD
+http://145.249.228.229:8000/play/35
 
 #EXTINF:-1,Warner
 http://45.179.140.242:8000/play/a0ia
@@ -160,6 +164,14 @@ http://190.83.2.50:8000/play/a052/index.m3u8
 
 #EXTINF:-1,CONCERT CHANNEL
 http://190.83.2.50:8000/play/a00z/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://91.201.177.2:8010/play/a00129
+#EXTINF:-1,MTV Germany
+http://109.122.68.51:4000/play/a06a
+#EXTINF:-1,MTV Rocks
+http://78.58.133.179:28000/play/a138/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://91.201.177.2:8010/play/a00121
 #EXTINF:-1,VH1 Classic
 http://190.83.2.50:8000/play/a0ev/index.m3u8
 #EXTINF:-1,VH1 HD
@@ -208,7 +220,8 @@ http://190.83.2.50:8000/play/a00j/index.m3u8
 http://190.83.2.50:8000/play/a021/index.m3u8
 #EXTINF:-1,BBC World
 http://190.83.2.50:8000/play/a022/index.m3u8
-
+#EXTINF:-1,EURONEWS GERMAN SD
+http://109.122.68.51:4000/play/a04t
 
 #EXTINF:-1,FOX SPORTS 2 HD
 http://190.83.2.50:8000/play/a061/index.m3u8
@@ -221,11 +234,6 @@ http://190.83.2.50:8000/play/a05f/index.m3u8
 
 #EXTINF:-1,Golf Channel HD
 http://190.83.2.50:8000/play/a05x/index.m3u8
-
-#EXTINF:-1,VENUS
-http://190.83.2.50:8000/play/a0ex/index.m3u8
-#EXTINF:-1,Playboy
-http://190.83.2.50:8000/play/a015/index.m3u8
 
 
 
@@ -279,6 +287,14 @@ http://190.83.2.50:8000/play/a01m/index.m3u8
 http://190.83.2.50:8000/play/a03e/index.m3u8
 
 *** FIN ***
+#EXTINF:-1,VENUS
+http://190.83.2.50:8000/play/a0ex/index.m3u8
+#EXTINF:-1,Playboy
+http://190.83.2.50:8000/play/a015/index.m3u8
+#EXTINF:-1,Playboy TV
+http://78.58.133.179:28000/play/a190/index.m3u8
+#EXTINF:-1,Russian extreme TV
+http://78.58.133.179:28000/play/a124/index.m3u8
 
 
 
