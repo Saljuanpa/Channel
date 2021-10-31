@@ -2,5 +2,13 @@
 #EXTINF:-1,DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1,MX | Film & Arts
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/83
+#EXTINF:-1,Warner
+http://45.179.140.242:8000/play/a0ia
+#EXTINF:-1,Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263282
+#EXTINF:-1,MX | Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/86
+#EXTINF:-1,HD | Warner Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/7
+#EXTINF:-1,LAT | WARNER CHANNEL
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239661
