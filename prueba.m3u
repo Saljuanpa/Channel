@@ -2,13 +2,21 @@
 #EXTINF:-1,DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1,Warner
-http://45.179.140.242:8000/play/a0ia
-#EXTINF:-1,Warner Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263282
-#EXTINF:-1,MX | Warner Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/86
-#EXTINF:-1,HD | Warner Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/7
-#EXTINF:-1,LAT | WARNER CHANNEL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239661
+#EXTINF:-1,WARNER CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/10987658/6486
+#EXTINF:-1,A&E HD
+http://solutionplay.xyz:8080/techruthes/10987658/6427
+#EXTINF:-1,STAR CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/10987658/6439
+#EXTINF:-1,SONY HD
+http://solutionplay.xyz:8080/techruthes/10987658/6463
+#EXTINF:-1,SPACE HD
+http://solutionplay.xyz:8080/techruthes/10987658/6466
+#EXTINF:-1,ANIMAL PLANET HD
+http://solutionplay.xyz:8080/techruthes/10987658/5848
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/10987658/5875
+#EXTINF:-1,H2 HD
+http://solutionplay.xyz:8080/techruthes/10987658/5939
+#EXTINF:-1,HISTORY CHANNEL HD
+http://solutionplay.xyz:8080/techruthes/10987658/5966
