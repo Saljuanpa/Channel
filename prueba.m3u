@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1,DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,NEWS | DW
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40838
+
+#EXTINF:-1,Discovery Kids
+http://45.179.140.242:8000/play/a0i5
+#EXTINF:-1,Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263294
+#EXTINF:-1,Investigacion Discovery
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263293
+#EXTINF:-1,AR | Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244266
+#EXTINF:-1,MX | Discovery World
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/77
+#EXTINF:-1,MX | Discovery Investigation
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/98
+#EXTINF:-1,MX | Discovery Home and Health
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/105
+#EXTINF:-1,HD | Discovery Kids
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/17
+#EXTINF:-1,HD | Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/26
+#EXTINF:-1,HD | Discovery Home and Health
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/27
+#EXTINF:-1,HD | Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/42
+#EXTINF:-1,HD | Discovery World
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/25
