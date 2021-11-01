@@ -1,357 +1,298 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_1
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=137&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_2
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=203&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_3
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=48&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_4
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=52&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_5
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_6
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_7
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=89&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_8
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=86&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_9
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=95&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_10
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=17&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_11
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=20&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_12
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=21&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_13
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=24&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_14
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=25&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_15
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=27&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_16
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_18
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1,iptvtools_20
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1,iptvtools_21
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_22
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=84&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_23
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=317&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_24
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2298&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_25
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2305&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_26
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=401&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_27
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1253&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_28
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1783&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_29
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1784&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_30
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_31
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1942&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_32
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2149&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_33
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2352&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_34
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2882&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_35
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=11&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_36
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=32&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_37
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_38
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=70&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_39
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2156&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_40
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2274&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_41
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2307&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_42
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2312&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_43
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_44
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2324&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_45
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2331&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_46
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=116&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_47
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=108&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_48
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=109&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_49
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=110&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_50
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=111&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_51
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=112&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_52
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_53
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=115&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_54
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=117&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_55
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=118&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_56
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1708&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_57
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_58
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2373&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_59
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2591&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_60
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=81&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_61
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=121&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_62
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=122&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_63
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=123&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_64
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=124&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_65
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=126&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_66
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=128&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_67
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=129&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_68
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=131&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_69
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=132&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_70
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=135&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_71
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=136&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_72
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=138&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_73
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=139&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_74
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=146&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_75
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=149&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_76
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_77
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=328&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_78
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=335&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_79
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=336&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_80
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1726&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_81
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_82
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_83
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1787&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_84
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=140&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_85
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=3112&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_86
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=137&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_87
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=46&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_88
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=48&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_89
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=52&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_90
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=57&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_91
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=59&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_92
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=60&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_93
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=62&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_94
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=64&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_95
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=69&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_96
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=71&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_97
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=76&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_98
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=77&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_99
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=79&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_100
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_101
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=205&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_102
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=207&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_103
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_104
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=215&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_105
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=199&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_106
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1499&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_107
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1842&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_108
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_109
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=85&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_110
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=55&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_111
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=219&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_112
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_113
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=83&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_114
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=340&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_115
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=78&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_116
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=167&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_117
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=168&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_118
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=169&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_119
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=170&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_120
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=172&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_121
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=174&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_122
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=178&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_123
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=180&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_124
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=345&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_125
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1799&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_126
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2157&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_127
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_128
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2587&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_129
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_130
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_131
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=89&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_132
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=86&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_133
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=95&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_134
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2376&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_135
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=98&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_136
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=99&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_137
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=101&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_138
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2379&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_139
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2378&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_140
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=91&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_141
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=92&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_142
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=96&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_143
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=97&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_144
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=198&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_145
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1943&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_146
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2375&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_147
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=75&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_148
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2594&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_149
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=211&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_150
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=212&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_151
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=213&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_152
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=214&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_153
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=334&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_154
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=217&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_155
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=218&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_156
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=220&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_157
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=223&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_158
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=203&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_159
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2402&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_160
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_162
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=40&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_163
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=184&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_164
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=185&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_165
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=186&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_166
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_167
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=102&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_168
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=188&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_169
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=190&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_170
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=191&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_171
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=192&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_172
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=194&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_173
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=196&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_174
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=197&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_175
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=999&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_176
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2091&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_177
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1250&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_178
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1252&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_179
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1449&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_180
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1649&p=3&k=srregio&f=.m3u8
-#EXTINF:-1,iptvtools_182
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+
+*** FAVORITOS***
+
+#EXTINF:-1,DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1,Film & arts HD
+http://190.83.2.50:8000/play/a0cf/index.m3u8
+
+
+
+*** CULURA Y ENTRETENIMIENTO ***
+
+#EXTINF:-1,Europa HD
+http://190.83.2.50:8000/play/a05s/index.m3u8
+#EXTINF:-1,El Gourmet
+http://190.83.2.50:8000/play/a00q/index.m3u8
+#EXTINF:-1,Food Network
+http://78.58.133.179:28000/play/a00i/index.m3u8
+#EXTINF:-1,History HD
+http://190.83.2.50:8000/play/a026/index.m3u8
+#EXTINF:-1,H2
+http://190.83.2.50:8000/play/a033/index.m3u8
+
+#EXTINF:-1,MuseumHD
+http://145.249.228.229:8000/play/35
+
+#EXTINF:-1,Warner
+http://45.179.140.242:8000/play/a0ia
+#EXTINF:-1,WARNER HD
+http://190.83.2.50:8000/play/a0eq/index.m3u8
+
+
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://190.83.2.50:8000/play/a063/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://190.83.2.50:8000/play/a06m/index.m3u8
+#EXTINF:-1,Discovery Civilization
+http://190.83.2.50:8000/play/a00c/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://190.83.2.50:8000/play/a04t/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://190.83.2.50:8000/play/a06r/index.m3u8
+#EXTINF:-1,Discovery Science
+http://190.83.2.50:8000/play/a00d/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://190.83.2.50:8000/play/a04s/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://190.83.2.50:8000/play/a06o/index.m3u8
+
+
+#EXTINF:-1,A&E HD
+http://190.83.2.50:8000/play/a0cg/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.83.2.50:8000/play/a0ch/index.m3u8
+#EXTINF:-1,AXN HD
+http://190.83.2.50:8000/play/a05g/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://190.83.2.50:8000/play/a0ew/index.m3u8
+
+#EXTINF:-1,FOX
+http://190.83.2.50:8000/play/a04r/index.m3u8
+#EXTINF:-1,FOX Action HD
+http://190.83.2.50:8000/play/a06b/index.m3u8
+#EXTINF:-1,FOX Comedy HD
+http://190.83.2.50:8000/play/a06s/index.m3u8
+#EXTINF:-1,FOX Family HD
+http://190.83.2.50:8000/play/a06c/index.m3u8
+#EXTINF:-1,FOX HD
+http://190.83.2.50:8000/play/a09t/index.m3u8
+#EXTINF:-1,FOX LIFE
+http://190.83.2.50:8000/play/a01n/index.m3u8
+#EXTINF:-1,FOX Movies HD
+http://190.83.2.50:8000/play/a06a/index.m3u8
+
+#EXTINF:-1,FOX Series HD
+http://190.83.2.50:8000/play/a069/index.m3u8
+
+#EXTINF:-1,FX HD
+http://190.83.2.50:8000/play/a05r/index.m3u8
+#EXTINF:-1,FX Movies HD
+http://190.83.2.50:8000/play/a05t/index.m3u8
+
+#EXTINF:-1,Fox Classic HD
+http://190.83.2.50:8000/play/a06d/index.m3u8
+
+http://190.83.2.50:8000/play/a002/index.m3u8
+#EXTINF:-1,SONY HD
+http://190.83.2.50:8000/play/a09v/index.m3u8
+#EXTINF:-1,SPACE HD
+http://190.83.2.50:8000/play/a05h/index.m3u8
+
+#EXTINF:-1,TLC
+http://190.83.2.50:8000/play/a09n/index.m3u8
+
+
+#EXTINF:-1,Nat Geo HD
+http://190.83.2.50:8000/play/a06j/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://190.83.2.50:8000/play/a032/index.m3u8
+#EXTINF:-1,National Geographic
+http://190.83.2.50:8000/play/a01t/index.m3u8
+
+#EXTINF:-1,Home & Health HD
+http://190.83.2.50:8000/play/a064/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://190.83.2.50:8000/play/a01u/index.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://190.83.2.50:8000/play/a05m/index.m3u8
+#EXTINF:-1,HOLA! TV HD
+http://190.83.2.50:8000/play/a065/index.m3u8
+#EXTINF:-1,Mas Chic
+http://190.83.2.50:8000/play/a009/index.m3u8
+
+*** CINE ***
+#EXTINF:-1,Paramount HD
+http://190.83.2.50:8000/play/a06k/index.m3u8
+
+#EXTINF:-1,CineMax
+http://190.83.2.50:8000/play/a053/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.83.2.50:8000/play/a062/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://190.83.2.50:8000/play/a06l/index.m3u8
+#EXTINF:-1,Golden
+http://190.83.2.50:8000/play/a039/index.m3u8
+
+
+#EXTINF:-1,HBO
+http://190.83.2.50:8000/play/a057/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://190.83.2.50:8000/play/a013/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.83.2.50:8000/play/a010/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://190.83.2.50:8000/play/a012/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://190.83.2.50:8000/play/a014/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://190.83.2.50:8000/play/a011/index.m3u8
+
+#EXTINF:-1,Star TVE HD
+http://190.83.2.50:8000/play/a0co/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://190.83.2.50:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1,Universal
+http://190.83.2.50:8000/play/a0eo/index.m3u8
+
+#EXTINF:-1,Multipremier
+http://190.83.2.50:8000/play/a051/index.m3u8
+
+#EXTINF:-1,Sun Channel
+http://190.83.2.50:8000/play/a00r/index.m3u8
+#EXTINF:-1,SyFy HD
+http://190.83.2.50:8000/play/a05k/index.m3u8
+
+#EXTINF:-1,TCM
+http://190.83.2.50:8000/play/a03a/index.m3u8
+#EXTINF:-1,Cine Latino
+http://190.83.2.50:8000/play/a052/index.m3u8
+
+*** MUSICA ***
+
+#EXTINF:-1,CONCERT CHANNEL
+http://190.83.2.50:8000/play/a00z/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://91.201.177.2:8010/play/a00129
+#EXTINF:-1,MTV Germany
+http://109.122.68.51:4000/play/a06a
+#EXTINF:-1,MTV Rocks
+http://78.58.133.179:28000/play/a138/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://91.201.177.2:8010/play/a00121
+#EXTINF:-1,VH1 Classic
+http://190.83.2.50:8000/play/a0ev/index.m3u8
+#EXTINF:-1,VH1 HD
+http://190.83.2.50:8000/play/a0es/index.m3u8
+#EXTINF:-1,MTV HD
+http://190.83.2.50:8000/play/a028/index.m3u8
+#EXTINF:-1,MTV Hits
+http://190.83.2.50:8000/play/a01w/index.m3u8
+#EXTINF:-1,MTV SIM HD
+http://190.83.2.50:8000/play/a067/index.m3u8
+
+
+
+*** INFANTILES ***
+
+#EXTINF:-1,Nat Geo Kids
+http://190.83.2.50:8000/play/a02y/index.m3u8
+
+#EXTINF:-1,Discovery Kids HD
+http://190.83.2.50:8000/play/a06n/index.m3u8
+#EXTINF:-1,Disney
+http://190.83.2.50:8000/play/a04q/index.m3u8
+#EXTINF:-1,Disney JR
+http://190.83.2.50:8000/play/a01k/index.m3u8
+#EXTINF:-1,Disney 😆
+http://190.83.2.50:8000/play/a09d/index.m3u8
+#EXTINF:-1,Nick 2 HD
+http://190.83.2.50:8000/play/a05z/index.m3u8
+#EXTINF:-1,Nick Jr
+http://190.83.2.50:8000/play/a01i/index.m3u8
+#EXTINF:-1,Nick SIM HD
+http://190.83.2.50:8000/play/a060/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://190.83.2.50:8000/play/a04p/index.m3u8
+#EXTINF:-1,Baby TV
+http://190.83.2.50:8000/play/a007/index.m3u8
+
+
+
+
+
+
+*** NACIONALES ***
+
+
+#EXTINF:-1,Multimedios
+http://190.83.2.50:8000/play/a02s/index.m3u8
+#EXTINF:-1,Exa TV
+http://190.83.2.50:8000/play/a09q/index.m3u8
+#EXTINF:-1,Univision HD
+http://190.83.2.50:8000/play/a0et/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://190.83.2.50:8000/play/a05q/index.m3u8
+
+#EXTINF:-1,Canal 3 - GUA
+http://190.83.2.50:8000/play/a0ct/index.m3u8
+#EXTINF:-1,Canal Antigua - GUA
+http://190.83.2.50:8000/play/a098/index.m3u8
+#EXTINF:-1,Guatevision - GUA
+http://190.83.2.50:8000/play/a018/index.m3u8
+#EXTINF:-1,RCN - GUA
+http://190.83.2.50:8000/play/a005/index.m3u8
+#EXTINF:-1,MASTV - PAN
+http://190.83.2.50:8000/play/a02p/index.m3u8
+#EXTINF:-1,Canal 4 - PAN
+http://190.83.2.50:8000/play/a04k/index.m3u8
+#EXTINF:-1,TV Max - PAN
+http://190.83.2.50:8000/play/a04j/index.m3u8
+
+
+#EXTINF:-1,SERTV - PAN
+
+#EXTINF:-1,TVChile
+http://190.83.2.50:8000/play/a00b/index.m3u8
+
+#EXTINF:-1,RCN Novelas
+http://190.83.2.50:8000/play/a030/index.m3u8
+#EXTINF:-1,TVE
+http://190.83.2.50:8000/play/a09s/index.m3u8
+
+#EXTINF:-1,EWTN
+http://190.83.2.50:8000/play/a025/index.m3u8
+#EXTINF:-1,TBN Enlace
+http://190.83.2.50:8000/play/a024/index.m3u8
+#EXTINF:-1,RHEMA TV
+http://190.83.2.50:8000/play/a05e/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://190.83.2.50:8000/play/a01m/index.m3u8
+#EXTINF:-1,Sembrador
+http://190.83.2.50:8000/play/a03e/index.m3u8
+
+*** FIN ***
+
+
+
+
+#EXTINF:-1,MX | Film & Arts
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/83
+
+
+#EXTINF:-1,Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263438
+#EXTINF:-1,HD | Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/42
+#EXTINF:-1,MX | Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/78
+
+#EXTINF:-1,Discovery Kids
+http://45.179.140.242:8000/play/a0i5
+
+#EXTINF:-1,Discovery Channel
+http://45.179.140.242:8000/play/a0i8
+#EXTINF:-1,Discovery Science
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263436
+
+
+#EXTINF:-1,Comedy Central HD
+http://190.83.2.50:8000/play/a066/index.m3u8
+#EXTINF:-1,DHE HD
+http://190.83.2.50:8000/play/a05u/index.m3u8
+
+
+#EXTINF:-1,PXTV
+http://190.83.2.50:8000/play/a00h/index.m3u8
