@@ -1,1271 +1,298 @@
 #EXTM3U
+
+*** FAVORITOS***
+
 #EXTINF:-1,DW (Español)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,Canal 6 CDMX
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
-#EXTINF:-1,Canal Once
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1,Canal Catorce
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1,TV UNAM
-https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
-#EXTINF:-1,Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:-1,Canal 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-#EXTINF:-1,Canal 6 MTY
-http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:-1,Canal 6 LAG
-http://mdstrm.com/live-stream-playlist_2500/57bf686a61ff39e1085d43e1.m3u8?
-#EXTINF:-1,Canal 6 GDL
-http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
-#EXTINF:-1,Canal 6 PUE
-http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
-#EXTINF:-1,Canal 6 GTO
-http://mdstrm.com/live-stream-playlist_2500/5d4b0fec848918070128c8cb.m3u8?
-#EXTINF:-1,Canal 6 SAL
-http://mdstrm.com/live-stream-playlist_2500/5d5d51a4e9a40e25f4a0332c.m3u8?
-#EXTINF:-1,Canal 6 CDJ
-http://mdstrm.com/live-stream-playlist_2500/5d9e440d675235586a92be7f.m3u8?
-#EXTINF:-1,Teleritmo
-http://mdstrm.com/live-stream-playlist_800/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1,Capital 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1,Mexiquense Televisión
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1,AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1,Jalisco TV
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
-#EXTINF:-1,Canal 28 NL
-https://60ed5b6d0df78.streamlock.net:1936/canal28/canal28/playlist.m3u8
-#EXTINF:-1,Diez Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1,SM 16.1
-https://60ed5b6d0df78.streamlock.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1,TV Mas 26.1
-https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
-#EXTINF:-1,Sizart TV
-https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
-#EXTINF:-1,RTQ
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1,Canal 10 Chetumal
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,RT (Español)
-https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
-#EXTINF:-1,80s Hits
-http://45.179.140.242:8000/play/a0gb
-#EXTINF:-1,AE Mundo
-http://45.179.140.242:8000/play/a0ig
-#EXTINF:-1,AXN
-http://45.179.140.242:8000/play/a0j9
-#EXTINF:-1,Animal Planet
-http://45.179.140.242:8000/play/a0i9
-#EXTINF:-1,CNN Espanol
-http://45.179.140.242:8000/play/a0i6
-#EXTINF:-1,Canal Estrellas
-http://45.179.140.242:8000/play/a0ij
-#EXTINF:-1,Canal Uno TV Ecu
-http://45.179.140.242:8000/play/a0iz
-#EXTINF:-1,Cartoon Network
-http://45.179.140.242:8000/play/a0h7
-#EXTINF:-1,Cinemax
-http://45.179.140.242:8000/play/a0j7
-#EXTINF:-1,Claro Sports
-http://45.179.140.242:8000/play/a0ht
-#EXTINF:-1,Discovery Channel
-http://45.179.140.242:8000/play/a0i8
-#EXTINF:-1,Discovery ID
-http://45.179.140.242:8000/play/a0jg
-#EXTINF:-1,Discovery Kids
-http://45.179.140.242:8000/play/a0i5
-#EXTINF:-1,Discovery Turbo
-http://45.179.140.242:8000/play/a0hi
-#EXTINF:-1,Disney Channel
-http://45.179.140.242:8000/play/a0i7
-#EXTINF:-1,Disney Jr
-http://45.179.140.242:8000/play/a0i3
-#EXTINF:-1,E Entertainment
-http://45.179.140.242:8000/play/a0gh
-#EXTINF:-1,Enlace
-http://45.179.140.242:8000/play/a0h9
-#EXTINF:-1,Esne TV
-http://45.179.140.242:8000/play/a0jd
-#EXTINF:-1,FX
-http://45.179.140.242:8000/play/a0jb
-#EXTINF:-1,FXM
-http://45.179.140.242:8000/play/a0hx
-#EXTINF:-1,France 24
-http://45.179.140.242:8000/play/a0jh
-#EXTINF:-1,GamaTV
-http://45.179.140.242:8000/play/a0jq
-#EXTINF:-1,HomeandHealth
-http://45.179.140.242:8000/play/a0jj
-#EXTINF:-1,MTV
-http://45.179.140.242:8000/play/a0h3
-#EXTINF:-1,Nat Geo
-http://45.179.140.242:8000/play/a0h2
-#EXTINF:-1,NatGeo Kids
-http://45.179.140.242:8000/play/a0h6
-#EXTINF:-1,Nick Jr
-http://45.179.140.242:8000/play/a0jc
-#EXTINF:-1,RCN Novelas
-http://45.179.140.242:8000/play/a0jf
-#EXTINF:-1,Sony
-http://45.179.140.242:8000/play/a0j8
-#EXTINF:-1,Space
-http://45.179.140.242:8000/play/a0ja
-#EXTINF:-1,TBS
-http://45.179.140.242:8000/play/a0ji
-#EXTINF:-1,TC Television
-http://45.179.140.242:8000/play/a0j0
-#EXTINF:-1,TLC
-http://45.179.140.242:8000/play/a0ii
-#EXTINF:-1,TVE
-http://45.179.140.242:8000/play/a0jr
-#EXTINF:-1,Teleamazonas
-http://45.179.140.242:8000/play/a0j4
-#EXTINF:-1,Telemundo
-http://45.179.140.242:8000/play/a0il
-#EXTINF:-1,Venus
-http://45.179.140.242:8000/play/a0ih
+#EXTINF:-1,Film & arts HD
+http://190.83.2.50:8000/play/a0cf/index.m3u8
+
+
+
+*** CULURA Y ENTRETENIMIENTO ***
+
+#EXTINF:-1,Europa HD
+http://190.83.2.50:8000/play/a05s/index.m3u8
+#EXTINF:-1,El Gourmet
+http://190.83.2.50:8000/play/a00q/index.m3u8
+#EXTINF:-1,Food Network
+http://78.58.133.179:28000/play/a00i/index.m3u8
+#EXTINF:-1,History HD
+http://190.83.2.50:8000/play/a026/index.m3u8
+#EXTINF:-1,H2
+http://190.83.2.50:8000/play/a033/index.m3u8
+
+#EXTINF:-1,MuseumHD
+http://145.249.228.229:8000/play/35
+
 #EXTINF:-1,Warner
 http://45.179.140.242:8000/play/a0ia
-#EXTINF:-1,PREM HD: STARZ ENCORE ACTION
-http://odenfull.co:2086/142536/142536/108639
-#EXTINF:-1,PREM HD: STARZ ENCORE WESTERN
-http://odenfull.co:2086/142536/142536/108645
-#EXTINF:-1,PREM HD: STARZ ENCORE EAST
-http://odenfull.co:2086/142536/142536/108652
-#EXTINF:-1,PREM HD: STARZ ENCORE CINEMA
-http://odenfull.co:2086/142536/142536/108653
-#EXTINF:-1,PREM HD: STARZ ENCORE COMEDY
-http://odenfull.co:2086/142536/142536/108654
-#EXTINF:-1,PREM HD: STARZ ENCORE FAMILY
-http://odenfull.co:2086/142536/142536/108655
-#EXTINF:-1,PREM HD: STARZ ENCORE CLASSIC
-http://odenfull.co:2086/142536/142536/108657
-#EXTINF:-1,PREM SD: HBO
-http://odenfull.co:2086/142536/142536/108658
-#EXTINF:-1,PREM HD: HBO
-http://odenfull.co:2086/142536/142536/108659
-#EXTINF:-1,PREM SD: HBO EAST
-http://odenfull.co:2086/142536/142536/108661
-#EXTINF:-1,PREM HD: HBO EAST
-http://odenfull.co:2086/142536/142536/108663
-#EXTINF:-1,PREM SD: HBO WEST
-http://odenfull.co:2086/142536/142536/108685
-#EXTINF:-1,PREM SD: HBO FAMILY
-http://odenfull.co:2086/142536/142536/108692
-#EXTINF:-1,PREM HD: HBO FAMILY
-http://odenfull.co:2086/142536/142536/108694
-#EXTINF:-1,PREM SD: HBO 2
-http://odenfull.co:2086/142536/142536/108696
-#EXTINF:-1,PREM HD: HBO 2
-http://odenfull.co:2086/142536/142536/108697
-#EXTINF:-1,PREM SD: HBO 2 WEST
-http://odenfull.co:2086/142536/142536/108698
-#EXTINF:-1,PREM HD: HBO 2 EAST
-http://odenfull.co:2086/142536/142536/108704
-#EXTINF:-1,PREM HD: HBO +
-http://odenfull.co:2086/142536/142536/108707
-#EXTINF:-1,PREM SD: HBO +
-http://odenfull.co:2086/142536/142536/108708
-#EXTINF:-1,PREM SD: HBO SIGNATURE
-http://odenfull.co:2086/142536/142536/108709
-#EXTINF:-1,PREM HD: HBO SIGNATURE
-http://odenfull.co:2086/142536/142536/108710
-#EXTINF:-1,PREM SD: HBO POP
-http://odenfull.co:2086/142536/142536/108711
-#EXTINF:-1,PREM HD: HBO POP
-http://odenfull.co:2086/142536/142536/108712
-#EXTINF:-1,PREM SD: HBO XTREME
-http://odenfull.co:2086/142536/142536/108713
-#EXTINF:-1,PREM HD: HBO XTREME
-http://odenfull.co:2086/142536/142536/108715
-#EXTINF:-1,PREM SD: HBO MUNDI
-http://odenfull.co:2086/142536/142536/108719
-#EXTINF:-1,PREM HD: HBO MUNDI
-http://odenfull.co:2086/142536/142536/108721
-#EXTINF:-1,PREM HD: STAR LIFE
-http://odenfull.co:2086/142536/142536/108732
-#EXTINF:-1,PREM SD: STAR  CHANNEL
-http://odenfull.co:2086/142536/142536/108734
-#EXTINF:-1,PREM HD: STAR CHANNEL
-http://odenfull.co:2086/142536/142536/108735
-#EXTINF:-1,PREM SD: STAR ACTION
-http://odenfull.co:2086/142536/142536/108737
-#EXTINF:-1,PREM HD: STAR ACTION
-http://odenfull.co:2086/142536/142536/108742
-#EXTINF:-1,PREM SD: STAR HITS
-http://odenfull.co:2086/142536/142536/108750
-#EXTINF:-1,PREM HD: STAR HITS
-http://odenfull.co:2086/142536/142536/108751
-#EXTINF:-1,PREM SD: STAR FAMILY
-http://odenfull.co:2086/142536/142536/108752
-#EXTINF:-1,PREM HD: STAR FAMILY
-http://odenfull.co:2086/142536/142536/108753
-#EXTINF:-1,PREM SD: STAR COMEDY
-http://odenfull.co:2086/142536/142536/108754
-#EXTINF:-1,PREM HD: STAR COMEDY
-http://odenfull.co:2086/142536/142536/108755
-#EXTINF:-1,PREM SD: STAR CINEMA
-http://odenfull.co:2086/142536/142536/108756
-#EXTINF:-1,PREM HD: STAR CINEMA
-http://odenfull.co:2086/142536/142536/108757
-#EXTINF:-1,PREM HD: STAR CLASSICS
-http://odenfull.co:2086/142536/142536/108759
-#EXTINF:-1,PREM SD: STAR SERIES
-http://odenfull.co:2086/142536/142536/108760
-#EXTINF:-1,PREM HD: STAR SERIES
-http://odenfull.co:2086/142536/142536/108761
-#EXTINF:-1,PREM SD: FX
-http://odenfull.co:2086/142536/142536/108765
-#EXTINF:-1,PREM HD : FX
-http://odenfull.co:2086/142536/142536/108766
-#EXTINF:-1,PREM SD: FXM
-http://odenfull.co:2086/142536/142536/108767
-#EXTINF:-1,PREM HD: FXM
-http://odenfull.co:2086/142536/142536/108768
-#EXTINF:-1,PREM SD: CINECANAL EAST
-http://odenfull.co:2086/142536/142536/108772
-#EXTINF:-1,PREM HD: CINECANAL EAST
-http://odenfull.co:2086/142536/142536/108775
-#EXTINF:-1,PREM SD: CINECANAL WEST
-http://odenfull.co:2086/142536/142536/108776
-#EXTINF:-1,PREM HD: CINECANAL WEST
-http://odenfull.co:2086/142536/142536/108777
-#EXTINF:-1,PREM HD: CINEMAX EAST
-http://odenfull.co:2086/142536/142536/108779
-#EXTINF:-1,PREM SD: GOLDEN
-http://odenfull.co:2086/142536/142536/108789
-#EXTINF:-1,PREM HD: GOLDEN PLUS
-http://odenfull.co:2086/142536/142536/108795
-#EXTINF:-1,PREM SD: GOLDEN EDGE
-http://odenfull.co:2086/142536/142536/108798
-#EXTINF:-1,PREM HD: GOLDEN EDGE
-http://odenfull.co:2086/142536/142536/108799
-#EXTINF:-1,PREM SD: GOLDEN PREMIER 1
-http://odenfull.co:2086/142536/142536/108802
-#EXTINF:-1,PREM HD: GOLDEN PREMIER 2
-http://odenfull.co:2086/142536/142536/108805
-#EXTINF:-1,PREM SD: TNT
-http://odenfull.co:2086/142536/142536/108807
-#EXTINF:-1,PREM HD: TNT
-http://odenfull.co:2086/142536/142536/108808
-#EXTINF:-1,PREM SD: TNT SERIES
-http://odenfull.co:2086/142536/142536/108829
-#EXTINF:-1,PREM HD: TNT SERIES
-http://odenfull.co:2086/142536/142536/108830
-#EXTINF:-1,PREM HD: SPACE WEST
-http://odenfull.co:2086/142536/142536/108832
-#EXTINF:-1,PREM HD: SPACE EAST
-http://odenfull.co:2086/142536/142536/108837
-#EXTINF:-1,PREM SD: WARNER
-http://odenfull.co:2086/142536/142536/109059
-#EXTINF:-1,PREM HD: WARNER
-http://odenfull.co:2086/142536/142536/109060
-#EXTINF:-1,PREM SD: UNIVERSAL CHANNEL
-http://odenfull.co:2086/142536/142536/109063
-#EXTINF:-1,PREM HD: UNIVERSAL CHANNEL
-http://odenfull.co:2086/142536/142536/109069
-#EXTINF:-1,PREM SD: STUDIO UNIVERSAL
-http://odenfull.co:2086/142536/142536/109070
-#EXTINF:-1,PREM HD: STUDIO UNIVERSAL
-http://odenfull.co:2086/142536/142536/109071
-#EXTINF:-1,PREM HD: PARAMOUNT NETWORK 1
-http://odenfull.co:2086/142536/142536/109073
-#EXTINF:-1,PREM SD: PARAMOUNT NETWORK 2
-http://odenfull.co:2086/142536/142536/109074
-#EXTINF:-1,PREM HD: PARAMOUNT NETWORK 2
-http://odenfull.co:2086/142536/142536/109075
-#EXTINF:-1,PREM SD: SONY CHANNEL 1
-http://odenfull.co:2086/142536/142536/109076
-#EXTINF:-1,PREM SD: SONY CHANNEL 2
-http://odenfull.co:2086/142536/142536/109078
-#EXTINF:-1,PREM HD: SONY CHANNEL 2
-http://odenfull.co:2086/142536/142536/109079
-#EXTINF:-1,PREM SD: SYFY
-http://odenfull.co:2086/142536/142536/109208
-#EXTINF:-1,PREM HD: SYFY
-http://odenfull.co:2086/142536/142536/109209
-#EXTINF:-1,PREM SD: AXN
-http://odenfull.co:2086/142536/142536/109212
-#EXTINF:-1,PREM HD: AXN
-http://odenfull.co:2086/142536/142536/109213
-#EXTINF:-1,PREM HD: AMC EAST
-http://odenfull.co:2086/142536/142536/109219
-#EXTINF:-1,PREM SD: AMC WEST
-http://odenfull.co:2086/142536/142536/109220
-#EXTINF:-1,PREM HD: AMC WEST
-http://odenfull.co:2086/142536/142536/109221
-#EXTINF:-1,PREM HD: DHE
-http://odenfull.co:2086/142536/142536/109426
-#EXTINF:-1,PREM SD: TCM
-http://odenfull.co:2086/142536/142536/109427
-#EXTINF:-1,PREM HD: TCM
-http://odenfull.co:2086/142536/142536/109428
-#EXTINF:-1,PREM SD: ISAT
-http://odenfull.co:2086/142536/142536/109429
-#EXTINF:-1,PREM HD: ISAT
-http://odenfull.co:2086/142536/142536/109430
-#EXTINF:-1,PREM SD: CINELATINO
-http://odenfull.co:2086/142536/142536/109431
-#EXTINF:-1,PREM SD: DE PEL\u00cdCULA
-http://odenfull.co:2086/142536/142536/109432
-#EXTINF:-1,PREM SD: DE PEL\u00cdCULAS CLASICO
-http://odenfull.co:2086/142536/142536/109433
-#EXTINF:-1,PREM SD: DE PEL\u00cdCULA PLUS
-http://odenfull.co:2086/142536/142536/109434
-#EXTINF:-1,PREM HD: STARZ  ENCORE SUSPENSO
-http://odenfull.co:2086/142536/142536/114209
-#EXTINF:-1,OUTERMAX
-http://odenfull.co:2086/142536/142536/121596
-#EXTINF:-1,MOREMAX
-http://odenfull.co:2086/142536/142536/121597
-#EXTINF:-1,PREM HD: ACTIONMAX
-http://odenfull.co:2086/142536/142536/121598
-#EXTINF:-1,PREM HD: CINEMAX (OPC 1)
-http://odenfull.co:2086/142536/142536/134191
-#EXTINF:-1,PREM HD: CINEMAX (OPC 2)
-http://odenfull.co:2086/142536/142536/134192
-#EXTINF:-1,PREM HD: VIP ESTRENOS 2021
-http://odenfull.co:2086/142536/142536/186092
-#EXTINF:-1,LAT SD: A&E
-http://odenfull.co:2086/142536/142536/1127
-#EXTINF:-1,LAT HD: A&E
-http://odenfull.co:2086/142536/142536/1303
-#EXTINF:-1,LAT SD: Europa Europa
-http://odenfull.co:2086/142536/142536/1362
-#EXTINF:-1,LAT SD: Film & Arts
-http://odenfull.co:2086/142536/142536/1363
-#EXTINF:-1,LAT SD: GLITZ
-http://odenfull.co:2086/142536/142536/1383
-#EXTINF:-1,LAT HD: HOLA TV
-http://odenfull.co:2086/142536/142536/1389
-#EXTINF:-1,LAT HD:UNICABLE
-http://odenfull.co:2086/142536/142536/1442
-#EXTINF:-1,LAT HD:TRU TV
-http://odenfull.co:2086/142536/142536/2594
-#EXTINF:-1,LAT SD: BH TV
-http://odenfull.co:2086/142536/142536/3277
-#EXTINF:-1,LAT SD: HOLA TV
-http://odenfull.co:2086/142536/142536/3586
-#EXTINF:-1,LATHD: LIFETIME
-http://odenfull.co:2086/142536/142536/3587
-#EXTINF:-1,ENTRE: WAPA AMERICA
-http://odenfull.co:2086/142536/142536/5541
-#EXTINF:-1,LAT SD:TRU TV
-http://odenfull.co:2086/142536/142536/16303
-#EXTINF:-1,LAT SD:UNICABLE
-http://odenfull.co:2086/142536/142536/24584
-#EXTINF:-1,ENTRE: E! ENTERTAIMENT TV
-http://odenfull.co:2086/142536/142536/31610
-#EXTINF:-1,HD:WOBI
-http://odenfull.co:2086/142536/142536/37293
-#EXTINF:-1,ENTRET: RTP
-http://odenfull.co:2086/142536/142536/45296
-#EXTINF:-1,ENTRET: TF1
-http://odenfull.co:2086/142536/142536/58071
-#EXTINF:-1,ENTRET: RETE 4
-http://odenfull.co:2086/142536/142536/58072
-#EXTINF:-1,EL GOURMET LATINO
-http://odenfull.co:2086/142536/142536/133001
-#EXTINF:-1,ENTERTAIMENT HD 03
-http://odenfull.co:2086/142536/142536/134232
-#EXTINF:-1,ENTRE: FASHION & LIFESTYLE
-http://odenfull.co:2086/142536/142536/145920
-#EXTINF:-1,MAS CHIC
-http://odenfull.co:2086/142536/142536/188714
-#EXTINF:-1,TELENOVELAS
-http://odenfull.co:2086/142536/142536/31666
-#EXTINF:-1,KIDS: LOCOMOTION
-http://odenfull.co:2086/142536/142536/58035
-#EXTINF:-1,KIDS HD : PLAY KIDS
-http://odenfull.co:2086/142536/142536/58036
-#EXTINF:-1,KIDS SD : HEY KIDS
-http://odenfull.co:2086/142536/142536/58037
-#EXTINF:-1,KIDS HD: KIDS tv
-http://odenfull.co:2086/142536/142536/58038
-#EXTINF:-1,KIDS SD: SAGAS INFANTILES
-http://odenfull.co:2086/142536/142536/58039
-#EXTINF:-1,KIDS HD: CINEMA DISNEY pixar
-http://odenfull.co:2086/142536/142536/58042
-#EXTINF:-1,KIDS HD: CINEMA DISNEY
-http://odenfull.co:2086/142536/142536/58043
-#EXTINF:-1, KIDS SD : CARTOON NETWORK
-http://odenfull.co:2086/142536/142536/58046
-#EXTINF:-1,KIDS HD : CARTOON NETWORK
-http://odenfull.co:2086/142536/142536/58047
-#EXTINF:-1,KIDS SD : DISNEY CHANNEL
-http://odenfull.co:2086/142536/142536/58050
-#EXTINF:-1,KIDS HD : DISNEY CHANNEL
-http://odenfull.co:2086/142536/142536/58051
-#EXTINF:-1,KIDS SD : DISNEY XD
-http://odenfull.co:2086/142536/142536/58052
-#EXTINF:-1,KIDS HD : DISNEY XD
-http://odenfull.co:2086/142536/142536/58053
-#EXTINF:-1,KIDS HD : BOOMERANG
-http://odenfull.co:2086/142536/142536/58054
-#EXTINF:-1,KIDS HD : DISNEY JUNIOR
-http://odenfull.co:2086/142536/142536/58055
-#EXTINF:-1,KIDS HD : DISCOVERY KIDS
-http://odenfull.co:2086/142536/142536/58056
-#EXTINF:-1,KIDS SD : DISCOVERY KIDS
-http://odenfull.co:2086/142536/142536/58057
-#EXTINF:-1,KIDS SD : BOOMERANG
-http://odenfull.co:2086/142536/142536/58058
-#EXTINF:-1,KIDS HD : BOOMERANG
-http://odenfull.co:2086/142536/142536/58059
-#EXTINF:-1,KIDS SD : NICKELODEON
-http://odenfull.co:2086/142536/142536/58060
-#EXTINF:-1,KIDS HD : NICKELODEON
-http://odenfull.co:2086/142536/142536/58062
-#EXTINF:-1,KIDS SD : NICK
-http://odenfull.co:2086/142536/142536/58063
-#EXTINF:-1,KIDS HD : NICK
-http://odenfull.co:2086/142536/142536/58065
-#EXTINF:-1,KIDS SD: NICK JR
-http://odenfull.co:2086/142536/142536/58066
-#EXTINF:-1, KIDS HD : NICK JR
-http://odenfull.co:2086/142536/142536/58067
-#EXTINF:-1,KIDS SD: BABY TV
-http://odenfull.co:2086/142536/142536/58068
-#EXTINF:-1,KIDS HD :BABY TV
-http://odenfull.co:2086/142536/142536/91827
-#EXTINF:-1,KIDS HD: BABY FIRST
-http://odenfull.co:2086/142536/142536/91828
-#EXTINF:-1,KIDS SD : NAT GEO KIDS
-http://odenfull.co:2086/142536/142536/125969
-#EXTINF:-1,KIDS HD : NAT GEO KIDS
-http://odenfull.co:2086/142536/142536/190658
-#EXTINF:-1,A&E
-http://odenfull.co:2086/142536/142536/31563
-#EXTINF:-1,ANTENA3
-http://odenfull.co:2086/142536/142536/31566
-#EXTINF:-1,AXN
-http://odenfull.co:2086/142536/142536/31567
-#EXTINF:-1,AZTECA CORAZON
-http://odenfull.co:2086/142536/142536/31569
-#EXTINF:-1,AZTECA CINEMA
-http://odenfull.co:2086/142536/142536/31570
-#EXTINF:-1,AZTECA CLICK
-http://odenfull.co:2086/142536/142536/31571
-#EXTINF:-1,AZTECA CINEMA
-http://odenfull.co:2086/142536/142536/31574
-#EXTINF:-1,BOOMERANG
-http://odenfull.co:2086/142536/142536/31581
-#EXTINF:-1,:CINECANAL
-http://odenfull.co:2086/142536/142536/31593
-#EXTINF:-1,:COMEDY CENTRAL
-http://odenfull.co:2086/142536/142536/31596
-#EXTINF:-1,:DE PELICULA
-http://odenfull.co:2086/142536/142536/31597
-#EXTINF:-1,:DISCOVERY ID
-http://odenfull.co:2086/142536/142536/31600
-#EXTINF:-1,:DISCOVERY SCI
-http://odenfull.co:2086/142536/142536/31602
-#EXTINF:-1,:DISCOVERY TURBO
-http://odenfull.co:2086/142536/142536/31604
-#EXTINF:-1,:DISCOVERY WORLD
-http://odenfull.co:2086/142536/142536/31605
-#EXTINF:-1,:FOOD NETWORK
-http://odenfull.co:2086/142536/142536/31614
-#EXTINF:-1,STAR CHANNEL MX
-http://odenfull.co:2086/142536/142536/31616
-#EXTINF:-1,STAR CHANNEL ARG
-http://odenfull.co:2086/142536/142536/31618
-#EXTINF:-1,FOX LIFE
-http://odenfull.co:2086/142536/142536/31621
-#EXTINF:-1,:GOLDEN EDGE
-http://odenfull.co:2086/142536/142536/31627
-#EXTINF:-1,GOLDEN PLUS
-http://odenfull.co:2086/142536/142536/31628
-#EXTINF:-1,:GOLF CH
-http://odenfull.co:2086/142536/142536/31629
-#EXTINF:-1,:HOLA TV
-http://odenfull.co:2086/142536/142536/31632
-#EXTINF:-1,:i CLASSIC
-http://odenfull.co:2086/142536/142536/31633
-#EXTINF:-1,:I SAT
-http://odenfull.co:2086/142536/142536/31634
-#EXTINF:-1,:MTV LIVE
-http://odenfull.co:2086/142536/142536/31641
-#EXTINF:-1,:NAT GEO
-http://odenfull.co:2086/142536/142536/31644
-#EXTINF:-1,:NICK 2
-http://odenfull.co:2086/142536/142536/31648
-#EXTINF:-1,NTN24
-http://odenfull.co:2086/142536/142536/31651
-#EXTINF:-1,:a+
-http://odenfull.co:2086/142536/142536/31653
-#EXTINF:-1,:SONY
-http://odenfull.co:2086/142536/142536/31657
-#EXTINF:-1,STAR TVE
-http://odenfull.co:2086/142536/142536/31659
-#EXTINF:-1,:STUDIO UNIVERSAL
-http://odenfull.co:2086/142536/142536/31660
-#EXTINF:-1,:SYFY
-http://odenfull.co:2086/142536/142536/31662
-#EXTINF:-1,TCM
-http://odenfull.co:2086/142536/142536/31664
-#EXTINF:-1,CANAL 4
-http://odenfull.co:2086/142536/142536/31585
-#EXTINF:-1,CANAL 5
-http://odenfull.co:2086/142536/142536/31586
-#EXTINF:-1,CANAL 8
-http://odenfull.co:2086/142536/142536/31588
-#EXTINF:-1,:CANAL JUDICIAL
-http://odenfull.co:2086/142536/142536/31590
-#EXTINF:-1,:CARTOON NETWORK
-http://odenfull.co:2086/142536/142536/31592
-#EXTINF:-1,:DISCOVERY KIDS
-http://odenfull.co:2086/142536/142536/31601
-#EXTINF:-1,:DISNEY XD
-http://odenfull.co:2086/142536/142536/31608
-#EXTINF:-1,:DW
-http://odenfull.co:2086/142536/142536/31609
-#EXTINF:-1,:HLN
-http://odenfull.co:2086/142536/142536/31631
-#EXTINF:-1,:MAS CHIC
-http://odenfull.co:2086/142536/142536/31639
-#EXTINF:-1,:MULTIMEDIOS
-http://odenfull.co:2086/142536/142536/31642
-#EXTINF:-1,:MULTIMEDIOS P.
-http://odenfull.co:2086/142536/142536/31643
-#EXTINF:-1,:NAT GEO KIDS
-http://odenfull.co:2086/142536/142536/31645
-#EXTINF:-1,:NICK
-http://odenfull.co:2086/142536/142536/31647
-#EXTINF:-1,:NICKTOONS
-http://odenfull.co:2086/142536/142536/31650
-#EXTINF:-1,MUSIC: MTV Hits
-http://odenfull.co:2086/142536/142536/1398
-#EXTINF:-1,MUSIC: TELEHIT URBANO
-http://odenfull.co:2086/142536/142536/1413
-#EXTINF:-1,MUSIC HD: Telehit Plus
-http://odenfull.co:2086/142536/142536/1427
-#EXTINF:-1,MUSIC: MTV CLASSIC
-http://odenfull.co:2086/142536/142536/1444
-#EXTINF:-1,MUSIC: VH1 HD
-http://odenfull.co:2086/142536/142536/1445
-#EXTINF:-1,MUSIC: MUCH MUSIC
-http://odenfull.co:2086/142536/142536/2551
-#EXTINF:-1,MUSIC: BANDAMAX
-http://odenfull.co:2086/142536/142536/22316
-#EXTINF:-1,MUSIC: HTV
-http://odenfull.co:2086/142536/142536/24814
-#EXTINF:-1,MUSIC: RITMOSON
-http://odenfull.co:2086/142536/142536/31888
-#EXTINF:-1,MUSIC: TELEHIT PLUS
-http://odenfull.co:2086/142536/142536/31889
-#EXTINF:-1,MUS: RETRO MUSIC TV
-http://odenfull.co:2086/142536/142536/36249
-#EXTINF:-1,MUSIC: VIRGIN RADIO
-http://odenfull.co:2086/142536/142536/38482
-#EXTINF:-1,MUSIC: VH1 USA
-http://odenfull.co:2086/142536/142536/40023
-#EXTINF:-1,MUSIC: VH1
-http://odenfull.co:2086/142536/142536/40024
-#EXTINF:-1,MUSIC: BET JAMS
-http://odenfull.co:2086/142536/142536/53960
-#EXTINF:-1,MUSIC: RETRO PLUS
-http://odenfull.co:2086/142536/142536/56525
-#EXTINF:-1,MUSIC: SURAM TV
-http://odenfull.co:2086/142536/142536/108454
-#EXTINF:-1,MUSIC: TROPICAL
-http://odenfull.co:2086/142536/142536/121715
-#EXTINF:-1,MUSIC: ROCK
-http://odenfull.co:2086/142536/142536/135050
-#EXTINF:-1,MUSIC: RAP
-http://odenfull.co:2086/142536/142536/181648
-#EXTINF:-1,MUSIC: TOP 100
-http://odenfull.co:2086/142536/142536/181649
-#EXTINF:-1,MUS: MTV BASE
-http://odenfull.co:2086/142536/142536/188784
-#EXTINF:-1,MEX HD: ADN 40
-http://odenfull.co:2086/142536/142536/1305
-#EXTINF:-1,MEX HD: AZ CINEMA
-http://odenfull.co:2086/142536/142536/1313
-#EXTINF:-1,MEX: AZTECA CLICK
-http://odenfull.co:2086/142536/142536/1314
-#EXTINF:-1,MEX HD: AZTECA CORAZON
-http://odenfull.co:2086/142536/142536/1316
-#EXTINF:-1,MEX HD: AZTECA MUNDO
-http://odenfull.co:2086/142536/142536/1317
-#EXTINF:-1,MEX HD: AZTECA 7
-http://odenfull.co:2086/142536/142536/1318
-#EXTINF:-1,MEX: CANAL 2
-http://odenfull.co:2086/142536/142536/1326
-#EXTINF:-1,MEX: CANAL 4
-http://odenfull.co:2086/142536/142536/1328
-#EXTINF:-1,MEX:CANAL 8
-http://odenfull.co:2086/142536/142536/1330
-#EXTINF:-1,MEX :CANAL DE LAS ESTRELLAS HD
-http://odenfull.co:2086/142536/142536/1331
-#EXTINF:-1,MEX HD:CANAL ONCE
-http://odenfull.co:2086/142536/142536/1333
-#EXTINF:-1,MEX: DISTRITO COMEDIA
-http://odenfull.co:2086/142536/142536/1353
-#EXTINF:-1,MEX: MEXIQUICE
-http://odenfull.co:2086/142536/142536/1396
-#EXTINF:-1,MEX SD: MULTIMEDIOS PLUS
-http://odenfull.co:2086/142536/142536/1401
-#EXTINF:-1,MEX: TELENOVELAS
-http://odenfull.co:2086/142536/142536/1428
-#EXTINF:-1,MEX FHD: AZTECA  1
-http://odenfull.co:2086/142536/142536/1431
-#EXTINF:-1,MEX: CANAL DE LAS ESTRELLAS SD
-http://odenfull.co:2086/142536/142536/1804
-#EXTINF:-1,MEX: AZTECA CINEMA
-http://odenfull.co:2086/142536/142536/2167
-#EXTINF:-1,MX SD: CANAL 5
-http://odenfull.co:2086/142536/142536/2481
-#EXTINF:-1,MEX SD: AZTECA  1
-http://odenfull.co:2086/142536/142536/2482
-#EXTINF:-1,MEX SD: CANAL 8
-http://odenfull.co:2086/142536/142536/2485
-#EXTINF:-1,MEX SD: CANAL 4
-http://odenfull.co:2086/142536/142536/2488
-#EXTINF:-1,MEX SD: ADN 40
-http://odenfull.co:2086/142536/142536/2490
-#EXTINF:-1,MEX SD: AZTECA MUNDO
-http://odenfull.co:2086/142536/142536/2491
-#EXTINF:-1,MEX SD: AZTECA CORAZON
-http://odenfull.co:2086/142536/142536/2497
-#EXTINF:-1,MEX SD:TELENOVELA
-http://odenfull.co:2086/142536/142536/2709
-#EXTINF:-1,MEX: IMAGENTV HD
-http://odenfull.co:2086/142536/142536/5377
-#EXTINF:-1,MX HD: CANAL 5
-http://odenfull.co:2086/142536/142536/5378
-#EXTINF:-1,MEX HD: Estrella TV
-http://odenfull.co:2086/142536/142536/16272
-#EXTINF:-1,MEX SD: AZTECA 7
-http://odenfull.co:2086/142536/142536/22303
-#EXTINF:-1,MEX SD: DISTRITO COMEDIA
-http://odenfull.co:2086/142536/142536/22310
-#EXTINF:-1,MEX: AZTECA7
-http://odenfull.co:2086/142536/142536/31576
-#EXTINF:-1,MEX: Once ni\u00f1os
-http://odenfull.co:2086/142536/142536/31584
-#EXTINF:-1,MEX: Galavision HD
-http://odenfull.co:2086/142536/142536/31883
-#EXTINF:-1,MEX:UNIMAS HD
-http://odenfull.co:2086/142536/142536/31904
-#EXTINF:-1,Mex: Bitme HD
-http://odenfull.co:2086/142536/142536/47197
-#EXTINF:-1,Mex: Bitme SD
-http://odenfull.co:2086/142536/142536/47198
-#EXTINF:-1,MEX: FORO TV
-http://odenfull.co:2086/142536/142536/58034
-#EXTINF:-1,MEX: FORO TV HD
-http://odenfull.co:2086/142536/142536/63397
-#EXTINF:-1,MEX: TVC DEPORTES
-http://odenfull.co:2086/142536/142536/121593
-#EXTINF:-1,MEX:AYM SPORT
-http://odenfull.co:2086/142536/142536/121595
-#EXTINF:-1,MX: TUDN
-http://odenfull.co:2086/142536/142536/203087
-#EXTINF:-1,TELEVISA PUEBLA
-http://odenfull.co:2086/142536/142536/203254
-#EXTINF:-1,MEX: TELEVISA
-http://odenfull.co:2086/142536/142536/31668
-#EXTINF:-1,Azteca 13
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263448
-#EXTINF:-1,Canal 5
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263434
-#EXTINF:-1,Imagen Tv
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263439
-#EXTINF:-1,A&E
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263279
-#EXTINF:-1,El Gourmet
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263444
-#EXTINF:-1,FX
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263442
-#EXTINF:-1,TBS
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263451
-#EXTINF:-1,Discovery Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263294
-#EXTINF:-1,Animal Planet
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263295
-#EXTINF:-1,Nat Geo Wild
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263297
-#EXTINF:-1,Discovery H&H
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263299
-#EXTINF:-1,Discovery TLC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263348
+#EXTINF:-1,WARNER HD
+http://190.83.2.50:8000/play/a0eq/index.m3u8
+
+
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://190.83.2.50:8000/play/a063/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://190.83.2.50:8000/play/a06m/index.m3u8
+#EXTINF:-1,Discovery Civilization
+http://190.83.2.50:8000/play/a00c/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://190.83.2.50:8000/play/a04t/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://190.83.2.50:8000/play/a06r/index.m3u8
+#EXTINF:-1,Discovery Science
+http://190.83.2.50:8000/play/a00d/index.m3u8
 #EXTINF:-1,Discovery Turbo
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263349
-#EXTINF:-1,Discovery Theater
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263438
-#EXTINF:-1,History Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263300
-#EXTINF:-1,Investigacion Discovery
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263293
+http://190.83.2.50:8000/play/a04s/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://190.83.2.50:8000/play/a06o/index.m3u8
+
+
+#EXTINF:-1,A&E HD
+http://190.83.2.50:8000/play/a0cg/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.83.2.50:8000/play/a0ch/index.m3u8
+#EXTINF:-1,AXN HD
+http://190.83.2.50:8000/play/a05g/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://190.83.2.50:8000/play/a0ew/index.m3u8
+
+#EXTINF:-1,FOX
+http://190.83.2.50:8000/play/a04r/index.m3u8
+#EXTINF:-1,FOX Action HD
+http://190.83.2.50:8000/play/a06b/index.m3u8
+#EXTINF:-1,FOX Comedy HD
+http://190.83.2.50:8000/play/a06s/index.m3u8
+#EXTINF:-1,FOX Family HD
+http://190.83.2.50:8000/play/a06c/index.m3u8
+#EXTINF:-1,FOX HD
+http://190.83.2.50:8000/play/a09t/index.m3u8
+#EXTINF:-1,FOX LIFE
+http://190.83.2.50:8000/play/a01n/index.m3u8
+#EXTINF:-1,FOX Movies HD
+http://190.83.2.50:8000/play/a06a/index.m3u8
+
+#EXTINF:-1,FOX Series HD
+http://190.83.2.50:8000/play/a069/index.m3u8
+
+#EXTINF:-1,FX HD
+http://190.83.2.50:8000/play/a05r/index.m3u8
+#EXTINF:-1,FX Movies HD
+http://190.83.2.50:8000/play/a05t/index.m3u8
+
+#EXTINF:-1,Fox Classic HD
+http://190.83.2.50:8000/play/a06d/index.m3u8
+
+http://190.83.2.50:8000/play/a002/index.m3u8
+#EXTINF:-1,SONY HD
+http://190.83.2.50:8000/play/a09v/index.m3u8
+#EXTINF:-1,SPACE HD
+http://190.83.2.50:8000/play/a05h/index.m3u8
+
+#EXTINF:-1,TLC
+http://190.83.2.50:8000/play/a09n/index.m3u8
+
+
+#EXTINF:-1,Nat Geo HD
+http://190.83.2.50:8000/play/a06j/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://190.83.2.50:8000/play/a032/index.m3u8
 #EXTINF:-1,National Geographic
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263296
-#EXTINF:-1,Pasiones
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263522
-#EXTINF:-1,Disney XD
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263302
-#EXTINF:-1,Nick Jr
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263292
-#EXTINF:-1,AMC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263354
-#EXTINF:-1,Cinecanal
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263281
-#EXTINF:-1,Cinemax
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263356
+http://190.83.2.50:8000/play/a01t/index.m3u8
+
+#EXTINF:-1,Home & Health HD
+http://190.83.2.50:8000/play/a064/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://190.83.2.50:8000/play/a01u/index.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://190.83.2.50:8000/play/a05m/index.m3u8
+#EXTINF:-1,HOLA! TV HD
+http://190.83.2.50:8000/play/a065/index.m3u8
+#EXTINF:-1,Mas Chic
+http://190.83.2.50:8000/play/a009/index.m3u8
+
+*** CINE ***
+#EXTINF:-1,Paramount HD
+http://190.83.2.50:8000/play/a06k/index.m3u8
+
+#EXTINF:-1,CineMax
+http://190.83.2.50:8000/play/a053/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.83.2.50:8000/play/a062/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://190.83.2.50:8000/play/a06l/index.m3u8
 #EXTINF:-1,Golden
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263340
-#EXTINF:-1,Golden Edge
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263341
-#EXTINF:-1,HBO 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263289
-#EXTINF:-1,HBO Extreme
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263437
-#EXTINF:-1,HBO Signature
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263449
-#EXTINF:-1,Paramount Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263357
-#EXTINF:-1,Star Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263285
-#EXTINF:-1,Star Action
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263343
-#EXTINF:-1,Star Cinema
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263345
-#EXTINF:-1,Star Hits
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263344
-#EXTINF:-1,TNT
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263280
-#EXTINF:-1,TNT Series
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263342
-#EXTINF:-1,Warner Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263282
-#EXTINF:-1,Universal Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263283
-#EXTINF:-1,VH1
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263352
-#EXTINF:-1,Canal Once
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264121
-#EXTINF:-1,Claro Sports
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264122
-#EXTINF:-1,Distrito Comedia
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/266813
-#EXTINF:-1,24H | Peliculas Infantiles
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/451
-#EXTINF:-1,24H | Cinema Disney Pixar
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/490
-#EXTINF:-1,24H | Cantinflas
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/11526
-#EXTINF:-1,24H | El Chavo del 8
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/11527
-#EXTINF:-1,24H | Peliculas Infantiles
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/202426
-#EXTINF:-1,24H | Cinema Universe
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230604
-#EXTINF:-1,24h | Disney Movies
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230605
-#EXTINF:-1,24H | Los 3 Chiflados
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230607
-#EXTINF:-1,24H | Mi Bella Genio
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232326
-#EXTINF:-1,24H | Malcolm
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/232327
-#EXTINF:-1,24H | Anime
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/233789
-#EXTINF:-1, El Hombre Increible
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/234423
-#EXTINF:-1,24/7| ALF
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/236535
-#EXTINF:-1,24H - VIP | Peliculas Play
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240981
-#EXTINF:-1,24H-VIP | Estrenos 2020 HD
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262948
-#EXTINF:-1,24H-VIP | Estrenos 2020 (e)(1080)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262954
-#EXTINF:-1,24H-VIP | Estrenos 2019 (e)(1080)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262955
-#EXTINF:-1,24H-VIP | Cabalozos y Dragones (e)(SD)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262980
-#EXTINF:-1,24H-VIP | Candy Candy (e)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262981
-#EXTINF:-1,24H-VIP | Chip N Dale (e) (720) (e)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262984
-#EXTINF:-1,24H-VIP | CienciaFiccion (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262985
-#EXTINF:-1,24H-VIP | Cine Belico (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262986
-#EXTINF:-1,24H-VIP | Cine Biografico (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262987
-#EXTINF:-1,24H-VIP | Cine Catastrofico (e)(1080)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262988
-#EXTINF:-1,24H-VIP | Comedia (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262989
-#EXTINF:-1,24H-VIP | Crimen (e)(1080)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262993
-#EXTINF:-1,24H-VIP | Cristianas (e)(1080)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262994
-#EXTINF:-1,24H-VIP | Daria (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262995
-#EXTINF:-1,24H-VIP | DC Comics Peliculas (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262996
-#EXTINF:-1,24H-VIP | Disney Clasicos Animados (e)(1080)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263005
-#EXTINF:-1,24H-VIP | HBO Signature(M)(1080)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263038
-#EXTINF:-1,24H-VIP | Infantil (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263045
-#EXTINF:-1,24H-VIP | Los Años Maravillosos (e)(SD)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263066
-#EXTINF:-1,24H-VIP | Lost (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263079
-#EXTINF:-1,24H-VIP | Macgyver (e)(SD)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263081
-#EXTINF:-1,24H-VIP | Marvel Peliculas (e)(720)
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263084
-#EXTINF:-1,la exploradora
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263158
-#EXTINF:-1,MX | Baby First
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/151
-#EXTINF:-1,MX | Cartoon Network
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/147
-#EXTINF:-1,MX | Disney Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/144
-#EXTINF:-1,MX | Discovery Kids
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/141
-#EXTINF:-1,MX | Nick Junior
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/143
-#EXTINF:-1,MX | NickToons
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/145
-#EXTINF:-1,AR | Discovery Kids
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244266
-#EXTINF:-1,AR | Disney Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244267
-#EXTINF:-1,AR | Disney Junior
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244268
-#EXTINF:-1,AR | Disney XD
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244269
-#EXTINF:-1,AR | Nat Geo Kids
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244270
-#EXTINF:-1,AR | Nickelodeon
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244271
-#EXTINF:-1,AR | Baby TV 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/265009
-#EXTINF:-1,MX | HBO 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/134
-#EXTINF:-1,MX | HBO Plus
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/135
-#EXTINF:-1,MX | MAX UP
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/139
-#EXTINF:-1,MX | Star Action
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/115
-#EXTINF:-1,MX | AMC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/124
-#EXTINF:-1,MX | Cinema Dinamita
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264237
-#EXTINF:-1,MX | Golden
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/129
-#EXTINF:-1,MX | Golden Edge
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/130
-#EXTINF:-1,MX | TNT
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/121
-#EXTINF:-1,MX | Animal Planet
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/79
-#EXTINF:-1,MX | Discovery Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/78
-#EXTINF:-1,MX | Discovery Civilization
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/82
-#EXTINF:-1,MX | Food Network
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/73
+http://190.83.2.50:8000/play/a039/index.m3u8
+
+
+#EXTINF:-1,HBO
+http://190.83.2.50:8000/play/a057/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://190.83.2.50:8000/play/a013/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.83.2.50:8000/play/a010/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://190.83.2.50:8000/play/a012/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://190.83.2.50:8000/play/a014/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://190.83.2.50:8000/play/a011/index.m3u8
+
+#EXTINF:-1,Star TVE HD
+http://190.83.2.50:8000/play/a0co/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://190.83.2.50:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1,Universal
+http://190.83.2.50:8000/play/a0eo/index.m3u8
+
+#EXTINF:-1,Multipremier
+http://190.83.2.50:8000/play/a051/index.m3u8
+
+#EXTINF:-1,Sun Channel
+http://190.83.2.50:8000/play/a00r/index.m3u8
+#EXTINF:-1,SyFy HD
+http://190.83.2.50:8000/play/a05k/index.m3u8
+
+#EXTINF:-1,TCM
+http://190.83.2.50:8000/play/a03a/index.m3u8
+#EXTINF:-1,Cine Latino
+http://190.83.2.50:8000/play/a052/index.m3u8
+
+*** MUSICA ***
+
+#EXTINF:-1,CONCERT CHANNEL
+http://190.83.2.50:8000/play/a00z/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://91.201.177.2:8010/play/a00129
+#EXTINF:-1,MTV Germany
+http://109.122.68.51:4000/play/a06a
+#EXTINF:-1,MTV Rocks
+http://78.58.133.179:28000/play/a138/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://91.201.177.2:8010/play/a00121
+#EXTINF:-1,VH1 Classic
+http://190.83.2.50:8000/play/a0ev/index.m3u8
+#EXTINF:-1,VH1 HD
+http://190.83.2.50:8000/play/a0es/index.m3u8
+#EXTINF:-1,MTV HD
+http://190.83.2.50:8000/play/a028/index.m3u8
+#EXTINF:-1,MTV Hits
+http://190.83.2.50:8000/play/a01w/index.m3u8
+#EXTINF:-1,MTV SIM HD
+http://190.83.2.50:8000/play/a067/index.m3u8
+
+
+
+*** INFANTILES ***
+
+#EXTINF:-1,Nat Geo Kids
+http://190.83.2.50:8000/play/a02y/index.m3u8
+
+#EXTINF:-1,Discovery Kids HD
+http://190.83.2.50:8000/play/a06n/index.m3u8
+#EXTINF:-1,Disney
+http://190.83.2.50:8000/play/a04q/index.m3u8
+#EXTINF:-1,Disney JR
+http://190.83.2.50:8000/play/a01k/index.m3u8
+#EXTINF:-1,Disney 😆
+http://190.83.2.50:8000/play/a09d/index.m3u8
+#EXTINF:-1,Nick 2 HD
+http://190.83.2.50:8000/play/a05z/index.m3u8
+#EXTINF:-1,Nick Jr
+http://190.83.2.50:8000/play/a01i/index.m3u8
+#EXTINF:-1,Nick SIM HD
+http://190.83.2.50:8000/play/a060/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://190.83.2.50:8000/play/a04p/index.m3u8
+#EXTINF:-1,Baby TV
+http://190.83.2.50:8000/play/a007/index.m3u8
+
+
+
+
+
+
+*** NACIONALES ***
+
+
+#EXTINF:-1,Multimedios
+http://190.83.2.50:8000/play/a02s/index.m3u8
+#EXTINF:-1,Exa TV
+http://190.83.2.50:8000/play/a09q/index.m3u8
+#EXTINF:-1,Univision HD
+http://190.83.2.50:8000/play/a0et/index.m3u8
+#EXTINF:-1,Telemundo HD
+http://190.83.2.50:8000/play/a05q/index.m3u8
+
+#EXTINF:-1,Canal 3 - GUA
+http://190.83.2.50:8000/play/a0ct/index.m3u8
+#EXTINF:-1,Canal Antigua - GUA
+http://190.83.2.50:8000/play/a098/index.m3u8
+#EXTINF:-1,Guatevision - GUA
+http://190.83.2.50:8000/play/a018/index.m3u8
+#EXTINF:-1,RCN - GUA
+http://190.83.2.50:8000/play/a005/index.m3u8
+#EXTINF:-1,MASTV - PAN
+http://190.83.2.50:8000/play/a02p/index.m3u8
+#EXTINF:-1,Canal 4 - PAN
+http://190.83.2.50:8000/play/a04k/index.m3u8
+#EXTINF:-1,TV Max - PAN
+http://190.83.2.50:8000/play/a04j/index.m3u8
+
+
+#EXTINF:-1,SERTV - PAN
+
+#EXTINF:-1,TVChile
+http://190.83.2.50:8000/play/a00b/index.m3u8
+
+#EXTINF:-1,RCN Novelas
+http://190.83.2.50:8000/play/a030/index.m3u8
+#EXTINF:-1,TVE
+http://190.83.2.50:8000/play/a09s/index.m3u8
+
+#EXTINF:-1,EWTN
+http://190.83.2.50:8000/play/a025/index.m3u8
+#EXTINF:-1,TBN Enlace
+http://190.83.2.50:8000/play/a024/index.m3u8
+#EXTINF:-1,RHEMA TV
+http://190.83.2.50:8000/play/a05e/index.m3u8
+#EXTINF:-1,SEMILLITAS
+http://190.83.2.50:8000/play/a01m/index.m3u8
+#EXTINF:-1,Sembrador
+http://190.83.2.50:8000/play/a03e/index.m3u8
+
+*** FIN ***
+
+
+
+
 #EXTINF:-1,MX | Film & Arts
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/83
-#EXTINF:-1,MX | History
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/75
-#EXTINF:-1,MX | History 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1510
-#EXTINF:-1,MX | Ingenio Tv
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/72
-#EXTINF:-1,MX | NatGeo Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/80
-#EXTINF:-1,MX | NatGeo Wild
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/76
-#EXTINF:-1,MX | HGTV HD
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/257650
-#EXTINF:-1,MX | Star Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/84
-#EXTINF:-1,MX | Sony
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/85
-#EXTINF:-1,MX | Warner Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/86
-#EXTINF:-1,MX | FX
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/88
-#EXTINF:-1,MX | A&E
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/89
-#EXTINF:-1,MX | AXN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/90
-#EXTINF:-1,MX | TruTV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/91
-#EXTINF:-1,MX | Unicable
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/93
-#EXTINF:-1,MX | Hola TV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/94
-#EXTINF:-1,MX | Mas Chic
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/95
-#EXTINF:-1,MX | E! Entertainment
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/96
-#EXTINF:-1,MX | Syfy
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/97
-#EXTINF:-1,MX | Discovery Investigation
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/98
-#EXTINF:-1,MX | Star Life
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/101
-#EXTINF:-1,MX | Distrito Comedia
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/102
-#EXTINF:-1,MX | TBS
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/103
-#EXTINF:-1,MX | Lifetime
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/106
-#EXTINF:-1,MX | TLC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/107
-#EXTINF:-1,MX | FX Movies
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/108
-#EXTINF:-1,MX | Studio Universal
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/109
-#EXTINF:-1,MX | Europa Europa
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/110
-#EXTINF:-1,MX | Discovery Turbo
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/111
-#EXTINF:-1,MX | Paramount
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/112
-#EXTINF:-1,MX | Pasiones
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1468
-#EXTINF:-1,MX | I sat
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1503
-#EXTINF:-1,MX | Telemundo Internacional
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1504
-#EXTINF:-1,MX | Telemundo New York
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1507
-#EXTINF:-1,MX | Distrito Comedia HD
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1505
-#EXTINF:-1,NEWS | NTN24
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40831
-#EXTINF:-1,NEWS | CNN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40832
-#EXTINF:-1,NEWS | TVPE Noticias
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40833
-#EXTINF:-1,NEWS | 24/7 Noticias Argentina
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40835
-#EXTINF:-1,NEWS | ABC News
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40836
-#EXTINF:-1,MX | CNN En español
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253
-#EXTINF:-1,MX | CNN Internacional
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1506
-#EXTINF:-1,MX | Foro Tv
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/59
-#EXTINF:-1,MX | Azteca 7
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/61
-#EXTINF:-1,MX | Gala TV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/62
-#EXTINF:-1,MX | El Nueve
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/230603
-#EXTINF:-1,MX | Canal 4 Guadalajara
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258996
-#EXTINF:-1,MX | Televisa Puebla
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255793
-#EXTINF:-1,MX | Canal Once
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/63
-#EXTINF:-1,MX | Mexiquense
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/64
-#EXTINF:-1,MX | ADN 40
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/71
-#EXTINF:-1,MX | Canal 22
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258239
-#EXTINF:-1,MX | Multimedios Saltillo
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/255792
-#EXTINF:-1,MX | Azteca 7 Op2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18840
-#EXTINF:-1,MX | Azteca Uno Op2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/18841
-#EXTINF:-1,MX | Canal del Congreso
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226482
-#EXTINF:-1,MX | Canal 4 Saltillo
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252764
-#EXTINF:-1,MX | RCG 1 Saltillo
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252777
-#EXTINF:-1,MX | RCG 2 Saltillo
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252778
-#EXTINF:-1,Multimedios Laguna
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252772
-#EXTINF:-1,MX | TV Cuatro
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264522
-#EXTINF:-1,MX | Canal 5 *
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/264756
-#EXTINF:-1,MX | Telemax Hermosillo
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252784
-#EXTINF:-1,MX | TVMAS
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267243
-#EXTINF:-1,MX | Telever
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/267244
-#EXTINF:-1,Music Top
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252504
-#EXTINF:-1,Retro Plus TV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252505
-#EXTINF:-1,TV Japi
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252553
-#EXTINF:-1,ADN 40
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252758
-#EXTINF:-1,Canal 10 Chiapas
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252761
-#EXTINF:-1,Canal Once Nacional
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252766
-#EXTINF:-1,Multimedios Guadalajara
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252771
-#EXTINF:-1,Multimedios Monterrey
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252773
-#EXTINF:-1,MVM Noticias Oaxaca
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252774
-#EXTINF:-1,RTQ Queretaro
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252780
-#EXTINF:-1,Transmedia TV Morelia
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252786
-#EXTINF:-1,TVGE Internacional
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252979
-#EXTINF:-1,TV Marti
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252980
-#EXTINF:-1,Arirang
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252984
-#EXTINF:-1,CGNTV Japan
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252986
-#EXTINF:-1,ETB
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252990
-#EXTINF:-1,RTVE24
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252992
-#EXTINF:-1,France 24
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/252993
-#EXTINF:-1,ADN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/253065
-#EXTINF:-1,HD | Azteca Uno
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/258240
-#EXTINF:-1,HD | Canal 5
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/226525
-#EXTINF:-1,HD | A&E
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/10
-#EXTINF:-1,HD | Bitme
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/53
-#EXTINF:-1,HD | Comedy Central
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/13
-#EXTINF:-1,HD | TLC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/31
-#EXTINF:-1,HD | TNT Series
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/229850
-#EXTINF:-1,HD | Universal Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/8
-#EXTINF:-1,HD | Warner Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/7
-#EXTINF:-1,HD | Boomerang
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/23
-#EXTINF:-1,HD | Cartoon Network
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/21
-#EXTINF:-1,HD | Disney XD
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/22
-#EXTINF:-1,HD | Discovery Kids
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/17
-#EXTINF:-1,HD | Nick HD
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/20
-#EXTINF:-1,HD | Discovery ID
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/16
+
+
+#EXTINF:-1,Discovery Theater
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263438
 #EXTINF:-1,HD | Discovery Theater
 http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/42
-#EXTINF:-1,HD | Discovery World
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/25
-#EXTINF:-1,HD | Food Network
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/46
-#EXTINF:-1,HD | History
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/24
-#EXTINF:-1,HD | NatGeo Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/28
-#EXTINF:-1,HD | Natgeo Wild
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/51
-#EXTINF:-1,HD | AMC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/37
-#EXTINF:-1,HD | Cinecanal
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/34
-#EXTINF:-1,HD | Cinemax
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/55
-#EXTINF:-1,HD | Star Channel
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/50
-#EXTINF:-1,HD | Star Action
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/47
-#EXTINF:-1,HD | FX Movies
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/41
-#EXTINF:-1,HD | Golden Edge
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/36
-#EXTINF:-1,HD | Golden Premier
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/8053
-#EXTINF:-1,HD | HBO
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1472
-#EXTINF:-1,HD | HBO 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1473
-#EXTINF:-1,HD | HBO Family
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1475
-#EXTINF:-1,HD | HBO Plus
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/189383
-#EXTINF:-1,HD | HBO Signature
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1474
-#EXTINF:-1,HD | Max Prime
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/1463
-#EXTINF:-1,HD | Morbido
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/38
-#EXTINF:-1,HD | MTV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/40
-#EXTINF:-1,Nickelodeon
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263291
-#EXTINF:-1,Star Series
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263346
-#EXTINF:-1,Sony
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263347
-#EXTINF:-1,RCN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263447
-#EXTINF:-1,Star Classics
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263531
-#EXTINF:-1,MX | TUDN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/262194
-#EXTINF:-1,LA | TUDN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/245567
-#EXTINF:-1,LAT | ESTRELLA TV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/244541
-#EXTINF:-1,LAT | STAR ACTION
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239636
-#EXTINF:-1,LAT | STAR CHANNEL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239641
-#EXTINF:-1,LAT | STAR SERIES
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239643
-#EXTINF:-1,LAT | FXM
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239645
-#EXTINF:-1,LAT | HBO FAMILY
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239647
-#EXTINF:-1,LAT | HBO
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239648
-#EXTINF:-1,LAT | HBO 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/240948
-#EXTINF:-1,LAT | PARAMOUNT CHANNEL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239652
-#EXTINF:-1,LAT | SONY
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239653
-#EXTINF:-1,LAT | SPACE
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239654
-#EXTINF:-1,LAT | Studio Universal
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239655
-#EXTINF:-1,LAT | TBS
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239657
-#EXTINF:-1,LAT | TNT
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239658
-#EXTINF:-1,LAT | TNT SERIES
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239659
-#EXTINF:-1,LAT | UNIVERSAL CHANNEL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239660
-#EXTINF:-1,LAT | WARNER CHANNEL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/239661
-#EXTINF:-1,CA | A&E
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261484
-#EXTINF:-1,CA | ABC EAST
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261485
-#EXTINF:-1,CA | AMC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261486
-#EXTINF:-1,CA | BBC CANADA
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261488
-#EXTINF:-1,CA | CANAL D
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261490
-#EXTINF:-1,CA | CANAL VIE
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261491
-#EXTINF:-1,CA | CNN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261492
-#EXTINF:-1,CA | COOKING CHANNEL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261493
-#EXTINF:-1,CA | CP24
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261494
-#EXTINF:-1,CA | DISNEY JR
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261495
-#EXTINF:-1,CA | DIY
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261496
-#EXTINF:-1,CA | GLOBAL TORONTO
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261498
-#EXTINF:-1,CA | GLOBAL VANCOUVER
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261499
-#EXTINF:-1,CA | HBO
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261500
-#EXTINF:-1,CA | MAX
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261504
-#EXTINF:-1,CA | SPIKE TV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261505
-#EXTINF:-1,CA | BEIN SPORTS CANADA**
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261506
-#EXTINF:-1,CA | TSN 1
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261507
-#EXTINF:-1,CA | TSN 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261508
-#EXTINF:-1,CA | TSN 4
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261510
-#EXTINF:-1,CA | SPORTS NET 360
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261511
-#EXTINF:-1,CA | SPORTS NET ONE
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261512
-#EXTINF:-1,CA | SUPER ECRAN 1
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261513
-#EXTINF:-1,CA | SUPER ECRAN 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261514
-#EXTINF:-1,CA | SUPER ECRAN 4
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261516
-#EXTINF:-1,CA | TRAVEL SCAPE
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261518
-#EXTINF:-1,CA | TVO
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261519
-#EXTINF:-1,CA | CPAC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261520
-#EXTINF:-1,CA | ICI MONTREAL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261521
-#EXTINF:-1,CA | ICI VANCOUVER
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261522
-#EXTINF:-1,CA | INVESTIGATION
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261523
-#EXTINF:-1,CA | LCN
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261524
-#EXTINF:-1,CA | RDS 2
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261526
-#EXTINF:-1,CA | RDS
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261527
-#EXTINF:-1,CA | RDS INFO
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261528
-#EXTINF:-1,CA | YOOPA
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261532
-#EXTINF:-1,CA | CBC TORONTO
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261534
-#EXTINF:-1,CA | CBC REGGINA
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261536
-#EXTINF:-1,CAN| CBC Charlottetown
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261537
-#EXTINF:-1,CA | CBC
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261538
-#EXTINF:-1,CA | CBC MONTREAL
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261539
-#EXTINF:-1,CA | CBC NEWS
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261540
-#EXTINF:-1,CA | CBC VANCOUVER
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261542
-#EXTINF:-1,CA | CTV COMEDY
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261544
-#EXTINF:-1,CA | CTV DRAMA
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261545
-#EXTINF:-1,CA | CTV BARRIE
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261546
-#EXTINF:-1,CA | CTV KITCHENER
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261548
-#EXTINF:-1,CA | CTV LONDON
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261549
-#EXTINF:-1,CA | LEAFS TV
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261551
-#EXTINF:-1,CA | TSN 5
-http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/261552
+#EXTINF:-1,MX | Discovery Channel
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/78
+
+#EXTINF:-1,Discovery Kids
+http://45.179.140.242:8000/play/a0i5
+
+#EXTINF:-1,Discovery Channel
+http://45.179.140.242:8000/play/a0i8
+#EXTINF:-1,Discovery Science
+http://51.222.43.170:36995/VWjRdtmNC33j/nmcaSkXXW4bH/263436
+
+
+#EXTINF:-1,Comedy Central HD
+http://190.83.2.50:8000/play/a066/index.m3u8
+#EXTINF:-1,DHE HD
+http://190.83.2.50:8000/play/a05u/index.m3u8
+
+
+#EXTINF:-1,PXTV
+http://190.83.2.50:8000/play/a00h/index.m3u8
