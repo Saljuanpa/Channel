@@ -1,389 +1,282 @@
 #EXTM3U
 
-#EXTINF:-1, FILMS & ARTS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=137&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DW
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=203&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, SONY
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=48&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, WARNER
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=52&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, GOURMET
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOOD NETWORK
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, HISTORY
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=89&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=86&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY THEATER
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=95&p=3&k=srregio&f=.m3u8
-
-*** NACIONALES***
-#EXTINF:-1, LAS ESTRELLAS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=17&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CANAL 5
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=20&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZTECA 7
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=21&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NU9VE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=24&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ONCE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=25&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZTECA UNO
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=27&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZTECA UNO HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, LA 2
-https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
-#EXTINF:-1, RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1, ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1, AZTECA UNO HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=84&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZTECA 7 HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=317&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, IMAGEN TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2298&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2305&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, APREDNE TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=401&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1253&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NU9VE HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1783&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, LAS ESTRELLAS HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1784&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CANAL 5 HD (2)
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1785&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ONCE HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1942&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MVS TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2149&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MULTIMEDIOS CDMX
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2352&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MULTIMEDIOS HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2882&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CLIC HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=11&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TELEFORMULA SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=32&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MEXIQUENSE TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CORAZON
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=70&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TVC
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2156&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CANAL 4
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2274&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CANAL 8
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2307&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TELEVISA PUEBLA
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2312&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, A+
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TVMAS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2324&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CANAL DEL CONGRESO
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2331&p=3&k=srregio&f=.m3u8
-  
-
-
-*** INFANTILES ***
-#EXTINF:-1, BABY TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=116&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TOONCAST
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=108&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY KIDS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=109&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NICK
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=110&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISNEY XD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=111&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CARTOON NETWORK
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=112&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, BOOMERANG
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=115&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NICK JR
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=117&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=118&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NICKTOONS SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1708&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NICK 2
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NAT GEO KIDS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2373&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, BIT ME
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2591&p=3&k=srregio&f=.m3u8
-
-*** CINE ***
-#EXTINF:-1, TBS SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=81&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DE PELICULA +
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=121&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, GOLDEN +
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=122&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, GOLDEN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=123&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, GOLDEN EDGE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=124&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TNT
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=126&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TCM
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=128&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, SPACE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=129&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AMC
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=131&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=132&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, I SAT
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=135&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, EUROPA CHANNEL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=136&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FXM
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=138&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX SERIES
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=139&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX MOVIES
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=146&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CINECANAL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=149&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CINEMAX
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=158&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AMC
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=328&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DE PELICULA SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=335&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX ACTION
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=336&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, PARAMOUNT CHANNEL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1726&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX CINEMA SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX CLASSICS SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CINEMA
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1787&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MORBIDO
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=140&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, A3CINE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=3112&p=3&k=srregio&f=.m3u8
-
-
-*** ENTRETENIMIENTO ***
-#EXTINF:-1, FILMS & ARTS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=137&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=46&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, SONY
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=48&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, WARNER
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=52&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, UNIVERSAL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=57&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, SYFY
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=59&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FX
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=60&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, A&E
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=62&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AXN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=64&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, SUNDANCE TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=69&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TNT SERIES
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=71&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, GLITZ
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=76&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX LIFE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=77&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TRUTV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=79&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=201&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, WARNER HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=205&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, UNIVERSAL HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=207&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FX HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=209&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TRUTV HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=215&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ANTENA 3
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=199&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, UNICABLE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1499&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MAS CHIC
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1842&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, A3SERIES
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TELEMUNDO INTERNACIONAL HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=85&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, E!
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=55&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, HOLA TV HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=219&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, LIFETIME
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TL NOVELAS SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=83&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, COMEDY CENTRAL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=340&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISTRITO COMEDIA SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=78&p=3&k=srregio&f=.m3u8
-
-*** DEPORTES ***
-#EXTINF:-1, ESPN +
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=167&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ESPN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=168&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ESPN 2
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=169&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX SPORTS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=170&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX SPORTS 2
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=172&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TUDN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=174&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOX SPORTS 3
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=178&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AYM SPORTS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=180&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ESPN 3
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=345&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ADRENALINA SPORTS HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1799&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TVC DEPORTES
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2157&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CLARO SPORTS HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FUEL TV HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2587&p=3&k=srregio&f=.m3u8 
-
-*** CULTURALES ***
-#EXTINF:-1, GOURMET
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOOD NETWORK
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, HISTORY
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=89&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=86&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY THEATER
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=95&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY ID
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2376&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=98&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY CIVILIZATION
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=99&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY WORLD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=101&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, DISCOVERY TURBO
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2379&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ANIMAL PLANET
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2378&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NAT GEO
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=91&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NAT GEO WILD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=92&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, H&H
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=96&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TLC
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=97&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TVE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=198&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, SHOPPING
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1943&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, STAR TVE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2375&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, GARAGE TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=75&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CURIOSITY STREAM
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
-
-*** MUSICA ***
-#EXTINF:-1, MTV LIVE
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=211&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MTV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=212&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MTV HITS SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=213&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, VH1 CLASSIC SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=214&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, VH1 HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=334&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, VH1 SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=217&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TELEHIT URBANO SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=218&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, TELEHIT +
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=220&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AZ CLIC
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=223&p=3&k=srregio&f=.m3u8
- 
-
-
-*** NOTICIAS ***
-#EXTINF:-1, DW
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=203&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FRANCE 24
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2402&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOROTV HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=4&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOROTV SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=19&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ADN40
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=40&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, ADN 40 HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=184&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CNN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=185&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CNN SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=186&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, CNN Ñ SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=187&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, WOBI
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=102&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, FOXN EWS
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=188&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, BLOOMBERG
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=190&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, BBC SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=191&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, AL JAAZERA
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=192&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, NTN 24
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=194&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, JUSTICIA TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=196&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, HLN
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=197&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, RT
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=999&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, RT ESPAÑOL
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=2091&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MILENIO HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1250&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, MILENIO SD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1252&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, EXCELSIOR TV
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1449&p=3&k=srregio&f=.m3u8
-#EXTINF:-1, EL FINANCIERO HD
-http://regioplay.xyz/php/SR_REGIO_910112_/tp.php?c=1649&p=3&k=srregio&f=.m3u8
-
-***  BBC  ***
-
-EXTINF:-1,[COLOR lime]---ALEMAN---[/COLOR]
-http://?
-#EXTINF:-1,Das Erste
-https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1,MX : HBO Plus
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/330
+#EXTINF:-1,MX : HBO Signature
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/331
+#EXTINF:-1,MX : Showtime
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/332
+#EXTINF:-1,MX : Starz Encore
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/333
+#EXTINF:-1,MX : Starz
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/334
+#EXTINF:-1,MX : Fox Premium Cinema
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/335
+#EXTINF:-1,MX : Discovery Channel
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/336
+#EXTINF:-1,MX : Discovery Home and Health
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/337
+#EXTINF:-1,MX : Discovery Kids
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/338
+#EXTINF:-1,MX : Discovery Turbo
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/339
+#EXTINF:-1,MX : Discovery World
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/340
+#EXTINF:-1,MX : Fox Premium Action
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/341
+#EXTINF:-1,MX : Fox Premium Cinema
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/342
+#EXTINF:-1,MX : Golden Premier
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/343
+#EXTINF:-1,MX : HBO plus
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/344
+#EXTINF:-1,MX : HBO Xtreme
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/345
+#EXTINF:-1,MX : History Channel
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/346
+#EXTINF:-1,MX : BABY TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/347
+#EXTINF:-1,MX : BEIN SPORTS Ã‘
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/348
+#EXTINF:-1,MX : BOOMERANG
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/349
+#EXTINF:-1,MX : CNN ESPAÃ‘OL
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/350
+#EXTINF:-1,MX : DIRECTV SPORT 2
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/351
+#EXTINF:-1,MX : DISCOVERY CIVILIZATION
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/352
+#EXTINF:-1,MX : DISCOVERY SCIENCE
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/353
+#EXTINF:-1,MX : EL GOURMET
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/354
+#EXTINF:-1,MX : ESPN DEPORTES
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/355
+#EXTINF:-1,MX : FORO TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/356
+#EXTINF:-1,MX : FOX DEPORTES
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/357
+#EXTINF:-1,MX : FOX SPORTS 1
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/358
+#EXTINF:-1,MX : FOX SPORTS 2
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/359
+#EXTINF:-1,MX : FOX SPORTS 3
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/360
+#EXTINF:-1,MX : HBO
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/361
+#EXTINF:-1,MX : HBO 2
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/362
+#EXTINF:-1,MX : HBO XTREME
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/363
+#EXTINF:-1,MX :  HBO POP
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/364
+#EXTINF:-1,MX : NICK 2
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/365
+#EXTINF:-1,MX : NICK TOONS
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/366
+#EXTINF:-1,MX : NICKELODEON
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/367
+#EXTINF:-1,MX : PASIONES
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/368
+#EXTINF:-1,MX : SPACE
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/369
+#EXTINF:-1,MX : STARZ COMEDY
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/370
+#EXTINF:-1,MX : TBS
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/371
+#EXTINF:-1,MX : NAT GEO WILD
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/372
+#EXTINF:-1,MX : Galavision
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/373
+#EXTINF:-1,MX : TYC sports
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/375
+#EXTINF:-1,MX : GOL TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/377
+#EXTINF:-1,MX: Golden Edge
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/379
+#EXTINF:-1,MX: HBO
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/380
+#EXTINF:-1,MX: HBO FAMILY
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/381
+#EXTINF:-1,MX : FOX PREMIUM ACTION
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/382
+#EXTINF:-1,MX : Fox premiun movies
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/384
+#EXTINF:-1,MX : FOX PREMIUM FAMILY
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/385
+#EXTINF:-1,MX : Fox premiun comedy
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/386
+#EXTINF:-1,MX : Golden plus
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/387
+#EXTINF:-1,MX : Golden premier
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/388
+#EXTINF:-1,MX : Las estrellas
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/389
+#EXTINF:-1,MX : Discovery Science
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/390
+#EXTINF:-1,MX: Az Click
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/391
+#EXTINF:-1,MX: Film & Arts
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/392
+#EXTINF:-1,MX: ADN40
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/393
+#EXTINF:-1,MX: Fox Sports 1
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/394
+#EXTINF:-1,MX: Paramount Channel
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/395
+#EXTINF:-1,MX: Fox Sports 2
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/396
+#EXTINF:-1,MX: Fox Sports 3
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/397
+#EXTINF:-1,MX: CNN International
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/398
+#EXTINF:-1,MX: Warner
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/402
+#EXTINF:-1,MX: Azteca 7
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/403
+#EXTINF:-1,MX: Studio Universal
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/404
+#EXTINF:-1,MX: FX
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/405
+#EXTINF:-1,MX: A&E
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/406
+#EXTINF:-1,MX: AXN
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/407
+#EXTINF:-1,MX: Food Network
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/408
+#EXTINF:-1,MX: Nick 2
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/409
+#EXTINF:-1,MX: Tru TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/410
+#EXTINF:-1,MX: Comedy Central
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/411
+#EXTINF:-1,MX: Unicable
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/412
+#EXTINF:-1,MX: Hola TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/413
+#EXTINF:-1,MX: Mas Chic
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/414
+#EXTINF:-1,MX: GALA TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/415
+#EXTINF:-1,MX: Investigation Discovery
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/418
+#EXTINF:-1,MX: Animal Planet
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/419
+#EXTINF:-1,MX: Discovery Turbo
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/420
+#EXTINF:-1,MX: AZ Corazon
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/422
+#EXTINF:-1,MX: Glitz
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/428
+#EXTINF:-1,MX: Distrito Comedia
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/430
+#EXTINF:-1,MX: TBS
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/431
+#EXTINF:-1,MX: Disney Jr
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/435
+#EXTINF:-1,MX: Nick Jr
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/436
+#EXTINF:-1,MX: Disney Channel
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/437
+#EXTINF:-1,MX: Nicktoons
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/438
+#EXTINF:-1,MX: Nickelodeon
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/439
+#EXTINF:-1,MX: Boomerang
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/441
+#EXTINF:-1,MX: Tooncast
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/442
+#EXTINF:-1,MX: De Pelicula plus
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/443
+#EXTINF:-1,MX: Discovery Theater
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/444
+#EXTINF:-1,MX: History
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/445
+#EXTINF:-1,MX: Discovery World
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/446
+#EXTINF:-1,MX: Discovery Channel
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/447
+#EXTINF:-1,MX: Discovery H&H
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/448
+#EXTINF:-1,MX: National Geographic
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/449
+#EXTINF:-1,MX: Wobi
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/451
+#EXTINF:-1,MX: Fox Series
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/452
+#EXTINF:-1,MX: Fox Action
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/453
+#EXTINF:-1,MX: Fox premium Movies
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/454
+#EXTINF:-1,MX: Fox Premium Cinema
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/455
+#EXTINF:-1,MX: Star Classics
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/456
+#EXTINF:-1,MX: AZ Cinema
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/457
+#EXTINF:-1,MX: Cinecanal
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/458
+#EXTINF:-1,MX: TNT
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/459
+#EXTINF:-1,MX: FXM
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/460
+#EXTINF:-1,MX: Espn extra
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/463
+#EXTINF:-1,MX: Espn 3
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/464
+#EXTINF:-1,MX: Sundance TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/466
+#EXTINF:-1,MX: MTV Live
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/467
+#EXTINF:-1,MX: Telehit Plus
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/468
+#EXTINF:-1,MX: VH1
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/469
+#EXTINF:-1,MX: MTV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/470
+#EXTINF:-1,MX: VH1 Classic
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/472
+#EXTINF:-1,MX: Bandamax
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/473
+#EXTINF:-1,MX: Mexiquense
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/475
+#EXTINF:-1,MX: Adrenalina Sport Network
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/477
+#EXTINF:-1,MX: Fuel TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/478
+#EXTINF:-1,MX: SPACE LATINO
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/479
+#EXTINF:-1,MX: Milenio TV
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/480
+#EXTINF:-1,MX: France 24
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/481
+#EXTINF:-1,MX: ADN 40
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/482
+#EXTINF:-1,MX: Canal 26
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/486
+#EXTINF:-1,MX: Canal Mundo +
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/487
+#EXTINF:-1,MX: STARZ EDGE
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/488
+#EXTINF:-1,MX: Starz Black
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/489
+#EXTINF:-1,MX: STARZ Cinema
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/490
+#EXTINF:-1,MX: Starz East
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/491
+#EXTINF:-1,MX: Starz West
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/492
+#EXTINF:-1,MX: Starz Encore Family
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/496
+#EXTINF:-1,MX: Starz Encore Classic
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/497
+#EXTINF:-1,MX: Azteca Uno
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/502
+#EXTINF:-1,MX: Canal 5
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/503
+#EXTINF:-1,MX: Imagen Tv
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/504
+#EXTINF:-1,MX: TDN HD 1
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/506
+#EXTINF:-1,MX: TDN HD
+http://gratuita.mrzutv.net:8080/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/dhgjkahdgjkasjdgsdgsfgksdflkjgklfjlkvgjsfkljgklejfrklvglkrjvklsjrlkjvklsjrlkvjlkrjlkvjrdlkjvlksjlrkjgklserjklvgjseklrjkljglkjrjgkljlkrjglkjrkgjkerjklgjklejrfkljlkerjklgjklrjklgklrjlkgjlkrklgjlkrjklgjklrjklgjfklrjklfgjlrkjfglklrkgfdhgjkahdgjkasjdgsdgsfgksd/507
