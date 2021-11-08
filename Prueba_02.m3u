@@ -137,3 +137,19 @@ http://190.14.233.53:8000/play/a01t
 http://190.14.233.53:8000/play/a008
 #EXTINF:-1,Zoom
 http://190.14.233.53:8000/play/a01i
+
+#EXTINF:-1,MTV 90s
+http://81.204.1.224:9981/play/a07e
+#EXTINF:-1,MTV Live HD
+http://81.204.1.224:9981/play/a00i
+#EXTINF:-1,Mezzo
+http://81.204.1.224:9981/play/a074
+
+
+
+#EXTINF:-1,BBC First HD
+http://81.204.1.224:9981/play/a01s
+#EXTINF:-1,BBC One HD
+http://81.204.1.224:9981/play/a00e
+#EXTINF:-1,BBC Two HD
+http://81.204.1.224:9981/play/a014
