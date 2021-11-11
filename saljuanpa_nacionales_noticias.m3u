@@ -1,0 +1,38 @@
+#EXTM3U
+NACIONALES Y NOTICIAS
+
+
+#EXTINF:-1, Once MX
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1,MX (SD)  NU9VE TV
+http://ultrontv.xyz:80/Tamika/Tamika/73449
+#EXTINF:-1,MX (SD) TP ADN40
+http://ultrontv.xyz:80/Tamika/Tamika/73455
+#EXTINF:-1,MX (SD) TP AZTECA 1
+http://ultrontv.xyz:80/Tamika/Tamika/73460
+#EXTINF:-1,MX (SD) TP AZTECA7
+http://ultrontv.xyz:80/Tamika/Tamika/73467
+#EXTINF:-1,MX (SD) TP IMAGEN TV
+http://ultrontv.xyz:80/Tamika/Tamika/73548
+
+#EXTINF:-1 tvg-id="Oh!K" tvg-name="Oh!K" tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="Movies",OH!K
+http://50.7.161.82:8278/streams/d/ohk_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mantul.org/logo/nhkworld.png" group-title="Entertainment",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+
+#EXTINF:-1, DW ENGLISH
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1,BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1, France 24 | FR
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UC
+
+#EXTINF:-1,BBC News (480p)
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
