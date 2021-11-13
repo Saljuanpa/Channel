@@ -12,9 +12,9 @@ https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:-1,History Channel
-http://181.115.72.65:8199/play/a02d/index.m3u8
-#EXTINF:-1,History Channel
 http://200.24.159.179:8500/play/a004
+#EXTINF:-1,History Channel
+http://181.115.72.65:8199/play/a02d/index.m3u8
 #EXTINF:-1,History Channel
 http://181.115.72.65:8199/play/a02d/index.m3u8
 
