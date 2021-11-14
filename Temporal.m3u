@@ -42,7 +42,10 @@ http://181.115.72.65:8199/play/a009/index.m3u8
 http://181.115.72.65:8199/play/a02s/index.m3u8
 
 
-
+#EXTINF:-1,DISCOVERY CIVILIZATION VIP Latin America
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11720
+#EXTINF:-1,DISCOVERY CiviliZation FHD VIP Latin America
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11391
 
 
 
@@ -295,3 +298,21 @@ http://200.24.159.179:8500/play/a01o
 
 
 *****  INTERNACIONALES ****
+
+
+
+#EXTINF:-1,Hallmark Movies & More (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+#EXTINF:-1,Fuji TV (540p) [Not 24/7]
+https://fujitv1.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1,Das Erste (720p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1,1-2-3 TV (480p)
+http://123tv-mx1.flex-cdn.net/index.m3u8
+
+#EXTINF:-1,Telebasel (288p)
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
