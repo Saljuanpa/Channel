@@ -162,6 +162,8 @@ http://181.115.72.65:8199/play/a02a/index.m3u8
 
 *****  MUSICA ****
 
+#EXTINF:-1,Ro: MTV 90s
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/175326
 
 #EXTINF:-1,MTV Rocks
 http://31.211.77.158:8000/play/a032/index.m3u8
