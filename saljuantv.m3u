@@ -1,267 +1,258 @@
 #EXTM3U
 
-*** FAVORITOS***
-#EXTINF:-1,DW (Español)
+*****  FAVORITOS ****
+
+#EXTINF:-1, DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-
-
-#EXTINF:-1,MyC - FILM & ARTS
-http://50.7.66.234:8080/alexi/1234/3966
-
-
-#EXTINF:-1,FILM & ARTS
-http://tecnotv.club/coo/smartv.php?c=1527_&f=.m3u8
-
-#EXTINF:-1,LA: Los Años Maravillosos 24/7
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/172834
-
-
-#EXTINF:-1,MTV 80s HU
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/85413?checkedby:zaltv.co
-#EXTINF:-1,MTV 90s HU
-http://iptvworld.xyz:2095/hXZp0zPK/djDM7bPC/99133?checkedby:zaltv.co
-
-
-#EXTINF:-1,MTV 90s
-http://81.204.1.224:9981/play/a07e
-#EXTINF:-1,MTV Live HD
-http://81.204.1.224:9981/play/a00i
-#EXTINF:-1,Mezzo
-http://81.204.1.224:9981/play/a074
-
-
-#EXTINF:-1,Canal Estrellas
-http://200.24.159.179:8500/play/a01m
-#EXTINF:-1,Canal de Las estrellas
-http://38.131.11.34:1080/play/a032
-#EXTINF:-1,Canal 6 CDMX
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
-#EXTINF:-1,Canal Once
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1,Canal Once IPN  Int. | HD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1,Canal Catorce
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1,TV UNAM
-https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
-#EXTINF:-1,Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:-1,Canal 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-#EXTINF:-1,CANAL 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-#EXTINF:-1,Canal 6 MTY
-http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:-1,CANAL 6 MONTERREY
-http://mdstrm.com/live-stream-playlist_2500/57b4dbf5dbbfc8f16bb63ce1.m3u8?
-#EXTINF:-1,Capital 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1,C21 CDMX
-https://video.cdmx.gob.mx/livestream/stream.m3u8
-
-#EXTINF:-1,CANAL 6 CDMX
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
-#EXTINF:-1,CANAL 6 GUADALAJARA
-http://mdstrm.com/live-stream-playlist_2500/5c54d38ca392a5119bb0aa0d.m3u8?
-#EXTINF:-1,CANAL 6 PUEBLA
-http://mdstrm.com/live-stream-playlist_2500/5d56ed29c92dd106ff01543b.m3u8?
-#EXTINF:-1,A+ METROPOLITANO
-https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8
-#EXTINF:-1,CANAL CATORCE
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-#EXTINF:-1,CANAL CATORCE
-https://live2.canaloncelive.tv/spr/smil:spr.smil/playlist.m3u8
-#EXTINF:-1,MEXIQUENSE TELEVISIÓN
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
-
-
-#EXTINF:-1,Warner
-http://200.24.159.179:8500/play/a01a
-#EXTINF:-1,Warner
-http://38.131.11.34:1080/play/a05i
-#EXTINF:-1,Warner
-http://45.179.140.242:8000/play/a0ia
-
-
+#EXTINF:-1,MX (SD) TP FILM & ART
+http://ultrontv.xyz:80/Tamika/Tamika/73522
+#EXTINF:-1,Mx: Film & Arts
+http://new-pro.tv:8080/golden_eagle/khalid/72563
+#EXTINF:-1, Gourmet op2
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,History Channel
 http://200.24.159.179:8500/play/a004
 #EXTINF:-1,History Channel
-http://38.131.11.34:1080/play/a00r
-
-#EXTINF:-1,Discovery Channel
-http://45.179.140.242:8000/play/a0i8
+http://181.115.72.65:8199/play/a02d/index.m3u8
+#EXTINF:-1,History Channel
+http://181.115.72.65:8199/play/a02d/index.m3u8
+#EXTINF:-1,History HD
+http://181.115.72.65:8199/play/a01j/index.m3u8
+#EXTINF:-1,History HD
+http://181.115.72.65:8199/play/a01j/index.m3u8
+#EXTINF:-1,H2
+http://181.115.72.65:8199/play/a01r/index.m3u8
+#EXTINF:-1,H2
+http://181.115.72.65:8199/play/a01r/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://200.24.159.179:8500/play/a018
 #EXTINF:-1,Discovery Channel
-http://38.131.11.34:1080/play/a02g
+http://200.24.159.179:8500/play/a018
 #EXTINF:-1,Discovery Channel
-http://45.179.140.242:8000/play/a0i8
+http://181.115.72.65:8199/play/a02b/index.m3u8
+#EXTINF:-1,Discovery Science
+http://181.115.72.65:8199/play/a009/index.m3u8
 #EXTINF:-1,Discovery Turbo
-http://200.24.159.179:8500/play/a039
+http://181.115.72.65:8199/play/a02s/index.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION VIP Latin America
+http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11720
 
-#EXTINF:-1,Sony
-http://45.179.140.242:8000/play/a0j8
-#EXTINF:-1,Sony
-http://38.131.11.34:1080/play/a01w
+*****  ENTRETENIMIENTO ****
 
-#EXTINF:-1,AE Mundo
+#EXTINF:-1,Warner
+http://200.24.159.179:8500/play/a01a
+#EXTINF:-1, A&E
 http://200.24.159.179:8500/play/a01i
-#EXTINF:-1,AE Mundo
-http://45.179.140.242:8000/play/a0ig
-#EXTINF:-1,AE Mundo
-http://38.131.11.34:1080/play/a02q
-#EXTINF:-1,AXN
-http://45.179.140.242:8000/play/a0j9
-#EXTINF:-1,AXN
-http://38.131.11.34:1080/play/a01x
-
 #EXTINF:-1,AXN
 http://200.24.159.179:8500/play/a02y
-
 #EXTINF:-1,FX
 http://200.24.159.179:8500/play/a030
-#EXTINF:-1,FX
-http://45.179.140.242:8000/play/a0jb
-#EXTINF:-1,FXM
-http://45.179.140.242:8000/play/a0hx
 #EXTINF:-1,FXM
 http://200.24.159.179:8500/play/a00t
-
-#EXTINF:-1,Nat Geo
-http://200.24.159.179:8500/play/a003
-#EXTINF:-1,Nat Geo
-http://45.179.140.242:8000/play/a0h2
-
-
-#EXTINF:-1,Animal Planet
-http://45.179.140.242:8000/play/a0i9
-#EXTINF:-1,Animal Planet
-http://38.131.11.34:1080/play/a02h
-
-
+#EXTINF:-1,AE Mundo
+http://200.24.159.179:8500/play/a01i
 #EXTINF:-1,TLC
-http://45.179.140.242:8000/play/a0ii
-
-#EXTINF:-1,HomeandHealth
-http://45.179.140.242:8000/play/a0jj
-#EXTINF:-1,Home and Health
-http://38.131.11.34:1080/play/a01d
+http://181.115.72.65:8199/play/a02e/index.m3u8
 #EXTINF:-1,HomeandHealth
 http://200.24.159.179:8500/play/a01w
+#EXTINF:-1, Mas Chic op2
+https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Hola!TV
+http://181.115.72.65:8199/play/a00a/index.m3u8
+#EXTINF:-1, Lifetime
+http://181.115.72.65:8199/play/a01b/index.m3u8
+#EXTINF:-1,Nat Geo
+http://200.24.159.179:8500/play/a003
+#EXTINF:-1,National Geographic
+http://181.115.72.65:8199/play/a01a/index.m3u8
+#EXTINF:-1,Nat Geo Wild op2
+http://181.115.72.65:8199/play/a01q/index.m3u8
+#EXTINF:-1, Animal Planet
+http://181.115.72.65:8199/play/a02c/index.m3u8
 
-#EXTINF:-1,HBO
-http://38.131.11.34:1080/play/a01u
+
+*****  CINE ****
+
+#EXTINF:-1,TNT
+http://200.24.159.179:8500/play/a00g
+#EXTINF:-1,Space
+http://200.24.159.179:8500/play/a02z
+#EXTINF:-1,STAR CHANNEL
+http://200.24.159.179:8500/play/a00c
+#EXTINF:-1, HBO
+http://181.115.72.65:8199/play/a037/index.m3u8
+#EXTINF:-1, HBO HD
+http://181.115.72.65:8199/play/a00u/index.m3u8
+#EXTINF:-1, HBO 2
+http://181.115.72.65:8199/play/a038/index.m3u8
+#EXTINF:-1,HBO Family
+http://181.115.72.65:8199/play/a03a/index.m3u8
+#EXTINF:-1,HBO +
+http://181.115.72.65:8199/play/a039/index.m3u8
+#EXTINF:-1,HBO + HD
+http://181.115.72.65:8199/play/a00w/index.m3u8
 #EXTINF:-1,HBO
 http://200.24.159.179:8500/play/a02v
 #EXTINF:-1,HBO 2
-http://38.131.11.34:1080/play/a00g
-#EXTINF:-1,HBO 2
 http://200.24.159.179:8500/play/a00z
 #EXTINF:-1,HBO Family
-http://38.131.11.34:1080/play/a00j
-#EXTINF:-1,HBO Family
 http://200.24.159.179:8500/play/a012
-#EXTINF:-1,HBO Plus
-http://38.131.11.34:1080/play/a00h
 #EXTINF:-1,HBO Plus
 http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
-
-#EXTINF:-1,FOX P ACTION
-http://38.131.11.34:1080/play/a00f
-#EXTINF:-1,FOX P MOVIES
-http://38.131.11.34:1080/play/a00d
-#EXTINF:-1,FOX P SERIES E
-http://38.131.11.34:1080/play/a07l
-#EXTINF:-1,Fox Life
-http://38.131.11.34:1080/play/a00y
-
-
-#EXTINF:-1,I-Sat
-http://200.24.159.179:8500/play/a007
-#EXTINF:-1,I-Sat
-http://38.131.11.34:1080/play/a00v
-#EXTINF:-1,Max Prime
-http://38.131.11.34:1080/play/a00i
-
-#EXTINF:-1, Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-#EXTINF:-1,STAR CHANNEL
-http://200.24.159.179:8500/play/a00c
-#EXTINF:-1,STAR CHANNEL
-http://38.131.11.34:1080/play/a07m
-#EXTINF:-1,TCM
-http://38.131.11.34:1080/play/a010
-#EXTINF:-1,TNT
-http://38.131.11.34:1080/play/a013
-#EXTINF:-1,TNT
-http://200.24.159.179:8500/play/a00g
-#EXTINF:-1,Universal
-http://38.131.11.34:1080/play/a00t
-#EXTINF:-1,Space
-http://45.179.140.242:8000/play/a0ja
-#EXTINF:-1,Space
-http://200.24.159.179:8500/play/a02z
-#EXTINF:-1,TBS
-http://45.179.140.242:8000/play/a0ji
-
-#EXTINF:-1,Cinemax
-http://200.24.159.179:8500/play/a02w
-#EXTINF:-1,Cinemax
-http://45.179.140.242:8000/play/a0j7
-#EXTINF:-1,Cinemax
-http://38.131.11.34:1080/play/a01v
-
-
-#EXTINF:-1,Cinecanal
-http://38.131.11.34:1080/play/a00s
 #EXTINF:-1,Cinecanal
 http://200.24.159.179:8500/play/a005
+#EXTINF:-1,Cinemax
+http://200.24.159.179:8500/play/a02w
+#EXTINF:-1, Runtime MX
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1,Golden
+http://181.115.72.65:8199/play/a01v/index.m3u8
+#EXTINF:-1,DHE
+http://181.115.72.65:8199/play/a00o/index.m3u8
+#EXTINF:-1,Multicinema
+http://181.115.72.65:8199/play/a00j/index.m3u8
+#EXTINF:-1,Multipremier
+http://181.115.72.65:8199/play/a031/index.m3u8
+#EXTINF:-1,SyFy
+http://181.115.72.65:8199/play/a02a/index.m3u8
 
 
-#EXTINF:-1,France 24
-http://45.179.140.242:8000/play/a0jh
+
+*****  MUSICA ****
+#EXTINF:-1,Ro: MTV 90s
+http://new-pro.tv:8080/waelwael/2r1sBY8wJK/175326
+#EXTINF:-1,MTV
+http://200.24.159.179:8500/play/a008
+#EXTINF:-1, Music Top
+https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1,MTV Live HD
+http://181.115.72.65:8199/play/a01l/index.m3u8
+#EXTINF:-1,MTV Hits
+http://181.115.72.65:8199/play/a01d/index.m3u8
+#EXTINF:-1,MTV 00s
+http://181.115.72.65:8199/play/a01u/index.m3u8
+#EXTINF:-1,Nl: MTV 90s
+http://new-pro.tv:8080/golden_eagle/khalid/67519
+#EXTINF:-1,Nl: MTV 80s HD
+http://new-pro.tv:8080/golden_eagle/khalid/67512
+#EXTINF:-1,Nl | VIP: MTV 80s 4K
+http://new-pro.tv:8080/golden_eagle/khalid/21295
+#EXTINF:-1,Ro: MTV 90s
+http://new-pro.tv:8080/golden_eagle/khalid/175326
+#EXTINF:-1,RO: MTV Rocks
+http://new-pro.tv:8080/golden_eagle/khalid/180145
+#EXTINF:-1,|FR| MTV CLASSIC
+http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9670
+
+
+*****  NACIONALES ****
+
+#EXTINF:-1, Once MX
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1, Canal 6 Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, Uno tv
+https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+#EXTINF:-1,Canal Estrellas
+http://200.24.159.179:8500/play/a01m
+#EXTINF:-1,Azteca Corazon
+http://181.115.72.65:8199/play/a016/index.m3u8
+#EXTINF:-1,Azteca mundo
+http://181.115.72.65:8199/play/a025/index.m3u8
+
+
+
+#EXTINF:-1,Univision op2
+http://71.187.29.220:8000/play/a07t/index.m3u8
+#EXTINF:-1, RCG 2 Saltillo
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1, RCG 3 Saltillo
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
+*****  NOTICIAS ****
+
 
 #EXTINF:-1,CNN Espanol
 http://200.24.159.179:8500/play/a00n
+#EXTINF:-1, CGTN Español
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1,ABC US
+http://71.187.29.220:8000/play/a08l/index.m3u8
+#EXTINF:-1, Euronews
+https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, Euronews ES
+https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1,CNN-E
+http://181.115.72.65:8199/play/a01h/index.m3u8
+#EXTINF:-1, BBC World
+http://181.115.72.65:8199/play/a01i/index.m3u8
+#EXTINF:-1, CNN Internacional
+http://181.115.72.65:8199/play/a00b/index.m3u8
 
 
-#EXTINF:-1,E Entertainment
-http://200.24.159.179:8500/play/a01b
-
-#EXTINF:-1,Discovery Kids
-http://45.179.140.242:8000/play/a0i5
+*****  NIÑOS ****
+#EXTINF:-1,Cartoon Network
+http://200.24.159.179:8500/play/a00f
 #EXTINF:-1,Discovery Kids
 http://200.24.159.179:8500/play/a00m
+#EXTINF:-1,Disney Channel
+http://200.24.159.179:8500/play/a017
+#EXTINF:-1,Disney Jr
+http://200.24.159.179:8500/play/a013
+#EXTINF:-1,Disney XD
+http://200.24.159.179:8500/play/a002
 #EXTINF:-1,NatGeo Kids
 http://200.24.159.179:8500/play/a00e
 #EXTINF:-1,Nick Jr
 http://200.24.159.179:8500/play/a038
 #EXTINF:-1,Nickelodeon
 http://200.24.159.179:8500/play/a001
-#EXTINF:-1,Disney Jr
-http://200.24.159.179:8500/play/a013
-#EXTINF:-1,Disney 😆
-http://200.24.159.179:8500/play/a002
-#EXTINF:-1,Disney Channel
-http://200.24.159.179:8500/play/a017
-#EXTINF:-1,Cartoon Network
-http://200.24.159.179:8500/play/a00f
-
-#EXTINF:-1,MTV
-http://200.24.159.179:8500/play/a008
-#EXTINF:-1,MTV
-http://45.179.140.242:8000/play/a0h3
-#EXTINF:-1,MTV Germany
-http://109.122.68.51:4000/play/a06a
-#EXTINF:-1,MTV Rocks
-http://78.58.133.179:28000/play/a138/index.m3u8
+#EXTINF:-1, Baby TV
+http://181.115.72.65:8199/play/a00d/index.m3u8
+#EXTINF:-1,Boomerang
+http://181.115.72.65:8199/play/a012/index.m3u8
 
 
-#EXTINF:-1,Food Network
-http://78.58.133.179:28000/play/a00i/index.m3u8
-#EXTINF:-1,MuseumHD
-http://145.249.228.229:8000/play/3
+
+*****  DEPORTES ****
+#EXTINF:-1,ESPN
+http://200.24.159.179:8500/play/a01e
+#EXTINF:-1,ESPN 2
+http://200.24.159.179:8500/play/a015
+#EXTINF:-1,ESPN 3
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1,Fox Sports 1
+http://200.24.159.179:8500/play/a021
+#EXTINF:-1,Fox Sports 2
+http://200.24.159.179:8500/play/a01n
+
+*****  INTERNACIONALES ****
+
+#EXTINF:-1,Hallmark Movies & More (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1,Das Erste (720p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1,1-2-3 TV (480p)
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1,Telebasel (288p)
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+
+
+
+
+*****  INTERNACIONALES ****
+
+#EXTINF:-1,MX: Discovery Theater HD
+http://jessicatv.site:8080/FM10020/4d136785/9151
+#EXTINF:-1,MX Discovery Theater HD
+http://jessicatv.site:8080/FM10020/4d136785/273741
+#EXTINF:-1,MX: Europa Europa FHD
+http://jessicatv.site:8080/FM10020/4d136785/9130
