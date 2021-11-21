@@ -6,6 +6,8 @@
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,MX (SD) TP FILM & ART
 http://ultrontv.xyz:80/Tamika/Tamika/73522
+#EXTINF:-1,Film & arts HD
+http://201.111.178.167:8000/play/a05x/index.m3u8
 #EXTINF:-1,Mx: (NE) Film & Arts
 http://new-pro.tv:8080/golden_eagle/khalid/72563
 #EXTINF:-1, Gourmet op2
@@ -24,6 +26,8 @@ http://181.115.72.65:8199/play/a01j/index.m3u8
 http://181.115.72.65:8199/play/a01r/index.m3u8
 #EXTINF:-1,H2
 http://181.115.72.65:8199/play/a01r/index.m3u8
+#EXTINF:-1,DISCOVERY THEATHER HD
+http://201.111.178.167:8000/play/a05g/index.m3u8
 #EXTINF:-1,Discovery Channel
 http://200.24.159.179:8500/play/a018
 #EXTINF:-1,Discovery Channel
@@ -51,16 +55,33 @@ http://200.24.159.179:8500/play/a030
 http://200.24.159.179:8500/play/a00t
 #EXTINF:-1,AE Mundo
 http://200.24.159.179:8500/play/a01i
+
+
+#EXTINF:-1,SONY
+http://201.111.178.167:8002/play/a01d/index.m3u8
+#EXTINF:-1,SONY HD
+http://201.111.178.167:8002/play/a01t/index.m3u8
 #EXTINF:-1,TLC
 http://181.115.72.65:8199/play/a02e/index.m3u8
 #EXTINF:-1,HomeandHealth
 http://200.24.159.179:8500/play/a01w
 #EXTINF:-1, Mas Chic op2
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+
+
+
+#EXTINF:-1, MAS CHIC
+https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1, Hola!TV
 http://181.115.72.65:8199/play/a00a/index.m3u8
 #EXTINF:-1, Lifetime
 http://181.115.72.65:8199/play/a01b/index.m3u8
+
+
+
+#EXTINF:-1,Home Garden Latino
+http://201.111.178.167:8002/play/a00h/index.m3u8
 #EXTINF:-1,Nat Geo
 http://200.24.159.179:8500/play/a003
 #EXTINF:-1,National Geographic
@@ -73,6 +94,10 @@ http://181.115.72.65:8199/play/a02c/index.m3u8
 
 *****  CINE ****
 
+#EXTINF:-1,DHE HD
+http://201.111.178.167:8000/play/a064/index.m3u8
+#EXTINF:-1,Europa HD
+http://201.111.178.167:8000/play/a062/index.m3u8
 #EXTINF:-1,TNT
 http://200.24.159.179:8500/play/a00g
 #EXTINF:-1,Space
@@ -118,6 +143,8 @@ http://181.115.72.65:8199/play/a031/index.m3u8
 #EXTINF:-1,SyFy
 http://181.115.72.65:8199/play/a02a/index.m3u8
 
+#EXTINF:-1,Paramount HD
+http://201.111.178.167:8000/play/a052/index.m3u8
 
 
 *****  MUSICA ****
@@ -126,6 +153,14 @@ http://181.115.72.65:8199/play/a02a/index.m3u8
 http://91.132.60.82:4000/play/mezzo/index.m3u8
 #EXTINF:-1,Ro: MTV 90s
 http://new-pro.tv:8080/waelwael/2r1sBY8wJK/175326
+
+
+#EXTINF:-1,Concert Channel
+http://201.111.178.167:8001/play/a01t/index.m3u8
+
+
+#EXTINF:-1,MTV 80s
+http://201.111.178.167:8000/play/a06x/index.m3u8
 #EXTINF:-1,MTV
 http://200.24.159.179:8500/play/a008
 #EXTINF:-1, Music Top
@@ -151,6 +186,11 @@ http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9670
 
 
 *****  NACIONALES ****
+
+#EXTINF:-1, Canal Once IPN  Int. | HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, Canal Once STD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 
 #EXTINF:-1, Once MX
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
