@@ -352,3 +352,30 @@ http://38.131.11.250:1080/play/a033
 http://38.131.11.250:1080/play/a02i
 #EXTINF:-1,Zona Latina
 http://38.131.11.250:1080/play/a00z
+
+#EXTINF:-1, SBS Food
+http://116.206.186.183:9981/stream/channelid/960404443?profile=pass
+#EXTINF:-1, ifood
+https://ft-ifood-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1, NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+
+#EXTINF:-1, BBC One
+http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+#EXTINF:-1, BBC Two
+http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+#EXTINF:-1, CBBC
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?protocol=hls
+#EXTINF:-1, CBeebies
+https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?protocol=hls
+
+
+
+#EXTINF:-1, Virgin TV
+https://live3-radio-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
+
+
+
+
