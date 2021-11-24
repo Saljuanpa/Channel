@@ -12,13 +12,13 @@ http://livetv2021.site:8080/9897876765/6576567/73
 #EXTINF:-1,Film & Arts HEVC
 http://livetv2021.site:8080/9897876765/6576567/74
 
-#EXTINF:-1,Eurochannel HD
-http://livetv2021.site:8080/9897876765/6576567/6669
-
 #EXTINF:-1,MX: Europa Europa FHD
 http://jessicatv.site:8080/FM10020/4d136785/9130
 #EXTINF:-1,ARG: Europa Europa
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/29295
+
+#EXTINF:-1,Eurochannel HD
+http://livetv2021.site:8080/9897876765/6576567/6669
 
 #EXTINF:-1, Gourmet op2
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
