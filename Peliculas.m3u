@@ -1,5 +1,72 @@
 #EXTM3U
 
-
-#EXTINF:-1,Fich
-http://127.0.0.1:63975/proxy?sid=6&file=0&token=B4840B1DBCA0C2C51DCE7F7A2A4D588B1BDAEAF6&pairing=B4840B1DBCA0C2C51DCE7F7A2A4D588B1BDAEAF6&service=STREAMING
+#EXTINF:-1,LA: Cine Accion HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/187074
+#EXTINF:-1,LA: Cine Accion Sagas
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/187073
+#EXTINF:-1,LA: Cine Canal HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3008
+#EXTINF:-1,LA: Cinema 01 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/146695
+#EXTINF:-1,LA: Cinema 02 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/146696
+#EXTINF:-1,LA: Cinema 03 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/146697
+#EXTINF:-1,LA: Cinema 04 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76328
+#EXTINF:-1,LA: Cinema 05 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76330
+#EXTINF:-1,LA: Cinema 06 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278083
+#EXTINF:-1,LA: Cinema 07 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76324
+#EXTINF:-1,LA: Cinema 08 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148805
+#EXTINF:-1,LA: Cinema 09 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76323
+#EXTINF:-1,LA: Cinema 10 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148808
+#EXTINF:-1,LA: Cinema 12 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76326
+#EXTINF:-1,LA: Cinema 13 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76325
+#EXTINF:-1,LA: Cinema 14 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76318
+#EXTINF:-1,LA: Cinema 15 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76320
+#EXTINF:-1,LA: Cinema 16 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278112
+#EXTINF:-1,LA: Cinema 17 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148804
+#EXTINF:-1,LA: Cinema 18 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76322
+#EXTINF:-1,LA: Cinema 19 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76316
+#EXTINF:-1,LA: Cinema 21 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76327
+#EXTINF:-1,LA: Cinema 22 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278114
+#EXTINF:-1,LA: Cinema 24 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278115
+#EXTINF:-1,LA: Cinema 25 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278100
+#EXTINF:-1,LA: Cinema 26 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278106
+#EXTINF:-1,LA: Cinema 27 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76319
+#EXTINF:-1,LA: Cinema 32 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/278110
+#EXTINF:-1,LA: Cinema 33 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76317
+#EXTINF:-1,LA: Cinema 34 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148809
+#EXTINF:-1,LA: Cinema 36 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/76332
+#EXTINF:-1,LA: Cinema 37 PPV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/65748
+#EXTINF:-1,LA: Cinemax Action HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/47898
+#EXTINF:-1,LA: Cinemax HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/5770
+#EXTINF:-1,LA: CLARO CINEMA
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/8706
