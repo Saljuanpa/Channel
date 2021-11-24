@@ -10,8 +10,31 @@ http://ultrontv.xyz:80/Tamika/Tamika/73522
 http://201.111.178.167:8000/play/a05x/index.m3u8
 #EXTINF:-1,Mx: (NE) Film & Arts
 http://new-pro.tv:8080/golden_eagle/khalid/72563
+#EXTINF:-1,Film & Arts HD
+http://livetv2021.site:8080/9897876765/6576567/73
+#EXTINF:-1,Film & Arts HEVC
+http://livetv2021.site:8080/9897876765/6576567/74
+
+#EXTINF:-1,Eurochannel HD
+http://livetv2021.site:8080/9897876765/6576567/6669
+#EXTINF:-1,Europa HD
+http://201.111.178.167:8000/play/a062/index.m3u8
+#EXTINF:-1,MX: Europa Europa FHD
+http://jessicatv.site:8080/FM10020/4d136785/9130
+#EXTINF:-1,ARG: Europa Europa
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/29295
+
 #EXTINF:-1, Gourmet op2
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,MX (SD) TP FOOD NETWORK
+http://ultrontv.xyz:80/Tamika/Tamika/73523
+#EXTINF:-1,LA: Food Network
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/187033
+#EXTINF:-1,Food Network Italia
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:zaltv.co
+#EXTINF:-1,Food Food (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0qx/index.m3u8
+
 #EXTINF:-1,History Channel
 http://200.24.159.179:8500/play/a004
 #EXTINF:-1,History Channel
@@ -22,12 +45,33 @@ http://181.115.72.65:8199/play/a02d/index.m3u8
 http://181.115.72.65:8199/play/a01j/index.m3u8
 #EXTINF:-1,History HD
 http://181.115.72.65:8199/play/a01j/index.m3u8
+
+#EXTINF:-1,LA: History Channel HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3060
+#EXTINF:-1,LA History Channel HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/274203
+
+#EXTINF:-1,ARG History FHD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/274232
+
 #EXTINF:-1,H2
 http://181.115.72.65:8199/play/a01r/index.m3u8
 #EXTINF:-1,H2
 http://181.115.72.65:8199/play/a01r/index.m3u8
+#EXTINF:-1,ARG: History 2
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/49288
+#EXTINF:-1,ARG History 2
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/274231
+#EXTINF:-1,LA: Discovery THEATER HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3022
+#EXTINF:-1,LA Discovery THEATER HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/273701
 #EXTINF:-1,DISCOVERY THEATHER HD
 http://201.111.178.167:8000/play/a05g/index.m3u8
+#EXTINF:-1,LA: Discovery Channel HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3017
+#EXTINF:-1,Discovery Channel
+http://45.179.140.242:8000/play/a0i8
 #EXTINF:-1,Discovery Channel
 http://200.24.159.179:8500/play/a018
 #EXTINF:-1,Discovery Channel
@@ -38,37 +82,71 @@ http://181.115.72.65:8199/play/a02b/index.m3u8
 http://181.115.72.65:8199/play/a009/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://181.115.72.65:8199/play/a02s/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://45.179.140.242:8000/play/a0hi
 #EXTINF:-1,DISCOVERY CIVILIZATION VIP Latin America
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11720
+#EXTINF:-1,Discovery ID
+http://45.179.140.242:8000/play/a0jg
 
 *****  ENTRETENIMIENTO ****
 
 #EXTINF:-1,Warner
 http://200.24.159.179:8500/play/a01a
+
+#EXTINF:-1,Warner
+http://45.179.140.242:8000/play/a0ia
+
+
+#EXTINF:-1,LA: Warner Bros
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/66257
+
+#EXTINF:-1,ARG: Warner Bros HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38722
+#EXTINF:-1,LA | WARNER
+http://185.134.22.131:8080/Carlos123/Carlos123/38923
+
 #EXTINF:-1, A&E
 http://200.24.159.179:8500/play/a01i
 #EXTINF:-1,AXN
 http://200.24.159.179:8500/play/a02y
 #EXTINF:-1,FX
+http://45.179.140.242:8000/play/a0jb
+
+#EXTINF:-1,FX
 http://200.24.159.179:8500/play/a030
+
+
+#EXTINF:-1,LA: FXM
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/187031
 #EXTINF:-1,FXM
 http://200.24.159.179:8500/play/a00t
+#EXTINF:-1,FXM
+http://45.179.140.242:8000/play/a0hx
+
 #EXTINF:-1,AE Mundo
 http://200.24.159.179:8500/play/a01i
-
+#EXTINF:-1,AE Mundo
+http://45.179.140.242:8000/play/a0ig
+#EXTINF:-1,AXN
+http://45.179.140.242:8000/play/a0j9
 
 #EXTINF:-1,SONY
 http://201.111.178.167:8002/play/a01d/index.m3u8
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1,SONY HD
 http://201.111.178.167:8002/play/a01t/index.m3u8
+#EXTINF:-1,ARG: Sony
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38708
 #EXTINF:-1,TLC
 http://181.115.72.65:8199/play/a02e/index.m3u8
 #EXTINF:-1,HomeandHealth
 http://200.24.159.179:8500/play/a01w
+#EXTINF:-1,LA Discovery H&H
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/273715
 #EXTINF:-1, Mas Chic op2
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
-
-
 
 #EXTINF:-1, MAS CHIC
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
@@ -79,6 +157,8 @@ http://181.115.72.65:8199/play/a00a/index.m3u8
 http://181.115.72.65:8199/play/a01b/index.m3u8
 
 
+#EXTINF:-1,MX Fox
+http://ultrontv.xyz:80/Tamika/Tamika/73691
 
 #EXTINF:-1,Home Garden Latino
 http://201.111.178.167:8002/play/a00h/index.m3u8
@@ -96,12 +176,29 @@ http://181.115.72.65:8199/play/a02c/index.m3u8
 
 #EXTINF:-1,DHE HD
 http://201.111.178.167:8000/play/a064/index.m3u8
-#EXTINF:-1,Europa HD
-http://201.111.178.167:8000/play/a062/index.m3u8
+
 #EXTINF:-1,TNT
 http://200.24.159.179:8500/play/a00g
+#EXTINF:-1,LA | TNT HD
+http://185.134.22.131:8080/Carlos123/Carlos123/38882
+#EXTINF:-1,LA | TNT SERIES
+http://185.134.22.131:8080/Carlos123/Carlos123/38883
+#EXTINF:-1,LA | STAR CHANNEL
+http://mag.cdn-ky.com:25461/danilo/12345/228157
+#EXTINF:-1,LA | STAR LIFE
+http://mag.cdn-ky.com:25461/danilo/12345/384883
+#EXTINF:-1,ARG: TNT HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38720
+
+#EXTINF:-1,ARG: Universal TV
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38719
+
+#EXTINF:-1,LA: UNIVERSAL Channel
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3095
 #EXTINF:-1,Space
 http://200.24.159.179:8500/play/a02z
+#EXTINF:-1,Space
+http://45.179.140.242:8000/play/a0ja
 #EXTINF:-1,STAR CHANNEL
 http://200.24.159.179:8500/play/a00c
 #EXTINF:-1, HBO
@@ -126,14 +223,57 @@ http://200.24.159.179:8500/play/a012
 http://200.24.159.179:8500/play/a010
 #EXTINF:-1,HBO XTREME SD
 http://200.24.159.179:8500/play/a011
+#EXTINF:-1,LA: HBO 2 HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3056
+#EXTINF:-1,LA: HBO FAMILY HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3057
+#EXTINF:-1,LA: HBO HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3055
+#EXTINF:-1,LA: HBO Plus FHD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3058
+#EXTINF:-1,ARG: HBO
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38690
+#EXTINF:-1,ARG: HBO 2 HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/29301
+#EXTINF:-1,ARG: HBO Family
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38687
+#EXTINF:-1,ARG: HBO Mundi HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38701
+#EXTINF:-1,ARG: HBO Pop HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/29305
+#EXTINF:-1,ARG: HBO Signature
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/49289
+#EXTINF:-1,ARG: HBO Xtreme FHD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/172272
 #EXTINF:-1,Cinecanal
 http://200.24.159.179:8500/play/a005
 #EXTINF:-1,Cinemax
 http://200.24.159.179:8500/play/a02w
+#EXTINF:-1,Cinemax
+http://45.179.140.242:8000/play/a0j7
 #EXTINF:-1, Runtime MX
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1,Golden
 http://181.115.72.65:8199/play/a01v/index.m3u8
+
+#EXTINF:-1,LA: Golden
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/5793
+#EXTINF:-1,LA: GOLDEN PLUS HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3051
+#EXTINF:-1,LA: GOLDEN PREMIER HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3052
+#EXTINF:-1,LA | GOLDEN
+http://185.134.22.131:8080/Carlos123/Carlos123/38710
+#EXTINF:-1,MX (SD) TP GOLDEN
+http://ultrontv.xyz:80/Tamika/Tamika/73539
+#EXTINF:-1,MX (SD) TP GOLDEN EDGE
+http://ultrontv.xyz:80/Tamika/Tamika/73540
+#EXTINF:-1,LA | GOLDEN EDGE
+http://185.134.22.131:8080/Carlos123/Carlos123/38711
+#EXTINF:-1,LA | GOLDEN PLUS
+http://185.134.22.131:8080/Carlos123/Carlos123/38712
+#EXTINF:-1,LA | GOLDEN PREMIER
+http://185.134.22.131:8080/Carlos123/Carlos123/38713
 #EXTINF:-1,DHE
 http://181.115.72.65:8199/play/a00o/index.m3u8
 #EXTINF:-1,Multicinema
@@ -143,14 +283,61 @@ http://181.115.72.65:8199/play/a031/index.m3u8
 #EXTINF:-1,SyFy
 http://181.115.72.65:8199/play/a02a/index.m3u8
 
+#EXTINF:-1,LA: GLITZ HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/45626
+#EXTINF:-1,ARG: TCM America Latina
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/49314
+
+
+
+
+
+#EXTINF:-1,LA: I-SAT
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/148593
+#EXTINF:-1,ARG: SYFY
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/49316
+
+#EXTINF:-1,LA: SYFY
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/5802
 #EXTINF:-1,Paramount HD
 http://201.111.178.167:8000/play/a052/index.m3u8
+
+#EXTINF:-1,ARG: Paramount Network
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38705
+
+
+
+#EXTINF:-1,LA: PARAMOUNT Channel HD
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3077
+
+#EXTINF:-1,LA: TCM
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/3085
+
+#EXTINF:-1,ARG: AMC
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/38654
+
+
+#EXTINF:-1,TBS
+http://45.179.140.242:8000/play/a0ji
 
 
 *****  MUSICA ****
 
 #EXTINF:-1,Mezzo
 http://91.132.60.82:4000/play/mezzo/index.m3u8
+
+
+
+#EXTINF:-1, MTV Classic| HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1,Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1,MTV Rocks
+http://78.58.133.179:28000/play/a138/index.m3u8
+
+
 #EXTINF:-1,Ro: MTV 90s
 http://new-pro.tv:8080/waelwael/2r1sBY8wJK/175326
 
@@ -258,6 +445,11 @@ http://200.24.159.179:8500/play/a038
 http://200.24.159.179:8500/play/a001
 #EXTINF:-1, Baby TV
 http://181.115.72.65:8199/play/a00d/index.m3u8
+
+#EXTINF:-1, Babyfirst | HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+
 #EXTINF:-1,Boomerang
 http://181.115.72.65:8199/play/a012/index.m3u8
 
@@ -297,5 +489,4 @@ http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master
 http://jessicatv.site:8080/FM10020/4d136785/9151
 #EXTINF:-1,MX Discovery Theater HD
 http://jessicatv.site:8080/FM10020/4d136785/273741
-#EXTINF:-1,MX: Europa Europa FHD
-http://jessicatv.site:8080/FM10020/4d136785/9130
+
