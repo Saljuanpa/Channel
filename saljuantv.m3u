@@ -6,10 +6,7 @@
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,MX (SD) TP FILM & ART
 http://ultrontv.xyz:80/Tamika/Tamika/73522
-#EXTINF:-1,Film & arts HD
-http://201.111.178.167:8000/play/a05x/index.m3u8
-#EXTINF:-1,Mx: (NE) Film & Arts
-http://new-pro.tv:8080/golden_eagle/khalid/72563
+
 #EXTINF:-1,Film & Arts HD
 http://livetv2021.site:8080/9897876765/6576567/73
 #EXTINF:-1,Film & Arts HEVC
@@ -17,8 +14,7 @@ http://livetv2021.site:8080/9897876765/6576567/74
 
 #EXTINF:-1,Eurochannel HD
 http://livetv2021.site:8080/9897876765/6576567/6669
-#EXTINF:-1,Europa HD
-http://201.111.178.167:8000/play/a062/index.m3u8
+
 #EXTINF:-1,MX: Europa Europa FHD
 http://jessicatv.site:8080/FM10020/4d136785/9130
 #EXTINF:-1,ARG: Europa Europa
@@ -66,8 +62,8 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/274231
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/3022
 #EXTINF:-1,LA Discovery THEATER HD
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/273701
-#EXTINF:-1,DISCOVERY THEATHER HD
-http://201.111.178.167:8000/play/a05g/index.m3u8
+
+
 #EXTINF:-1,LA: Discovery Channel HD
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/3017
 #EXTINF:-1,Discovery Channel
@@ -86,8 +82,7 @@ http://181.115.72.65:8199/play/a02s/index.m3u8
 http://45.179.140.242:8000/play/a0hi
 #EXTINF:-1,DISCOVERY CIVILIZATION VIP Latin America
 http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11720
-#EXTINF:-1,Discovery ID
-http://45.179.140.242:8000/play/a0jg
+
 
 *****  ENTRETENIMIENTO ****
 
@@ -131,12 +126,10 @@ http://45.179.140.242:8000/play/a0ig
 #EXTINF:-1,AXN
 http://45.179.140.242:8000/play/a0j9
 
-#EXTINF:-1,SONY
-http://201.111.178.167:8002/play/a01d/index.m3u8
+
 #EXTINF:-1,Sony
 http://45.179.140.242:8000/play/a0j8
-#EXTINF:-1,SONY HD
-http://201.111.178.167:8002/play/a01t/index.m3u8
+
 #EXTINF:-1,ARG: Sony
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/38708
 #EXTINF:-1,TLC
@@ -160,8 +153,7 @@ http://181.115.72.65:8199/play/a01b/index.m3u8
 #EXTINF:-1,MX Fox
 http://ultrontv.xyz:80/Tamika/Tamika/73691
 
-#EXTINF:-1,Home Garden Latino
-http://201.111.178.167:8002/play/a00h/index.m3u8
+
 #EXTINF:-1,Nat Geo
 http://200.24.159.179:8500/play/a003
 #EXTINF:-1,National Geographic
@@ -174,8 +166,7 @@ http://181.115.72.65:8199/play/a02c/index.m3u8
 
 *****  CINE ****
 
-#EXTINF:-1,DHE HD
-http://201.111.178.167:8000/play/a064/index.m3u8
+
 
 #EXTINF:-1,TNT
 http://200.24.159.179:8500/play/a00g
@@ -299,8 +290,7 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/49316
 
 #EXTINF:-1,LA: SYFY
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/5802
-#EXTINF:-1,Paramount HD
-http://201.111.178.167:8000/play/a052/index.m3u8
+
 
 #EXTINF:-1,ARG: Paramount Network
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/38705
@@ -317,8 +307,6 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/3085
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/38654
 
 
-#EXTINF:-1,TBS
-http://45.179.140.242:8000/play/a0ji
 
 
 *****  MUSICA ****
@@ -337,11 +325,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1,MTV Rocks
 http://78.58.133.179:28000/play/a138/index.m3u8
 
-
-#EXTINF:-1,Ro: MTV 90s
-http://new-pro.tv:8080/waelwael/2r1sBY8wJK/175326
-
-
 #EXTINF:-1,Concert Channel
 http://201.111.178.167:8001/play/a01t/index.m3u8
 
@@ -358,26 +341,10 @@ http://181.115.72.65:8199/play/a01l/index.m3u8
 http://181.115.72.65:8199/play/a01d/index.m3u8
 #EXTINF:-1,MTV 00s
 http://181.115.72.65:8199/play/a01u/index.m3u8
-#EXTINF:-1,Nl: MTV 90s
-http://new-pro.tv:8080/golden_eagle/khalid/67519
-#EXTINF:-1,Nl: MTV 80s HD
-http://new-pro.tv:8080/golden_eagle/khalid/67512
-#EXTINF:-1,Nl | VIP: MTV 80s 4K
-http://new-pro.tv:8080/golden_eagle/khalid/21295
-#EXTINF:-1,Ro: MTV 90s
-http://new-pro.tv:8080/golden_eagle/khalid/175326
-#EXTINF:-1,RO: MTV Rocks
-http://new-pro.tv:8080/golden_eagle/khalid/180145
-#EXTINF:-1,|FR| MTV CLASSIC
-http://goldtvhd.tv:8080/cmairesse/4QulUD11F4QoQ/9670
 
 
 *****  NACIONALES ****
 
-#EXTINF:-1, Canal Once IPN  Int. | HD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1, Canal Once STD
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
 
 #EXTINF:-1, Once MX
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
@@ -400,9 +367,6 @@ http://181.115.72.65:8199/play/a025/index.m3u8
 http://71.187.29.220:8000/play/a07t/index.m3u8
 #EXTINF:-1, RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
-#EXTINF:-1, RCG 3 Saltillo
-http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
-
 *****  NOTICIAS ****
 
 
@@ -464,8 +428,7 @@ http://200.24.159.179:8500/play/a015
 http://200.24.159.179:8500/play/a03b
 #EXTINF:-1,Fox Sports 1
 http://200.24.159.179:8500/play/a021
-#EXTINF:-1,Fox Sports 2
-http://200.24.159.179:8500/play/a01n
+
 
 *****  INTERNACIONALES ****
 
