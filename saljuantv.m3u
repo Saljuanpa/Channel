@@ -100,7 +100,8 @@ http://iptvstream.xyz:8080/Mcnsi/7210db0d/66257
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/38722
 #EXTINF:-1,LA | WARNER
 http://185.134.22.131:8080/Carlos123/Carlos123/38923
-
+#EXTINF:-1,Warner Channel HQ (MX) (E)
+http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35251.m3u8
 #EXTINF:-1, A&E
 http://200.24.159.179:8500/play/a01i
 #EXTINF:-1,AXN
@@ -267,6 +268,8 @@ http://185.134.22.131:8080/Carlos123/Carlos123/38712
 http://185.134.22.131:8080/Carlos123/Carlos123/38713
 #EXTINF:-1,DHE
 http://181.115.72.65:8199/play/a00o/index.m3u8
+#EXTINF:-1,DHE FHD (E)
+http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35245.m3u8
 #EXTINF:-1,Multicinema
 http://181.115.72.65:8199/play/a00j/index.m3u8
 #EXTINF:-1,Multipremier
@@ -327,7 +330,12 @@ http://78.58.133.179:28000/play/a138/index.m3u8
 
 #EXTINF:-1,Concert Channel
 http://201.111.178.167:8001/play/a01t/index.m3u8
-
+#EXTINF:-1,Concert Channel SD (CO)
+http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35022.m3u8
+#EXTINF:-1,Concert Channel FHD (MX.)
+http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35023.m3u8
+#EXTINF:-1,Concert Channel HD (CO)
+http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35024.m3u8
 
 #EXTINF:-1,MTV 80s
 http://201.111.178.167:8000/play/a06x/index.m3u8
