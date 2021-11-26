@@ -15,7 +15,7 @@ http://livetv2021.site:8080/9897876765/6576567/74
 #EXTINF:-1,MX: Europa Europa FHD
 http://jessicatv.site:8080/FM10020/4d136785/9130
 #EXTINF:-1,ARG: Europa Europa
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/29295
+
 
 #EXTINF:-1,Eurochannel HD
 http://livetv2021.site:8080/9897876765/6576567/6669
@@ -24,15 +24,13 @@ http://livetv2021.site:8080/9897876765/6576567/6669
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,MX (SD) TP FOOD NETWORK
 http://ultrontv.xyz:80/Tamika/Tamika/73523
-#EXTINF:-1,LA: Food Network
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/187033
+
 #EXTINF:-1,Food Network Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:zaltv.co
 #EXTINF:-1,Food Food (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0qx/index.m3u8
 
-#EXTINF:-1,History Channel
-http://200.24.159.179:8500/play/a004
+
 #EXTINF:-1,History Channel
 http://181.115.72.65:8199/play/a02d/index.m3u8
 #EXTINF:-1,History Channel
@@ -42,36 +40,14 @@ http://181.115.72.65:8199/play/a01j/index.m3u8
 #EXTINF:-1,History HD
 http://181.115.72.65:8199/play/a01j/index.m3u8
 
-#EXTINF:-1,LA: History Channel HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3060
-#EXTINF:-1,LA History Channel HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/274203
-
-#EXTINF:-1,ARG History FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/274232
 
 #EXTINF:-1,H2
 http://181.115.72.65:8199/play/a01r/index.m3u8
 #EXTINF:-1,H2
 http://181.115.72.65:8199/play/a01r/index.m3u8
-#EXTINF:-1,ARG: History 2
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/49288
-#EXTINF:-1,ARG History 2
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/274231
-#EXTINF:-1,LA: Discovery THEATER HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3022
-#EXTINF:-1,LA Discovery THEATER HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/273701
 
-
-#EXTINF:-1,LA: Discovery Channel HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3017
 #EXTINF:-1,Discovery Channel
 http://45.179.140.242:8000/play/a0i8
-#EXTINF:-1,Discovery Channel
-http://200.24.159.179:8500/play/a018
-#EXTINF:-1,Discovery Channel
-http://200.24.159.179:8500/play/a018
 #EXTINF:-1,Discovery Channel
 http://181.115.72.65:8199/play/a02b/index.m3u8
 #EXTINF:-1,Discovery Science
@@ -80,48 +56,22 @@ http://181.115.72.65:8199/play/a009/index.m3u8
 http://181.115.72.65:8199/play/a02s/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://45.179.140.242:8000/play/a0hi
-#EXTINF:-1,DISCOVERY CIVILIZATION VIP Latin America
-http://fastrunner.live:8080/paulo3pr/8U3CXwh2dT/11720
 
 
 *****  ENTRETENIMIENTO ****
 
-#EXTINF:-1,Warner
-http://200.24.159.179:8500/play/a01a
+
 
 #EXTINF:-1,Warner
 http://45.179.140.242:8000/play/a0ia
-
-
-#EXTINF:-1,LA: Warner Bros
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/66257
-
-#EXTINF:-1,ARG: Warner Bros HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38722
 #EXTINF:-1,LA | WARNER
 http://185.134.22.131:8080/Carlos123/Carlos123/38923
 #EXTINF:-1,Warner Channel HQ (MX) (E)
 http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35251.m3u8
-#EXTINF:-1, A&E
-http://200.24.159.179:8500/play/a01i
-#EXTINF:-1,AXN
-http://200.24.159.179:8500/play/a02y
 #EXTINF:-1,FX
 http://45.179.140.242:8000/play/a0jb
-
-#EXTINF:-1,FX
-http://200.24.159.179:8500/play/a030
-
-
-#EXTINF:-1,LA: FXM
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/187031
-#EXTINF:-1,FXM
-http://200.24.159.179:8500/play/a00t
 #EXTINF:-1,FXM
 http://45.179.140.242:8000/play/a0hx
-
-#EXTINF:-1,AE Mundo
-http://200.24.159.179:8500/play/a01i
 #EXTINF:-1,AE Mundo
 http://45.179.140.242:8000/play/a0ig
 #EXTINF:-1,AXN
@@ -131,14 +81,8 @@ http://45.179.140.242:8000/play/a0j9
 #EXTINF:-1,Sony
 http://45.179.140.242:8000/play/a0j8
 
-#EXTINF:-1,ARG: Sony
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38708
 #EXTINF:-1,TLC
 http://181.115.72.65:8199/play/a02e/index.m3u8
-#EXTINF:-1,HomeandHealth
-http://200.24.159.179:8500/play/a01w
-#EXTINF:-1,LA Discovery H&H
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/273715
 #EXTINF:-1, Mas Chic op2
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 
@@ -155,8 +99,6 @@ http://181.115.72.65:8199/play/a01b/index.m3u8
 http://ultrontv.xyz:80/Tamika/Tamika/73691
 
 
-#EXTINF:-1,Nat Geo
-http://200.24.159.179:8500/play/a003
 #EXTINF:-1,National Geographic
 http://181.115.72.65:8199/play/a01a/index.m3u8
 #EXTINF:-1,Nat Geo Wild op2
@@ -169,8 +111,6 @@ http://181.115.72.65:8199/play/a02c/index.m3u8
 
 
 
-#EXTINF:-1,TNT
-http://200.24.159.179:8500/play/a00g
 #EXTINF:-1,LA | TNT HD
 http://185.134.22.131:8080/Carlos123/Carlos123/38882
 #EXTINF:-1,LA | TNT SERIES
@@ -179,20 +119,10 @@ http://185.134.22.131:8080/Carlos123/Carlos123/38883
 http://mag.cdn-ky.com:25461/danilo/12345/228157
 #EXTINF:-1,LA | STAR LIFE
 http://mag.cdn-ky.com:25461/danilo/12345/384883
-#EXTINF:-1,ARG: TNT HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38720
 
-#EXTINF:-1,ARG: Universal TV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38719
-
-#EXTINF:-1,LA: UNIVERSAL Channel
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3095
-#EXTINF:-1,Space
-http://200.24.159.179:8500/play/a02z
 #EXTINF:-1,Space
 http://45.179.140.242:8000/play/a0ja
-#EXTINF:-1,STAR CHANNEL
-http://200.24.159.179:8500/play/a00c
+
 #EXTINF:-1, HBO
 http://181.115.72.65:8199/play/a037/index.m3u8
 #EXTINF:-1, HBO HD
@@ -205,38 +135,7 @@ http://181.115.72.65:8199/play/a03a/index.m3u8
 http://181.115.72.65:8199/play/a039/index.m3u8
 #EXTINF:-1,HBO + HD
 http://181.115.72.65:8199/play/a00w/index.m3u8
-#EXTINF:-1,HBO
-http://200.24.159.179:8500/play/a02v
-#EXTINF:-1,HBO 2
-http://200.24.159.179:8500/play/a00z
-#EXTINF:-1,HBO Family
-http://200.24.159.179:8500/play/a012
-#EXTINF:-1,HBO Plus
-http://200.24.159.179:8500/play/a010
-#EXTINF:-1,HBO XTREME SD
-http://200.24.159.179:8500/play/a011
-#EXTINF:-1,LA: HBO 2 HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3056
-#EXTINF:-1,LA: HBO FAMILY HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3057
-#EXTINF:-1,LA: HBO HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3055
-#EXTINF:-1,LA: HBO Plus FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3058
-#EXTINF:-1,ARG: HBO
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38690
-#EXTINF:-1,ARG: HBO 2 HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/29301
-#EXTINF:-1,ARG: HBO Family
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38687
-#EXTINF:-1,ARG: HBO Mundi HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38701
-#EXTINF:-1,ARG: HBO Pop HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/29305
-#EXTINF:-1,ARG: HBO Signature
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/49289
-#EXTINF:-1,ARG: HBO Xtreme FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/172272
+
 #EXTINF:-1,Cinecanal
 http://200.24.159.179:8500/play/a005
 #EXTINF:-1,Cinemax
@@ -248,12 +147,6 @@ https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1,Golden
 http://181.115.72.65:8199/play/a01v/index.m3u8
 
-#EXTINF:-1,LA: Golden
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/5793
-#EXTINF:-1,LA: GOLDEN PLUS HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3051
-#EXTINF:-1,LA: GOLDEN PREMIER HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3052
 #EXTINF:-1,LA | GOLDEN
 http://185.134.22.131:8080/Carlos123/Carlos123/38710
 #EXTINF:-1,MX (SD) TP GOLDEN
@@ -277,39 +170,6 @@ http://181.115.72.65:8199/play/a031/index.m3u8
 #EXTINF:-1,SyFy
 http://181.115.72.65:8199/play/a02a/index.m3u8
 
-#EXTINF:-1,LA: GLITZ HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/45626
-#EXTINF:-1,ARG: TCM America Latina
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/49314
-
-
-
-
-
-#EXTINF:-1,LA: I-SAT
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148593
-#EXTINF:-1,ARG: SYFY
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/49316
-
-#EXTINF:-1,LA: SYFY
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/5802
-
-
-#EXTINF:-1,ARG: Paramount Network
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38705
-
-
-
-#EXTINF:-1,LA: PARAMOUNT Channel HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3077
-
-#EXTINF:-1,LA: TCM
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3085
-
-#EXTINF:-1,ARG: AMC
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38654
-
-
 
 
 *****  MUSICA ****
@@ -328,8 +188,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1,MTV Rocks
 http://78.58.133.179:28000/play/a138/index.m3u8
 
-#EXTINF:-1,Concert Channel
-http://201.111.178.167:8001/play/a01t/index.m3u8
 #EXTINF:-1,Concert Channel SD (CO)
 http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35022.m3u8
 #EXTINF:-1,Concert Channel FHD (MX.)
@@ -337,10 +195,6 @@ http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35023.m3u8
 #EXTINF:-1,Concert Channel HD (CO)
 http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35024.m3u8
 
-#EXTINF:-1,MTV 80s
-http://201.111.178.167:8000/play/a06x/index.m3u8
-#EXTINF:-1,MTV
-http://200.24.159.179:8500/play/a008
 #EXTINF:-1, Music Top
 https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1,MTV Live HD
@@ -362,8 +216,7 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1, Uno tv
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
-#EXTINF:-1,Canal Estrellas
-http://200.24.159.179:8500/play/a01m
+
 #EXTINF:-1,Azteca Corazon
 http://181.115.72.65:8199/play/a016/index.m3u8
 #EXTINF:-1,Azteca mundo
@@ -373,13 +226,9 @@ http://181.115.72.65:8199/play/a025/index.m3u8
 
 #EXTINF:-1,Univision op2
 http://71.187.29.220:8000/play/a07t/index.m3u8
-#EXTINF:-1, RCG 2 Saltillo
-http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
 *****  NOTICIAS ****
 
-
-#EXTINF:-1,CNN Espanol
-http://200.24.159.179:8500/play/a00n
 #EXTINF:-1, CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,ABC US
@@ -399,22 +248,7 @@ http://181.115.72.65:8199/play/a00b/index.m3u8
 
 
 *****  NIÑOS ****
-#EXTINF:-1,Cartoon Network
-http://200.24.159.179:8500/play/a00f
-#EXTINF:-1,Discovery Kids
-http://200.24.159.179:8500/play/a00m
-#EXTINF:-1,Disney Channel
-http://200.24.159.179:8500/play/a017
-#EXTINF:-1,Disney Jr
-http://200.24.159.179:8500/play/a013
-#EXTINF:-1,Disney XD
-http://200.24.159.179:8500/play/a002
-#EXTINF:-1,NatGeo Kids
-http://200.24.159.179:8500/play/a00e
-#EXTINF:-1,Nick Jr
-http://200.24.159.179:8500/play/a038
-#EXTINF:-1,Nickelodeon
-http://200.24.159.179:8500/play/a001
+
 #EXTINF:-1, Baby TV
 http://181.115.72.65:8199/play/a00d/index.m3u8
 
@@ -428,14 +262,7 @@ http://181.115.72.65:8199/play/a012/index.m3u8
 
 
 *****  DEPORTES ****
-#EXTINF:-1,ESPN
-http://200.24.159.179:8500/play/a01e
-#EXTINF:-1,ESPN 2
-http://200.24.159.179:8500/play/a015
-#EXTINF:-1,ESPN 3
-http://200.24.159.179:8500/play/a03b
-#EXTINF:-1,Fox Sports 1
-http://200.24.159.179:8500/play/a021
+
 
 
 *****  INTERNACIONALES ****
