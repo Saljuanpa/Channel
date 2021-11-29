@@ -7,12 +7,10 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1,Telebasel (288p)
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+
 #EXTINF:-1,MX (SD) TP FILM & ART
 http://ultrontv.xyz:80/Tamika/Tamika/73522
 
-
-#EXTINF:-1,Film & arts HD
-http://45.166.95.30:8000/play/9052lwstream
 #EXTINF:-1,Film & Arts HD
 http://livetv2021.site:8080/9897876765/6576567/73
 #EXTINF:-1,Film & Arts HEVC
@@ -66,6 +64,10 @@ http://190.61.102.67:2000/play/a0d7
 http://45.225.95.170:8000/play/a004
 #EXTINF:-1,DISCOVERY THEATHER HD
 http://45.166.95.30:8000/play/9047lwstream
+#EXTINF:-1,MX: Discovery Theater HD
+http://jessicatv.site:8080/FM10020/4d136785/9151
+#EXTINF:-1,MX Discovery Theater HD
+http://jessicatv.site:8080/FM10020/4d136785/273741
 
 #EXTINF:-1,Discovery Channel
 http://190.61.102.67:2000/play/a0ac
@@ -143,8 +145,7 @@ http://181.115.72.65:8199/play/a02c/index.m3u8
 
 *****  CINE ****
 
-#EXTINF:-1,Studio Universal HD
-http://45.166.95.30:8000/play/9077lwstream
+
 #EXTINF:-1,Studio Universal HD
 http://45.225.95.170:8000/play/a011
 
@@ -369,8 +370,4 @@ http://154.73.54.56:8000/play/Bbc-Earth
 
 *****  INTERNACIONALES ****
 
-#EXTINF:-1,MX: Discovery Theater HD
-http://jessicatv.site:8080/FM10020/4d136785/9151
-#EXTINF:-1,MX Discovery Theater HD
-http://jessicatv.site:8080/FM10020/4d136785/273741
 
