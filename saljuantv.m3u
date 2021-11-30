@@ -8,6 +8,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1,Telebasel (288p)
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
+#EXTINF:-1,Film & arts HD
+http://45.166.95.30:8000/play/9052lwstream
 #EXTINF:-1,MX (SD) TP FILM & ART
 http://ultrontv.xyz:80/Tamika/Tamika/73522
 
