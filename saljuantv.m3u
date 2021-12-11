@@ -44,10 +44,17 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:zaltv.
 #EXTINF:-1,Food Food (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0qx/index.m3u8
 
-#EXTINF:-1,History 2 Latinoamérica
-http://189.129.31.59:8000/play/a03m/index.m3u8
+
 #EXTINF:-1,History Latinoamérica
 http://189.129.31.59:8000/play/a040/index.m3u8
+#EXTINF:-1,History Channel
+http://45.176.70.91:8000/play/a01h
+#EXTINF:-1,History 2
+http://45.176.70.91:8000/play/a03a
+#EXTINF:-1,History 2
+http://45.176.70.91:8000/play/a02o
+#EXTINF:-1,History 2 Latinoamérica
+http://189.129.31.59:8000/play/a03m/index.m3u8
 
 #EXTINF:-1,DISCOVERY CHANNEL
 http://190.108.93.62:8000/play/a016
@@ -65,6 +72,8 @@ http://45.179.140.242:8000/play/a0i8
 
 *****  ENTRETENIMIENTO ****
 
+#EXTINF:-1,Warner
+http://45.176.70.91:8000/play/a00y
 #EXTINF:-1,Warner Channel
 http://189.129.31.59:8000/play/a007/index.m3u8
 2 personas reaccionaron
@@ -79,10 +88,15 @@ http://45.179.140.242:8000/play/a0jb
 #EXTINF:-1,FXM
 http://45.179.140.242:8000/play/a0hx
 
+
+#EXTINF:-1,AXN
+http://45.176.70.91:8000/play/a003
 #EXTINF:-1,A&E HD
 http://190.92.92.30:8000/play/a0cg/index.m3u8
 #EXTINF:-1,AE Mundo
 http://45.179.140.242:8000/play/a0ig
+#EXTINF:-1,AE Mundo
+http://45.176.70.91:8000/play/a013
 #EXTINF:-1,AXN
 http://45.179.140.242:8000/play/a0j
 #EXTINF:-1,AXN HD
@@ -92,6 +106,10 @@ http://190.92.92.30:8000/play/a05g/index.m3u8
 http://190.92.92.30:8000/play/a09v/index.m3u8
 #EXTINF:-1,Sony
 http://45.179.140.242:8000/play/a0j8
+
+#EXTINF:-1,Sony
+http://45.176.70.91:8000/play/a002
+
 
 #EXTINF:-1,TLC
 http://181.115.72.65:8199/play/a02e/index.m3u8
@@ -112,7 +130,15 @@ http://ultrontv.xyz:80/Tamika/Tamika/73691
 
 
 *****  CINE ****
+#EXTINF:-1,TNT
+http://45.176.70.91:8000/play/a01r
+#EXTINF:-1,TNT Series
+http://45.176.70.91:8000/play/a038
+#EXTINF:-1,TNT Series
+http://45.176.70.91:8000/play/a036
 
+
+#EXTINF:-1,LA | TNT HD
 http://185.134.22.131:8080/Carlos123/Carlos123/38882
 #EXTINF:-1,LA | TNT SERIES
 http://185.134.22.131:8080/Carlos123/Carlos123/38883
@@ -144,6 +170,12 @@ http://189.129.31.59:8000/play/a020/index.m3u8
 #EXTINF:-1,Fox Premium Series Oeste
 http://189.129.31.59:8000/play/a01h/index.m3u8
 
+
+#EXTINF:-1,STAR CHANNEL
+http://45.176.70.91:8000/play/a01n
+#EXTINF:-1,STAR LIFE
+http://45.176.70.91:8000/play/a01m
+
 #EXTINF:-1,HBO
 http://189.129.31.59:8000/play/a02i/index.m3u8
 #EXTINF:-1,HBO + Latinoamerica
@@ -155,62 +187,42 @@ http://189.129.31.59:8000/play/a00n/index.m3u8
 #EXTINF:-1,HBO Latinoamérica
 http://189.129.31.59:8000/play/a01g/index.m3u8
 
-#EXTINF:-1,Golden
-http://190.92.92.30:8000/play/a039/index.m3u8
-#EXTINF:-1,Golden
-http://181.115.72.65:8199/play/a01v/index.m3u8
-#EXTINF:-1,LA | GOLDEN
-http://185.134.22.131:8080/Carlos123/Carlos123/38710
 #EXTINF:-1,MX (SD) TP GOLDEN
 http://ultrontv.xyz:80/Tamika/Tamika/73539
-#EXTINF:-1,GOLDEN EDGE HD
-http://190.92.92.30:8000/play/a0j0/index.m3u8
 #EXTINF:-1,MX (SD) TP GOLDEN EDGE
 http://ultrontv.xyz:80/Tamika/Tamika/73540
 #EXTINF:-1,LA | GOLDEN EDGE
 http://185.134.22.131:8080/Carlos123/Carlos123/38711
 #EXTINF:-1,LA | GOLDEN PLUS
 http://185.134.22.131:8080/Carlos123/Carlos123/38712
-#EXTINF:-1,LA | GOLDEN PREMIER
-http://185.134.22.131:8080/Carlos123/Carlos123/38713
 
-#EXTINF:-1,DHE
-http://181.115.72.65:8199/play/a00o/index.m3u8
-#EXTINF:-1,DHE HD
-http://190.92.92.30:8000/play/a05u/index.m3u8
-
-#EXTINF:-1,AMC HD
-http://190.92.92.30:8000/play/a0ch/index.m3u8
-#EXTINF:-1,TCM
-http://190.92.92.30:8000/play/a03a/index.m3u8
 #EXTINF:-1,TCM
 http://190.4.0.200:3333/play/a02h/index.m3u8
 
+
+#EXTINF:-1,Paramount Channel
+http://45.176.70.91:8000/play/a01x
 #EXTINF:-1,Paramount
 http://190.4.0.200:3333/play/a00x/index.m3u8
 
-
-#EXTINF:-1,Multicinema
-http://181.115.72.65:8199/play/a00j/index.m3u8
-#EXTINF:-1,Multipremier
-http://181.115.72.65:8199/play/a031/index.m3u8
-
+#EXTINF:-1,Space
+http://45.176.70.91:8000/play/a004
 #EXTINF:-1,SyFy
-http://181.115.72.65:8199/play/a02a/index.m3u8
-#EXTINF:-1,SyFy HD
-http://190.92.92.30:8000/play/a05k/index.m3u8
+http://45.176.70.91:8000/play/a02z
+#EXTINF:-1,TCM
+http://45.176.70.91:8000/play/a01o
 
-#EXTINF:-1,UNIVERSAL HD
-http://190.92.92.30:8000/play/a0jt/index.m3u8
+
 #EXTINF:-1,Universal
-http://190.92.92.30:8000/play/a0eo/index.m3u8
+http://45.176.70.91:8000/play/a01j
+
 #EXTINF:-1,Studio Universal
 http://190.4.0.200:3333/play/a03r/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://190.92.92.30:8000/play/a0cb/index.m3u8
 
-#EXTINF:-1,Sun Channel
-http://190.92.92.30:8000/play/a00r/index.m3u8
+#EXTINF:-1,Cinecanal
+http://45.176.70.91:8000/play/a01i
+
+
 
 #EXTINF:-1,RETRO
 http://190.108.93.62:8000/play/a001
@@ -249,27 +261,11 @@ http://78.58.133.179:28000/play/a138/index.m3u8
 
 #EXTINF:-1,Concert Channel
 http://190.61.102.67:2000/play/a0aw
-#EXTINF:-1,Concert Channel SD (CO)
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35022.m3u8
-#EXTINF:-1,Concert Channel FHD (MX.)
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35023.m3u8
-#EXTINF:-1,Concert Channel HD (CO)
-http://dnsplay.xyz:80/live/ivbiqvof/FcVSlihK/35024.m3u8
-#EXTINF:-1,CONCERT CHANNEL
-http://190.92.92.30:8000/play/a00z/index.m3u8
+
 
 #EXTINF:-1, Music Top
 https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:-1,MTV Live HD
-http://181.115.72.65:8199/play/a01l/index.m3u8
-#EXTINF:-1,9201_MTV HD
-http://45.166.95.30:8000/play/9201lwstream
-#EXTINF:-1,MTV Hits
-http://181.115.72.65:8199/play/a01d/index.m3u8
-#EXTINF:-1,MTV 00s
-http://190.92.92.30:8000/play/a0im/index.m3u8
-#EXTINF:-1,MTV 00s
-http://181.115.72.65:8199/play/a01u/index.m3u
+
 
 
 *****  NACIONALES ****
@@ -281,10 +277,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1, Uno tv
 https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 
-#EXTINF:-1,Azteca Corazon
-http://181.115.72.65:8199/play/a016/index.m3u8
-#EXTINF:-1,Azteca mundo
-http://181.115.72.65:8199/play/a025/index.m3u8
+
 
 
 *****  NOTICIAS ****
@@ -323,7 +316,12 @@ http://181.115.72.65:8199/play/a012/index.m3u8
 
 *****  DEPORTES ****
 
-
+#EXTINF:-1,Fox Sports 1
+http://45.176.70.91:8000/play/a00u
+#EXTINF:-1,Fox Sports 2
+http://45.176.70.91:8000/play/a015
+#EXTINF:-1,Fox Sports 3
+http://45.176.70.91:8000/play/a016
 
 *****  INTERNACIONALES ****
 
