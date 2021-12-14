@@ -24,6 +24,10 @@ http://ultrontv.xyz:80/Tamika/Tamika/73523
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:zaltv.co
 #EXTINF:-1,Food Food (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1,History Channel
+http://181.78.22.214:8000/play/a004
+#EXTINF:-1,Discovery Channel
+http://181.78.22.214:8000/play/a00u
 #EXTINF:-1,DISCOVERY CHANNEL
 http://190.108.93.62:8000/play/a016
 #EXTINF:-1,DISCOVERY THEATHER HD
@@ -35,17 +39,23 @@ http://jessicatv.site:8080/FM10020/4d136785/273741
 #EXTINF:-1,Discovery Channel
 http://190.61.102.67:2000/play/a0ac
 #EXTINF:-1,Warner
+http://181.78.22.214:8000/play/a00w
+#EXTINF:-1,Warner
 http://45.179.140.242:8000/play/a0ia
 #EXTINF:-1,LA | WARNER
 http://185.134.22.131:8080/Carlos123/Carlos123/38923
+
+#EXTINF:-1,Sony
+http://181.78.22.214:8000/play/a01j
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
+
 #EXTINF:-1,FX
 http://45.179.140.242:8000/play/a0jb
 #EXTINF:-1,FXM
 http://45.179.140.242:8000/play/a0hx
 #EXTINF:-1,AE Mundo
 http://45.179.140.242:8000/play/a0ig
-#EXTINF:-1,Sony
-http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1, Mas Chic op2
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, MAS CHIC
@@ -54,10 +64,36 @@ https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 http://185.134.22.131:8080/Carlos123/Carlos123/38882
 #EXTINF:-1,LA | TNT SERIES
 http://185.134.22.131:8080/Carlos123/Carlos123/38883
+
+
 #EXTINF:-1,LA | STAR CHANNEL
 http://mag.cdn-ky.com:25461/danilo/12345/228157
 #EXTINF:-1,LA | STAR LIFE
 http://mag.cdn-ky.com:25461/danilo/12345/384883
+
+#EXTINF:-1,STAR ACTION
+http://181.78.22.214:8000/play/a00m
+#EXTINF:-1,STAR CHANNEL
+http://181.78.22.214:8000/play/a00a
+#EXTINF:-1,STAR HITS
+http://181.78.22.214:8000/play/a00k
+#EXTINF:-1,STAR LIFE
+http://181.78.22.214:8000/play/a009
+#EXTINF:-1,STAR SERIES
+http://181.78.22.214:8000/play/a00l
+
+
+#EXTINF:-1,HBO
+http://181.78.22.214:8000/play/a01h
+#EXTINF:-1,HBO 2
+http://181.78.22.214:8000/play/a00n
+#EXTINF:-1,HBO Family
+http://181.78.22.214:8000/play/a00q
+#EXTINF:-1,HBO Plus
+http://181.78.22.214:8000/play/a00o
+#EXTINF:-1,HBO XTREME SD
+http://181.78.22.214:8000/play/a00p
+
 #EXTINF:-1,Cinemax
 http://45.179.140.242:8000/play/a0j7
 #EXTINF:-1, Runtime MX
@@ -70,6 +106,17 @@ http://ultrontv.xyz:80/Tamika/Tamika/73540
 http://185.134.22.131:8080/Carlos123/Carlos123/38711
 #EXTINF:-1,LA | GOLDEN PLUS
 http://185.134.22.131:8080/Carlos123/Carlos123/38712
+
+#EXTINF:-1,Universal
+http://181.78.22.214:8000/play/a006
+
+#EXTINF:-1,Space
+http://181.78.22.214:8000/play/a01l
+#EXTINF:-1,TCM
+http://181.78.22.214:8000/play/a00b
+#EXTINF:-1,TNT
+http://181.78.22.214:8000/play/a00e
+
 #EXTINF:-1,RETRO
 http://190.108.93.62:8000/play/a001
 #EXTINF:-1,RETROPLUS CLASICO
