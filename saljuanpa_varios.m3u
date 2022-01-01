@@ -9,7 +9,8 @@ http://45.174.77.243:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1,MX (SD) TP FILM & ART
 http://ultrontv.xyz:80/Tamika/Tamika/73522
-
+#EXTINF:-1,Film & arts HD
+http://201.111.25.106:8000/play/a05x/index.m3u8
 
 #EXTINF:-1,MX: Europa Europa FHD
 http://jessicatv.site:8080/FM10020/4d136785/9130
@@ -195,6 +196,8 @@ http://79.114.34.202:8000/play/a02u
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1,ROCK TV
 http://79.114.34.202:8000/play/a05d
+#EXTINF:-1,MTV 80s
+http://201.111.25.106:8000/play/a06x/index.m3u8
 #EXTINF:-1,MTV Rocks
 http://78.58.133.179:28000/play/a138/index.m3u8
 #EXTINF:-1,Concert Channel
