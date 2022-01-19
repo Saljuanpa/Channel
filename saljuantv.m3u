@@ -1,348 +1,251 @@
 #EXTM3U
-
 *****  FAVORITOS ****
 
-#EXTINF:-1, DW Español
+#EXTINF:-1, *DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1,Telebasel (288p)
+#EXTINF:-1,*Telebasel (288p)
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
 
-#EXTINF:-1,Arts
-http://189.129.31.59:8000/play/a031/index.m3u8
-
-
-#EXTINF:-1,Film & Arts
+#EXTINF:-1,*Film & Arts
 http://190.4.0.200:3333/play/a00v/index.m3u8
-#EXTINF:-1,MX (SD) TP FILM & ART
+#EXTINF:-1,*MX (SD) TP FILM & ART
 http://ultrontv.xyz:80/Tamika/Tamika/73522
-
-#EXTINF:-1,Film & Arts HD
-http://livetv2021.site:8080/9897876765/6576567/73
-#EXTINF:-1,Film & Arts HEVC
-http://livetv2021.site:8080/9897876765/6576567/74
-
-#EXTINF:-1,MX: Europa Europa FHD
-http://jessicatv.site:8080/FM10020/4d136785/9130
-#EXTINF:-1,ARG: Europa Europa
+#EXTINF:-1,LA | FILM & ARTS
+http://185.134.22.131:8080/Carlos123/Carlos123/38674
 
 
-#EXTINF:-1,Eurochannel HD
-http://livetv2021.site:8080/9897876765/6576567/6669
+*****  COCINA  ****
 
-#EXTINF:-1, Gourmet op2
+#EXTINF:-1, *Gourmet op2
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,FOOD NETWORK
+#EXTINF:-1,*FOOD NETWORK
 http://190.108.93.62:8000/play/a01a
-#EXTINF:-1,MX (SD) TP FOOD NETWORK
+#EXTINF:-1,*MX (SD) TP FOOD NETWORK
 http://ultrontv.xyz:80/Tamika/Tamika/73523
-
-
-#EXTINF:-1,Food Network Italia
+#EXTINF:-1,*Food Network Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?checkedby:zaltv.co
-#EXTINF:-1,Food Food (576p) [Not 24/7]
+#EXTINF:-1,*Food Food (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1,US: TASTEMADE | HD
+http://ultrontv.xyz:80/Tamika/Tamika/4417
 
 
-#EXTINF:-1,History Latinoamérica
-http://189.129.31.59:8000/play/a040/index.m3u8
+*****  CULTURA ****
+
 #EXTINF:-1,History Channel
-http://45.176.70.91:8000/play/a01h
-#EXTINF:-1,History 2
-http://45.176.70.91:8000/play/a03a
-#EXTINF:-1,History 2
-http://45.176.70.91:8000/play/a02o
-#EXTINF:-1,History 2 Latinoamérica
-http://189.129.31.59:8000/play/a03m/index.m3u8
+http://181.78.22.214:8000/play/a004
 
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1,*DISCOVERY CHANNEL
 http://190.108.93.62:8000/play/a016
-#EXTINF:-1,DISCOVERY THEATHER HD
+#EXTINF:-1,*Discovery Channel
+http://190.61.102.67:2000/play/a0ac
+#EXTINF:-1,MX | DISCOVERY CHANNEL
+http://185.134.22.131:8080/Carlos123/Carlos123/38357
+#EXTINF:-1,Discovery Channel
+http://181.78.22.214:8000/play/a00u
+
+#EXTINF:-1,*DISCOVERY THEATHER HD
 http://190.61.102.67:2000/play/a0d7
 #EXTINF:-1,MX: Discovery Theater HD
 http://jessicatv.site:8080/FM10020/4d136785/9151
 #EXTINF:-1,MX Discovery Theater HD
 http://jessicatv.site:8080/FM10020/4d136785/273741
 
-#EXTINF:-1,Discovery Channel
-http://190.61.102.67:2000/play/a0ac
-#EXTINF:-1,Discovery Channel
-http://45.179.140.242:8000/play/a0i8
 
-*****  ENTRETENIMIENTO ****
+*****  ENTRETENIMIENTO   ****
 
-#EXTINF:-1,Warner
-http://45.176.70.91:8000/play/a00y
-#EXTINF:-1,Warner Channel
-http://189.129.31.59:8000/play/a007/index.m3u8
-2 personas reaccionaron
-Mostrar copias compartidas
-#EXTINF:-1,Warner
+#EXTINF:-1,*Warner
 http://45.179.140.242:8000/play/a0ia
-#EXTINF:-1,LA | WARNER
+#EXTINF:-1,*LA | WARNER
 http://185.134.22.131:8080/Carlos123/Carlos123/38923
+#EXTINF:-1,Warner
+http://181.78.22.214:8000/play/a00w
 
-#EXTINF:-1,FX
-http://45.179.140.242:8000/play/a0jb
-#EXTINF:-1,FXM
-http://45.179.140.242:8000/play/a0hx
-
-
-#EXTINF:-1,AXN
-http://45.176.70.91:8000/play/a003
-#EXTINF:-1,A&E HD
-http://190.92.92.30:8000/play/a0cg/index.m3u8
-#EXTINF:-1,AE Mundo
-http://45.179.140.242:8000/play/a0ig
-#EXTINF:-1,AE Mundo
-http://45.176.70.91:8000/play/a013
-#EXTINF:-1,AXN
-http://45.179.140.242:8000/play/a0j
-#EXTINF:-1,AXN HD
-http://190.92.92.30:8000/play/a05g/index.m3u8
-
-#EXTINF:-1,SONY HD
-http://190.92.92.30:8000/play/a09v/index.m3u8
-#EXTINF:-1,Sony
+#EXTINF:-1,*Sony
 http://45.179.140.242:8000/play/a0j8
-
 #EXTINF:-1,Sony
-http://45.176.70.91:8000/play/a002
+http://181.78.22.214:8000/play/a01j
 
+#EXTINF:-1,*FX
+http://45.179.140.242:8000/play/a0jb
+#EXTINF:-1,*FXM
+http://45.179.140.242:8000/play/a0hx
+#EXTINF:-1,*AE Mundo
+http://45.179.140.242:8000/play/a0ig
+#EXTINF:-1,MX | A&E
+http://185.134.22.131:8080/Carlos123/Carlos123/38288
 
-#EXTINF:-1,TLC
-http://181.115.72.65:8199/play/a02e/index.m3u8
-#EXTINF:-1, Mas Chic op2
+#EXTINF:-1,MX | DISCOVERY H&H
+http://185.134.22.131:8080/Carlos123/Carlos123/38359
+#EXTINF:-1, *MAS CHIC
 https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, MAS CHIC
-https://amc-maschic-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1, Hola!TV
-http://181.115.72.65:8199/play/a00a/index.m3u8
-#EXTINF:-1, Lifetime
-http://181.115.72.65:8199/play/a01b/index.m3u8
+*****  PELICULAS Y SERIES  ****
 
+#EXTINF:-1,LA | FOX
+http://185.134.22.131:8080/Carlos123/Carlos123/38683
+#EXTINF:-1,LA | FOX ACTION
+http://185.134.22.131:8080/Carlos123/Carlos123/38676
+#EXTINF:-1,LA | FOX CINEMA
+http://185.134.22.131:8080/Carlos123/Carlos123/38677
 
-#EXTINF:-1,MX Fox
-http://ultrontv.xyz:80/Tamika/Tamika/73691
-
-
-*****  CINE ****
 #EXTINF:-1,TNT
-http://45.176.70.91:8000/play/a01r
-#EXTINF:-1,TNT Series
-http://45.176.70.91:8000/play/a038
-#EXTINF:-1,TNT Series
-http://45.176.70.91:8000/play/a036
-
-
-#EXTINF:-1,LA | TNT HD
+http://181.78.22.214:8000/play/a00e
+#EXTINF:-1,*LA | TNT HD
 http://185.134.22.131:8080/Carlos123/Carlos123/38882
-#EXTINF:-1,LA | TNT SERIES
+#EXTINF:-1,*LA | TNT SERIES
 http://185.134.22.131:8080/Carlos123/Carlos123/38883
+#EXTINF:-1,MX | TNT SERIES
+http://185.134.22.131:8080/Carlos123/Carlos123/38499
 
-#EXTINF:-1,LA | STAR CHANNEL
+#EXTINF:-1,*LA | STAR CHANNEL
 http://mag.cdn-ky.com:25461/danilo/12345/228157
-#EXTINF:-1,LA | STAR LIFE
-http://mag.cdn-ky.com:25461/danilo/12345/384883
 
-#EXTINF:-1,Cinemax
-http://45.179.140.242:8000/play/a0j7
-#EXTINF:-1, Runtime MX
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,FoX Channel
-http://189.129.31.59:8000/play/a01p/index.m3u8
-#EXTINF:-1,Fox Life
-http://189.129.31.59:8000/play/a01s/index.m3u8
-#EXTINF:-1,Fox Premium Action
-http://189.129.31.59:8000/play/a021/index.m3u8
-#EXTINF:-1,Fox Premium Cinema
-http://189.129.31.59:8000/play/a022/index.m3u8
-#EXTINF:-1,Fox Premium Classics
-http://189.129.31.59:8000/play/a03r/index.m3u8
-#EXTINF:-1,Fox Premium Family Oeste
-http://189.129.31.59:8000/play/a03q/index.m3u8
-#EXTINF:-1,Fox Premium Movies
-http://189.129.31.59:8000/play/a020/index.m3u8
-#EXTINF:-1,Fox Premium Series Oeste
-http://189.129.31.59:8000/play/a01h/index.m3u8
-
-
-#EXTINF:-1,STAR CHANNEL
-http://45.176.70.91:8000/play/a01n
-#EXTINF:-1,STAR LIFE
-http://45.176.70.91:8000/play/a01m
-
-#EXTINF:-1,HBO
-http://189.129.31.59:8000/play/a02i/index.m3u8
-#EXTINF:-1,HBO + Latinoamerica
-http://189.129.31.59:8000/play/a00o/index.m3u8
-#EXTINF:-1,HBO 2 Latinoamerica
-http://189.129.31.59:8000/play/a00m/index.m3u8
-#EXTINF:-1,HBO Family Latinoamerica
-http://189.129.31.59:8000/play/a00n/index.m3u8
-#EXTINF:-1,HBO Latinoamérica
-http://189.129.31.59:8000/play/a01g/index.m3u8
-
-#EXTINF:-1,MX (SD) TP GOLDEN
+#EXTINF:-1,*MX (SD) TP GOLDEN
 http://ultrontv.xyz:80/Tamika/Tamika/73539
-#EXTINF:-1,MX (SD) TP GOLDEN EDGE
+#EXTINF:-1,*MX (SD) TP GOLDEN EDGE
 http://ultrontv.xyz:80/Tamika/Tamika/73540
 #EXTINF:-1,LA | GOLDEN EDGE
 http://185.134.22.131:8080/Carlos123/Carlos123/38711
+#EXTINF:-1,*LA | GOLDEN EDGE
+http://185.134.22.131:8080/Carlos123/Carlos123/38711
+#EXTINF:-1,*LA | GOLDEN PLUS
+http://185.134.22.131:8080/Carlos123/Carlos123/38712
 #EXTINF:-1,LA | GOLDEN PLUS
 http://185.134.22.131:8080/Carlos123/Carlos123/38712
+#EXTINF:-1,LA | GOLDEN PREMIER
+http://185.134.22.131:8080/Carlos123/Carlos123/38713
 
-#EXTINF:-1,TCM
-http://190.4.0.200:3333/play/a02h/index.m3u8
+#EXTINF:-1,HBO
+http://181.78.22.214:8000/play/a01h
+#EXTINF:-1,HBO 2
+http://181.78.22.214:8000/play/a00n
+#EXTINF:-1,HBO Family
+http://181.78.22.214:8000/play/a00q
+#EXTINF:-1,HBO Plus
+http://181.78.22.214:8000/play/a00o
+#EXTINF:-1,HBO XTREME SD
+http://181.78.22.214:8000/play/a00p
 
+#EXTINF:-1,MX | CINEMAX
+http://185.134.22.131:8080/Carlos123/Carlos123/38344
 
-#EXTINF:-1,Paramount Channel
-http://45.176.70.91:8000/play/a01x
-#EXTINF:-1,Paramount
-http://190.4.0.200:3333/play/a00x/index.m3u8
+#EXTINF:-1,*Cinemax
+http://45.179.140.242:8000/play/a0j7
+
+#EXTINF:-1, *Runtime MX
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Space
-http://45.176.70.91:8000/play/a004
-#EXTINF:-1,SyFy
-http://45.176.70.91:8000/play/a02z
+http://181.78.22.214:8000/play/a01l
+
+#EXTINF:-1,*TCM
+http://190.4.0.200:3333/play/a02h/index.m3u8
 #EXTINF:-1,TCM
-http://45.176.70.91:8000/play/a01o
-
-
-#EXTINF:-1,Universal
-http://45.176.70.91:8000/play/a01j
-
-#EXTINF:-1,Studio Universal
+http://181.78.22.214:8000/play/a00b
+#EXTINF:-1,*Paramount
+http://190.4.0.200:3333/play/a00x/index.m3u8
+#EXTINF:-1,*Studio Universal
 http://190.4.0.200:3333/play/a03r/index.m3u8
+#EXTINF:-1,MX | UNIVERSAL CHANNEL
+http://185.134.22.131:8080/Carlos123/Carlos123/38515
+#EXTINF:-1,Universal
+http://181.78.22.214:8000/play/a006
 
-#EXTINF:-1,Cinecanal
-http://45.176.70.91:8000/play/a01i
-
-
-
-#EXTINF:-1,RETRO
+#EXTINF:-1,*RETRO SERIES
 http://190.108.93.62:8000/play/a001
-#EXTINF:-1,RETROPLUS CLASICO
-http://45.176.70.89:8000/play/a00r
 
-*****  MUSICA ****
 
-#EXTINF:-1,Classica
-http://185.236.229.111:8005/play/a00x
 
-#EXTINF:-1,MEZZO
-http://79.114.34.202:8000/play/a02u
-#EXTINF:-1,MEZZO
-http://79.114.34.202:8000/play/a02u
-#EXTINF:-1,MEZZO
-http://185.236.229.101:8005/play/a014
+*****  MUSICA  ****
 
-#EXTINF:-1, MTV Classic| HD
+#EXTINF:-1,DE | MTV UNPLUGGED
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,*MTV Rocks
+http://78.58.133.179:28000/play/a138/index.m3u8
+#EXTINF:-1, *MTV Classic| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-1,Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1,RETRO PLUS
-http://45.176.70.89:8000/play/a00o
-#EXTINF:-1,RETRO PLUS 2
-http://45.176.70.89:8000/play/a00p
+#EXTINF:-1,ES | VH1 CLASSICS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1,ROCK TV
-http://79.114.34.202:8000/play/a05d
-#EXTINF:-1,VH1 Classic
-http://190.92.92.30:8000/play/a0ev/index.m3u8
+#EXTINF:-1, Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,MTV Rocks
-http://78.58.133.179:28000/play/a138/index.m3u8
-
-#EXTINF:-1,Concert Channel
+#EXTINF:-1,*Concert Channel
 http://190.61.102.67:2000/play/a0aw
 
+#EXTINF:-1,*Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1, Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, Music Top
-https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1,USA | HILLSONG CHANNEL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
-*****  NACIONALES ****
 
-#EXTINF:-1, Canal 6 Monterrey
+*****  NACIONALES   ****
+
+#EXTINF:-1, *Canal 6 Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1, Canal 10 Cancun
+#EXTINF:-1, *Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1, Uno tv
-https://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
 
+#EXTINF:-1,MX | LAS ESTRELLAS
+http://185.134.22.131:8080/Carlos123/Carlos123/38337
+#EXTINF:-1,MX | MULTIMEDIOS
+http://185.134.22.131:8080/Carlos123/Carlos123/38448
 
 
 
 *****  NOTICIAS ****
 
-#EXTINF:-1, CGTN Español
+#EXTINF:-1,LA | CNN ESPANOL
+http://185.134.22.131:8080/Carlos123/Carlos123/38612
+#EXTINF:-1, *CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1,ABC US
+#EXTINF:-1,*ABC US
 http://71.187.29.220:8000/play/a08l/index.m3u8
-#EXTINF:-1, Euronews
+#EXTINF:-1, *Euronews
 https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, Euronews ES
+#EXTINF:-1, *Euronews ES
 https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, France 24
+#EXTINF:-1, *France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1,CNN-E
-http://181.115.72.65:8199/play/a01h/index.m3u8
-#EXTINF:-1, BBC World
-http://181.115.72.65:8199/play/a01i/index.m3u8
-#EXTINF:-1, CNN Internacional
-http://181.115.72.65:8199/play/a00b/index.m3u8
 
 
-*****  NIÑOS ****
-
-#EXTINF:-1, Baby TV
-http://181.115.72.65:8199/play/a00d/index.m3u8
-
-#EXTINF:-1, Babyfirst | HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
-
-
-#EXTINF:-1,Boomerang
-http://181.115.72.65:8199/play/a012/index.m3u8
-
-
-
-*****  DEPORTES ****
-
-#EXTINF:-1,Fox Sports 1
-http://45.176.70.91:8000/play/a00u
-#EXTINF:-1,Fox Sports 2
-http://45.176.70.91:8000/play/a015
-#EXTINF:-1,Fox Sports 3
-http://45.176.70.91:8000/play/a016
 
 *****  INTERNACIONALES ****
 
-#EXTINF:-1,Hallmark Movies & More (720p)
+#EXTINF:-1,US: BBC AMERICA | HD
+http://ultrontv.xyz:80/Tamika/Tamika/4301
+
+#EXTINF:-1,USA | HALLMARK CHANNEL
+http://185.134.22.131:8080/Carlos123/Carlos123/870
+#EXTINF:-1,USA | HALLMARK DRAMA
+http://185.134.22.131:8080/Carlos123/Carlos123/869
+#EXTINF:-1,USA | HALLMARK MOVIES & MYSTERIES
+http://185.134.22.131:8080/Carlos123/Carlos123/868
+#EXTINF:-1,*Hallmark Movies & More (720p)
+
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1,NHK World Japan (1080p)
+#EXTINF:-1,*NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1,Das Erste (720p)
+#EXTINF:-1,DE: RTL Living
+http://ultrontv.xyz:80/Tamika/Tamika/97070
+
+#EXTINF:-1,*Das Erste (720p)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1,1-2-3 TV (480p)
+#EXTINF:-1,*1-2-3 TV (480p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1,13th Street HD
-http://185.236.229.111:8005/play/a00k
-#EXTINF:-1,arte
-http://185.236.229.111:8005/play/a01v
 
-#EXTINF:-1,Bbc-Earth
-http://154.73.54.56:8000/play/Bbc-Earth
-#EXTINF:-1,Sony BBC EarHD-Rs10
-http://103.49.69.246:8000/play/a01y/index.m3u8
+#EXTINF:-1,PT France_3
+http://ultrontv.xyz:80/Tamika/Tamika/97574
 
-*****  INTERNACIONALES ****
+*****  INFANTIL ****
 
-
+#EXTINF:-1, *Babyfirst | HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
