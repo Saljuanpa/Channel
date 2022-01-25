@@ -162,6 +162,8 @@ http://190.108.93.62:8000/play/a001
 
 #EXTINF:-1,DE | MTV UNPLUGGED
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,MTV Rock
+http://82.114.83.86:8006/play/a03u
 #EXTINF:-1,*MTV Rocks
 http://78.58.133.179:28000/play/a138/index.m3u8
 #EXTINF:-1, *MTV Classic| HD
