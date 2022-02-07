@@ -45,7 +45,8 @@ http://185.134.22.131:8080/Carlos123/Carlos123/38357
 #EXTINF:-1,Discovery Channel
 http://181.78.22.214:8000/play/a00u
 
-
+#EXTINF:-1,MX: Discovery Theater HD
+http://jessicatv.site:8080/FM10020/4d136785/9151
 #EXTINF:-1, Discovery Theater
 http://clubtv.link/fb3/lista2.php?c=3054
 
@@ -269,7 +270,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 
-
+#EXTINF:-1,DE: RTL Living
+http://ultrontv.xyz:80/Tamika/Tamika/97070
 #EXTINF:-1,*Das Erste (720p)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1,*1-2-3 TV (480p)
