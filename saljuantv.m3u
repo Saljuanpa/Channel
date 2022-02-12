@@ -8,16 +8,11 @@ http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master
 
 #EXTINF:-1,Film & Arts
 http://190.4.0.200:8000/play/a00v/index.m3u8
-#EXTINF:-1,*MX (SD) TP FILM & ART
-http://ultrontv.xyz:80/Tamika/Tamika/73522
-
 
 *****  COCINA  ****
-
 #EXTINF:-1, *Gourmet op2
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 , Food Network
+#EXTINF:-1, Food Network
 http://clubtv.link/fb3/lista2.php?c=3070
 #EXTINF:-1,*MX (SD) TP FOOD NETWORK
 http://ultrontv.xyz:80/Tamika/Tamika/73523
@@ -28,23 +23,16 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
 
 
 *****  CULTURA ****
-
 #EXTINF:-1,H2
 http://190.4.0.200:8000/play/a02a/index.m3u8
-
-
 #EXTINF:-1,History Channel
 http://181.78.22.214:8000/play/a004
 #EXTINF:-1,History Channel
 http://190.4.0.200:8000/play/a032/index.m3u8
-
 #EXTINF:-1,Discovery Channel
 http://190.4.0.200:8000/play/a030/index.m3u8
-#EXTINF:-1,MX | DISCOVERY CHANNEL
-http://185.134.22.131:8080/Carlos123/Carlos123/38357
 #EXTINF:-1,Discovery Channel
 http://181.78.22.214:8000/play/a00u
-
 #EXTINF:-1,MX: Discovery Theater HD
 http://jessicatv.site:8080/FM10020/4d136785/9151
 #EXTINF:-1, Discovery Theater
@@ -52,66 +40,28 @@ http://clubtv.link/fb3/lista2.php?c=3054
 
 
 *****  ENTRETENIMIENTO   ****
-
 #EXTINF:-1,*Warner
 http://45.179.140.242:8000/play/a0ia
-#EXTINF:-1,*LA | WARNER
-http://185.134.22.131:8080/Carlos123/Carlos123/38923
 #EXTINF:-1,Warner
 http://181.78.22.214:8000/play/a00w
-
 #EXTINF:-1,SONY
 http://190.4.0.200:8000/play/a02v/index.m3u8
 #EXTINF:-1,*Sony
 http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1,Sony
 http://181.78.22.214:8000/play/a01j
-
 #EXTINF:-1,*FX
 http://45.179.140.242:8000/play/a0jb
 #EXTINF:-1,*AE Mundo
 http://45.179.140.242:8000/play/a0ig
-#EXTINF:-1,MX | A&E
-http://185.134.22.131:8080/Carlos123/Carlos123/38288
-
-#EXTINF:-1,MX | DISCOVERY H&H
-http://185.134.22.131:8080/Carlos123/Carlos123/38359
-
 
 *****  PELICULAS Y SERIES  ****
-
-#EXTINF:-1,LA | FOX
-http://185.134.22.131:8080/Carlos123/Carlos123/38683
-#EXTINF:-1,LA | FOX ACTION
-http://185.134.22.131:8080/Carlos123/Carlos123/38676
-#EXTINF:-1,LA | FOX CINEMA
-http://185.134.22.131:8080/Carlos123/Carlos123/38677
-
 #EXTINF:-1,TNT
 http://181.78.22.214:8000/play/a00e
-#EXTINF:-1,*LA | TNT HD
-http://185.134.22.131:8080/Carlos123/Carlos123/38882
-#EXTINF:-1,*LA | TNT SERIES
-http://185.134.22.131:8080/Carlos123/Carlos123/38883
-#EXTINF:-1,MX | TNT SERIES
-http://185.134.22.131:8080/Carlos123/Carlos123/38499
-
 #EXTINF:-1,*LA | STAR CHANNEL
 http://mag.cdn-ky.com:25461/danilo/12345/228157
-
 #EXTINF:-1,Golden
 http://190.4.0.200:8000/play/a02g/index.m3u8
-#EXTINF:-1,LA | GOLDEN EDGE
-http://185.134.22.131:8080/Carlos123/Carlos123/38711
-#EXTINF:-1,*LA | GOLDEN EDGE
-http://185.134.22.131:8080/Carlos123/Carlos123/38711
-#EXTINF:-1,*LA | GOLDEN PLUS
-http://185.134.22.131:8080/Carlos123/Carlos123/38712
-#EXTINF:-1,LA | GOLDEN PLUS
-http://185.134.22.131:8080/Carlos123/Carlos123/38712
-#EXTINF:-1,LA | GOLDEN PREMIER
-http://185.134.22.131:8080/Carlos123/Carlos123/38713
-
 #EXTINF:-1,HBO
 http://181.78.22.214:8000/play/a01h
 #EXTINF:-1,HBO 2
@@ -122,8 +72,6 @@ http://181.78.22.214:8000/play/a00q
 http://181.78.22.214:8000/play/a00o
 #EXTINF:-1,HBO XTREME SD
 http://181.78.22.214:8000/play/a00p
-
-
 #EXTINF:-1,HBO
 http://190.4.0.200:8000/play/a03t/index.m3u8
 #EXTINF:-1,HBO Family
@@ -134,84 +82,52 @@ http://190.4.0.200:8000/play/a03v/index.m3u8
 http://190.4.0.200:8000/play/a015/index.m3u8
 #EXTINF:-1,HBO2
 http://190.4.0.200:8000/play/a03u/index.m3u8
-
-#EXTINF:-1,MX | CINEMAX
-http://185.134.22.131:8080/Carlos123/Carlos123/38344
-
 #EXTINF:-1,*Cinemax
 http://45.179.140.242:8000/play/a0j7
-
 #EXTINF:-1, *Runtime MX
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,Space
 http://181.78.22.214:8000/play/a01l
-
-#EXTINF:-1,*TCM
-http://190.4.0.200:3333/play/a02h/index.m3u8
 #EXTINF:-1,TCM
 http://181.78.22.214:8000/play/a00b
-#EXTINF:-1,*Paramount
-http://190.4.0.200:3333/play/a00x/index.m3u8
-#EXTINF:-1,*Studio Universal
-http://190.4.0.200:3333/play/a03r/index.m3u8
-#EXTINF:-1,MX | UNIVERSAL CHANNEL
-http://185.134.22.131:8080/Carlos123/Carlos123/38515
 #EXTINF:-1,Universal
 http://181.78.22.214:8000/play/a006
-
-#EXTINF:-1,*RETRO SERIES
-http://190.108.93.62:8000/play/a001
-
 
 
 *****  MUSICA  ****
 
 #EXTINF:-1,DE | MTV UNPLUGGED
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1,*MTV Rocks
 http://78.58.133.179:28000/play/a138/index.m3u8
 #EXTINF:-1, *MTV Classic| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1,MTV 80s
 http://190.4.0.200:8000/play/a01r/index.m3u8
-
-
 #EXTINF:-1,ES | VH1 CLASSICS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1, Rock TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1, Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, Web TV Music
 https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1,Concert Channel
 http://190.4.0.200:8000/play/a03l/index.m3u8
-
 #EXTINF:-1,*Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1, Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,USA | HILLSONG CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
 #EXTINF:-1, TV Gospel Music
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
-
 #EXTINF:-1, Loop 80's HD
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1, Loop 90's HD
 https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-
 #EXTINF:-1, Qello Concerts HD
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
 #EXTINF:-1, Qwest Classical HD
@@ -225,61 +141,28 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 
 
 *****  NACIONALES   ****
-
 #EXTINF:-1, *Canal 6 Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1, *Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-1,MX | LAS ESTRELLAS
-http://185.134.22.131:8080/Carlos123/Carlos123/38337
-#EXTINF:-1,MX | MULTIMEDIOS
-http://185.134.22.131:8080/Carlos123/Carlos123/38448
-
-
 
 *****  NOTICIAS ****
-
-#EXTINF:-1,LA | CNN ESPANOL
-http://185.134.22.131:8080/Carlos123/Carlos123/38612
 #EXTINF:-1, *CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1, *Euronews
-https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1, *Euronews ES
-https://euronews-euronews-spanish-2.plex.wurl.com/manifest/playlist.m3u8
-
-
-
-
-*****  INTERNACIONALES ****
-
 #EXTINF:-1,US: BBC AMERICA | HD
 http://ultrontv.xyz:80/Tamika/Tamika/4301
-
-#EXTINF:-1,USA | HALLMARK CHANNEL
-http://185.134.22.131:8080/Carlos123/Carlos123/870
-#EXTINF:-1,USA | HALLMARK DRAMA
-http://185.134.22.131:8080/Carlos123/Carlos123/869
-#EXTINF:-1,USA | HALLMARK MOVIES & MYSTERIES
-http://185.134.22.131:8080/Carlos123/Carlos123/868
 #EXTINF:-1,*Hallmark Movies & More (720p)
-
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1,*NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
-
-#EXTINF:-1,DE: RTL Living
-http://ultrontv.xyz:80/Tamika/Tamika/97070
 #EXTINF:-1,*Das Erste (720p)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1,*1-2-3 TV (480p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
 
 
-
-*****  INFANTIL ****
+*****  INFANTILES ****
 
 #EXTINF:-1, *Babyfirst | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
