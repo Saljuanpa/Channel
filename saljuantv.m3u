@@ -25,6 +25,8 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
 *****  CULTURA ****
 
 #EXTINF:-1,History Channel
+http://45.179.140.242:8000/play/a0ju
+#EXTINF:-1,History Channel
 http://181.78.22.214:8000/play/a004
 #EXTINF:-1,History Channel
 http://190.4.0.200:8000/play/a032/index.m3u8
@@ -38,7 +40,8 @@ http://190.4.0.200:8000/play/a02a/index.m3u8
 
 
 
-
+#EXTINF:-1,Discovery Channel
+http://45.179.140.242:8000/play/a0i8
 #EXTINF:-1, Discovery Channel
 http://blackaddon.com/play/zufree-235.php?c=3048
 #EXTINF:-1,Discovery Channel
@@ -55,6 +58,8 @@ http://blackaddon.com/play/zufree-235.php?c=3054
 
 *****  ENTRETENIMIENTO   ****
 
+#EXTINF:-1,Warner
+http://45.179.140.242:8000/play/a0ia
 #EXTINF:-1, Warner
 http://blackaddon.com/play/zufree-235.php?c=3140
 #EXTINF:-1,*Warner
@@ -62,6 +67,8 @@ http://45.179.140.242:8000/play/a0ia
 #EXTINF:-1,Warner
 http://181.78.22.214:8000/play/a00w
 
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1, Sony
 http://blackaddon.com/play/zufree-235.php?c=3118
 #EXTINF:-1,SONY
