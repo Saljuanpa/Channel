@@ -241,6 +241,8 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1,*1-2-3 TV (480p)
 http://123tv-mx1.flex-cdn.net/index.m3u8
 
+#EXTINF:-1,4 kanal Ukraine
+http://109.200.130.123:7035/play/a00q
 
 *****  INFANTILES ****
 
