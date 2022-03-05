@@ -12,6 +12,9 @@ http://181.191.141.4:9981/stream/channelid/1085839152?profile=pass
 #EXTINF:-1,Film & Arts HD
 http://181.191.141.4:9981/stream/channelid/1301502662?profile=pass
 
+#EXTINF:-1 group-title="PRV",Europa HD
+http://190.92.95.37:8000/play/a0gl/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
 *****  COCINA  ****
 
 #EXTINF:-1, *Gourmet op2
@@ -210,8 +213,8 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 *****  NOTICIAS ****
 
-#EXTINF:-1,MEX| BBC World News
-http://daletvplay.xyz:8080/live/vicsalas/iZgTUEt2z6/94516.m3u8
+#EXTINF:-1 group-title="PRV",BBC World
+http://190.92.95.37:8000/play/a0g3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1, *CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1,*Hallmark Movies & More (720p)
