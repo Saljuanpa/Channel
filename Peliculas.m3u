@@ -1,116 +1,425 @@
 #EXTM3U
-
-#EXTINF:-1,LA | STAR ACTION
-http://mag.cdn-ky.com:25461/danilo/12345/384878
-#EXTINF:-1,LA | STAR COMEDY
-http://mag.cdn-ky.com:25461/danilo/12345/514479
-#EXTINF:-1,LA | STAR HITS
-http://mag.cdn-ky.com:25461/danilo/12345/384885
-#EXTINF:-1,LA | STAR SERIES
-http://mag.cdn-ky.com:25461/danilo/12345/384887
-#EXTINF:-1,LA | GOLDEN
-http://185.134.22.131:8080/Carlos123/Carlos123/38710
-#EXTINF:-1,LA | GOLDEN EDGE
-http://185.134.22.131:8080/Carlos123/Carlos123/38711
-#EXTINF:-1,LA | GOLDEN PLUS
-http://185.134.22.131:8080/Carlos123/Carlos123/38712
-#EXTINF:-1,LA | GOLDEN PREMIER
-http://185.134.22.131:8080/Carlos123/Carlos123/38713
-
-
-#EXTINF:-1,LA: Cine Accion HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/187074
-#EXTINF:-1,LA: Cine Canal HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3008
-#EXTINF:-1,LA: Cine Infantil Sagas
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/187069
-#EXTINF:-1,LA: Cinema 01 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/146695
-#EXTINF:-1,LA: Cinema 02 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/146696
-#EXTINF:-1,LA: Cinema 03 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/146697
-#EXTINF:-1,LA: Cinema 04 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76328
-#EXTINF:-1,LA: Cinema 05 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76330
-#EXTINF:-1,LA: Cinema 07 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76324
-#EXTINF:-1,LA: Cinema 08 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148805
-#EXTINF:-1,LA: Cinema 09 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76323
-#EXTINF:-1,LA: Cinema 10 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148808
-#EXTINF:-1,LA: Cinema 12 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76326
-#EXTINF:-1,LA: Cinema 13 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76325
-#EXTINF:-1,LA: Cinema 14 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76318
-#EXTINF:-1,LA: Cinema 15 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76320
-#EXTINF:-1,LA: Cinema 16 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278112
-#EXTINF:-1,LA: Cinema 17 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148804
-#EXTINF:-1,LA: Cinema 18 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76322
-#EXTINF:-1,LA: Cinema 19 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76316
-#EXTINF:-1,LA: Cinema 21 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76327
-#EXTINF:-1,LA: Cinema 22 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278114
-#EXTINF:-1,LA: Cinema 23 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76321
-#EXTINF:-1,LA: Cinema 24 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278115
-#EXTINF:-1,LA: Cinema 25 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278100
-#EXTINF:-1,LA: Cinema 27 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76319
-#EXTINF:-1,LA: Cinema 31 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/197045
-#EXTINF:-1,LA: Cinema 32 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/278110
-#EXTINF:-1,LA: Cinema 33 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76317
-#EXTINF:-1,LA: Cinema 34 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148809
-#EXTINF:-1,LA: Cinema 35 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148800
-#EXTINF:-1,LA: Cinema 36 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/76332
-#EXTINF:-1,LA: Cinema 37 PPV
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/65748
-#EXTINF:-1,LA: HBO 2 HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3056
-#EXTINF:-1,LA: HBO FAMILY HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3057
-#EXTINF:-1,LA: HBO HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3055
-#EXTINF:-1,LA: HBO Plus FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3058
-#EXTINF:-1,LA: HBO Signature FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/3059
-#EXTINF:-1,LA: HBO Xtreme HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/148927
-#EXTINF:-1,ARG: HBO
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38690
-#EXTINF:-1,ARG: HBO 2 HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/29301
-#EXTINF:-1,ARG: HBO Family
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38687
-#EXTINF:-1,ARG: HBO Mundi HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/38701
-#EXTINF:-1,ARG: HBO Pop HD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/29305
-#EXTINF:-1,ARG: HBO Signature
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/49289
-#EXTINF:-1,ARG: HBO Xtreme FHD
-http://iptvstream.xyz:8080/Mcnsi/7210db0d/172272
-
-
-#EXTINF:-1, El Hobbit La Desolación de Smaug
-http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
+#EXTINF:-1,Win Sports +
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/5246
+#EXTINF:-1,Win Sports + (c)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/5245
+#EXTINF:-1,WIN SPORTS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1731
+#EXTINF:-1,WIN SPORTS OP 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1732
+#EXTINF:-1,TELETRAK (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1710
+#EXTINF:-1,CDO BASICO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1711
+#EXTINF:-1,FOX SPORTS 1 AR (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1714
+#EXTINF:-1,FOX SPORTS 2 AR (E)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1715
+#EXTINF:-1,FOX SPORTS 2 AR (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1716
+#EXTINF:-1,FOX SPORTS 3 AR (L)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1717
+#EXTINF:-1,FOX SPORTS 3AR (E)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1718
+#EXTINF:-1,FOX SPORTS 1 CO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1719
+#EXTINF:-1,FOX SPORTS 1 CO *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1720
+#EXTINF:-1,FOX SPORTS 2 CO (A)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1722
+#EXTINF:-1,FOX SPORTS 3 CO (A)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1723
+#EXTINF:-1,FOX SPORTS 3CO (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1724
+#EXTINF:-1,FOX SPORTS 1 MX (L)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1725
+#EXTINF:-1,FOX SPORTS 1 MX (E)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1726
+#EXTINF:-1,FOX SPORTS 2 MX
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1727
+#EXTINF:-1,FOX SPORTS 2 MX
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1728
+#EXTINF:-1,FOX SPORTS 3 MX (e)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1729
+#EXTINF:-1,FOX SPORTS 3MX
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1730
+#EXTINF:-1,DIRECTV SPORTS 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1734
+#EXTINF:-1,DIRECTV SPORTS +
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1735
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1736
+#EXTINF:-1,TNT SPORTS (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1738
+#EXTINF:-1,TNT SPORTS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1739
+#EXTINF:-1,TYC SPORTS nacional (u)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1740
+#EXTINF:-1,TYC SPORTS (L)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1741
+#EXTINF:-1,GOL PERU
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1743
+#EXTINF:-1,GOLTV EC
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1744
+#EXTINF:-1,GOLTV EC.
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1745
+#EXTINF:-1,GOLTV INTERNACIONAL (e)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1746
+#EXTINF:-1,TIGO SPORTS 1 BO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1747
+#EXTINF:-1,TIGO SPORTS 2 BO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1748
+#EXTINF:-1,TIGO SPORTS 3 BO (e)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1749
+#EXTINF:-1,TIGO SPORTS 1 PARAGUAY (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1750
+#EXTINF:-1,IZZI AFIZZIONADOS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/3032
+#EXTINF:-1,FOX SPORTS 2 CHILE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/4199
+#EXTINF:-1,DEPORT LAT | CDO PREMIUM
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/5781
+#EXTINF:-1,FUTV
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/8643
+#EXTINF:-1,ESPN 1 AR (u)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1672
+#EXTINF:-1,ESPN 1 AR
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1671
+#EXTINF:-1,ESPN 3 SUR
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1675
+#EXTINF:-1,ESPN 2 AR
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1674
+#EXTINF:-1,ESPN 2 SUR
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1679
+#EXTINF:-1,ESPN 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/24538
+#EXTINF:-1,ESPN 1
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/24539
+#EXTINF:-1,ESPN 3
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/24540
+#EXTINF:-1,BEIN SPORTS \u00d1
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1663
+#EXTINF:-1,Sur - Directv Sports + (Col)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25264
+#EXTINF:-1,Sur - Directv Sports AR
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25265
+#EXTINF:-1,Sur - Directv Sports 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25266
+#EXTINF:-1,Directv Sports CHILE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/41936
+#EXTINF:-1,HBO XTREME
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1590
+#EXTINF:-1,HBO Signature
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/8483
+#EXTINF:-1,HBO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/39802
+#EXTINF:-1,HBO POP
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/39803
+#EXTINF:-1,HBO Mundi
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/39804
+#EXTINF:-1,HBO 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1595
+#EXTINF:-1,HBO Family
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/39805
+#EXTINF:-1,STAR CHANNEL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1599
+#EXTINF:-1,STAR LIFE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1575
+#EXTINF:-1,Cinemax
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/8477
+#EXTINF:-1,Cinecanal
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1585
+#EXTINF:-1,De Pelicula
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1583
+#EXTINF:-1,FX
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1582
+#EXTINF:-1,SONY CHANNEL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1567
+#EXTINF:-1,TCM
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1566
+#EXTINF:-1,TNT Series
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1562
+#EXTINF:-1,Universal Channel
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1561
+#EXTINF:-1,Discovery Channel
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1512
+#EXTINF:-1,History
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1501
+#EXTINF:-1,Investigation Discovery
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1499
+#EXTINF:-1,National Geographic
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1495
+#EXTINF:-1,H2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/39809
+#EXTINF:-1,AandE Mundo
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1518
+#EXTINF:-1,AMC
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1519
+#EXTINF:-1,AXN
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1520
+#EXTINF:-1,Cinecanal (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1521
+#EXTINF:-1,Cinemax
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1522
+#EXTINF:-1,STAR CHANNEL .
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1524
+#EXTINF:-1,STAR CHANNEL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1526
+#EXTINF:-1,FXM (p)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1535
+#EXTINF:-1,GOLDEN EDGE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1536
+#EXTINF:-1,Golden Plus
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1537
+#EXTINF:-1,Golden Plus
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1538
+#EXTINF:-1,HBO 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1539
+#EXTINF:-1,HBO Family
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1540
+#EXTINF:-1,Paramount Channel
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1544
+#EXTINF:-1,SONY CHANNEL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1545
+#EXTINF:-1,SPACE CHANNEL *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1546
+#EXTINF:-1,Space
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1547
+#EXTINF:-1,STUDIO UNIVERSAL LATINO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1548
+#EXTINF:-1,STUDIO UNIVERSAL *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1549
+#EXTINF:-1,SUNDANCE TV
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1550
+#EXTINF:-1,SYFY CHANNEL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1551
+#EXTINF:-1,TBS *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1552
+#EXTINF:-1,TCM (Y)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1553
+#EXTINF:-1,TNT
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1556
+#EXTINF:-1,TNT SERIES (A)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1557
+#EXTINF:-1,UNIVERSAL CHANNEL (E)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1558
+#EXTINF:-1,WARNER TV (e)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1559
+#EXTINF:-1,WARNER TV (T)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1560
+#EXTINF:-1,TNT Series
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1563
+#EXTINF:-1,TNT
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1565
+#EXTINF:-1,GOLDEN
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1568
+#EXTINF:-1,STAR LIFE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1574
+#EXTINF:-1,STAR CHANNEL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1578
+#EXTINF:-1,De Pelicula (e)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1584
+#EXTINF:-1,Cinecanal *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1586
+#EXTINF:-1,AXN *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1587
+#EXTINF:-1,HBO SIGNATURE *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1592
+#EXTINF:-1,HBO Plus
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1593
+#EXTINF:-1,HBO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1596
+#EXTINF:-1,DHE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/8478
+#EXTINF:-1,HBO Pop
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/8482
+#EXTINF:-1,HBO XTREME
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/8484
+#EXTINF:-1,HBO Mundi
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/8481
+#EXTINF:-1,FOOD NETWORK MEXICO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/19203
+#EXTINF:-1,WWE NETWORK
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1696
+#EXTINF:-1,TRU TV *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1493
+#EXTINF:-1,COMEDY CENTRAL  (P)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1516
+#EXTINF:-1,CANAL COCINA
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/19204
+#EXTINF:-1,Galavision Miami
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/19205
+#EXTINF:-1,HOLA TV
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/19206
+#EXTINF:-1,PASIONES Lat
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/19207
+#EXTINF:-1,Tlenovelas
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/19208
+#EXTINF:-1,El Gourmet
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/19209
+#EXTINF:-1,ENT  | E!
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/23817
+#EXTINF:-1,LAT | UNIVISION 41 NEW YORK
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25070
+#EXTINF:-1,ENTRE - MAS CHIC
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/29593
+#EXTINF:-1,Univision Tlenovelas
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/33153
+#EXTINF:-1,LAT| TELEMUNDO 39 PHOENIX
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42742
+#EXTINF:-1,FILM & ARTS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1494
+#EXTINF:-1,NATGEO *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1496
+#EXTINF:-1,Investigation Discovery
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1500
+#EXTINF:-1,History(p)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1502
+#EXTINF:-1,H2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1503
+#EXTINF:-1,Discovery World(ST)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1504
+#EXTINF:-1,Discovery World
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1505
+#EXTINF:-1,Discovery Turbo
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1506
+#EXTINF:-1,Discovery Theater
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1507
+#EXTINF:-1,Discovery Home & Healt(p)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1510
+#EXTINF:-1,Discovery Civilization
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1511
+#EXTINF:-1,Discovery Channel
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1513
+#EXTINF:-1,Animal Planet
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1515
+#EXTINF:-1,MTV CLASSICS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/10769
+#EXTINF:-1,Musica - MC Rock
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/24640
+#EXTINF:-1,Musica - MC Toddler Tunes
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/24642
+#EXTINF:-1,Musica - MC Tropicales
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/24643
+#EXTINF:-1,ZONA LATINA
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/34964
+#EXTINF:-1,Zapping Music
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/37326
+#EXTINF:-1,24-7| EL CHAVO DEL 8
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/4254
+#EXTINF:-1,24-7The Big Bang Theory
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/25183
+#EXTINF:-1,24-7| LA FAMILIA PELUCHE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/26832
+#EXTINF:-1,24-7DRAGON BALL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/29609
+#EXTINF:-1,24-7LOS SIMPSONS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/29611
+#EXTINF:-1,Solo Stand Up
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/37322
+#EXTINF:-1,Los Magnificos
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42561
+#EXTINF:-1,Jorge el Curioso
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42565
+#EXTINF:-1,He Man
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42566
+#EXTINF:-1,Dragon Ball Super
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42567
+#EXTINF:-1,Pepa Pig
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/42569
+#EXTINF:-1,24-7Los padrinos m\u00e1gicos
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59854
+#EXTINF:-1, la exploradora
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59855
+#EXTINF:-1,24-7El Show de Bugs Bunny
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59856
+#EXTINF:-1,24-7El P\u00e1jaro Loco y sus Amigos
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59859
+#EXTINF:-1,24-7El coche fant\u00e1stico
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59860
+#EXTINF:-1,24-7Las nuevas aventuras de Winnie the Pooh EN
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59861
+#EXTINF:-1,24-7Arma letal EN
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59862
+#EXTINF:-1,24-7\u00bfQui\u00e9n mat\u00f3 a Sara?
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/59867
+#EXTINF:-1,MEA CULPA T1
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62358
+#EXTINF:-1,MEA CULPA T2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62359
+#EXTINF:-1,MEA CULPA T3
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62360
+#EXTINF:-1,MEA CULPA T4
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62361
+#EXTINF:-1,MEA CULPA T5
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62362
+#EXTINF:-1,MEA CULPA T6
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62363
+#EXTINF:-1,MEA CULPA T7
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62364
+#EXTINF:-1,MEA CULPA T8
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62365
+#EXTINF:-1,MEA CULPA T9
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62366
+#EXTINF:-1,MEA CULPA T10
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62367
+#EXTINF:-1,MEA CULPA T11
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62368
+#EXTINF:-1,MEA CULPA T12
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62369
+#EXTINF:-1,MALCOLM 1
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62370
+#EXTINF:-1,MALCOLM 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62371
+#EXTINF:-1,MALCOLM 3
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62372
+#EXTINF:-1,MALCOLM 4
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62373
+#EXTINF:-1,PAW PATROL
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62374
+#EXTINF:-1,LOONEY TUNES
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/62399
+#EXTINF:-1,AZ Cinema *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1210
+#EXTINF:-1,AZ Click(L)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1211
+#EXTINF:-1,AZ Corazon
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1212
+#EXTINF:-1,AZ Mundo
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1213
+#EXTINF:-1,Azteca 7
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1215
+#EXTINF:-1,Bandamax
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1216
+#EXTINF:-1,UNICABLE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1217
+#EXTINF:-1,TELERITMO
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1218
+#EXTINF:-1,TELEHIT
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1219
+#EXTINF:-1,NTN24
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1220
+#EXTINF:-1,MULTIMEDIOS *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1223
+#EXTINF:-1,MEXIQUENSE
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1224
+#EXTINF:-1,LAS ESTRELLAS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1225
+#EXTINF:-1,LAS ESTRELLAS
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1226
+#EXTINF:-1,TELEFORMULA TV *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1227
+#EXTINF:-1,CANAL 5
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1229
+#EXTINF:-1,DISTRITO COMEDIA *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/1230
+#EXTINF:-1,TLNovelas (ST)
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/3398
+#EXTINF:-1,AZTECA UNO *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/10102
+#EXTINF:-1,HOLA TV *
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/11229
+#EXTINF:-1,EL GOURMET
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/11231
+#EXTINF:-1,CANAL 5 op 2
+http://23.237.22.47:25461/Monicajdjfjfkfidk/Monicajdksjdheiwkej/24587
