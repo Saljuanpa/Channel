@@ -1,69 +1,86 @@
-#EXTM3U#EXTINF:-1,Directv Sports
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/382.m3u8
-#EXTINF:-1,Directv Sports 2
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/383.m3u8
-#EXTINF:-1,Win sports
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/384.m3u8
-#EXTINF:-1,Fox Sports Premium
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/385.m3u8
-#EXTINF:-1,Fox Soccer plus
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/386.m3u8
-#EXTINF:-1,La Liga
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/387.m3u8
-#EXTINF:-1,Toros
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/388.m3u8
-#EXTINF:-1,Tyc Sports
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/389.m3u8
-#EXTINF:-1,AYM Sports
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/390.m3u8
-#EXTINF:-1,DePelicula Plus
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/392.m3u8
-#EXTINF:-1,TLNovelas
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/393.m3u8
-#EXTINF:-1,AzClic
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/394.m3u8
-#EXTINF:-1,AzMundo
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/395.m3u8
+#EXTM3U
+
+
+
+*****  COCINA  ****
+
+
+#EXTINF:-1,El Gourmet
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/398.m3u8
+
+***** ARTE Y CULTURA ****
+
+#EXTINF:-1,Discovery Channel
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/368.m3u8
+
+
+
+
+
+#EXTINF:-1,Discovery Sciense
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/421.m3u8
+#EXTINF:-1,Discovery Science
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/422.m3u8
+
+
+
+
+#EXTINF:-1,Travel Channel
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/331.m3u8
+
+#EXTINF:-1,Lifetime
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/374.m3u8
+
+*****  ENTRETENIMIENTO   ****
+
+#EXTINF:-1,FX
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/334.m3u8
+
+
+
 #EXTINF:-1,TruTV
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/396.m3u8
 #EXTINF:-1,Distrito Comedia
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/397.m3u8
-#EXTINF:-1,El Gourmet
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/398.m3u8
-#EXTINF:-1,Power Rangers Space 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/400.m3u8
-#EXTINF:-1,Thundercats 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/401.m3u8
-#EXTINF:-1,Le Temes a La Oscuridad 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/402.m3u8
-#EXTINF:-1,La Familia Peluche 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/405.m3u8
-#EXTINF:-1,Extranormal 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/406.m3u8
-#EXTINF:-1,Hey Arnold ! 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/407.m3u8
-#EXTINF:-1,Dr House 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/408.m3u8
-#EXTINF:-1,Pokemon 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/410.m3u8
-#EXTINF:-1,Dragon Ball Super 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/413.m3u8
-#EXTINF:-1,Los Simpsons 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/414.m3u8
-#EXTINF:-1,Chespirito 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/415.m3u8
-#EXTINF:-1,Malcom 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/417.m3u8
-#EXTINF:-1,Chavo Animado 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/418.m3u8
-#EXTINF:-1,SuperCampeones 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/419.m3u8
-#EXTINF:-1,Caballeros Del Zodiaco 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/420.m3u8
-#EXTINF:-1,Acapulco Shore 24/7
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/399.m3u8
-#EXTINF:-1,Discovery Sciense
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/421.m3u8
+
+
+
+#EXTINF:-1,American Heroes
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/325.m3u8
+#EXTINF:-1,Destination America
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/329.m3u8
+#EXTINF:-1,Fuse
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/333.m3u8
+
+#EXTINF:-1,FS2
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/362.m3u8
+#EXTINF:-1,MSG
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/363.m3u8
+#EXTINF:-1,Yes Network
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/364.m3u8
+
+#EXTINF:-1,CMT
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/369.m3u8
+#EXTINF:-1,TBS
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/373.m3u8
+#EXTINF:-1,LongHorn Network
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/376.m3u8
+#EXTINF:-1,Dog TV
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/377.m3u8
+#EXTINF:-1,UFC Fight Pass
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/378.m3u8
+#EXTINF:-1,NESN Main Plus
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/380.m3u8
+#EXTINF:-1,TVG
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/381.m3u8
+
+*****  PELICULAS Y SERIES  ****
+
+
+
+#EXTINF:-1,Sony Movie Channel
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/324.m3u8
+
 #EXTINF:-1,Cinemax East
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/301.m3u8
 #EXTINF:-1,Cinemax Moremax
@@ -110,28 +127,54 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/321.m3u8
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/322.m3u8
 #EXTINF:-1,Starz in Black
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/323.m3u8
-#EXTINF:-1,Sony Movie Channel
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/324.m3u8
-#EXTINF:-1,American Heroes
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/325.m3u8
+
+#EXTINF:-1,DePelicula Plus
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/392.m3u8
+
+
 #EXTINF:-1,Paramount Network
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/326.m3u8
-#EXTINF:-1,The Weather Nation
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/327.m3u8
-#EXTINF:-1,Destination America
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/329.m3u8
-#EXTINF:-1,Pop Channel
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/330.m3u8
-#EXTINF:-1,Travel Channel
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/331.m3u8
-#EXTINF:-1,TruTv
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/332.m3u8
-#EXTINF:-1,Fuse
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/333.m3u8
-#EXTINF:-1,FX
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/334.m3u8
+
+
 #EXTINF:-1,Cinemax
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/335.m3u8
+
+
+
+#EXTINF:-1,AMC
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/370.m3u8
+#EXTINF:-1,SyFy
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/372.m3u8
+
+#EXTINF:-1,Sundance
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/371.m3u8
+
+*****  MUSICA  ****
+
+
+#EXTINF:-1,Pop Channel
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/330.m3u8
+
+*****  NACIONALES   ****
+
+#EXTINF:-1,Estrella Tv
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/375.m3u8
+#EXTINF:-1,AzClic
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/394.m3u8
+#EXTINF:-1,AzMundo
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/395.m3u8
+
+
+#EXTINF:-1,TLNovelas
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/393.m3u8
+
+*****  NOTICIAS ****
+
+#EXTINF:-1,The Weather Nation
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/327.m3u8
+
+*****  INTERNACIONALES ****
+
 #EXTINF:-1,Telemundo New York
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/336.m3u8
 #EXTINF:-1,Telemundo Los Angeles
@@ -150,6 +193,7 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/343.m3u8
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/344.m3u8
 #EXTINF:-1,Univision Miami
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/345.m3u8
+
 #EXTINF:-1,NBC SN Washington
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/346.m3u8
 #EXTINF:-1,NBC SN Philadelphia
@@ -160,8 +204,6 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/348.m3u8
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/349.m3u8
 #EXTINF:-1,NBC SN California
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/350.m3u8
-#EXTINF:-1,NBC Sports By Area
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/351.m3u8
 #EXTINF:-1,PAC 12 Washington
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/352.m3u8
 #EXTINF:-1,PAC 12 Mountain
@@ -172,6 +214,20 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/354.m3u8
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/355.m3u8
 #EXTINF:-1,PAC 12 ARIZONA
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/356.m3u8
+
+*****  DEPORTES ****
+
+#EXTINF:-1,Eleven Sports
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/365.m3u8
+#EXTINF:-1,ESPN News
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/366.m3u8
+
+#EXTINF:-1,Sportsnet Pittsburgh
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/423.m3u8
+
+#EXTINF:-1,NBC Sports By Area
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/351.m3u8
+
 #EXTINF:-1,Stadium
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/358.m3u8
 #EXTINF:-1,Sportsnet West
@@ -180,47 +236,70 @@ http://alv.encohd.co:39591/live/j0roNAC/n3XT33/359.m3u8
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/360.m3u8
 #EXTINF:-1,ESPN U
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/361.m3u8
-#EXTINF:-1,FS2
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/362.m3u8
-#EXTINF:-1,MSG
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/363.m3u8
-#EXTINF:-1,Yes Network
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/364.m3u8
-#EXTINF:-1,Eleven Sports
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/365.m3u8
-#EXTINF:-1,ESPN News
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/366.m3u8
-#EXTINF:-1,Cartoon Network
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/367.m3u8
-#EXTINF:-1,Discovery Channel
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/368.m3u8
-#EXTINF:-1,CMT
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/369.m3u8
-#EXTINF:-1,AMC
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/370.m3u8
-#EXTINF:-1,Sundance
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/371.m3u8
-#EXTINF:-1,SyFy
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/372.m3u8
-#EXTINF:-1,TBS
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/373.m3u8
-#EXTINF:-1,Lifetime
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/374.m3u8
-#EXTINF:-1,Estrella Tv
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/375.m3u8
-#EXTINF:-1,LongHorn Network
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/376.m3u8
-#EXTINF:-1,Dog TV
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/377.m3u8
-#EXTINF:-1,UFC Fight Pass
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/378.m3u8
+
+
 #EXTINF:-1,Sportsman
 http://alv.encohd.co:39591/live/j0roNAC/n3XT33/379.m3u8
-#EXTINF:-1,NESN Main Plus
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/380.m3u8
-#EXTINF:-1,TVG
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/381.m3u8
-#EXTINF:-1,Discovery Science
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/422.m3u8
-#EXTINF:-1,Sportsnet Pittsburgh
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/423.m3u8
+
+#EXTINF:-1,Directv Sports
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/382.m3u8
+#EXTINF:-1,Directv Sports 2
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/383.m3u8
+#EXTINF:-1,Win sports
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/384.m3u8
+#EXTINF:-1,Fox Sports Premium
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/385.m3u8
+#EXTINF:-1,Fox Soccer plus
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/386.m3u8
+#EXTINF:-1,La Liga
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/387.m3u8
+#EXTINF:-1,Toros
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/388.m3u8
+#EXTINF:-1,Tyc Sports
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/389.m3u8
+#EXTINF:-1,AYM Sports
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/390.m3u8
+
+
+
+*****  24/7    ****
+
+
+#EXTINF:-1,Power Rangers Space 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/400.m3u8
+#EXTINF:-1,Thundercats 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/401.m3u8
+#EXTINF:-1,Le Temes a La Oscuridad 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/402.m3u8
+#EXTINF:-1,La Familia Peluche 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/405.m3u8
+#EXTINF:-1,Extranormal 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/406.m3u8
+#EXTINF:-1,Hey Arnold ! 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/407.m3u8
+#EXTINF:-1,Dr House 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/408.m3u8
+#EXTINF:-1,Pokemon 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/410.m3u8
+#EXTINF:-1,Dragon Ball Super 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/413.m3u8
+#EXTINF:-1,Los Simpsons 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/414.m3u8
+#EXTINF:-1,Chespirito 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/415.m3u8
+#EXTINF:-1,Malcom 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/417.m3u8
+#EXTINF:-1,Chavo Animado 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/418.m3u8
+#EXTINF:-1,SuperCampeones 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/419.m3u8
+#EXTINF:-1,Caballeros Del Zodiaco 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/420.m3u8
+#EXTINF:-1,Acapulco Shore 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/399.m3u8
+
+*****  INFANTILES ****
+
+
+#EXTINF:-1,Cartoon Network
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/367.m3u8
