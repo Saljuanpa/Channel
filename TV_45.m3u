@@ -205,8 +205,6 @@ http://45.189.108.58:10000/play/a03b/index.m3u8
 http://45.189.108.58:10000/play/a039/index.m3u8
 #EXTINF:-1,VATICANHD
 http://45.189.108.58:10000/play/a056/index.m3u8
-#EXTINF:-1,Venus
-http://45.189.108.58:10000/play/a00k/index.m3u8
 #EXTINF:-1,ViaX
 http://45.189.108.58:10000/play/a00m/index.m3u8
 #EXTINF:-1,WILLAX
@@ -217,3 +215,6 @@ http://45.189.108.58:10000/play/a005/index.m3u8
 http://45.189.108.58:10000/play/a00b/index.m3u8
 #EXTINF:-1,Zona Latina
 http://45.189.108.58:10000/play/a01e/index.m3u8
+
+#EXTINF:-1,Venus
+http://45.189.108.58:10000/play/a00k/index.m3u8
