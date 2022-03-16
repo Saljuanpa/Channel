@@ -169,6 +169,34 @@ http://190.92.95.37:8000/play/a0gz/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 #EXTINF:-1,Exa TV
 http://190.92.95.37:8000/play/a0iq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
+IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+*****  NACIONALES DE MEXICO  ****
+
+#EXTINF:-1,Canal Estrellas
+http://45.189.117.101:8000/play/a027
+
+#EXTINF:-1, Rádio Capital
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
+#EXTINF:-1,Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1, *Canal 6 Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,Canal 6 CDMX
+http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+
+#EXTINF:-1,Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1,Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+
+#EXTINF:-1,TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1,Mexiquense Televisión
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1, FORO TV
+https://channel-forotv-cdn.blim.com/manifest.mpd
+
 
 
 ***** ARTE Y CULTURA ****
@@ -259,35 +287,7 @@ http://190.92.95.37:8000/play/a0f8/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 #EXTINF:-1,Canal Claro HD
 http://190.92.95.37:8000/play/a0ey/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,Claro Cinema
-http://190.92.95.37:8000/play/a0ir/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-
-*****  NACIONALES DE MEXICO  ****
-
-#EXTINF:-1,Canal Estrellas
-http://45.189.117.101:8000/play/a027
-
-#EXTINF:-1, Rádio Capital
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
-#EXTINF:-1,Canal Catorce
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1, *Canal 6 Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,Canal 6 CDMX
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
-
-#EXTINF:-1,Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:-1,Canal 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-
-#EXTINF:-1,TV UNAM
-https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
-#EXTINF:-1,Mexiquense Televisión
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1, FORO TV
-https://channel-forotv-cdn.blim.com/manifest.mpd
-
-
+http://190.92.95.37:8000/play/a0ir/index.m3u8?fbclid=
 *****  INFANTILES ****
 #EXTINF:-1,Nat Geo Kids
 http://190.92.95.37:8000/play/a0hf/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
