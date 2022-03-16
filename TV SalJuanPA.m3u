@@ -1,8 +1,6 @@
 #EXTM3U
 *****  FAVORITOS  ****
 
-
-
 #EXTINF:-1, *Gourmet op2
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
@@ -173,9 +171,6 @@ http://190.92.95.37:8000/play/a0iq/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 
 
 
-
-
-
 ***** ARTE Y CULTURA ****
 
 #EXTINF:-1,EURO Channel
@@ -211,8 +206,6 @@ http://190.92.95.37:8000/play/a0jr/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 
 
 *****  ENTRETENIMIENTO   ****
-
-
 
 #EXTINF:-1,AMC HD
 http://190.92.95.37:8000/play/a0gi/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
@@ -268,15 +261,70 @@ http://190.92.95.37:8000/play/a0ey/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 #EXTINF:-1,Claro Cinema
 http://190.92.95.37:8000/play/a0ir/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
+*****  NACIONALES DE MEXICO  ****
+
+#EXTINF:-1,Canal Estrellas
+http://45.189.117.101:8000/play/a027
+
+#EXTINF:-1, Rádio Capital
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
+#EXTINF:-1, *Canal 6 Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1,Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+
+#EXTINF:-1,TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+
+
+*****  NACIONALES   ****
+#EXTINF:-1, *Canal 6 Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
+#EXTINF:-1,Canal 22.2
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1,TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+*****  INFANTILES ****
+#EXTINF:-1,Nat Geo Kids
+http://190.92.95.37:8000/play/a0hf/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1,Nickelodeon
+http://190.92.95.37:8000/play/a0jm/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+#EXTINF:-1,Nickelodeon Classic
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+
+#EXTINF:-1,CARTOON NT HD
+http://190.92.95.37:8000/play/a0ez/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+#EXTINF:-1, *Babyfirst | HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1,Baby TV
+http://190.92.95.37:8000/play/a0e4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1,Disney
+http://190.92.95.37:8000/play/a0jn/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1,Disney XD
+http://190.92.95.37:8000/play/a0id/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1,Discovery Kids
+http://190.92.95.37:8000/play/a0jl/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+#EXTINF:-1,ZooMoo
+http://190.92.95.37:8000/play/a0e5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+
 
 *****  NOTICIAS ****
 http://190.92.95.37:8000/play/a0g3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,CNN Internacional
 http://190.92.95.37:8000/play/a0ei/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Canal del Congreso
-http://190.92.95.37:8000/play/a0e1/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
-*****  NACIONALES   ****
+*****  NACIONALES DE LATINOAMERICA  ****
 #EXTINF:-1,AZ click HD
 http://190.92.95.37:8000/play/a0go/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,11 - Repretel
@@ -388,24 +436,6 @@ http://190.92.95.37:8000/play/a0js/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 #EXTINF:-1,VTV Canal 35 ESA
 http://190.92.95.37:8000/play/a0hd/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
-*****  INFANTILES ****
-#EXTINF:-1,CARTOON NT HD
-http://190.92.95.37:8000/play/a0ez/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Nat Geo Kids
-http://190.92.95.37:8000/play/a0hf/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Nickelodeon
-http://190.92.95.37:8000/play/a0jm/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Baby TV
-http://190.92.95.37:8000/play/a0e4/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Disney
-http://190.92.95.37:8000/play/a0jn/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Disney XD
-http://190.92.95.37:8000/play/a0id/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Discovery Kids
-http://190.92.95.37:8000/play/a0jl/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-
-#EXTINF:-1,ZooMoo
-http://190.92.95.37:8000/play/a0e5/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
 
 
