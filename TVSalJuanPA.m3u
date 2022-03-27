@@ -1,7 +1,8 @@
 #EXTM3U
 *****  FAVORITOS  ****
 
-
+#EXTINF:-1,TNT
+http://79.143.20.110:8000/play/a00e
 
 #EXTINF:-1,TNT
 http://201.108.240.110:8000/play/a02n/index.m3u8
