@@ -1,13 +1,7 @@
 #EXTM3U
 *****  FAVORITOS  ****
 
-#EXTINF:-1,TNT
-http://79.143.20.110:8000/play/a00e
 
-#EXTINF:-1,TNT
-http://201.108.240.110:8000/play/a02n/index.m3u8
-#EXTINF:-1,TNT HD
-http://201.108.240.110:8000/play/a051/index.m3u8
 
 #EXTINF:-1, *Gourmet op2
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
@@ -36,9 +30,7 @@ http://190.92.95.37:8000/play/a0gl/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 
 #EXTINF:-1,History Channel 1
 http://190.92.95.37:8000/play/a0im/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,The History Channel HD 2
-http://181.191.141.4:9981/stream/channelid/1075086592?profile=pass
-p
+
 #EXTINF:-1,History Channel
 http://181.78.22.214:8000/play/a004
 #EXTINF:-1,H2
@@ -46,14 +38,11 @@ http://190.92.95.37:8000/play/a0hk/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 
 #EXTINF:-1,Discovery Channel 1
 http://190.92.95.37:8000/play/a0ik/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Discovery Channel HD 2
-http://181.191.141.4:9981/stream/channelid/1841823551?profile=pass
-#EXTINF:-1,Discovery Channel 3
-http://45.236.175.117:9600/play/a00r
+#EXTINF:-1, Discovery Channel 2
+http://38.123.205.70:8000/play/a0ep/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL 3
+http://181.176.148.142:8000/play/a013
 
-
-#EXTINF:-1,Discovery Theater HD 1
-http://181.191.141.4:9981/stream/channelid/811740311?profile=pass
 #EXTINF:-1,Discovery Theater HD 2
 http://jessicatv.site:8080/FM10020/4d136785/9151
 
@@ -62,8 +51,10 @@ http://jessicatv.site:8080/FM10020/4d136785/9151
 http://190.92.95.37:8000/play/a0iu/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,Warner
 http://190.92.95.37:8000/play/a0ig/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Warner 2
-http://45.236.175.117:9600/play/a00t
+
+
+
+
 #EXTINF:-1,SONY
 http://190.92.95.37:8000/play/a0if/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,SONY HD
@@ -89,6 +80,17 @@ http://190.92.95.37:8000/play/a0gk/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 http://190.92.95.37:8000/play/a0jx/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,FX Movies HD
 http://190.92.95.37:8000/play/a0gm/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+
+#EXTINF:-1,TNT
+http://201.108.240.110:8000/play/a02n/index.m3u8
+#EXTINF:-1,TNT HD
+http://201.108.240.110:8000/play/a051/index.m3u8
+
+
+
+
+
 #EXTINF:-1,HBO
 http://190.92.95.37:8000/play/a0k3/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,HBO2
@@ -131,6 +133,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f
 http://190.92.95.37:8000/play/a0ju/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,MTV 00s
 http://190.92.95.37:8000/play/a0hp/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+#EXTINF:-1,MTV ROCK
+http://95.169.214.110:8000/play/a00a0fsd4rfe423423456465d3897489329djsaIODJSF89u9jcf)FDF(DJF()SDF7657567@@@()SD10h
 
 #EXTINF:-1, *MTV Classic| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
@@ -184,14 +188,33 @@ IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,Canal Estrellas
 http://45.189.117.101:8000/play/a027
 
-#EXTINF:-1, Rádio Capital
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
+#EXTINF:-1, Azteca Uno
+http://38.123.205.70:8000/play/a0cc/index.m3u8
+#EXTINF:-1, IMAGEN
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+#EXTINF:-1,1 canal 5
+http://38.123.205.70:8000/play/a0fl/index.m3u8
+
+#EXTINF:-1, AZTECA 7
+http://38.123.205.70:8000/play/a0fm/index.m3u8
+#EXTINF:-1, Canal Once
+http://38.123.205.70:8000/play/a0bq/index.m3u8
+
+#EXTINF:-1, TV UNAM
+http://38.123.205.70:8000/play/a0ay/index.m3u8
+#EXTINF:-1, CANAL 22 MX
+http://38.123.205.70:8000/play/a0d7/index.m3u8
+#EXTINF:-1, Canal 14 CDMX
+http://38.123.205.70:8000/play/a0ax/index.m3u8
 #EXTINF:-1,Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 #EXTINF:-1, *Canal 6 Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1,Canal 6 CDMX
 http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+#EXTINF:-1, Canal 6 CDMX
+http://38.123.205.70:8000/play/a0bp/index.m3u8
+
 
 #EXTINF:-1,Canal 22
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
