@@ -1,8 +1,9 @@
 #EXTM3U
 *****  FAVORITOS  ****
-
-#EXTINF:-1,US: CBS NY
-http://stariptv.org:8080/wael2021/123456/148460
+#EXTINF:-1,US: FOX NY
+http://stariptv.org:8080/wael2021/123456/148461
+#EXTINF:-1,US: NBC NY
+http://stariptv.org:8080/wael2021/123456/148462
 
 #EXTINF:-1,TNT
 http://45.71.185.142:8500/play/a00g
