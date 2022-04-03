@@ -4,6 +4,8 @@
 http://stariptv.org:8080/wael2021/123456/148461
 #EXTINF:-1,US: NBC NY
 http://stariptv.org:8080/wael2021/123456/148462
+#EXTINF:-1,US: TNT
+http://stariptv.org:8080/wael2021/123456/148474
 
 #EXTINF:-1,TNT
 http://45.71.185.142:8500/play/a00g
