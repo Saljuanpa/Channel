@@ -2,9 +2,6 @@
 *****  FAVORITOS  ****
 
 
-#EXTINF:-1,TNT
-http://45.71.185.142:8500/play/a00g
-
 #EXTINF:-1, *Gourmet op2
 https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist.m3u8
 
@@ -74,8 +71,6 @@ http://190.92.95.37:8000/play/a0if/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 http://190.92.95.37:8000/play/a0iv/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
 
-#EXTINF:-1,Sony Movie Channel
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/324.m3u8
 
 #EXTINF:-1,A&E
 http://190.92.95.37:8000/play/a0ii/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
@@ -96,9 +91,7 @@ http://190.92.95.37:8000/play/a0gm/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 
 
 #EXTINF:-1,TNT
-http://201.108.240.110:8000/play/a02n/index.m3u8
-#EXTINF:-1,TNT HD
-http://201.108.240.110:8000/play/a051/index.m3u8
+http://45.71.185.142:8500/play/a00g
 
 
 
