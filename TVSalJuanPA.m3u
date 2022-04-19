@@ -37,10 +37,7 @@ http://190.92.95.37:8000/play/a0hk/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbi
 
 #EXTINF:-1,Discovery Channel 1
 http://190.92.95.37:8000/play/a0ik/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,Discovery Channel 1.1
-http://201.108.240.110:8001/play/a04m/index.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://201.108.240.110:8001/play/a06k/index.m3u8
+
 
 
 
@@ -51,9 +48,7 @@ http://181.176.148.142:8000/play/a013
 
 
 
-#EXTINF:-1,DISC THEATHER HD 1
-http://201.108.240.110:8001/play/a052/index.m3u8
-#EXTINF:-1,Discovery Theater HD 2
+#EXTINF:-1,Discovery Theater HD 
 http://jessicatv.site:8080/FM10020/4d136785/9151
 
 
@@ -139,8 +134,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f
 http://190.92.95.37:8000/play/a0ju/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 #EXTINF:-1,MTV 00s
 http://190.92.95.37:8000/play/a0hp/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
-#EXTINF:-1,MTV ROCK
-http://95.169.214.110:8000/play/a00a0fsd4rfe423423456465d3897489329djsaIODJSF89u9jcf)FDF(DJF()SDF7657567@@@()SD10h
 
 #EXTINF:-1, *MTV Classic| HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
@@ -191,8 +184,6 @@ IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
 *****  NACIONALES DE MEXICO  ****
 
-#EXTINF:-1,Canal Estrellas
-http://45.189.117.101:8000/play/a027
 
 #EXTINF:-1, Azteca Uno
 http://38.123.205.70:8000/play/a0cc/index.m3u8
@@ -214,25 +205,16 @@ http://38.123.205.70:8000/play/a0d7/index.m3u8
 http://38.123.205.70:8000/play/a0ax/index.m3u8
 #EXTINF:-1,Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1, *Canal 6 Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1,Canal 6 CDMX
-http://mdstrm.com/live-stream-playlist_2500/5f2d9d6ff17144074bd8a284.m3u8?
+
 #EXTINF:-1, Canal 6 CDMX
 http://38.123.205.70:8000/play/a0bp/index.m3u8
 
 
-#EXTINF:-1,Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
-#EXTINF:-1,Canal 22.2
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
 
 #EXTINF:-1,TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:-1,Mexiquense Televisión
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1, FORO TV
-https://channel-forotv-cdn.blim.com/manifest.mpd
 
 
 
