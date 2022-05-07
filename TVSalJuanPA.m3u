@@ -221,9 +221,6 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 #EXTINF:-1, Canal 6 CDMX
 http://38.123.205.70:8000/play/a0bp/index.m3u8
 
-#EXTINF:-1,Multimedios
-http://201.111.180.253:8000/play/a01g/index.m3u8
-
 
 #EXTINF:-1,TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
