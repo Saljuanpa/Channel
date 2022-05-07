@@ -257,53 +257,14 @@ http://170.83.242.14:5150/play/a0a0
 
 *****  ENTRETENIMIENTO   ****
 
-#EXTINF:-1,Comedy Central HD
-http://201.111.180.253:8000/play/a055/index.m3u8
-#EXTINF:-1,E! Entertairment HD
-http://201.111.180.253:8000/play/a00e/index.m3u8
-#EXTINF:-1,LIFE TIME
-http://201.111.180.253:8000/play/a02i/index.m3u8
-
-#EXTINF:-1,Mas Chic
-http://201.111.180.253:8000/play/a00x/index.m3u8
-
-#EXTINF:-1,HOLA! TV HD
-http://201.111.180.253:8000/play/a054/index.m3u8
 
 
-#EXTINF:-1,Hola!TV
-http://201.111.180.253:8000/play/a012/index.m3u8
+
 *****  PELICULAS Y SERIES  ****
 
 
 *****  INFANTILES ****
-#EXTINF:-1,Nick 2 HD
-http://201.111.180.253:8000/play/a00a/index.m3u8
-#EXTINF:-1,Nick Jr
-http://201.111.180.253:8000/play/a026/index.m3u8
-#EXTINF:-1,Nick
-http://201.111.180.253:8000/play/a04z/index.m3u8
 
-#EXTINF:-1,Baby Firts
-http://201.111.180.253:8000/play/a03i/index.m3u8
-
-#EXTINF:-1,Baby TV
-http://201.111.180.253:8000/play/a00v/index.m3u8
-#EXTINF:-1,Cartoonito
-http://201.111.180.253:8000/play/a027/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://201.111.180.253:8000/play/a01p/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://201.111.180.253:8000/play/a025/index.m3u8
-#EXTINF:-1,Disney
-http://201.111.180.253:8000/play/a05l/index.m3u8
-#EXTINF:-1,Disney JR
-http://201.111.180.253:8000/play/a028/index.m3u8
-#EXTINF:-1,Tooncast
-http://201.111.180.253:8000/play/a04f/index.m3u8
-
-#EXTINF:-1,ZooMoo
-http://201.111.180.253:8000/play/a00w/index.m3u8
 
 #EXTINF:-1,Nickelodeon Classic
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -315,37 +276,13 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b0007
 
 *****  NOTICIAS ****
 
-#EXTINF:-1,BBC World
-http://201.111.180.253:8000/play/a02q/index.m3u8
-
-#EXTINF:-1,CNN Internacional
-http://201.111.180.253:8000/play/a01a/index.m3u8
-#EXTINF:-1,CNNE
-http://201.111.180.253:8000/play/a02p/index.m3u8
 
 
-#EXTINF:-1,France24
-http://201.111.180.253:8000/play/a02r/index.m3u8
 
 *****  NACIONALES DE LATINOAMERICA  ****
 
-#EXTINF:-1,TVE
-http://201.111.180.253:8000/play/a019/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://201.111.180.253:8000/play/a00i/index.m3u8
 
-#EXTINF:-1,Univision HD
-http://201.111.180.253:8000/play/a06n/index.m3u8
-#EXTINF:-1,Antena 3
-http://201.111.180.253:8000/play/a00y/index.m3u8
-#EXTINF:-1,Atres Series
-http://201.111.180.253:8000/play/a014/index.m3u8
-#EXTINF:-1,Az Corazon
-http://201.111.180.253:8000/play/a02d/index.m3u8
-#EXTINF:-1,Az Mundo
-http://201.111.180.253:8000/play/a04g/index.m3u8
-#EXTINF:-1,Az Clic
-http://201.111.180.253:8000/play/a00n/index.m3u8
+
 
 
 *****  DEPORTES ****
