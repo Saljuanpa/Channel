@@ -16,6 +16,42 @@ http://45.71.185.142:8500/play/a017
 #EXTINF:-1,DISNEY
 http://181.176.148.142:8000/play/a01d
 
+#EXTINF:-1,Nickelodeon
+http://45.225.95.170:8000/play/a0ln/index.m3u8
+#EXTINF:-1, Nickelodeon
+http://38.123.205.70:8000/play/a0am/index.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://38.123.205.70:8000/play/a0c0/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://45.71.185.142:8500/play/a00f
+#EXTINF:-1, NICK JR
+http://38.123.205.70:8000/play/a0ck/index.m3u8
+#EXTINF:-1, Discovery Kids
+http://38.123.205.70:8000/play/a0an/index.m3u8
+#EXTINF:-1, Once Niños y Niñas
+http://38.123.205.70:8000/play/a0jq/index.m3u8
+
+#EXTINF:-1, NATGEO LA
+http://38.123.205.70:8000/play/a0cl/index.m3u8
+
+#EXTINF:-1, ANIMAL PLANET
+http://38.123.205.70:8000/play/a0ao/index.m3u8
+#EXTINF:-1,Animal Planet
+http://45.225.95.170:8000/play/a0n5/index.m3u8
+
+#EXTINF:-1, SYFY
+http://38.123.205.70:8000/play/a0b1/index.m3u8
+#EXTINF:-1, ISAT
+http://38.123.205.70:8000/play/a0b2/index.m3u8
+
+#EXTINF:-1, MULTIPREMIER
+http://38.123.205.70:8000/play/a0cp/index.m3u8
+#EXTINF:-1,Cinecanal
+http://45.71.185.142:8500/play/a005
+#EXTINF:-1,Cinemax
+http://45.71.185.142:8500/play/a02w
+
+
 
 #EXTINF:-1, *DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
