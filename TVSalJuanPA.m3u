@@ -2,54 +2,11 @@
 *****  FAVORITOS  ****
 
 
-
 #EXTINF:-1, El Gourmet
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1035
 
 #EXTINF:-1,FOOD NETWORK HD
 http://170.83.242.14:5150/play/a04m
-
-#EXTINF:-1, DISNEY CHANNEL
-http://38.123.205.70:8000/play/a0al/index.m3u8
-#EXTINF:-1,Disney Channel
-http://45.71.185.142:8500/play/a017
-#EXTINF:-1,DISNEY
-http://181.176.148.142:8000/play/a01d
-
-#EXTINF:-1,Nickelodeon
-http://45.225.95.170:8000/play/a0ln/index.m3u8
-#EXTINF:-1, Nickelodeon
-http://38.123.205.70:8000/play/a0am/index.m3u8
-#EXTINF:-1, CARTOON NETWORK
-http://38.123.205.70:8000/play/a0c0/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://45.71.185.142:8500/play/a00f
-#EXTINF:-1, NICK JR
-http://38.123.205.70:8000/play/a0ck/index.m3u8
-#EXTINF:-1, Discovery Kids
-http://38.123.205.70:8000/play/a0an/index.m3u8
-#EXTINF:-1, Once Niños y Niñas
-http://38.123.205.70:8000/play/a0jq/index.m3u8
-
-#EXTINF:-1, NATGEO LA
-http://38.123.205.70:8000/play/a0cl/index.m3u8
-
-#EXTINF:-1, ANIMAL PLANET
-http://38.123.205.70:8000/play/a0ao/index.m3u8
-#EXTINF:-1,Animal Planet
-http://45.225.95.170:8000/play/a0n5/index.m3u8
-
-#EXTINF:-1, SYFY
-http://38.123.205.70:8000/play/a0b1/index.m3u8
-#EXTINF:-1, ISAT
-http://38.123.205.70:8000/play/a0b2/index.m3u8
-
-#EXTINF:-1, MULTIPREMIER
-http://38.123.205.70:8000/play/a0cp/index.m3u8
-#EXTINF:-1,Cinecanal
-http://45.71.185.142:8500/play/a005
-#EXTINF:-1,Cinemax
-http://45.71.185.142:8500/play/a02w
 
 
 
@@ -92,6 +49,8 @@ http://181.176.148.142:8000/play/a013
 http://170.83.242.14:5150/play/a038
 #EXTINF:-1,Discovery Theater HD 
 http://jessicatv.site:8080/FM10020/4d136785/9151
+
+***** SERIES  Y PELICULAS   ****
 
 
 #EXTINF:-1,WARNER HD
@@ -160,6 +119,16 @@ http://170.83.242.14:5150/play/a09z
 
 #EXTINF:-1,SYFY HD
 http://170.83.242.14:5150/play/a04r
+#EXTINF:-1, SYFY
+http://38.123.205.70:8000/play/a0b1/index.m3u8
+
+
+
+#EXTINF:-1, ISAT
+http://38.123.205.70:8000/play/a0b2/index.m3u8
+
+
+
 
 
 #EXTINF:-1,AMC HD
@@ -176,7 +145,12 @@ http://201.111.180.253:8000/play/a06i/index.m3u8
 #EXTINF:-1, ES:TCM HD
 http://latinosiptv.online:8090/notocar/xmauc84bx1/1212
 
-
+#EXTINF:-1, MULTIPREMIER
+http://38.123.205.70:8000/play/a0cp/index.m3u8
+#EXTINF:-1,Cinecanal
+http://45.71.185.142:8500/play/a005
+#EXTINF:-1,Cinemax
+http://45.71.185.142:8500/play/a02w
 
 
 
@@ -242,16 +216,29 @@ IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
 
 *****  NACIONALES DE MEXICO  ****
 
+#EXTINF:-1, Las Estrellas
+http://38.123.205.70:8000/play/a0d4/index.m3u8
 
-#EXTINF:-1, Azteca Uno
-http://38.123.205.70:8000/play/a0cc/index.m3u8
-#EXTINF:-1, IMAGEN
-http://38.123.205.70:8000/play/a0d5/index.m3u8
 #EXTINF:-1,1 canal 5
 http://38.123.205.70:8000/play/a0fl/index.m3u8
+#EXTINF:-1, canal 5
+http://38.123.205.70:8000/play/a0fl/index.m3u8
+#EXTINF:-1, Azteca Uno
+http://38.123.205.70:8000/play/a0cc/index.m3u8
+#EXTINF:-1, Azteca Uno
+http://38.123.205.70:8000/play/a0cc/index.m3u8
 
+#EXTINF:-1, Imagen
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+#EXTINF:-1, IMAGEN
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+
+#EXTINF:-1, Azteca 7
+http://38.123.205.70:8000/play/a0fm/index.m3u8
 #EXTINF:-1, AZTECA 7
 http://38.123.205.70:8000/play/a0fm/index.m3u8
+#EXTINF:-1, Canal Once
+http://38.123.205.70:8000/play/a0bq/index.m3u8
 #EXTINF:-1, Canal Once
 http://38.123.205.70:8000/play/a0bq/index.m3u8
 
@@ -259,8 +246,13 @@ http://38.123.205.70:8000/play/a0bq/index.m3u8
 http://38.123.205.70:8000/play/a0ay/index.m3u8
 #EXTINF:-1, CANAL 22 MX
 http://38.123.205.70:8000/play/a0d7/index.m3u8
+#EXTINF:-1, Canal 22
+http://38.123.205.70:8000/play/a0d7/index.m3u8
 #EXTINF:-1, Canal 14 CDMX
 http://38.123.205.70:8000/play/a0ax/index.m3u8
+#EXTINF:-1, Canal 14 CDMX
+http://38.123.205.70:8000/play/a0ax/index.m3u8
+
 #EXTINF:-1,Canal Catorce
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
 
@@ -268,10 +260,16 @@ https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/in
 http://38.123.205.70:8000/play/a0bp/index.m3u8
 
 
+#EXTINF:-1, TV UNAM
+http://38.123.205.70:8000/play/a0ay/index.m3u8
 #EXTINF:-1,TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:-1,Mexiquense Televisión
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-1, MVS TV
+http://38.123.205.70:8000/play/a0jp/index.m3u8
+
 
 
 
@@ -301,13 +299,41 @@ http://170.83.242.14:5150/play/a0a0
 *****  ENTRETENIMIENTO   ****
 
 
+#EXTINF:-1, ANIMAL PLANET
+http://38.123.205.70:8000/play/a0ao/index.m3u8
+#EXTINF:-1,Animal Planet
+http://45.225.95.170:8000/play/a0n5/index.m3u8
 
 
-*****  PELICULAS Y SERIES  ****
+
 
 
 *****  INFANTILES ****
 
+#EXTINF:-1, DISNEY CHANNEL
+http://38.123.205.70:8000/play/a0al/index.m3u8
+#EXTINF:-1,Disney Channel
+http://45.71.185.142:8500/play/a017
+#EXTINF:-1,DISNEY
+http://181.176.148.142:8000/play/a01d
+
+#EXTINF:-1,Nickelodeon
+http://45.225.95.170:8000/play/a0ln/index.m3u8
+#EXTINF:-1, Nickelodeon
+http://38.123.205.70:8000/play/a0am/index.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://38.123.205.70:8000/play/a0c0/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://45.71.185.142:8500/play/a00f
+#EXTINF:-1, NICK JR
+http://38.123.205.70:8000/play/a0ck/index.m3u8
+#EXTINF:-1, Discovery Kids
+http://38.123.205.70:8000/play/a0an/index.m3u8
+#EXTINF:-1, Once Niños y Niñas
+http://38.123.205.70:8000/play/a0jq/index.m3u8
+
+#EXTINF:-1, NATGEO LA
+http://38.123.205.70:8000/play/a0cl/index.m3u8
 
 #EXTINF:-1,Nickelodeon Classic
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
