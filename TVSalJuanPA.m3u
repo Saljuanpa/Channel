@@ -8,8 +8,6 @@ http:?
 
 
 
-#EXTINF:-1, El Gourmet
-http://latinosiptv.online:8090/notocar/xmauc84bx1/1035
 
 #EXTINF:-1,FOOD NETWORK HD
 http://170.83.242.14:5150/play/a04m
@@ -70,23 +68,32 @@ http://38.123.205.70:8000/play/a0aj/index.m3u8
 
 #EXTINF:-1,A&E HD
 http://170.83.242.14:5150/play/a03w
+#EXTINF:-1,AE Mundo
+http://45.71.185.142:8500/play/a01i
 
 #EXTINF:-1,AXN HD
 http://170.83.242.14:5150/play/a03y
+
 #EXTINF:-1,FX HD
 http://170.83.242.14:5150/play/a04k
+#EXTINF:-1,FX Movies
+http://45.236.175.12:9600/play/a00b
 
 #EXTINF:-1,TNT
 http://45.71.185.142:8500/play/a00g
 #EXTINF:-1,TNT HD
 http://170.83.242.14:5150/play/a09y
 
-#EXTINF:-1,TNT SERIES HD
-http://170.83.242.14:5150/play/a04j
+#EXTINF:-1, TNT SERIES
+http://38.123.205.70:8000/play/a0da/index.m3u8
 
 
 *****  PELICULAS  ****
 
+#EXTINF:-1, Star Channel
+http://38.123.205.70:8000/play/a08v/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://170.83.242.14:5150/play/a0bm
 
 #EXTINF:-1,HBO HD
 http://170.83.242.14:5150/play/a04e
@@ -111,10 +118,7 @@ http://170.83.242.14:5150/play/a0al
 #EXTINF:-1, universal
 http://38.123.205.70:8000/play/a0bt/index.m3u8
 
-#EXTINF:-1, Star Channel
-http://38.123.205.70:8000/play/a08v/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://170.83.242.14:5150/play/a0bm
+
 
 #EXTINF:-1,SPACE HD
 http://170.83.242.14:5150/play/a09z
@@ -140,8 +144,6 @@ http://170.83.242.14:5150/play/a05j
 #EXTINF:-1,DHE HD
 http://170.83.242.14:5150/play/a077
 
-#EXTINF:-1, ES:TCM HD
-http://latinosiptv.online:8090/notocar/xmauc84bx1/1212
 
 #EXTINF:-1, MULTIPREMIER
 http://38.123.205.70:8000/play/a0cp/index.m3u8
@@ -202,7 +204,8 @@ http://38.123.205.70:8000/play/a0db/index.m3u8
 #EXTINF:-1,GLITZ
 http://170.83.242.14:5150/play/a0e8
 
-
+#EXTINF:-1,Star Life SD
+http://45.236.175.12:9600/play/a01w
 
 
 *****  INFANTILES  ****
@@ -235,6 +238,9 @@ http://38.123.205.70:8000/play/a0ck/index.m3u8
 #EXTINF:-1, Discovery Kids
 http://38.123.205.70:8000/play/a0an/index.m3u8
 
+#EXTINF:-1,NatGeo Kids
+http://45.236.175.12:9600/play/a01z
+
 #EXTINF:-1, Once Niños y Niñas
 http://38.123.205.70:8000/play/a0jq/index.m3u8
 
@@ -250,8 +256,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b0007
 http:?
 
 
-#EXTINF:-1, LA_HD_MEX2:MTV Live HD
-http://latinosiptv.online:8090/notocar/xmauc84bx1/2548
+
 #EXTINF:-1,DE | MTV UNPLUGGED
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -436,7 +441,8 @@ https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
 #EXTINF:-1, France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-
+#EXTINF:-1, NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_3_1896000.m3u8
 
 
 *****  NACIONALES DE LATINOAMERICA  ****
