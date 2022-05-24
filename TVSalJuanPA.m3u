@@ -229,6 +229,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
+#EXTINF:-1,VENUS MEDIA HD
+http://170.83.242.14:5150/play/a03a
 #EXTINF:-1, Loop 80's HD
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1, Loop 90's HD
@@ -405,8 +407,6 @@ http://170.83.242.14:5150/play/a05h
 http://bgapp.live/play/tvhd-542.php?id=125&k=blackghooossst&file=.m3u8
 #EXTINF:-1,TYC SPORTS HD
 http://170.83.242.14:5150/play/a04t
-#EXTINF:-1,VENUS MEDIA HD
-http://170.83.242.14:5150/play/a03a
 #EXTINF:-1, BrazzerTV
 http://bgapp.live/play/tvhd-542.php?id=124&k=blackghooossst&file=.m3u8
 #EXTINF:-1, 490 Extremex
