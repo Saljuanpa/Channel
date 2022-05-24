@@ -1,9 +1,11 @@
 #EXTM3U
 
 
+
 *****  ARTE Y APRENDIZAJE  ****
 #EXTINF:-1,***** ARTE Y APRENDIZAJE ****
 http:?
+
 #EXTINF:-1,Gourmet
 http://tv-cool.com:25461/gabjha593/056b5314ff/29971
 #EXTINF:-1,FOOD NETWORK HD
@@ -38,8 +40,6 @@ http://jessicatv.site:8080/FM10020/4d136785/9151
 
 
 
-
-
 ***** SERIES  Y PELICULAS   ****
 #EXTINF:-1,***** SERIES  Y PELICULAS   ****
 http:?
@@ -50,3 +50,372 @@ http://38.123.205.70:8000/play/a0cf/index.m3u8
 #EXTINF:-1,SONY HD
 http://170.83.242.14:5150/play/a03x
 #EXTINF:-1, 208 Sony
+http://38.123.205.70:8000/play/a0aj/index.m3u8
+#EXTINF:-1,A&E HD
+http://170.83.242.14:5150/play/a03w
+#EXTINF:-1,AXN HD
+http://170.83.242.14:5150/play/a03y
+#EXTINF:-1,FX HD
+http://170.83.242.14:5150/play/a04k
+#EXTINF:-1,FX Movies
+http://45.236.175.12:9600/play/a00b
+#EXTINF:-1, FX Movies HD
+http://190.11.83.98:8000/play/a017
+#EXTINF:-1,TNT HD
+http://170.83.242.14:5150/play/a09y
+#EXTINF:-1, 370 TNT
+http://38.123.205.70:8000/play/a0aq/index.m3u8
+#EXTINF:-1, 214 TNT SERIES
+http://38.123.205.70:8000/play/a0da/index.m3u8
+
+
+*****  PELICULAS  ****
+#EXTINF:-1, 202 STAR Channel
+http://38.123.205.70:8000/play/a08v/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://170.83.242.14:5150/play/a0bm
+#EXTINF:-1,HBO HD
+http://170.83.242.14:5150/play/a04e
+#EXTINF:-1,HBO 2 HD
+http://170.83.242.14:5150/play/a045
+#EXTINF:-1,HBO Plus
+http://45.236.175.12:9600/play/a00i
+#EXTINF:-1,HBO FAMILY HD
+http://170.83.242.14:5150/play/a044
+#EXTINF:-1,HBO MUNDI HD
+http://170.83.242.14:5150/play/a04v
+#EXTINF:-1,HBO Pop
+http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMxOjocqStYsqKPbHOsycBwvV_6NHBvZfq73LtTPFhDSp/ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://170.83.242.14:5150/play/a048
+#EXTINF:-1,HBO XTREME HD
+http://170.83.242.14:5150/play/a049
+#EXTINF:-1,HBO+ HD
+http://170.83.242.14:5150/play/a043
+#EXTINF:-1, 386 STUDIO UNIVERSAL
+http://38.123.205.70:8000/play/a0bh/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://170.83.242.14:5150/play/a0al
+#EXTINF:-1,Universal
+http://tv.fullytv.com:8080/zuli/1234/3068
+#EXTINF:-1, 206 universal
+http://38.123.205.70:8000/play/a0bt/index.m3u8
+#EXTINF:-1, Universal cinema
+http://tv-cool.com:25461/gabjha593/056b5314ff/73998
+#EXTINF:-1, Universal premier
+http://tv-cool.com:25461/gabjha593/056b5314ff/73999
+#EXTINF:-1,SPACE HD
+http://170.83.242.14:5150/play/a09z
+#EXTINF:-1, 226 SPACE
+http://38.123.205.70:8000/play/a0cg/index.m3u8
+#EXTINF:-1,SYFY HD
+http://170.83.242.14:5150/play/a04r
+#EXTINF:-1, 228 SYFY
+http://38.123.205.70:8000/play/a0b1/index.m3u8
+#EXTINF:-1, 232 ISAT
+http://38.123.205.70:8000/play/a0b2/index.m3u8
+#EXTINF:-1,AMC HD
+http://170.83.242.14:5150/play/a05j
+#EXTINF:-1,DHE HD
+http://170.83.242.14:5150/play/a077
+#EXTINF:-1, 388 PARAMOUNT
+http://38.123.205.70:8000/play/a0cs/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://170.83.242.14:5150/play/a037
+#EXTINF:-1, 160 Multi Premier
+http://38.123.205.70:8000/play/a0ce/index.m3u8
+#EXTINF:-1,CINEMAX HD
+http://170.83.242.14:5150/play/a04i
+#EXTINF:-1, 374 CINEMAX
+http://38.123.205.70:8000/play/a093/index.m3u8
+#EXTINF:-1, 372 MC
+http://38.123.205.70:8000/play/a0co/index.m3u8
+#EXTINF:-1,Golden
+http://ultra-premium-pro.xyz:8080/pato/pato/137
+#EXTINF:-1,Golden EDGE
+http://tv-cool.com:25461/gabjha593/056b5314ff/29766
+#EXTINF:-1,Golden Plus
+http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/780
+#EXTINF:-1,Golden Premier
+http://tv-cool.com:25461/gabjha593/056b5314ff/32914
+
+
+
+*****  MUNDO Y ENTRETENIMIENTO ****
+#EXTINF:-1,***** MUNDO Y ENTRETENIMIENTO ****
+http:?
+#EXTINF:-1, 312 NATGEO LA
+http://38.123.205.70:8000/play/a0cl/index.m3u8
+#EXTINF:-1,NAT GEO HD
+http://170.83.242.14:5150/play/a0dl
+#EXTINF:-1,Animal Planet
+http://45.236.175.12:9600/play/a00s
+#EXTINF:-1, 316 ANIMAL PLANET
+http://38.123.205.70:8000/play/a0ao/index.m3u8
+#EXTINF:-1,HOME AND HEALTH HD
+http://170.83.242.14:5150/play/a04x
+#EXTINF:-1, 236 Discovery H&H
+http://38.123.205.70:8000/play/a0bw/index.m3u8
+#EXTINF:-1, 240 TLC
+http://38.123.205.70:8000/play/a0bx/index.m3u8
+#EXTINF:-1, Home Garden Latino
+http://45.189.117.33:7879/play/a0h1
+#EXTINF:-1, 306 Ingenio TV
+http://38.123.205.70:8000/play/a0jr/index.m3u8
+#EXTINF:-1,ID HD
+http://170.83.242.14:5150/play/a04b
+#EXTINF:-1, 250 TBS
+http://38.123.205.70:8000/play/a0dc/index.m3u8
+
+*****  ENTRETENIMIENTO   ****
+#EXTINF:-1,GLITZ
+http://170.83.242.14:5150/play/a0e8
+#EXTINF:-1,***** INFANTILES  ****
+http:?
+#EXTINF:-1,Disney Channel
+http://45.236.175.12:9600/play/a00q
+#EXTINF:-1, 282 DISNEY CHANNEL
+http://38.123.205.70:8000/play/a0al/index.m3u8
+#EXTINF:-1, 283 DISNEY JR
+http://38.123.205.70:8000/play/a0bz/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://45.236.175.12:9600/play/a01m
+#EXTINF:-1, 286 Nickelodeon
+http://38.123.205.70:8000/play/a0am/index.m3u8
+#EXTINF:-1,Nickelodeon Classic
+https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1, CARTOON NETWORK
+http://38.123.205.70:8000/play/a0c0/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://45.236.175.12:9600/play/a004
+#EXTINF:-1,Nick Jr
+http://45.236.175.12:9600/play/a02q
+#EXTINF:-1,NatGeo Kids
+http://45.236.175.12:9600/play/a01z
+#EXTINF:-1, Planetatv kids
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1, Once Niños y Niñas
+http://38.123.205.70:8000/play/a0jq/index.m3u8
+#EXTINF:-1, *Babyfirst | HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
+
+
+
+
+*****  MÚSICA Y CONCIERTOS ****
+#EXTINF:-1,***** MÚSICA Y CONCIERTOS ****
+http:?
+#EXTINF:-1,DE | MTV UNPLUGGED
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, *MTV Classic| HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1,ES | VH1 CLASSICS Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,Vintage Music
+http://190.7.192.162:8003/play/s7
+#EXTINF:-1, Retro Music Television
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Web TV Music
+https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1,*Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1, Retro Plus TV Señal 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Canal 38 Musica
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,USA | HILLSONG CHANNEL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, TV Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1,Gospel Music Television
+https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
+#EXTINF:-1, Loop 80's HD
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1, Loop 90's HD
+https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1, Qello Concerts HD
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
+#EXTINF:-1, Qwest Classical HD
+https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1, Qwest Jazz e Beyond HD
+https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1, Qwest TV Mix HD
+https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1, Rádio Capital
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
+#EXTINF:-1, EXA TV
+http://38.123.205.70:8000/play/a0je/index.m3u8
+#EXTINF:-1,Digital 15 - RD
+http://190.92.95.37:8000/play/a0gz/index.m3u8?fbclid=IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34IwAR1rgv2A1qFYH2VyVXkqHIIbiZ3qYgCEjdo8kYr95Tzsa3G0DgQlICglU34
+
+
+
+
+
+*****  CANALES NACIONALES  ****
+#EXTINF:-1,***** CANALES NACIONALES  ****
+http:?
+#EXTINF:-1, ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, 102 Las Estrellas
+http://38.123.205.70:8000/play/a0d4/index.m3u8
+#EXTINF:-1, 101 Azteca Uno
+http://38.123.205.70:8000/play/a0cc/index.m3u8
+#EXTINF:-1, 103 IMAGEN
+http://38.123.205.70:8000/play/a0d5/index.m3u8
+#EXTINF:-1, 105 canal 5
+http://38.123.205.70:8000/play/a0fl/index.m3u8
+#EXTINF:-1, 106 Canal 6 CDMX
+http://38.123.205.70:8000/play/a0bp/index.m3u8
+#EXTINF:-1, 107 AZTECA 7
+http://38.123.205.70:8000/play/a0fm/index.m3u8
+#EXTINF:-1, 111 Canal Once
+http://38.123.205.70:8000/play/a0bq/index.m3u8
+#EXTINF:-1, 114 Canal 14 CDMX
+http://38.123.205.70:8000/play/a0ax/index.m3u8
+#EXTINF:-1, 122 CANAL 22
+http://38.123.205.70:8000/play/a0d7/index.m3u8
+#EXTINF:-1, 120 TV UNAM
+http://38.123.205.70:8000/play/a0ay/index.m3u8
+#EXTINF:-1,TV UNAM
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
+#EXTINF:-1,Canal Catorce
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1,Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1,Mexiquense Televisión
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+*****  NACIONALES DE LATINOAMERICA  ****
+
+
+
+
+
+
+***** INTERNACIONALES Y NOTICIAS ****
+
+#EXTINF:-1,***** INTERNACIONALES Y NOTICIAS  ****
+http:?
+
+
+#EXTINF:-1, *DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+#EXTINF:-1, 350 CNN en Español
+http://38.123.205.70:8000/play/a0dl/index.m3u8
+#EXTINF:-1, 352 CNN Internacional
+http://38.123.205.70:8000/play/a0bd/index.m3u8
+#EXTINF:-1, Euronews Español
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1, BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1, Usa Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1, Weather Nation
+https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
+#EXTINF:-1, France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1, NBC News
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_3_1896000.m3u8
+#EXTINF:-1, 354 Teleformula
+http://38.123.205.70:8000/play/a0be/index.m3u8
+#EXTINF:-1, 356 Milenio
+http://38.123.205.70:8000/play/a0dm/index.m3u8
+#EXTINF:-1, 152 MVS TV
+http://38.123.205.70:8000/play/a0jp/index.m3u8
+
+
+
+*****  CANALES INTERNACIONALES  ****
+
+#EXTINF:-1,*Telebasel (288p)
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1,Nhk premium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
+#EXTINF:-1,nhk world Japan_USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+
+#EXTINF:-1,Hallmark Movies & More (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1,1-2-3 TV (480p)
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1,*Das Erste (720p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+
+
+#EXTINF:-1,BBC 1 [100]
+https://list.iptvcat.com/my_list/s/056befbe5137c0a283e7f0b9dd7f60a4.m3u8
+#EXTINF:-1,BBC 1 London [99]
+https://list.iptvcat.com/my_list/s/41a69d7187f1e7d3f9a9aa5cad942093.m3u8
+#EXTINF:-1,BBC 2 [100]
+https://list.iptvcat.com/my_list/s/83569b3aebe325ad6adfde341787d63a.m3u8
+#EXTINF:-1,BBC 2 [100]
+https://list.iptvcat.com/my_list/s/7d9b083d2546b0f411bf5128840f2ccc.m3u8
+#EXTINF:-1,BBC One [90]
+https://list.iptvcat.com/my_list/s/d205c455074e10b051dc6c538d1ce6da.m3u8
+#EXTINF:-1,BBC One FHD [84]
+https://list.iptvcat.com/my_list/s/e22be8d61c083aad37bbaea176a7d1c1.m3u8
+#EXTINF:-1,BBC One HD [91]
+https://list.iptvcat.com/my_list/s/745f06c9862557c088e3fb1fa7633067.m3u8
+#EXTINF:-1,BBC One Northern Ireland [88]
+https://list.iptvcat.com/my_list/s/87ce343eb8aa71dab3c015a405aa260b.m3u8
+#EXTINF:-1,BBC One Scotland [78]
+https://list.iptvcat.com/my_list/s/418e1cf51654f8b5f318fed42b684055.m3u8
+#EXTINF:-1,BBC One Wales [82]
+https://list.iptvcat.com/my_list/s/cd131bcc75a7a3fac31010ddad7d6f19.m3u8
+#EXTINF:-1,BBC Three FHD [90]
+https://list.iptvcat.com/my_list/s/02f2399169c489461c4b30474663b0ba.m3u8
+#EXTINF:-1,BBC Two [83]
+https://list.iptvcat.com/my_list/s/4dbdfb2b7f333be278239e29c445f140.m3u8
+#EXTINF:-1,BBC Two FHD [88]
+https://list.iptvcat.com/my_list/s/27cb7b652fa85e2b4a018a00ce4ba4ad.m3u8
+#EXTINF:-1,BBC Two HD [90]
+https://list.iptvcat.com/my_list/s/f4dde771fce426d818f6d36e68584041.m3u8
+#EXTINF:-1,BBC World [91]
+https://list.iptvcat.com/my_list/s/176564ef679d03e1282b0bd5da16935c.m3u8
+#EXTINF:-1,VIP BBC Entertainment HD [89]
+https://list.iptvcat.com/my_list/s/3d6e554efde3cacd32337c9f05f32f41.m3u8
+#EXTINF:-1,VIP BBC One FHD [81]
+https://list.iptvcat.com/my_list/s/47d4a1eedcab30018800287962e403b6.m3u8
+#EXTINF:-1,VIP BBC One HD [70]
+https://list.iptvcat.com/my_list/s/ed39640c9ed2edb2b99a7816630232bf.m3u8
+#EXTINF:-1,VIP BBC One Nothern Ireland FHD [73]
+https://list.iptvcat.com/my_list/s/68b82bb49d94764a564d46a03e6a5a54.m3u8
+#EXTINF:-1,VIP BBC One West [75]
+https://list.iptvcat.com/my_list/s/ea8cbbaa9f40be8da48c23c8c0131e85.m3u8
+
+
+
+*****  DEPORTES ****
+#EXTINF:-1,***** DEPORTES   ****
+http:?
+#EXTINF:-1,ESPN 2 HD
+http://170.83.242.14:5150/play/a05i
+#EXTINF:-1,ESPN 3 HD
+http://170.83.242.14:5150/play/a0dh
+#EXTINF:-1,ESPN 4 HD
+http://170.83.242.14:5150/play/a057
+#EXTINF:-1,ESPN EXTRA HD
+http://170.83.242.14:5150/play/a03k
+#EXTINF:-1,ESPN HD
+http://170.83.242.14:5150/play/a05h
+#EXTINF:-1, NBA TV
+http://bgapp.live/play/tvhd-542.php?id=125&k=blackghooossst&file=.m3u8
+#EXTINF:-1,TYC SPORTS HD
+http://170.83.242.14:5150/play/a04t
+#EXTINF:-1,VENUS MEDIA HD
+http://170.83.242.14:5150/play/a03a
+#EXTINF:-1, BrazzerTV
+http://bgapp.live/play/tvhd-542.php?id=124&k=blackghooossst&file=.m3u8
+#EXTINF:-1, 490 Extremex
+http://38.123.205.70:8000/play/a09c/index.m3u8
+#EXTINF:-1,TIGO SPORTS HD
+http://170.83.242.14:5150/play/a036
+#EXTINF:-1,TIGO SPORTS+ HD
+http://170.83.242.14:5150/play/a0a1
+#EXTINF:-1,TIGO SPORTS+ HD CARD00
+http://170.83.242.14:5150/play/a02q
+#EXTINF:-1,TIGO SPORTS+ HD CARD01
+http://170.83.242.14:5150/play/a0e7
