@@ -18,20 +18,27 @@ http://38.123.205.70:8000/play/a0bc/index.m3u8
 http://170.83.242.14:5150/play/a03n
 #EXTINF:-1, Europa HD
 http://190.11.83.98:8000/play/a036
+
 #EXTINF:-1,HISTORY HD
 http://170.83.242.14:5150/play/a040
 #EXTINF:-1,History Channel
 http://181.78.22.214:8000/play/a004
 #EXTINF:-1, 318 History Channel
 http://38.123.205.70:8000/play/a0ap/index.m3u8
+#EXTINF:-1,History Channel
+http://200.24.159.179:8500/play/a004
 #EXTINF:-1, 320 H2
 http://38.123.205.70:8000/play/a0dj/index.m3u8
+
 #EXTINF:-1,Discovery Channel
 http://45.236.175.12:9600/play/a00r
 #EXTINF:-1,Discovery Channel
 http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/29527
 #EXTINF:-1, 308 Discovery Channel
 http://38.123.205.70:8000/play/a0ep/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://200.24.159.179:8500/play/a018
+
 #EXTINF:-1,DISCOVERY THEATER HD
 http://170.83.242.14:5150/play/a038
 #EXTINF:-1,Discovery Theater HD
@@ -43,14 +50,24 @@ http://jessicatv.site:8080/FM10020/4d136785/9151
 ***** SERIES  Y PELICULAS   ****
 #EXTINF:-1,***** SERIES  Y PELICULAS   ****
 http:?
+
 #EXTINF:-1,WARNER HD
 http://170.83.242.14:5150/play/a03z
 #EXTINF:-1, 210 WARNER
 http://38.123.205.70:8000/play/a0cf/index.m3u8
+#EXTINF:-1,Warner
+http://globalentertainmentec.xyz:8000/Elias2022/Elias2022/48370
+
+
 #EXTINF:-1,SONY HD
 http://170.83.242.14:5150/play/a03x
 #EXTINF:-1, 208 Sony
 http://38.123.205.70:8000/play/a0aj/index.m3u8
+#EXTINF:-1,Sony Cine
+http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8?caster
+
+
+
 #EXTINF:-1,A&E HD
 http://170.83.242.14:5150/play/a03w
 #EXTINF:-1,AXN HD
