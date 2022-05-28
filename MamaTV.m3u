@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1,TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
@@ -25,7 +24,16 @@ http://51.79.18.128:8081/LATINO%7CSTUDIOUNIVERSAL/LATINO%7CSTUDIOUNIVERSAL/playl
 #EXTINF:-1, SONY-PELICULAS
 http://51.79.18.128:8081/LATINO%7CSONYCHANNEL/LATINO%7CSONYCHANNEL/playlist.m3u8
 
+#EXTINF:-1, RTQ Queretaro | MX
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, FX
-http://51.79.18.128:8081/LATINO%7CFX/LATINO%7CFX/playlist.m3u8
-
+#EXTINF:-1,MX: Europa Europa FHD
+http://jessicatv.site:8080/FM10020/4d136785/9130
+#EXTINF:-1,Sony
+http://181.78.22.214:8000/play/a01j
+#EXTINF:-1,HBO
+http://181.78.22.214:8000/play/a01h
+#EXTINF:-1,HBO 2
+http://181.78.22.214:8000/play/a00n
+#EXTINF:-1,TNT
+http://181.78.22.214:8000/play/a00e
