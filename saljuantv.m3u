@@ -41,6 +41,8 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=220274963&_cdn_timestamp=1654107818&_cdn_token=6a2709a1afee9cf1c19f840741f082da85ea3643
 #EXTINF:-1, FX
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=220277339&_cdn_timestamp=1654108102&_cdn_token=25dc09ff7efd5056021cadf09c5a81bcbd7838eb
+#EXTINF:-1,TNT SERIES
+http://201.108.227.250:8001/play/a02f/index.m3u8
 #EXTINF:-1, Universal TV
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=220277595&_cdn_timestamp=1654108140&_cdn_token=f1b165a2fad16d4742321617e26e29fd97d4400a
 
@@ -50,18 +52,42 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/20-hls/live-media
 
 #EXTINF:-1, Sony Movies
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=220276235&_cdn_timestamp=1654107960&_cdn_token=b49345d1b3fd55e230b05f5b10ff1c3eda084cd8
-
+#EXTINF:-1,TNT
+http://201.108.227.250:8001/play/a02n/index.m3u8
 #EXTINF:-1, AMC
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=220274827&_cdn_timestamp=1654107803&_cdn_token=fea1bfcec345311f67308f58b74a74761e7aefba
+#EXTINF:-1,TCM
+http://201.108.227.250:8001/play/a03x/index.m3u8
+#EXTINF:-1,Cinemax
+http://201.108.227.250:8001/play/a05y/index.m3u8
+#EXTINF:-1,Cinecanal
+http://201.108.227.250:8001/play/a060/index.m3u8
 #EXTINF:-1, Studio Universal
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=220276491&_cdn_timestamp=1654107992&_cdn_token=0b205e1ce8f9af69409cae079807546e7d5078f2
 #EXTINF:-1, Paramount Network
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=220275915&_cdn_timestamp=1654107915&_cdn_token=b2486df7dac3d2de47e9c6e9e64c438cdf32f016
+#EXTINF:-1,SPACE
+http://45.167.250.116:20023/play/a0i5/index.m3u8
+#EXTINF:-1,SYFY
+http://201.108.227.250:8001/play/a04l/index.m3u8
+
+#EXTINF:-1,HBO
+http://201.108.227.250:8001/play/a01r/index.m3u8
+#EXTINF:-1,HBO 2
+http://201.108.227.250:8001/play/a062/index.m3u8
+#EXTINF:-1,HBO Family
+http://201.108.227.250:8001/play/a064/index.m3u8
+#EXTINF:-1,HBO Plus
+http://201.108.227.250:8001/play/a063/index.m3u8
+#EXTINF:-1,HBO Xtreme
+http://201.108.227.250:8001/play/a065/index.m3u8
 
 
 
 #EXTINF:-1, De Pelicula Plus
 https://2.tunelive.net:3359/stream/play.m3u8
+
+
 
 *****  MUNDO Y ENTRETENIMIENTO ****
 #EXTINF:-1,***** MUNDO Y ENTRETENIMIENTO ****
@@ -129,12 +155,36 @@ http:?
 http:?
 
 
+#EXTINF:-1,Azteca 1
+https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
+
+#EXTINF:-1,21.1 Capital 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1,22.1 Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1,22.2 Canal 22 +
+https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
+#EXTINF:-1,34.1 Mexiquense TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1,Central FM
+https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
+
 
 *****  NACIONALES DE LATINOAMERICA  ****
 
 
-
-
+#EXTINF:-1,Estrella TV | México
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1, 56 | Azteca Corazón
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=220273803&_cdn_timestamp=1654107692&_cdn_token=ea4ed414099374fa902107e0114fea05c1a574ba
+#EXTINF:-1, 59.2 | Univisión Latinoamérica
+http://45.189.117.36:7879/play/a0g9
+#EXTINF:-1, 61 | Telemundo Internacional
+https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=220274195&_cdn_timestamp=1654107735&_cdn_token=0831435ab6a1f31fb6194adc7c1d12878bfcd2ab
+#EXTINF:-1, 62 | Galavisión
+https://2.tunelive.net:3349/stream/play.m3u8
+#EXTINF:-1, 64 | Estrella TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
 
 
 ***** INTERNACIONALES Y NOTICIAS ****
