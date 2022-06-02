@@ -1,210 +1,289 @@
 #EXTM3U
-
-
-
-*****  ARTE Y APRENDIZAJE  ****
-#EXTINF:-1,***** ARTE Y APRENDIZAJE ****
-http:?
-
-
-#EXTINF:-1, El Gourmet Televisión
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=220281555&_cdn_timestamp=1654108588&_cdn_token=6230ec8a24b218414953117a301763f1b7ddf3af
-#EXTINF:-1, Food Network
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=220281603&_cdn_timestamp=1654108596&_cdn_token=3b82762dda817456164724636b855f7823d2780d
-#EXTINF:-1, Film & Arts
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=220279979&_cdn_timestamp=1654108403&_cdn_token=80a2e78e9a4cc4c651c4e587a6a40ce00162a82f
-#EXTINF:-1, History
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORY1/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCHANNEL_stream_2w&_cdn_session=220285459&_cdn_timestamp=1654109060&_cdn_token=bdf01a81111801fd37437e88e8d476411f2afe9c
-#EXTINF:-1, History 2
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HISTORYCH2/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHISTORYCH2_stream_z0&_cdn_session=220285547&_cdn_timestamp=1654109074&_cdn_token=171404ade6ecbbc64c7b8b9e6e273b627a35f8d0
-#EXTINF:-1, Discovery Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERY/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYCH_stream_hg&_cdn_session=220284379&_cdn_timestamp=1654108935&_cdn_token=4021e62583505eb66159358f45e24c8b98bc946b
-#EXTINF:-1, Discovery Theater
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTHEATER/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTHEATER_stream_ss&_cdn_session=220284827&_cdn_timestamp=1654108998&_cdn_token=7f7b62c24be949c81be701bf300b73e2f0257a89
-
-
-
-
-***** SERIES  Y PELICULAS   ****
-#EXTINF:-1,***** SERIES  Y PELICULAS   ****
-http:?
-
-#EXTINF:-1, Warner Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/WARNERCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWARNERCHANNEL_stream_2g&_cdn_session=220277019&_cdn_timestamp=1654108056&_cdn_token=9a065ac7d8e245d89f9c02ebd60e36b4d0cd53c4
-#EXTINF:-1, Sony Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONY/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONY_stream_ew&_cdn_session=220276107&_cdn_timestamp=1654107940&_cdn_token=e92bed9a3729c2b44cf61e057f903d1c6aea0a88
-#EXTINF:-1, Star Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STARCHANNEL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOXCHANNEL_stream_1f&_cdn_session=220277251&_cdn_timestamp=1654108091&_cdn_token=53e1e47b5e3773a640ecb21ea79a404e7e676a0f
-#EXTINF:-1, A&E
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AANDEMUNDO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAandE_stream_0t&_cdn_session=220274627&_cdn_timestamp=1654107784&_cdn_token=ad5e668a7702c7acc107eef4bd3971adfc911e60
-#EXTINF:-1, AXN
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AXN/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAXN_stream_wo&_cdn_session=220274963&_cdn_timestamp=1654107818&_cdn_token=6a2709a1afee9cf1c19f840741f082da85ea3643
-#EXTINF:-1, FX
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FX/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFX_stream_gv&_cdn_session=220277339&_cdn_timestamp=1654108102&_cdn_token=25dc09ff7efd5056021cadf09c5a81bcbd7838eb
-#EXTINF:-1,TNT SERIES
-http://201.108.227.250:8001/play/a02f/index.m3u8
-#EXTINF:-1, Universal TV
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/UNIVERSALCH/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DUNIVERSAL_stream_4o&_cdn_session=220277595&_cdn_timestamp=1654108140&_cdn_token=f1b165a2fad16d4742321617e26e29fd97d4400a
-
-
-
-*****  PELICULAS  ****
-
-#EXTINF:-1, Sony Movies
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/SONYMOVIES/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSONYMOVIES_stream_tj&_cdn_session=220276235&_cdn_timestamp=1654107960&_cdn_token=b49345d1b3fd55e230b05f5b10ff1c3eda084cd8
-#EXTINF:-1,TNT
-http://201.108.227.250:8001/play/a02n/index.m3u8
-#EXTINF:-1, AMC
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AMC/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMC_stream_sj&_cdn_session=220274827&_cdn_timestamp=1654107803&_cdn_token=fea1bfcec345311f67308f58b74a74761e7aefba
-#EXTINF:-1,TCM
-http://201.108.227.250:8001/play/a03x/index.m3u8
-#EXTINF:-1,Cinemax
-http://201.108.227.250:8001/play/a05y/index.m3u8
-#EXTINF:-1,Cinecanal
-http://201.108.227.250:8001/play/a060/index.m3u8
-#EXTINF:-1, Studio Universal
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/STUDIOUNIVERSAL/10-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DSTUDIOUNIVERSAL_stream_w1&_cdn_session=220276491&_cdn_timestamp=1654107992&_cdn_token=0b205e1ce8f9af69409cae079807546e7d5078f2
-#EXTINF:-1, Paramount Network
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/PARAMOUNT/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPARAMOUNTCHANNEL_stream_5p&_cdn_session=220275915&_cdn_timestamp=1654107915&_cdn_token=b2486df7dac3d2de47e9c6e9e64c438cdf32f016
+#EXTINF:-1,A&E
+http://190.83.119.67:8000/play/a0s8/index.m3u8
+#EXTINF:-1,A&E HD
+http://190.83.119.67:8000/play/a0q7/index.m3u8
+#EXTINF:-1,AMC
+http://190.83.119.67:8000/play/a0pr/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.83.119.67:8000/play/a0q8/index.m3u8
+#EXTINF:-1,AXN
+http://190.83.119.67:8000/play/a0pp/index.m3u8
+#EXTINF:-1,AZ click HD
+http://190.83.119.67:8000/play/a0qe/index.m3u8
+#EXTINF:-1,Animal Planet
+http://190.83.119.67:8000/play/a0sb/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1,Antena 3
+http://190.83.119.67:8000/play/a0nv/index.m3u8
+#EXTINF:-1,Atres Series
+http://190.83.119.67:8000/play/a0o1/index.m3u8
+#EXTINF:-1,Azcorazon
+http://190.83.119.67:8000/play/a0pg/index.m3u8
+#EXTINF:-1,Azmundo
+http://190.83.119.67:8000/play/a0s4/index.m3u8
+#EXTINF:-1,BBC World
+http://190.83.119.67:8000/play/a0pt/index.m3u8
+#EXTINF:-1,Baby First
+http://190.83.119.67:8000/play/a0r3/index.m3u8
+#EXTINF:-1,Baby TV
+http://190.83.119.67:8000/play/a0ns/index.m3u8
+#EXTINF:-1,Beinsports
+http://190.83.119.67:8000/play/a0v6/index.m3u8
+#EXTINF:-1,CINECANAL HD
+http://190.83.119.67:8000/play/a0sl/index.m3u8
+#EXTINF:-1,CNN Internacional
+http://190.83.119.67:8000/play/a0o7/index.m3u8
+#EXTINF:-1,CNN en Español
+http://190.83.119.67:8000/play/a0ps/index.m3u8
+#EXTINF:-1,Claro TV
+http://190.83.119.67:8000/play/a0oy/index.m3u8
+#EXTINF:-1,Claro TV
+http://190.83.119.67:8000/play/a0oo/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://190.83.119.67:8000/play/a0p8/index.m3u8
+#EXTINF:-1,Cartoonito
+http://190.83.119.67:8000/play/a0pa/index.m3u8
+#EXTINF:-1,Cine Latino
+http://190.83.119.67:8000/play/a0tl/index.m3u8
+#EXTINF:-1,Claro Cinema
+http://190.83.119.67:8000/play/a0sh/index.m3u8
+#EXTINF:-1,Claro Musica
+http://190.83.119.67:8000/play/a0re/index.m3u8
+#EXTINF:-1,Claro Sports  HD
+http://190.83.119.67:8000/play/a0on/index.m3u8
+#EXTINF:-1,Claro Sports
+http://190.83.119.67:8000/play/a0o2/index.m3u8
+#EXTINF:-1,Claro Sports SD
+http://190.83.119.67:8000/play/a0ra/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://190.83.119.67:8000/play/a0su/index.m3u8
+#EXTINF:-1,Discovery Theater (Latinoamérica)
+http://190.83.119.67:8000/play/a0sr/index.m3u8
+#EXTINF:-1,Discovery Channel (Guatemala)
+http://190.83.119.67:8000/play/a0sa/index.m3u8
+#EXTINF:-1,Discovery Channel (Guatemala)
+http://190.83.119.67:8000/play/a0tb/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://190.83.119.67:8000/play/a0tf/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://190.83.119.67:8000/play/a0ob/index.m3u8
+#EXTINF:-1,Discovery Science
+http://190.83.119.67:8000/play/a0ny/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://190.83.119.67:8000/play/a0tc/index.m3u8
+#EXTINF:-1,Disney JR
+http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1,E!
+http://190.83.119.67:8000/play/a0s7/index.m3u8
+#EXTINF:-1,E! Entertairment HD
+http://190.83.119.67:8000/play/a0q5/index.m3u8
+#EXTINF:-1,ESPN
+http://190.83.119.67:8000/play/a0se/index.m3u8
+#EXTINF:-1,ESPN  +
+http://190.83.119.67:8000/play/a0py/index.m3u8
+#EXTINF:-1,ESPN 2
+http://190.83.119.67:8000/play/a0sf/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://190.83.119.67:8000/play/a0t6/index.m3u8
+#EXTINF:-1,ESPN 3
+http://190.83.119.67:8000/play/a0rb/index.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://190.83.119.67:8000/play/a0t5/index.m3u8
+#EXTINF:-1,ESPN HD
+http://190.83.119.67:8000/play/a0t4/index.m3u8
+#EXTINF:-1,EURO Channel
+http://190.83.119.67:8000/play/a0r6/index.m3u8
+#EXTINF:-1,El Gourmet
+http://190.83.119.67:8000/play/a0r8/index.m3u8
+#EXTINF:-1,Europa HD
+http://190.83.119.67:8000/play/a0qb/index.m3u8
+#EXTINF:-1,Exa TV
+http://190.83.119.67:8000/play/a0sg/index.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://190.83.119.67:8000/play/a0sp/index.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD
+http://190.83.119.67:8000/play/a0t7/index.m3u8
+#EXTINF:-1,FOX Sports 2
+http://190.83.119.67:8000/play/a0rc/index.m3u8
+#EXTINF:-1,FUTV HD CR
+http://190.83.119.67:8000/play/a0t3/index.m3u8
+#EXTINF:-1,FX
+http://190.83.119.67:8000/play/a0r4/index.m3u8
+#EXTINF:-1,FX HD
+http://190.83.119.67:8000/play/a0qa/index.m3u8
+#EXTINF:-1,Film & Arts
+http://190.83.119.67:8000/play/a0oj/index.m3u8
+#EXTINF:-1,Film & arts HD
+http://190.83.119.67:8000/play/a0q6/index.m3u8
+#EXTINF:-1,Fox Sport 3
+http://190.83.119.67:8000/play/a0pm/index.m3u8
+#EXTINF:-1,France24
+http://190.83.119.67:8000/play/a0pu/index.m3u8
+#EXTINF:-1,Golden
+http://190.83.119.67:8000/play/a0rh/index.m3u8
+#EXTINF:-1,Golf Channel
+http://190.83.119.67:8000/play/a0o3/index.m3u8
+#EXTINF:-1,Golf Channel HD
+http://190.83.119.67:8000/play/a0qg/index.m3u8
+#EXTINF:-1,Guatevision - GUA
+http://190.83.119.67:8000/play/a0oz/index.m3u8
+#EXTINF:-1,H2
+http://190.83.119.67:8000/play/a0r7/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://190.83.119.67:8000/play/a0ou/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.83.119.67:8000/play/a0or/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://190.83.119.67:8000/play/a0ot/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://190.83.119.67:8000/play/a0ov/index.m3u8
+#EXTINF:-1,HBO2 HD
+http://190.83.119.67:8000/play/a0os/index.m3u8
+#EXTINF:-1,HOLA! TV HD
+http://190.83.119.67:8000/play/a0st/index.m3u8
+#EXTINF:-1,HTV
+http://190.83.119.67:8000/play/a0rg/index.m3u8
+#EXTINF:-1,History Channel
+http://190.83.119.67:8000/play/a0sc/index.m3u8
+#EXTINF:-1,History HD
+http://190.83.119.67:8000/play/a0px/index.m3u8
+#EXTINF:-1,Hola!TV
+http://190.83.119.67:8000/play/a0nz/index.m3u8
+#EXTINF:-1,Home & Health HD
+http://190.83.119.67:8000/play/a0ss/index.m3u8
+#EXTINF:-1,Home Garden Latino
+http://190.83.119.67:8000/play/a0nx/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://190.83.119.67:8000/play/a0pl/index.m3u8
+#EXTINF:-1,Latin America Sport
+http://190.83.119.67:8000/play/a0rd/index.m3u8
+#EXTINF:-1,MASTV - PAN
+http://190.83.119.67:8000/play/a0qx/index.m3u8
+#EXTINF:-1,MTV 00s
+http://190.83.119.67:8000/play/a0rf/index.m3u8
+#EXTINF:-1,MTV 00s HD
+http://190.83.119.67:8000/play/a0sw/index.m3u8
+#EXTINF:-1,MTV 80s
+http://190.83.119.67:8000/play/a0po/index.m3u8
+#EXTINF:-1,MTV HD
+http://190.83.119.67:8000/play/a0pz/index.m3u8
+#EXTINF:-1,MTV Hits
+http://190.83.119.67:8000/play/a0pn/index.m3u8
+#EXTINF:-1,MTV SIM HD
+http://190.83.119.67:8000/play/a0sv/index.m3u8
+#EXTINF:-1,Mas Chic
+http://190.83.119.67:8000/play/a0nu/index.m3u8
+#EXTINF:-1,Movistar La liga
+http://190.83.119.67:8000/play/a0tj/index.m3u8
+#EXTINF:-1,Multicinema
+http://190.83.119.67:8000/play/a0o5/index.m3u8
+#EXTINF:-1,Multimedios
+http://190.83.119.67:8000/play/a0og/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1,National Geographic
+http://190.83.119.67:8000/play/a0pk/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://190.83.119.67:8000/play/a0p9/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://190.83.119.67:8000/play/a0so/index.m3u8
+#EXTINF:-1,PXTV
+http://190.83.119.67:8000/play/a0o4/index.m3u8
+#EXTINF:-1,Paramount
+http://190.83.119.67:8000/play/a0ol/index.m3u8
+#EXTINF:-1,Paramount HD
+http://190.83.119.67:8000/play/a0t9/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://190.83.119.67:8000/play/a0td/index.m3u8
+#EXTINF:-1,Playboy
+http://190.83.119.67:8000/play/a0ow/index.m3u8
+#EXTINF:-1,RCN - GUA
+http://190.83.119.67:8000/play/a0nq/index.m3u8
+#EXTINF:-1,RCN Novelas
+http://190.83.119.67:8000/play/a0r5/index.m3u8
+#EXTINF:-1,RT Noticas
+http://190.83.119.67:8000/play/a0ti/index.m3u8
+#EXTINF:-1,SONY
+http://190.83.119.67:8000/play/a0s5/index.m3u8
+#EXTINF:-1,SONY HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1,SPACE
-http://45.167.250.116:20023/play/a0i5/index.m3u8
-#EXTINF:-1,SYFY
-http://201.108.227.250:8001/play/a04l/index.m3u8
-
-#EXTINF:-1,HBO
-http://201.108.227.250:8001/play/a01r/index.m3u8
-#EXTINF:-1,HBO 2
-http://201.108.227.250:8001/play/a062/index.m3u8
-#EXTINF:-1,HBO Family
-http://201.108.227.250:8001/play/a064/index.m3u8
-#EXTINF:-1,HBO Plus
-http://201.108.227.250:8001/play/a063/index.m3u8
-#EXTINF:-1,HBO Xtreme
-http://201.108.227.250:8001/play/a065/index.m3u8
-
-
-
-#EXTINF:-1, De Pelicula Plus
-https://2.tunelive.net:3359/stream/play.m3u8
-
-
-
-*****  MUNDO Y ENTRETENIMIENTO ****
-#EXTINF:-1,***** MUNDO Y ENTRETENIMIENTO ****
-http:?
-
-
-#EXTINF:-1, Animal Planet
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ANIMALPLANET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DANIMALPLANET_stream_2n&_cdn_session=220285139&_cdn_timestamp=1654109031&_cdn_token=b420697d5ecd776b18d90aa4ed8294444487dc52
-#EXTINF:-1, National Geographic
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NATGEO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNATGEO_stream_17&_cdn_session=220285331&_cdn_timestamp=1654109048&_cdn_token=4f6c13f4ce8b1c7aeac55eb41765108f4a242634
-
-#EXTINF:-1, Investigation Discovery
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/ID/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DID_stream_ch&_cdn_session=220274419&_cdn_timestamp=1654107756&_cdn_token=7703de32f3010ab5a9fc5a3114bfb061b31687b2
-#EXTINF:-1, Discovery Science
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYSCIENCE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYSCIENCE_stream_49&_cdn_session=220284443&_cdn_timestamp=1654108944&_cdn_token=9fd7bdd94e251dc26c1971963e3dd521d2678bb3
-#EXTINF:-1, Discovery Turbo
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYTURBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYTURBO_stream_kb&_cdn_session=220284603&_cdn_timestamp=1654108962&_cdn_token=5c75a15f0377f1e2da9b0bf541b17f23353ebb42
-#EXTINF:-1, Discovery World
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYWORLD/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYWORLD_stream_tr&_cdn_session=220284899&_cdn_timestamp=1654109006&_cdn_token=af36da04e5bada8000994a755a9853abff9081cd
-
-
-*****  ENTRETENIMIENTO   ****
-
-#EXTINF:-1, Travel & Living Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TLC/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTRAVELANDLIVING_stream_z3&_cdn_session=220281827&_cdn_timestamp=1654108636&_cdn_token=c99752c791bfc642d1aa43aac019e37d2a4a33c1
-#EXTINF:-1, Discovery Home & Health
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/HOMEANDHEALTH/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DHOMEANDHEALTH_stream_qp&_cdn_session=220281875&_cdn_timestamp=1654108645&_cdn_token=b842f2ec9e42601c830d318c1e5dead18abd68b2
-#EXTINF:-1, Lifetime
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/LIFETIME/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLIFETIME_stream_sl&_cdn_session=220279651&_cdn_timestamp=1654108371&_cdn_token=a3917e80cbbc21b36e6fb5bfcea99398ca9efba7
-
-
-#EXTINF:-1,***** INFANTILES  ****
-http:?
-#EXTINF:-1,  Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:-1,11.2 Once Niñas y Niños
-http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
-#EXTINF:-1, Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1, Disney Channel
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYCHANNEL/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYCHANNEL_stream_0w&_cdn_session=220278275&_cdn_timestamp=1654108211&_cdn_token=d40c05954dac788d4bc348b81e00d8a9b67b68d5
-#EXTINF:-1, Disney Junior
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISNEYJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISNEYJUNIOR_stream_ec&_cdn_session=220278443&_cdn_timestamp=1654108234&_cdn_token=2adf7d913169ca8a27ef411dbe220506515b9644
-
-#EXTINF:-1, Discovery Kids
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/DISCOVERYKIDS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DDISCOVERYKIDS_stream_hv&_cdn_session=220277931&_cdn_timestamp=1654108177&_cdn_token=6b52fe9fa63e0cecaeb6361747775b5d53fe93fe
-#EXTINF:-1, Nickelodeon
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKELODEON/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKELODEON_stream_g4&_cdn_session=220278683&_cdn_timestamp=1654108256&_cdn_token=99991c471409f5acf23cf8ba194dd10a057fc0b0
-#EXTINF:-1, Nick Jr.
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKJR/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKJR_stream_y9&_cdn_session=220279003&_cdn_timestamp=1654108285&_cdn_token=843f1b7f3fae9352f6de6c84c08e23be88f51b40
-#EXTINF:-1, Nick Music
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/NICKMUSIC/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DNICKTOONS_stream_vk&_cdn_session=220283635&_cdn_timestamp=1654108856&_cdn_token=7f02542ad89b0dbb6c96f0e1ea1ba27c7f5a90c6
-
-
-
-*****  MÚSICA Y CONCIERTOS ****
-#EXTINF:-1,***** MÚSICA Y CONCIERTOS ****
-http:?
-
-
-
-
-*****  CANALES NACIONALES  ****
-#EXTINF:-1,***** CANALES NACIONALES  ****
-http:?
-
-
-#EXTINF:-1,Azteca 1
-https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8
-
-#EXTINF:-1,21.1 Capital 21
-https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1,22.1 Canal 22
-https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ2OjAzIFBNJmhhc2hfdmFsdWU9WmpCTERYMHh6UVVzcTJ0cmtNd25mQT09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:-1,22.2 Canal 22 +
-https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIxIDExOjQ5OjA5IFBNJmhhc2hfdmFsdWU9dmZ0MEZRMTMwZ3J6V3hXNndXeDFIUT09JnZhbGlkbWludXRlcz01JmlkPQ==
-#EXTINF:-1,34.1 Mexiquense TV
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:-1,Central FM
-https://5fe2654d6127d.streamlock.net/centralfm/smil:centralfm.smil/playlist.m3u8
-
-
-*****  NACIONALES DE LATINOAMERICA  ****
-
-
-#EXTINF:-1,Estrella TV | México
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, 56 | Azteca Corazón
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/AZCORAZON/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAZCORAZON_stream_p3&_cdn_session=220273803&_cdn_timestamp=1654107692&_cdn_token=ea4ed414099374fa902107e0114fea05c1a574ba
-#EXTINF:-1, 59.2 | Univisión Latinoamérica
-http://45.189.117.36:7879/play/a0g9
-#EXTINF:-1, 61 | Telemundo Internacional
-https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TELEMUNDO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEMUNDO_stream_fp&_cdn_session=220274195&_cdn_timestamp=1654107735&_cdn_token=0831435ab6a1f31fb6194adc7c1d12878bfcd2ab
-#EXTINF:-1, 62 | Galavisión
-https://2.tunelive.net:3349/stream/play.m3u8
-#EXTINF:-1, 64 | Estrella TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-
-
-***** INTERNACIONALES Y NOTICIAS ****
-
-#EXTINF:-1,***** INTERNACIONALES Y NOTICIAS  ****
-http:?
-
-
-
-
-
-
-*****  CANALES INTERNACIONALES  ****
-#EXTREM: english
-
-
-
-
-
-*****  DEPORTES ****
-#EXTINF:-1,***** DEPORTES   ****
-http:?
-
+http://190.83.119.67:8000/play/a0ph/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+#EXTINF:-1,Sony Movies HD
+http://190.83.119.67:8000/play/a0qc/index.m3u8
+#EXTINF:-1,Star TVE HD
+http://190.83.119.67:8000/play/a0qf/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1,Sun Channel
+http://190.83.119.67:8000/play/a0r9/index.m3u8
+#EXTINF:-1,SyFy
+http://190.83.119.67:8000/play/a0s9/index.m3u8
+#EXTINF:-1,SyFy HD
+http://190.83.119.67:8000/play/a0q3/index.m3u8
+#EXTINF:-1,TBS
+http://190.83.119.67:8000/play/a0pj/index.m3u8
+#EXTINF:-1,TCM
+http://190.83.119.67:8000/play/a0ri/index.m3u8
+#EXTINF:-1,TLC
+http://190.83.119.67:8000/play/a0sd/index.m3u8
+#EXTINF:-1,TNT
+http://190.83.119.67:8000/play/a0pq/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.83.119.67:8000/play/a0sq/index.m3u8
+#EXTINF:-1,TNT Series
+http://190.83.119.67:8000/play/a0pi/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://190.83.119.67:8000/play/a0ta/index.m3u8
+#EXTINF:-1,TVChile
+http://190.83.119.67:8000/play/a0nw/index.m3u8
+#EXTINF:-1,TVE
+http://190.83.119.67:8000/play/a0o6/index.m3u8
+#EXTINF:-1,TeenNick
+http://190.83.119.67:8000/play/a0q1/index.m3u8
+#EXTINF:-1,Telemundo Internacional
+http://190.83.119.67:8000/play/a0pf/index.m3u8
+#EXTINF:-1,Telemundo Internacional
+http://190.83.119.67:8000/play/a0q9/index.m3u8
+#EXTINF:-1,Tigo Sports HD
+http://190.83.119.67:8000/play/a0sn/index.m3u8
+#EXTINF:-1,Tooncast
+http://190.83.119.67:8000/play/a0s3/index.m3u8
+#EXTINF:-1,Tru TV
+http://190.83.119.67:8000/play/a0pe/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA
+http://190.83.119.67:8000/play/a0om/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://190.83.119.67:8000/play/a0v2/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY
+http://190.83.119.67:8000/play/a0rl/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://190.83.119.67:8000/play/a0t1/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME
+http://190.83.119.67:8000/play/a0sj/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://190.83.119.67:8000/play/a0t0/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://190.83.119.67:8000/play/a0ui/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE O HD
+http://190.83.119.67:8000/play/a0uj/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY
+http://190.83.119.67:8000/play/a0rj/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://190.83.119.67:8000/play/a0sz/index.m3u8
+#EXTINF:-1,Univision HD
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1,VENUS
+http://190.83.119.67:8000/play/a0rn/index.m3u8
+#EXTINF:-1,VTV Canal 35 ESA
+http://190.83.119.67:8000/play/a0r1/index.m3u8
+#EXTINF:-1,WARNER HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
+#EXTINF:-1,Warner
+http://190.83.119.67:8000/play/a0s6/index.m3u8
+#EXTINF:-1,ZooMoo
+http://190.83.119.67:8000/play/a0nt/index.m3u8
