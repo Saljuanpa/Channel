@@ -11,6 +11,9 @@ http:?
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/GOURMET/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGOURMET_stream_g4&_cdn_session=220281555&_cdn_timestamp=1654108588&_cdn_token=6230ec8a24b218414953117a301763f1b7ddf3af
 #EXTINF:-1, Food Network
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FOODNETWORK/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFOODNETWORK_stream_l5&_cdn_session=220281603&_cdn_timestamp=1654108596&_cdn_token=3b82762dda817456164724636b855f7823d2780d
+#EXTINF:-1,Food Food (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0qx/index.m3u8
+
 #EXTINF:-1, Film & Arts
 https://cdn3.eco.cdn.moderntv.eu/econocable/stream/FILMSANDARTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DFILMSANDARTS_stream_cb&_cdn_session=220279979&_cdn_timestamp=1654108403&_cdn_token=80a2e78e9a4cc4c651c4e587a6a40ce00162a82f
 #EXTINF:-1, History
