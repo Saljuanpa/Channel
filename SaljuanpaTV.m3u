@@ -34,13 +34,15 @@ http://190.83.119.67:8000/play/a0sr/index.m3u8
 #EXTINF:-1,***** SERIES ****
 http:?
 						***** SERIES ****
-#EXTINF:-1,WARNER HD
+#EXTINF:-1,Warner HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,Warner
 http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1,SONY
+#EXTINF:-1,Warner TV
+http://45.71.185.142:8500/play/a01a
+#EXTINF:-1,Sony
 http://190.83.119.67:8000/play/a0s5/index.m3u8
-#EXTINF:-1,SONY HD
+#EXTINF:-1,Sony HD
 http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1,Star Channel HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
@@ -369,10 +371,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1,*Das Erste (720p)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1,Das Erste HD
+http://185.236.229.20:9091/play/a020
 
 
-
-
+#EXTINF:-1,UK: BBC 1 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/697
+#EXTINF:-1,UK: BBC 2 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283047
+#EXTINF:-1,UK: BBC 3 HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291212
+#EXTINF:-1,UK: BBC Entertainment HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11663
+#EXTINF:-1,UK: BBC First HD
+http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11586
 
 
 #EXTINF:-1,***** DEPORTES   ****
