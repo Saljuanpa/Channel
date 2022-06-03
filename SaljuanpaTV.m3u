@@ -347,10 +347,14 @@ http://190.83.119.67:8000/play/a0nw/index.m3u8
 http://190.83.119.67:8000/play/a0nv/index.m3u8
 #EXTINF:-1,Star TVE HD
 http://190.83.119.67:8000/play/a0qf/index.m3u8
+
+
 #EXTINF:-1,Telebasel
 https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
 #EXTINF:-1,Tele 1 (1080p)
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+https://list.iptvcat.com/my_list/s/01036139ac8c16810c37610f81eb8f70.m3u8
+#EXTINF:-1,Die Neue Zeit
+https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8
 
 #EXTINF:-1,Nhk premium
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
@@ -385,6 +389,45 @@ http://190.83.119.67:8000/play/a0sf/index.m3u8
 http://190.83.119.67:8000/play/a0rb/index.m3u8
 #EXTINF:-1,VENUS
 http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1,Boomerang  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"
+#EXTINF:-1,Boomerang  
 http://190.83.119.67:8000/play/a0ow/index.m3u8
-
+#EXTINF:-1,Playhouse
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1301
+#EXTINF:-1,Redlight HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1300
+#EXTINF:-1,Prıvate TV HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1299
+#EXTINF:-1,Dorcel HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1231
+#EXTINF:-1,Dorcel XxX  HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1230
+#EXTINF:-1,Vivid Red HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1127
+#EXTINF:-1,Vixen HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1126
+#EXTINF:-1,Erox HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1125
+#EXTINF:-1,Penthouse Gold HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1122
+#EXTINF:-1,Penthouse Quickies HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/838
+#EXTINF:-1,Super One HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/313
+#EXTINF:-1,Xy Plus HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/249
+#EXTINF:-1,Xy Max HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/244
+#EXTINF:-1,Cento X Cento
+http://6fa8g.top:8000/ub421/06XxMAVLJp/239
+#EXTINF:-1,Dream Porn HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/220
+#EXTINF:-1,Evil Angel Europe
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1389
+#EXTINF:-1,Hustler HD
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1393
+#EXTINF:-1,X Bizarre
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1671
+#EXTINF:-1,Bunga Bunga
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1672
+#EXTINF:-1,Emanuelle
+http://6fa8g.top:8000/ub421/06XxMAVLJp/1673
