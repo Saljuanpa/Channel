@@ -1,11 +1,16 @@
 #EXTM3U
-*****  ARTE Y APRENDIZAJE  ****
+
+
+
 #EXTINF:-1,***** ARTE Y APRENDIZAJE ****
 http:?
+						*****  ARTE Y APRENDIZAJE  ****
+
 #EXTINF:-1,El Gourmet
 http://190.83.119.67:8000/play/a0r8/index.m3u
 #EXTINF:-1,Food Food (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0qx/index.m3u8
+
 #EXTINF:-1,Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
 #EXTINF:-1,Film & arts HD
@@ -26,9 +31,9 @@ http://190.83.119.67:8000/play/a0tb/index.m3u8
 #EXTINF:-1,Discovery Theater (Latinoamérica)
 http://190.83.119.67:8000/play/a0sr/index.m3u8
 
-#EXTINF:-1,***** SERIES  Y PELICULAS   ****
+#EXTINF:-1,***** SERIES ****
 http:?
-
+						***** SERIES ****
 #EXTINF:-1,WARNER HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,Warner
@@ -39,10 +44,7 @@ http://190.83.119.67:8000/play/a0s5/index.m3u8
 http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1,Star Channel HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1,TNT Series
-http://190.83.119.67:8000/play/a0pi/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://190.83.119.67:8000/play/a0ta/index.m3u8
+
 
 
 
@@ -57,21 +59,25 @@ http://190.83.119.67:8000/play/a0r4/index.m3u8
 #EXTINF:-1,FX HD
 http://190.83.119.67:8000/play/a0qa/index.m3u8
 
+#EXTINF:-1,TNT Series
+http://190.83.119.67:8000/play/a0pi/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://190.83.119.67:8000/play/a0ta/index.m3u8
+
+#EXTINF:-1,Sun Channel
+http://190.83.119.67:8000/play/a0r9/index.m3u8
 
 
 
 
-
-
-
-
-*****  PELICULAS  ****
+#EXTINF:-1,*****  PELICULAS  ****
+http:?
+						*****  PELICULAS  ****
 
 #EXTINF:-1, Europa HD
 http://190.11.83.98:8000/play/a036
 #EXTINF:-1, Euro Channel
 http://45.226.67.3:58001/play/a01l/index.m3u8
-
 
 #EXTINF:-1,Sony Movies HD
 http://190.83.119.67:8000/play/a0qc/index.m3u8
@@ -79,14 +85,14 @@ http://190.83.119.67:8000/play/a0qc/index.m3u8
 http://190.83.119.67:8000/play/a0pq/index.m3u8
 #EXTINF:-1,TNT HD
 http://190.83.119.67:8000/play/a0sq/index.m3u8
-#EXTINF:-1, DHE
-http://181.176.148.142:8000/play/a027
-
 #EXTINF:-1,AMC
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 #EXTINF:-1,AMC HD
 http://190.83.119.67:8000/play/a0q8/index.m3u8
-
+#EXTINF:-1, DHE
+http://181.176.148.142:8000/play/a027
+#EXTINF:-1,Studio Universal HD
+http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1,Paramount
 http://190.83.119.67:8000/play/a0ol/index.m3u8
 #EXTINF:-1,Paramount HD
@@ -94,17 +100,11 @@ http://190.83.119.67:8000/play/a0t9/index.m3u8
 
 #EXTINF:-1,SPACE
 http://190.83.119.67:8000/play/a0ph/index.m3u8
-
-#EXTINF:-1,Star TVE HD
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://190.83.119.67:8000/play/a0q2/index.m3u8
-#EXTINF:-1,Sun Channel
-http://190.83.119.67:8000/play/a0r9/index.m3u8
 #EXTINF:-1,SyFy
 http://190.83.119.67:8000/play/a0s9/index.m3u8
 #EXTINF:-1,SyFy HD
 http://190.83.119.67:8000/play/a0q3/index.m3u8
+
 
 #EXTINF:-1,UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0om/index.m3u8
@@ -114,6 +114,7 @@ http://190.83.119.67:8000/play/a0v2/index.m3u8
 http://190.83.119.67:8000/play/a0ui/index.m3u8
 #EXTINF:-1,UNIVERSAL PREMIERE O HD
 http://190.83.119.67:8000/play/a0uj/index.m3u8
+
 #EXTINF:-1,HBO
 http://181.189.254.33:8083/play/a04d/index.m3u8
 #EXTINF:-1,HBO Family
@@ -126,12 +127,13 @@ http://181.189.254.33:8083/play/a01k/index.m3u8
 http://181.189.254.33:8083/play/a04e/index.m3u8
 #EXTINF:-1,HBO Pop
 http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMxOjocqStYsqKPbHOsycBwvV_6NHBvZfq73LtTPFhDSp/ts
+
 #EXTINF:-1,Golden
 http://ultra-premium-pro.xyz:8080/pato/pato/137
-#EXTINF:-1,Golden EDGE
-http://tv-cool.com:25461/gabjha593/056b5314ff/29766
-#EXTINF:-1,Golden Plus
-http://xdgo.live:8080/isaiascanchis/2qppP9BVsX/780
+#EXTINF:-1,Golden Edge HQ
+http://qqtv.nl:8080/niloofar/niloofar/20165
+#EXTINF:-1,Golden + HQ
+http://qqtv.nl:8080/niloofar/niloofar/20420
 #EXTINF:-1,Golden Premier
 http://tv-cool.com:25461/gabjha593/056b5314ff/32914
 
@@ -149,39 +151,86 @@ https://2.tunelive.net:3359/stream/play.m3u8
 #EXTINF:-1,Cine Latino
 http://190.83.119.67:8000/play/a0tl/index.m3u8
 
-*****  MUNDO Y ENTRETENIMIENTO ****
+
+
+
+
 #EXTINF:-1,***** MUNDO Y ENTRETENIMIENTO ****
 http:?
+						*****  MUNDO Y ENTRETENIMIENTO ****
 
-#EXTINF:-1,Discovery ID HD
-http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://190.83.119.67:8000/play/a0ob/index.m3u8
+#EXTINF:-1,Animal Planet
+http://190.83.119.67:8000/play/a0sb/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1,National Geographic
+http://190.83.119.67:8000/play/a0pk/index.m3u8
+#EXTINF:-1,National Geographic Wild
+http://qqtv.nl:8080/niloofar/niloofar/20246
+
 #EXTINF:-1,Discovery Science
 http://190.83.119.67:8000/play/a0ny/index.m3u8
+#EXTINF:-1,Discovery ID HD
+http://190.83.119.67:8000/play/a0tf/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://190.83.119.67:8000/play/a0tc/index.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://45.71.185.142:8500/play/a01w
 
 #EXTINF:-1,Home Garden Latino
 http://190.83.119.67:8000/play/a0nx/index.m3u8
 #EXTINF:-1,TLC
 http://190.83.119.67:8000/play/a0sd/index.m3u8
+
+#EXTINF:-1,Mas Chic
+http://190.83.119.67:8000/play/a0nu/index.m3u8
+
+
 #EXTINF:-1,Comedy Central HD
 http://190.83.119.67:8000/play/a0su/index.m3u8
 #EXTINF:-1,TBS
 http://190.83.119.67:8000/play/a0pj/index.m3u8
 #EXTINF:-1,Tru TV
 http://190.83.119.67:8000/play/a0pe/index.m3u8
+
+
+
+
 #EXTINF:-1,***** INFANTILES  ****
 http:?
-#EXTINF:-1,  Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+						***** INFANTILES  ****
+
+#EXTINF:-1,NatGeo Kids HQ
+http://qqtv.nl:8080/niloofar/niloofar/20152
+#EXTINF:-1,Discovery Kids HD
+http://190.83.119.67:8000/play/a0ob/index.m3u8
 #EXTINF:-1,11.2 Once Niñas y Niños
 http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Disney ChannelL
+http://45.71.185.142:8500/play/a017
+#EXTINF:-1,Disney JR
+http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1,Disney XD HQ
+http://qqtv.nl:8080/niloofar/niloofar/20233
+
+
 #EXTINF:-1, Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1,Nick Jr.
+http://190.83.119.67:8000/play/a0p9/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://190.83.119.67:8000/play/a0so/index.m3u8
 #EXTINF:-1,Nickelodeon Classic
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+
+
+#EXTINF:-1,  Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1, Planetatv kids
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1, *Babyfirst | HD
@@ -195,6 +244,8 @@ http://190.83.119.67:8000/play/a0r3/index.m3u8
 *****  MÚSICA Y CONCIERTOS ****
 #EXTINF:-1,***** MÚSICA Y CONCIERTOS ****
 http:?
+						*****  MÚSICA Y CONCIERTOS ****
+
 #EXTINF:-1,MTV 00s HD
 http://190.83.119.67:8000/play/a0sw/index.m3u8
 #EXTINF:-1,MTV 80s
@@ -241,6 +292,11 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 *****  CANALES NACIONALES  ****
 #EXTINF:-1,***** CANALES NACIONALES  ****
 http:?
+						*****  CANALES NACIONALES  ****
+
+
+#EXTINF:-1,Multimedios
+http://190.83.119.67:8000/play/a0og/index.m3u8
 #EXTINF:-1,TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:-1,Canal Catorce
@@ -250,22 +306,20 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 
 
-*****  NACIONALES DE LATINOAMERICA  ****
 
 
-
-
-
-
-***** INTERNACIONALES Y NOTICIAS ****
-#EXTINF:-1,***** INTERNACIONALES Y NOTICIAS  ****
+#EXTINF:-1,***** NOTICIAS  ****
 http:?
+						***** NOTICIAS ****
+
 #EXTINF:-1, *DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1, Euronews Español
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,BBC World
+http://190.83.119.67:8000/play/a0pt/index.m3u8
 #EXTINF:-1, Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1, Weather Nation
@@ -276,16 +330,28 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTINF:-1,CNN en Español
 http://190.83.119.67:8000/play/a0ps/index.m3u8
-#EXTINF:-1,BBC World
-http://190.83.119.67:8000/play/a0pt/index.m3u8
 
 
 
-*****  CANALES INTERNACIONALES  ****
+
+#EXTINF:-1,*****  CANALES INTERNACIONALES  ****
+http:?
+						*****  CANALES INTERNACIONALES  ****
+#EXTINF:-1,Univision HD
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1,TVE
+http://190.83.119.67:8000/play/a0o6/index.m3u8
+#EXTINF:-1,TVChile
+http://190.83.119.67:8000/play/a0nw/index.m3u8
 #EXTINF:-1,Antena 3
 http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:-1,*Telebasel (288p)
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1,Star TVE HD
+http://190.83.119.67:8000/play/a0qf/index.m3u8
+#EXTINF:-1,Telebasel
+https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
+#EXTINF:-1,Tele 1 (1080p)
+https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
+
 #EXTINF:-1,Nhk premium
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 #EXTINF:-1,nhk world Japan_USEETV
@@ -301,9 +367,10 @@ https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
 
 
-*****  DEPORTES ****
+
 #EXTINF:-1,***** DEPORTES   ****
 http:?
+						*****  DEPORTES ****
 #EXTINF:-1,FOX Sports 2
 http://190.83.119.67:8000/play/a0rc/index.m3u8
 #EXTINF:-1,Fox Sport 3
@@ -318,3 +385,5 @@ http://190.83.119.67:8000/play/a0sf/index.m3u8
 http://190.83.119.67:8000/play/a0rb/index.m3u8
 #EXTINF:-1,VENUS
 http://190.83.119.67:8000/play/a0rn/index.m3u8
+#EXTINF:-1,Boomerang  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png"
+http://190.83.119.67:8000/play/a0ow/index.m3u8
