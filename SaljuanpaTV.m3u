@@ -6,7 +6,7 @@
 http:?
 						*****  ARTE Y APRENDIZAJE  ****
 
-#EXTINF:-1, tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png", El Gourmet
+#EXTINF:-1, EL GOURMET
 http://190.83.119.67:8000/play/a0r8/index.m3u
 #EXTINF:-1,Food Food (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0qx/index.m3u8
