@@ -214,7 +214,10 @@ http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eep
 #EXTINF:-1,UK: BBC Entertainment HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11663
 
-
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1, ABC News (US)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654373903/ei/rmmbYqiFOsPhiwSe3ayoCw/ip/20.97.113.88/id/w_Ma8oQLmSM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_t6RTfqXUBYI312DBeSRckwB9Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPkZITO2OSKMMw6ZAWcULAgQ9gIez4aIkGS_d0W4H1opAiB3GKILRD7KqxacwwOcqxoYkpcA1q6PSXR2pROu7i1I9A%3D%3D/file/index.m3u8
 #EXTINF:-1,Telebasel
 https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
 #EXTINF:-1, Kanal9
