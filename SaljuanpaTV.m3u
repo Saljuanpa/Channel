@@ -420,12 +420,7 @@ http://190.83.119.67:8000/play/a0sf/index.m3u8
 #EXTINF:-1,ESPN 3
 http://190.83.119.67:8000/play/a0rb/index.m3u8
 
-#EXTINF:-1,VENUS
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1,Boomerang  
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1,EXTREME HD
-https://edge1.prepro.cvattv.com.ar/live/vod/Sextreme/SA_Live_WebVTT_FTA/Sextreme.m3u8
+
 #EXTINF:-1,Tigo Sports HD
 http://190.83.119.67:8000/play/a0sn/index.m3u8
 #EXTINF:-1,Claro Sports  HD
