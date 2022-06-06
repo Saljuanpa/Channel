@@ -16,6 +16,9 @@ http://190.83.119.67:8000/play/a0oj/index.m3u8
 #EXTINF:-1,Film & arts HD
 http://190.83.119.67:8000/play/a0q6/index.m3u8
 
+#EXTINF:-1,BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1,History Channel
 http://190.83.119.67:8000/play/a0sc/index.m3u8
 #EXTINF:-1,History HD
@@ -34,6 +37,7 @@ http://190.83.119.67:8000/play/a0sr/index.m3u8
 #EXTINF:-1,***** SERIES ****
 http:?
 						***** SERIES ****
+
 #EXTINF:-1,Warner HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,Warner
