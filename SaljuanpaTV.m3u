@@ -6,7 +6,7 @@
 http:?
 						*****  ARTE Y APRENDIZAJE  ****
 
-#EXTINF:-1, El Gourmet ,tvg-logo="https://style.shockvisual.net/wp-content/uploads/2019/02/Logo-El-Gourmet.jpg"
+#EXTINF:-1 tvg-id="ELGOURMET" tvg-name="El Gourmet" tvg-logo="https://conexionbovril.files.wordpress.com/2015/09/elgourmet.jpg" ,El Gourmet
 http://190.83.119.67:8000/play/a0r8/index.m3u8
 #EXTINF:-1,BBC FOOD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
