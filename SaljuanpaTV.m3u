@@ -5,7 +5,10 @@
 #EXTINF:-1,***** ARTE Y APRENDIZAJE ****
 http:?
 						*****  ARTE Y APRENDIZAJE  ****
-
+#EXTINF:-1,El Gourmet
+http://190.83.119.67:8000/play/a0er/index.m3u8 tvg-logo="https://conexionbovril.files.wordpress.com/2015/09/elgourmet.jpg"
+#EXTINF:-1,El Gourmet
+http://190.83.119.67:8000/play/a0er/index.m3u8
 #EXTINF:-1 tvg-logo="https://conexionbovril.files.wordpress.com/2015/09/elgourmet.jpg" ,El Gourmet
 http://190.83.119.67:8000/play/a0r8/index.m3u8
 #EXTINF:-1,BBC FOOD
