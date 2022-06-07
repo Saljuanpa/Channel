@@ -8,6 +8,9 @@ http:?
 
 #EXTINF:-1, EL GOURMET
 http://190.83.119.67:8000/play/a0r8/index.m3u
+#EXTINF:-1,BBC FOOD
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
+
 #EXTINF:-1,Food Food (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0qx/index.m3u8
 
@@ -165,6 +168,8 @@ http://190.83.119.67:8000/play/a0tl/index.m3u8
 http:?
 						*****  MUNDO Y ENTRETENIMIENTO ****
 
+#EXTINF:-1, BBC Earth
+http://195.189.60.227:9091/play/a147
 #EXTINF:-1,Animal Planet
 http://190.83.119.67:8000/play/a0sb/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -206,22 +211,79 @@ http://190.83.119.67:8000/play/a0pe/index.m3u8
 http:?
 						*****  CANALES INTERNACIONALES  ****
 
+#EXTINF:-1,BBC One
+https://cdnuk001.broadcastcdn.net/KUK-BBC1-2022/index.m3u8
+#EXTINF:-1,BBC Two
+https://cdnuk001.broadcastcdn.net/KUK-BBC2/index.m3u8
 
-#EXTINF:-1,UK: BBC 1 HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/697
-#EXTINF:-1,UK: BBC First HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11586
-#EXTINF:-1,UK: BBC 2 HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/283047
-#EXTINF:-1,UK: BBC 3 HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/291212
-#EXTINF:-1,UK: BBC Entertainment HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/11663
+#EXTINF:-1,BBC HOME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a88-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc32be4-4aaf-4114-8ef1-506a40b4c05f&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1,BBC One HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1,BBC One London
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_london.m3u8
+#EXTINF:-1,BBC One Northern Ireland HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_northern_ireland_hd.m3u8
+#EXTINF:-1,BBC One Scotland HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_scotland_hd.m3u8
+#EXTINF:-1,BBC Two HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8
+#EXTINF:-1,BBC Two Wales
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_wales_digital.m3u8
+#EXTINF:-1,BBC Two Northen Ireland
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_northern_ireland_digital.m3u8
+#EXTINF:-1,BBC Two Scotland
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_two_scotland.m3u8
+#EXTINF:-1,BBC Four HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8
+#EXTINF:-1,CBBC HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1,CBeebies HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:-1,BBC News HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_news24.m3u8
+#EXTINF:-1,BBC Parliament
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_parliament.m3u8
+#EXTINF:-1,BBC ALBA
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_alba.m3u8
+#EXTINF:-1,S4C
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/s4cpbs.m3u8
+#EXTINF:-1,BBC One Cambridge
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_cambridge.m3u8
+#EXTINF:-1,BBC One North West
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_west.m3u8
+#EXTINF:-1,BBC One North East
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_north_east.m3u8
+#EXTINF:-1,BBC One South West
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south_west.m3u8
+#EXTINF:-1,BBC One South East
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south_east.m3u8
+#EXTINF:-1,BBC One South
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south.m3u8
+#EXTINF:-1,BBC One East Yorkshire
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_yorkshire.m3u8
+#EXTINF:-1,BBC One Yorks
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_yorks.m3u8
+#EXTINF:-1,BBC One West
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_west.m3u8
+#EXTINF:-1,BBC One South East
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south_east.m3u8
+#EXTINF:-1,BBC One South
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_south.m3u8
+#EXTINF:-1,BBC One Oxford
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_oxford.m3u8
+#EXTINF:-1,BBC One East Midlands
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east_midlands.m3u8
+#EXTINF:-1,BBC One East
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_east.m3u8
+#EXTINF:-1,BBC One Channel Islands
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/hls_tablet/ak/bbc_one_channel_islands.m3u8
 
 #EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1, ABC News (US)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1654373903/ei/rmmbYqiFOsPhiwSe3ayoCw/ip/20.97.113.88/id/w_Ma8oQLmSM.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_t6RTfqXUBYI312DBeSRckwB9Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPkZITO2OSKMMw6ZAWcULAgQ9gIez4aIkGS_d0W4H1opAiB3GKILRD7KqxacwwOcqxoYkpcA1q6PSXR2pROu7i1I9A%3D%3D/file/index.m3u8
 #EXTINF:-1,Telebasel
 https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
 #EXTINF:-1, Kanal9
@@ -262,6 +324,9 @@ http:?
 
 #EXTINF:-1,UK: CBeebies HD
 http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4753
+#EXTINF:-1,BBC Kids
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1,NatGeo Kids HQ
 http://qqtv.nl:8080/niloofar/niloofar/20152
 #EXTINF:-1,Discovery Kids HD
