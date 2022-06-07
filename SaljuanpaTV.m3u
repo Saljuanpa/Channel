@@ -355,13 +355,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-ple
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1, Loop 90's HD
 https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1, Qello Concerts HD
+
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/quelloconcerts.png?raw=true",Qello Concerts HD
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
-#EXTINF:-1, Qwest Classical HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/qwestclassical.png?raw=true",Qwest Classical HD
 https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1, Qwest Jazz e Beyond HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/qwestjazz.png?raw=true",Qwest Jazz e Beyond HD
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1, Qwest TV Mix HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/qwestmix.png?raw=true",Qwest TV Mix HD
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 
