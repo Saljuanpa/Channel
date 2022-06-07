@@ -16,7 +16,7 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
 
 #EXTINF:-1,Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
-#EXTINF:-1,Film & arts HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/film&artsHD.jpg?raw=true",Film & arts HD
 http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1,BBC America
@@ -34,7 +34,9 @@ http://190.83.119.67:8000/play/a0sa/index.m3u8
 #EXTINF:-1,Discovery Channel (Guatemala)
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 
-#EXTINF:-1,Discovery Theater (Latinoamérica)
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.pnge",Discovery Theater (Latinoamérica)
 http://190.83.119.67:8000/play/a0sr/index.m3u8
 
 #EXTINF:-1,***** SERIES ****
@@ -51,7 +53,7 @@ http://45.71.185.142:8500/play/a01a
 http://190.83.119.67:8000/play/a0s5/index.m3u8
 #EXTINF:-1,Sony HD
 http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1,Star Channel HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/starchannel.jpg?raw=true",Star Channel HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
 
 
