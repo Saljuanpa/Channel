@@ -13,19 +13,6 @@ http://190.83.119.67:8000/play/a0r8/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://foodfood.b-cdn.net/images/foodfood.jpg",Food Food
 http://14.199.164.20:4001/play/a0qx/index.m3u8
-#EXTINF:-1, NUEVE
-http://bgapp.live/play/futvall-676.php?id=elnueve&token=blackgghost&f=.m3u8
-#EXTINF:-1, NBA TV HD
-http://89.114.126.46:4000/play/a00w
-
-#EXTINF:-1,CBS New York
-http://96.242.237.206:8000/play/a081/index.m3u8
-#EXTINF:-1,NBC
-http://96.242.237.206:8000/play/a07x/index.m3u8
-#EXTINF:-1,FOX 5
-http://96.242.237.206:8000/play/a075/index.m3u8
-#EXTINF:-1,BBC America
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:-1,Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
@@ -47,9 +34,10 @@ http://190.83.119.67:8000/play/a0sa/index.m3u8
 http://190.83.119.67:8000/play/a0tb/index.m3u8
 
 
-#EXTINF:-1, Discovery Theater
+
+#EXTINF:-1  tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
 http://190.83.119.67:8000/play/a0sr/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_discovery-hd-theater_m.pnge",Discovery Theater (Latinoamérica)
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true",Discovery Theater (Latinoamérica)
 http://190.83.119.67:8000/play/a0sr/index.m3u8
 
 #EXTINF:-1,***** SERIES ****
@@ -227,24 +215,14 @@ http://190.83.119.67:8000/play/a0pe/index.m3u8
 http:?
 						*****  CANALES INTERNACIONALES  ****
 
-#EXTINF:-1,BBC One
-https://cdnuk001.broadcastcdn.net/KUK-BBC1-2022/index.m3u8
-#EXTINF:-1,BBC Two
-https://cdnuk001.broadcastcdn.net/KUK-BBC2/index.m3u8
 
-#EXTINF:-1,BBC HOME
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a88-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc32be4-4aaf-4114-8ef1-506a40b4c05f&userId=&serverSideAds=true
 
-#EXTINF:-1,BBC One NI
-http://87.212.248.44:60230/play/a06z/index.m3u8
-#EXTINF:-1,BBC One South
-http://87.212.248.44:60230/play/a04k/index.m3u8
-#EXTINF:-1,BBC One Yk&Li
-http://87.212.248.44:60230/play/a04d/index.m3u8
-#EXTINF:-1,BBC Two NI
-http://87.212.248.44:60230/play/a070/index.m3u8
-#EXTINF:-1,BBC Two Wales
-http://87.212.248.44:60230/play/a04i/index.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1,BBC One
 http://93.152.174.144:4000/play/bbc1/index.m3u8
@@ -256,9 +234,9 @@ http://93.152.174.144:4000/play/bbc2/index.m3u8
 http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
 #EXTINF:-1,BBC Four
 http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
+#EXTINF:-1,BBC HOME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a88-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc32be4-4aaf-4114-8ef1-506a40b4c05f&userId=&serverSideAds=true
 
-#EXTINF:-1,ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,Telebasel
 https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
 #EXTINF:-1, Kanal9
@@ -270,6 +248,13 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36
 #EXTINF:-1,TeleBielingue (720p)
 https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 
+
+#EXTINF:-1,1-2-3 TV (480p)
+http://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1,*Das Erste (720p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1,Das Erste HD
+http://185.236.229.20:9091/play/a020
 #EXTINF:-1,Die Neue Zeit
 https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8
 
@@ -279,14 +264,16 @@ http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1,Hallmark Movies & More (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1,1-2-3 TV (480p)
-http://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1,*Das Erste (720p)
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1,Das Erste HD
-http://185.236.229.20:9091/play/a020
 
 
+#EXTINF:-1,CBS New York
+http://96.242.237.206:8000/play/a081/index.m3u8
+#EXTINF:-1,NBC
+http://96.242.237.206:8000/play/a07x/index.m3u8
+#EXTINF:-1,FOX 5
+http://96.242.237.206:8000/play/a075/index.m3u8
+#EXTINF:-1,BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
 
 
@@ -453,6 +440,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-ple
 https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
 #EXTINF:-1, NBC News
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_3_1896000.m3u8
+#EXTINF:-1,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,CNN Internacional
 http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTINF:-1,CNN en Español
@@ -486,3 +475,6 @@ http://190.83.119.67:8000/play/a0sn/index.m3u8
 http://190.83.119.67:8000/play/a0on/index.m3u8
 #EXTINF:-1,Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
+
+#EXTINF:-1, NBA TV HD
+http://89.114.126.46:4000/play/a00w
