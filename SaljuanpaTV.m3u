@@ -14,13 +14,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d00079
 #EXTINF:-1 tvg-logo="https://foodfood.b-cdn.net/images/foodfood.jpg",Food Food
 http://14.199.164.20:4001/play/a0qx/index.m3u8
 
+#EXTINF:-1, NBA TV HD
+http://89.114.126.46:4000/play/a00w
+
+#EXTINF:-1,CBS New York
+http://96.242.237.206:8000/play/a081/index.m3u8
+#EXTINF:-1,NBC
+http://96.242.237.206:8000/play/a07x/index.m3u8
+#EXTINF:-1,FOX 5
+http://96.242.237.206:8000/play/a075/index.m3u8
+#EXTINF:-1,BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1,Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/film&artsHD.jpg?raw=true",Film & arts HD
 http://190.83.119.67:8000/play/a0q6/index.m3u8
 
-#EXTINF:-1,BBC America
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 
 #EXTINF:-1,History Channel
 http://190.83.119.67:8000/play/a0sc/index.m3u8
@@ -234,6 +245,16 @@ http://87.212.248.44:60230/play/a070/index.m3u8
 #EXTINF:-1,BBC Two Wales
 http://87.212.248.44:60230/play/a04i/index.m3u8
 
+#EXTINF:-1,BBC One
+http://93.152.174.144:4000/play/bbc1/index.m3u8
+#EXTINF:-1,BBC One HD (op3)
+http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
+#EXTINF:-1,BBC Two HD
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:-1,BBC Two
+http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+#EXTINF:-1,BBC Four
+http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
 
 #EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
