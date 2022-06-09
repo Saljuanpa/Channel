@@ -13,7 +13,8 @@ http://190.83.119.67:8000/play/a0r8/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://foodfood.b-cdn.net/images/foodfood.jpg",Food Food
 http://14.199.164.20:4001/play/a0qx/index.m3u8
-
+#EXTINF:-1, NUEVE
+http://bgapp.live/play/futvall-676.php?id=elnueve&token=blackgghost&f=.m3u8
 #EXTINF:-1, NBA TV HD
 http://89.114.126.46:4000/play/a00w
 
