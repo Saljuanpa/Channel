@@ -13,6 +13,10 @@ http://190.83.119.67:8000/play/a0r8/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://foodfood.b-cdn.net/images/foodfood.jpg",Food Food
 http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1,MY CUISINE TV
+http://ott.topstb.net:8000/50273111817787/77927202498065/54958
+
+
 
 #EXTINF:-1,Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
@@ -258,6 +262,21 @@ http://185.236.229.20:9091/play/a020
 #EXTINF:-1,Die Neue Zeit
 https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8
 
+
+
+#EXTINF:-1,FRANCE 3 HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/61
+#EXTINF:-1,FRANCE 4 FULL HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/23758
+#EXTINF:-1,TMC HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/2570
+#EXTINF:-1,TV5
+http://ott.topstb.net:8000/50273111817787/77927202498065/2611
+#EXTINF:-1,TEVA FULL HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/23693
+#EXTINF:-1,ARTE SD
+http://ott.topstb.net:8000/50273111817787/77927202498065/80989
+
 #EXTINF:-1,Nhk premium
 http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 #EXTINF:-1,nhk world Japan_USEETV
@@ -369,6 +388,12 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/GospelmusicTV.png?raw=true" group-title="MUSICA",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
 
+
+
+#EXTINF:-1,MEZZO FR
+http://ott.topstb.net:8000/50273111817787/77927202498065/46198
+#EXTINF:-1,MEZZO LIVE
+http://ott.topstb.net:8000/50273111817787/77927202498065/46199
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/vivaldi.png?raw=true" group-title="MUSICA",Vivaldi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=61bb9a63e0b39cfe304c9a8a
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/loop-80s.png?raw=true" group-title="MUSICA",Loop 80's HD
