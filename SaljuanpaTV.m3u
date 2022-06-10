@@ -13,6 +13,8 @@ http://190.83.119.67:8000/play/a0r8/index.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://foodfood.b-cdn.net/images/foodfood.jpg",Food Food
 http://14.199.164.20:4001/play/a0qx/index.m3u8
+#EXTINF:-1,Pluto TV Cuisine
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61768f3c56cbce00075a06b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:-1,MY CUISINE TV
 http://ott.topstb.net:8000/50273111817787/77927202498065/54958
 
@@ -221,13 +223,8 @@ http:?
 
 
 
-
-
-
-
-
-
-
+#EXTINF:-1,BBC America
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1,BBC One
 http://93.152.174.144:4000/play/bbc1/index.m3u8
 #EXTINF:-1,BBC One HD (op3)
@@ -291,8 +288,7 @@ http://96.242.237.206:8000/play/a081/index.m3u8
 http://96.242.237.206:8000/play/a07x/index.m3u8
 #EXTINF:-1,FOX 5
 http://96.242.237.206:8000/play/a075/index.m3u8
-#EXTINF:-1,BBC America
-https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 
 
 
