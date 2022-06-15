@@ -9,9 +9,9 @@ http:?
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png",El Gourmet
 http://190.83.119.67:8000/play/a0r8/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/bbcfood.jpg?raw=true",BBC FOOD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/bbcfood2.png?raw=true",BBC FOOD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
-#EXTINF:-1 tvg-logo="https://foodfood.b-cdn.net/images/foodfood.jpg",Food Food
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Food_Food_logo.png?raw=true",Food Food
 http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:-1,Pluto TV Cuisine
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61768f3c56cbce00075a06b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
@@ -22,7 +22,7 @@ http://ott.topstb.net:8000/50273111817787/77927202498065/54958
 
 #EXTINF:-1,Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/film&artsHD.jpg?raw=true",Film & arts HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/FILMANDARTS.png?raw=true",Film & arts HD
 http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 
@@ -51,15 +51,15 @@ http://190.83.119.67:8000/play/a0sr/index.m3u8
 #EXTINF:-1,***** SERIES ****
 http:?
 						***** SERIES ****
-#EXTINF:-1,Warner TV -1hrs
-http://45.71.185.142:8500/play/a01a
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_1.png?raw=true",Warner MX
+http://190.61.102.67:31589/play/a01f/index.m3u8
 #EXTINF:-1,Warner HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,Warner
 http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1,Warner 2
-http://190.61.102.67:31589/play/a01f/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_2.png?raw=true",Warner +1hrs
+http://45.71.185.142:8500/play/a01a
 
 #EXTINF:-1,Sony
 http://190.83.119.67:8000/play/a0s5/index.m3u8
@@ -105,8 +105,9 @@ http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173420.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/Euro-channel.png?raw=true",Euro Channel
 http://45.226.67.3:58001/play/a01l/index.m3u8
 
-#EXTINF:-1,Sony Movies HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/Sony_Movies.png?raw=true",Sony Movies HD
 http://190.83.119.67:8000/play/a0qc/index.m3u8
+
 #EXTINF:-1,TNT
 http://190.83.119.67:8000/play/a0pq/index.m3u8
 #EXTINF:-1,TNT HD
