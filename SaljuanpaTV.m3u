@@ -31,36 +31,45 @@ http://190.83.119.67:8000/play/a0q6/index.m3u8
 http://190.83.119.67:8000/play/a0sc/index.m3u8
 #EXTINF:-1,History HD
 http://190.83.119.67:8000/play/a0px/index.m3u8
+#EXTINF:-1,History 2
+http://190.61.102.67:31589/play/a017/index.m3u8
+
 #EXTINF:-1,H2
 http://190.83.119.67:8000/play/a0r7/index.m3u8
 
-#EXTINF:-1,Discovery Channel (Guatemala)
+#EXTINF:-1,Discovery Channel 
 http://190.83.119.67:8000/play/a0sa/index.m3u8
-#EXTINF:-1,Discovery Channel (Guatemala)
-http://190.83.119.67:8000/play/a0tb/index.m3u8
+#EXTINF:-1,Discovery 2
+http://190.61.102.67:31589/play/a03x/index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
 http://190.83.119.67:8000/play/a0sr/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true",Discovery Theater (Latinoamérica)
-http://190.83.119.67:8000/play/a0sr/index.m3u8
+
 
 #EXTINF:-1,***** SERIES ****
 http:?
 						***** SERIES ****
-
+#EXTINF:-1,Warner TV -1hrs
+http://45.71.185.142:8500/play/a01a
 #EXTINF:-1,Warner HD
 http://190.83.119.67:8000/play/a0tk/index.m3u8
 #EXTINF:-1,Warner
 http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1,Warner TV
-http://45.71.185.142:8500/play/a01a
+#EXTINF:-1,Warner 2
+http://190.61.102.67:31589/play/a01f/index.m3u8
+
+
 #EXTINF:-1,Sony
 http://190.83.119.67:8000/play/a0s5/index.m3u8
 #EXTINF:-1,Sony HD
 http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/starchannel.jpg?raw=true",Star Channel HD
+#EXTINF:-1,Sony 2
+http://190.61.102.67:31589/play/a002/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Star_Channel.png?raw=true",Star Channel HD
 http://190.83.119.67:8000/play/a0si/index.m3u8
 
 
@@ -79,8 +88,7 @@ http://190.83.119.67:8000/play/a0qa/index.m3u8
 
 #EXTINF:-1,TNT Series
 http://190.83.119.67:8000/play/a0pi/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://190.83.119.67:8000/play/a0ta/index.m3u8
+
 
 #EXTINF:-1,Sun Channel
 http://190.83.119.67:8000/play/a0r9/index.m3u8
@@ -92,9 +100,9 @@ http://190.83.119.67:8000/play/a0r9/index.m3u8
 http:?
 						*****  PELICULAS  ****
 
-#EXTINF:-1, Europa HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/europa-europa.png?raw=true", Europa HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173420.m3u8
-#EXTINF:-1, Euro Channel
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/Euro-channel.png?raw=true",Euro Channel
 http://45.226.67.3:58001/play/a01l/index.m3u8
 
 #EXTINF:-1,Sony Movies HD
@@ -124,13 +132,12 @@ http://190.83.119.67:8000/play/a0s9/index.m3u8
 http://190.83.119.67:8000/play/a0q3/index.m3u8
 
 
-#EXTINF:-1,UNIVERSAL CINEMA
+
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-cinema.png?raw=true",UNIVERSAL CINEMA
 http://190.83.119.67:8000/play/a0om/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-cinema-HD.png?raw=true",UNIVERSAL CINEMA HD
 http://190.83.119.67:8000/play/a0v2/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://190.83.119.67:8000/play/a0ui/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE O HD
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-premiere-HD.png?raw=true",UNIVERSAL PREMIERE HD
 http://190.83.119.67:8000/play/a0uj/index.m3u8
 
 #EXTINF:-1,HBO
@@ -143,8 +150,7 @@ http://181.189.254.33:8083/play/a04f/index.m3u8
 http://181.189.254.33:8083/play/a01k/index.m3u8
 #EXTINF:-1,HBO2
 http://181.189.254.33:8083/play/a04e/index.m3u8
-#EXTINF:-1,HBO Pop
-http://xdgo.live:8080/play/SuZHV17nQQyn4hP8B2VLMxOjocqStYsqKPbHOsycBwvV_6NHBvZfq73LtTPFhDSp/ts
+
 
 #EXTINF:-1,Golden
 http://45.5.119.202:8000/play/a00n/index.m3u8
@@ -153,7 +159,8 @@ http://qqtv.nl:8080/niloofar/niloofar/20165
 #EXTINF:-1,Golden + HQ
 http://qqtv.nl:8080/niloofar/niloofar/20420
 #EXTINF:-1,Golden Premier
-http://tv-cool.com:25461/gabjha593/056b5314ff/32914
+http://51.222.43.170:36995/A028/49TZXgbA38cd/260559
+
 
 #EXTINF:-1,CINECANAL HD
 http://190.83.119.67:8000/play/a0sl/index.m3u8
@@ -164,8 +171,8 @@ http://190.83.119.67:8000/play/a0o5/index.m3u8
 
 #EXTINF:-1,TCM
 http://190.83.119.67:8000/play/a0ri/index.m3u8
-#EXTINF:-1, De Pelicula Plus
-https://2.tunelive.net:3359/stream/play.m3u8
+#EXTINF:-1, De Pelicula
+http://hispanotv.net:8080/HERBERT01/HERBERT01/85912
 #EXTINF:-1,Cine Latino
 http://190.83.119.67:8000/play/a0tl/index.m3u8
 
@@ -254,8 +261,6 @@ https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
 http://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1,*Das Erste (720p)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1,Das Erste HD
-http://185.236.229.20:9091/play/a020
 #EXTINF:-1,Die Neue Zeit
 https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8
 
@@ -274,9 +279,9 @@ http://ott.topstb.net:8000/50273111817787/77927202498065/23693
 #EXTINF:-1,ARTE SD
 http://ott.topstb.net:8000/50273111817787/77927202498065/80989
 
-#EXTINF:-1,Nhk premium
-http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
-#EXTINF:-1,nhk world Japan_USEETV
+#EXTINF:-1,NHK Premium
+http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
+#EXTINF:-1,NHK world
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1,Hallmark Movies & More (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
@@ -299,8 +304,8 @@ http:?
 						***** INFANTILES  ****
 
 
-#EXTINF:-1,UK: CBeebies HD
-http://iptvtree.net:8080/outputofflinechecker/AiPh5engoo2AinahKeeZoh7je0bem3.eepon/4753
+#EXTINF:-1,CBeebies 
+http://pandaiptv.club:8080/nWpRaEBj/bF1GzUj6/6146
 #EXTINF:-1,BBC Kids
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -428,7 +433,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 
 
-*****  HISPANOS  ****
+						*****  HISPANOS  ****
 
 #EXTINF:-1,Univision HD
 http://190.83.119.67:8000/play/a0v0/index.m3u8
