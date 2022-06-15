@@ -142,15 +142,15 @@ http://190.83.119.67:8000/play/a0v2/index.m3u8
 http://190.83.119.67:8000/play/a0uj/index.m3u8
 
 #EXTINF:-1,HBO
-http://181.189.254.33:8083/play/a04d/index.m3u8
-#EXTINF:-1,HBO Family
-http://181.189.254.33:8083/play/a04g/index.m3u8
+http://45.5.119.202:8000/play/a021/index.m3u8
 #EXTINF:-1,HBO Plus
-http://181.189.254.33:8083/play/a04f/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://181.189.254.33:8083/play/a01k/index.m3u8
+http://45.5.119.202:8000/play/a023/index.m3u8
 #EXTINF:-1,HBO2
-http://181.189.254.33:8083/play/a04e/index.m3u8
+http://45.5.119.202:8000/play/a022/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.5.119.202:8000/play/a024/index.m3u8
+#EXTINF:-1,HBO XTREME
+http://45.5.119.202:8000/play/a025/index.m3u8
 
 
 #EXTINF:-1,Golden
