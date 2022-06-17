@@ -186,7 +186,7 @@ http:?
 						*****  MUNDO Y ENTRETENIMIENTO ****
 
 #EXTINF:-1, BBC Earth
-http://195.189.60.227:9091/play/a147
+http://77.89.204.105:8003/play/a00b/index.m3u8
 #EXTINF:-1,Animal Planet
 http://190.83.119.67:8000/play/a0sb/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -254,8 +254,7 @@ https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1,Tele ZURI (720p)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36k3uk/protocol/https/format/applehttp/flavorIds/1_i4zc9zv3,1_2vzxm8zl,1_yjohpwzj/a.m3u8
-#EXTINF:-1,TeleBielingue (720p)
-https://edge.vedge.infomaniak.com/livecast/ik:telebielinguech/manifest.m3u8
+
 
 
 #EXTINF:-1,1-2-3 TV (480p)
@@ -283,7 +282,9 @@ http://ott.topstb.net:8000/50273111817787/77927202498065/80989
 #EXTINF:-1,NHK Premium
 http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
 #EXTINF:-1,NHK world
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+
+
 #EXTINF:-1,Hallmark Movies & More (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
