@@ -463,30 +463,7 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
 #EXTINF:-1,ADN40
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1,AZTECA UNO
-http://187.247.148.24:9981/stream/channelid/196543799?profile=pass
-#EXTINF:-1,CANAL 5
-http://187.247.148.24:9981/stream/channelid/1337183996?profile=pass
-#EXTINF:-1,AZTECA 7
-http://187.247.148.24:9981/stream/channelid/1540198928?profile=pass
-#EXTINF:-1,IMAGEN
-http://187.247.148.24:9981/stream/channelid/1504624240?profile=pass
-#EXTINF:-1,ONCE
-http://187.247.148.24:9981/stream/channelid/437331176?profile=pass
-#EXTINF:-1,CANAL 22
-http://187.247.148.24:9981/stream/channelid/1376250294?profile=pass
-#EXTINF:-1,Canal 22.2
-http://187.247.148.24:9981/stream/channelid/829298852?profile=pass
-#EXTINF:-1,Canal Catorce
-https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
-#EXTINF:-1,FORO tv
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1,TELEFORMULA
-http://187.247.148.24:9981/stream/channelid/1504671074?profile=pass
-#EXTINF:-1,MILENIO
-http://187.247.148.24:9981/stream/channelid/1978613677?profile=pass
-#EXTINF:-1,TV UNAM
-http://187.247.148.24:9981/stream/channelid/461230648?profile=pass
+
 
 
 
@@ -558,6 +535,3 @@ http://190.83.119.67:8000/play/a0sn/index.m3u8
 http://190.83.119.67:8000/play/a0on/index.m3u8
 #EXTINF:-1,Golf Channel
 http://190.83.119.67:8000/play/a0o3/index.m3u8
-
-#EXTINF:-1, NBA TV HD
-http://89.114.126.46:4000/play/a00w
