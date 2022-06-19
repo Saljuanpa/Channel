@@ -35,7 +35,7 @@ http://190.83.119.67:8000/play/a0px/index.m3u8
 http://190.61.102.67:31589/play/a017/index.m3u8
 
 #EXTINF:-1,H2
-http://190.83.119.67:8000/play/a0r7/index.m3u8
+http://54.219.95.167:8000/play/a0dj/index.m3u8
 
 #EXTINF:-1,Discovery Channel 
 http://190.83.119.67:8000/play/a0sa/index.m3u8
@@ -142,21 +142,25 @@ http://190.83.119.67:8000/play/a0v2/index.m3u8
 http://190.83.119.67:8000/play/a0uj/index.m3u8
 
 #EXTINF:-1,HBO
-http://45.5.119.202:8000/play/a021/index.m3u8
+http://54.219.95.167:8000/play/a0c5/index.m3u8
 #EXTINF:-1,HBO Plus
-http://45.5.119.202:8000/play/a023/index.m3u8
+http://54.219.95.167:8000/play/a0cv/index.m3u8
 #EXTINF:-1,HBO2
-http://45.5.119.202:8000/play/a022/index.m3u8
+http://54.219.95.167:8000/play/a0ct/index.m3u8
 #EXTINF:-1,HBO Family
-http://45.5.119.202:8000/play/a024/index.m3u8
+#EXTINF:-1,HBO FAMILY
+http://54.219.95.167:8000/play/a0cu/index.m3u8
+#EXTINF:-1,HBO MUNDI
+http://54.219.95.167:8000/play/a0jj/index.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://54.219.95.167:8000/play/a0ji/index.m3u8
 #EXTINF:-1,HBO XTREME
-http://45.5.119.202:8000/play/a025/index.m3u8
-
+http://54.219.95.167:8000/play/a096/index.m3u8
 
 #EXTINF:-1,Golden
-http://45.5.119.202:8000/play/a00n/index.m3u8
+http://45.225.88.39:8000/play/a04o/index.m3u8
 #EXTINF:-1,Golden Edge HQ
-http://qqtv.nl:8080/niloofar/niloofar/20165
+http://45.167.250.116:20023/play/a0f5/index.m3u8
 #EXTINF:-1,Golden + HQ
 http://qqtv.nl:8080/niloofar/niloofar/20420
 #EXTINF:-1,Golden Premier
@@ -233,12 +237,13 @@ http:?
 
 #EXTINF:-1,BBC America
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1,BBC One
-http://93.152.174.144:4000/play/bbc1/index.m3u8
-#EXTINF:-1,BBC One HD (op3)
+http://43.154.156.119:10000/play/bbc1-hd
+#EXTINF:-1,BBC One HD 
 http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
 #EXTINF:-1,BBC Two HD
-http://93.152.174.144:4000/play/bbc2/index.m3u8
+http://43.154.156.119:10000/play/bbc2-hd
 #EXTINF:-1,BBC Two
 http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
 #EXTINF:-1,BBC Four
@@ -433,8 +438,7 @@ https://video.cdmx.gob.mx/livestream/stream.m3u8
 
 #EXTINF:-1,las estrellas MX
 http://190.61.102.67:31589/play/a00g/index.m3u8
-#EXTINF:-1,Canal 5 MX
-http://190.61.102.67:31589/play/a038/index.m3u8
+
 #EXTINF:-1,Imagen tv
 http://190.61.102.67:31589/play/a00h/index.m3u8
 #EXTINF:-1,Azteca 1 SD
@@ -461,8 +465,7 @@ http://190.61.102.67:31589/play/a00y/index.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,N+ televisa
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_5.m3u8
-#EXTINF:-1,ADN40
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
 
 
 
