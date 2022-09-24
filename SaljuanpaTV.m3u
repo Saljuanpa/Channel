@@ -7,18 +7,19 @@ http:?
 #EXTINF:-1,Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1,Once Mexico
-https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
+http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/59.m3u8
 #EXTINF:-1,TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:-1,Canal 22-1
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1,Canal 22-2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
+#EXTINF:-1,8.1 La Octava
+http://magmas5.com:8000/live/malotv/gratis/149119.m3u8
 #EXTINF:-1,canal 14 CDMX
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
-#EXTINF:-1,MEXIQUENSE
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
+#EXTINF:-1,34.1 Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w376735839.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDQ6MDg6MTEgQU0maGFzaF92YWx1ZT1ySG13SHNrSE5yTWx5RWJYcTQvZkhRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 #EXTINF:-1,las estrellas MX
 http://190.61.102.67:31589/play/a00g/index.m3u8
@@ -32,9 +33,8 @@ http://190.61.102.67:31589/play/a00i/index.m3u8
 
 #EXTINF:-1,estrella tv roku
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
-
 #EXTINF:-1,Multimedios
-http://190.83.119.67:8000/play/a0og/index.m3u8
+http://201.108.244.159:4000/play/a085
 
 #EXTINF:-1,Milenio Televisión (XHTDMX-TDT2)
 http://190.61.102.67:31589/play/a00y/index.m3u8
@@ -47,35 +47,36 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1,***** 19 ARTE Y APRENDIZAJE ****
 http:?
+
 						*****  ARTE Y APRENDIZAJE  ****
 
 
 #EXTINF:-1,Film & Arts
-http://190.83.119.67:8000/play/a0oj/index.m3u8
+http://201.108.244.159:4000/play/a088
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/FILMANDARTS.png?raw=true",Film & arts HD
-http://190.83.119.67:8000/play/a0q6/index.m3u8
-
+http://201.108.244.159:4000/play/a06f
 
 
 #EXTINF:-1,21 History Channel
-http://190.83.119.67:8000/play/a0sc/index.m3u8
+http://201.108.244.159:4000/play/a046
 #EXTINF:-1,History HD
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1,History 2
-http://190.61.102.67:31589/play/a017/index.m3u8
+http://201.108.244.159:4000/play/a07t
 
 #EXTINF:-1,H2
 http://54.219.95.167:8000/play/a0dj/index.m3u8
 
 #EXTINF:-1, 25 Discovery Channel 
-http://190.83.119.67:8000/play/a0sa/index.m3u8
+http://201.108.244.159:4000/play/a044
+#EXTINF:-1,Discovery Channel HD
+http://201.108.244.159:4000/play/a019
+
 #EXTINF:-1,Discovery 2
 http://190.61.102.67:31589/play/a03x/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
-http://190.83.119.67:8000/play/a0sr/index.m3u8
+http://201.108.244.159:4000/play/a033
 
 
 #EXTINF:-1,***** 29 SERIES ****
@@ -84,45 +85,44 @@ http:?
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_1.png?raw=true", 29 Warner MX
 http://190.61.102.67:31589/play/a01f/index.m3u8
 #EXTINF:-1,Warner HD
-http://190.83.119.67:8000/play/a0tk/index.m3u8
+http://201.108.244.159:4000/play/a04d
 #EXTINF:-1,Warner
-http://190.83.119.67:8000/play/a0s6/index.m3u8
+http://201.108.244.159:4000/play/a040
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_2.png?raw=true",Warner +1hrs
 http://45.71.185.142:8500/play/a01a
 
 #EXTINF:-1,Sony
-http://190.83.119.67:8000/play/a0s5/index.m3u8
+http://201.108.244.159:4000/play/a03z
 #EXTINF:-1,Sony HD
-http://190.83.119.67:8000/play/a0sk/index.m3u8
+http://201.108.244.159:4000/play/a04e
 #EXTINF:-1,Sony 2
 http://190.61.102.67:31589/play/a002/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Star_Channel.png?raw=true",Star Channel HD
-http://190.83.119.67:8000/play/a0si/index.m3u8
-
+http://201.108.244.159:4000/play/a04c
 
 
 
 #EXTINF:-1,A&E
-http://190.83.119.67:8000/play/a0s8/index.m3u8
+http://201.108.244.159:4000/play/a042
 #EXTINF:-1,A&E HD
-http://190.83.119.67:8000/play/a0q7/index.m3u8
+http://201.108.244.159:4000/play/a06g
 #EXTINF:-1,AXN
-http://190.83.119.67:8000/play/a0pp/index.m3u8
+http://201.108.244.159:4000/play/a07l
+#EXTINF:-1,AXN HD
+http://201.108.244.159:4000/play/a02j
 #EXTINF:-1,FX
-http://190.83.119.67:8000/play/a0r4/index.m3u8
+http://201.108.244.159:4000/play/a09y
 #EXTINF:-1,FX HD
-http://190.83.119.67:8000/play/a0qa/index.m3u8
+http://201.108.244.159:4000/play/a06j
 
 #EXTINF:-1,TNT Series
-http://190.83.119.67:8000/play/a0pi/index.m3u8
-
+http://201.108.244.159:4000/play/a07e
 
 #EXTINF:-1,Sun Channel
-http://190.83.119.67:8000/play/a0r9/index.m3u8
-
+http://201.108.244.159:4000/play/a0a3
 
 
 
@@ -133,43 +133,43 @@ http:?
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/europa-europa.png?raw=true", Europa HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173420.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/Euro-channel.png?raw=true",Euro Channel
-http://45.226.67.3:58001/play/a01l/index.m3u8
+http://201.108.244.159:4000/play/a0a0
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/Sony_Movies.png?raw=true",Sony Movies HD
-http://190.83.119.67:8000/play/a0qc/index.m3u8
+http://201.108.244.159:4000/play/a06l
 
 #EXTINF:-1,TNT
-http://190.83.119.67:8000/play/a0pq/index.m3u8
+http://201.108.244.159:4000/play/a07m
 #EXTINF:-1,TNT HD
-http://190.83.119.67:8000/play/a0sq/index.m3u8
+http://201.108.244.159:4000/play/a032
+
 #EXTINF:-1,AMC
-http://190.83.119.67:8000/play/a0pr/index.m3u8
+http://201.108.244.159:4000/play/a07n
 #EXTINF:-1,AMC HD
-http://190.83.119.67:8000/play/a0q8/index.m3u8
+http://201.108.244.159:4000/play/a06h
 #EXTINF:-1, DHE
 http://181.176.148.142:8000/play/a027
 #EXTINF:-1,Studio Universal HD
-http://190.83.119.67:8000/play/a0q2/index.m3u8
+http://201.108.244.159:4000/play/a06b
 #EXTINF:-1,Paramount
-http://190.83.119.67:8000/play/a0ol/index.m3u8
+http://201.108.244.159:4000/play/a08a
 #EXTINF:-1,Paramount HD
-http://190.83.119.67:8000/play/a0t9/index.m3u8
+http://201.108.244.159:4000/play/a017
 
 #EXTINF:-1,SPACE
-http://190.83.119.67:8000/play/a0ph/index.m3u8
+http://201.108.244.159:4000/play/a07d
 #EXTINF:-1,SyFy
-http://190.83.119.67:8000/play/a0s9/index.m3u8
-#EXTINF:-1,SyFy HD
-http://190.83.119.67:8000/play/a0q3/index.m3u8
+http://201.108.244.159:4000/play/a043
+
 
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-cinema.png?raw=true",UNIVERSAL CINEMA
-http://190.83.119.67:8000/play/a0om/index.m3u8
+http://201.108.244.159:4000/play/a08b
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-cinema-HD.png?raw=true",UNIVERSAL CINEMA HD
-http://190.83.119.67:8000/play/a0v2/index.m3u8
+http://201.108.244.159:4000/play/a01e
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-premiere-HD.png?raw=true",UNIVERSAL PREMIERE HD
-http://190.83.119.67:8000/play/a0uj/index.m3u8
+http://201.108.244.159:4000/play/a039
 
 #EXTINF:-1,HBO
 http://45.71.185.142:8500/play/a02v
@@ -190,29 +190,27 @@ http://45.184.160.146:8000/play/a00k
 http://45.184.160.146:8000/play/a00l
 
 #EXTINF:-1,Golden
-http://45.225.88.39:8000/play/a04o/index.m3u8
-#EXTINF:-1,Golden Edge HQ
-http://45.167.250.116:20023/play/a0f5/index.m3u8
-#EXTINF:-1,Golden + HQ
-http://qqtv.nl:8080/niloofar/niloofar/20420
-#EXTINF:-1,Golden Premier
-http://51.222.43.170:36995/A028/49TZXgbA38cd/260559
+http://201.108.244.159:4000/play/a0ab
+#EXTINF:-1,Golden Premiere 2 HD
+http://201.108.244.159:4000/play/a00s
+#EXTINF:-1,Golden Premiere HD
+http://201.108.244.159:4000/play/a091
 
 
 #EXTINF:-1,CINECANAL HD
-http://190.83.119.67:8000/play/a0sl/index.m3u8
-
+http://201.108.244.159:4000/play/a04f
+#EXTINF:-1,CineMax
+http://201.108.244.159:4000/play/a027
 #EXTINF:-1,Multicinema
-http://190.83.119.67:8000/play/a0o5/index.m3u8
-
+http://201.108.244.159:4000/play/a00k
+#EXTINF:-1,Multipremier
+http://201.108.244.159:4000/play/a025
 
 #EXTINF:-1,TCM
-http://190.83.119.67:8000/play/a0ri/index.m3u8
-#EXTINF:-1, De Pelicula
-http://hispanotv.net:8080/HERBERT01/HERBERT01/85912
-#EXTINF:-1,Cine Latino
-http://190.83.119.67:8000/play/a0tl/index.m3u8
+http://201.108.244.159:4000/play/a0ac
 
+#EXTINF:-1,Cine Latino
+http://201.108.244.159:4000/play/a026
 
 
 
