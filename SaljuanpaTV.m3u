@@ -53,24 +53,28 @@ http:?
 						*****  ARTE Y APRENDIZAJE  ****
 
 
-#EXTINF:-1,Film & Arts
+EXTINF:-1,Film & Arts
 http://201.108.244.159:4000/play/a088
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/FILMANDARTS.png?raw=true",Film & arts HD
-http://201.108.244.159:4000/play/a06f
+http://160.20.164.171:8001/play/a01t
+
+#EXTINF:-1,History Channel
+http://45.233.169.1:8000/play/a024
+#EXTINF:-1,History Channel HD
+http://45.233.169.1:8000/play/a05i
 
 
 #EXTINF:-1,21 History Channel
-http://201.108.244.159:4000/play/a046
+http://160.20.164.171:8001/play/a00n
 #EXTINF:-1,History HD
-http://201.108.244.159:4000/play/a07t
-
+http://95.211.250.58/HISTORY/index.m3u8
 #EXTINF:-1,History 2
 http://190.61.102.67:31589/play/a017/index.m3u8
 
 #EXTINF:-1, 25 Discovery Channel 
-http://201.108.244.159:4000/play/a044
+http://45.233.169.1:8000/play/a01n
 #EXTINF:-1,Discovery Channel HD
-http://201.108.244.159:4000/play/a019
+http://45.233.169.1:8000/play/a00k
 
 #EXTINF:-1,Discovery 2
 http://190.61.102.67:31589/play/a03x/index.m3u8
@@ -78,18 +82,19 @@ http://190.61.102.67:31589/play/a03x/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
-http://201.108.244.159:4000/play/a033
-
+http://45.233.169.1:8000/play/a00j
 
 #EXTINF:-1,***** 29 SERIES ****
 http:?
 						***** SERIES ****
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_1.png?raw=true", 29 Warner MX
 http://190.61.102.67:31589/play/a01f/index.m3u8
+#EXTINF:-1,Warner
+http://45.233.169.1:8000/play/a02v
 #EXTINF:-1,Warner HD
 http://201.108.244.159:4000/play/a04d
-#EXTINF:-1,Warner
-http://201.108.244.159:4000/play/a040
+
+
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_2.png?raw=true",Warner +1hrs
 http://45.71.185.142:8500/play/a01a
@@ -97,7 +102,7 @@ http://45.71.185.142:8500/play/a01a
 #EXTINF:-1,Sony
 http://201.108.244.159:4000/play/a03z
 #EXTINF:-1,Sony HD
-http://201.108.244.159:4000/play/a04e
+http://45.233.169.1:8000/play/a00x
 #EXTINF:-1,Sony 2
 http://190.61.102.67:31589/play/a002/index.m3u8
 
