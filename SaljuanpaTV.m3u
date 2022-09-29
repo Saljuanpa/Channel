@@ -7,139 +7,133 @@ http:?
 #EXTINF:-1,Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 #EXTINF:-1,Once Mexico
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/59.m3u8
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/59
 #EXTINF:-1,TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8
 #EXTINF:-1,Canal 22-1
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1,Canal 22-2
 https://5fc584f3f19c9.streamlock.net/canal222/videocanal222/playlist.m3u8
-
 #EXTINF:-1,canal 14 CDMX
 https://60ed5b6d0df78.streamlock.net:1936/segundo/segundo/playlist.m3u8
-#EXTINF:-1,34.1 Mexiquense TV
+#EXTINF:-1,34.1 Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w376735839.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDQ6MDg6MTEgQU0maGFzaF92YWx1ZT1ySG13SHNrSE5yTWx5RWJYcTQvZkhRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-#EXTINF:-1,La Octava HD (MX VIP)
-http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/302677
-
-#EXTINF:-1,las estrellas MX
-http://190.61.102.67:31589/play/a00g/index.m3u8
-
-#EXTINF:-1,Imagen tv
-http://190.61.102.67:31589/play/a00h/index.m3u8
-#EXTINF:-1,Azteca 1 SD
-http://190.61.102.67:31589/play/a04p/index.m3u8
-#EXTINF:-1,Azteca 7
-http://190.61.102.67:31589/play/a00i/index.m3u8
-
-#EXTINF:-1,estrella tv roku
-https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1,Multimedios
-http://201.108.244.159:4000/play/a085
 
 #EXTINF:-1,Milenio Televisión (XHTDMX-TDT2)
 http://190.61.102.67:31589/play/a00y/index.m3u8
 #EXTINF:-1,foro tv
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
+#EXTINF:-1,CANAL 10 CANCUN
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/972
 
+#EXTINF:-1,las estrellas MX
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1,estrella tv roku
+https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,Canal 5
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/60
+
+#EXTINF:-1,Imagen tv
+http://190.61.102.67:31589/play/a00h/index.m3u8
+
+#EXTINF:-1,Azteca 1 SD
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1,Azteca 7
+http://190.61.102.67:31589/play/a00i/index.m3u8
+
+
+#EXTINF:-1,Multimedios
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/131
 
 
 
 #EXTINF:-1,***** 19 ARTE Y APRENDIZAJE ****
 http:?
-
 						*****  ARTE Y APRENDIZAJE  ****
 
 
-EXTINF:-1,Film & Arts
-http://201.108.244.159:4000/play/a088
+#EXTINF:-1,Film & Arts
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/896
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/FILMANDARTS.png?raw=true",Film & arts HD
-http://160.20.164.171:8001/play/a01t
-
-#EXTINF:-1,History Channel
-http://45.233.169.1:8000/play/a024
-#EXTINF:-1,History Channel HD
-http://45.233.169.1:8000/play/a05i
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/1152
 
 
 #EXTINF:-1,21 History Channel
-http://160.20.164.171:8001/play/a00n
-#EXTINF:-1,History HD
-http://95.211.250.58/HISTORY/index.m3u8
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/123
+	EXTINF:-1,History HD
+http://190.83.119.67:8000/play/a0px/index.m3u8
+
 #EXTINF:-1,History 2
 http://190.61.102.67:31589/play/a017/index.m3u8
 
-#EXTINF:-1, 25 Discovery Channel 
-http://45.233.169.1:8000/play/a01n
-#EXTINF:-1,Discovery Channel HD
-http://45.233.169.1:8000/play/a00k
+#EXTINF:-1,H2
+http://54.219.95.167:8000/play/a0dj/index.m3u8
+#EXTINF:-1,History 2
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/122
 
+#EXTINF:-1, 25 Discovery Channel 
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/70
 #EXTINF:-1,Discovery 2
 http://190.61.102.67:31589/play/a03x/index.m3u8
-
+#EXTINF:-1,Discovery en Espanol
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/72
 
 
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
-http://45.233.169.1:8000/play/a00j
-
-#EXTINF:-1,Discovery Theater
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/78
+
 #EXTINF:-1,DISCOVERY THEATHER FHD
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3137
 
 #EXTINF:-1,***** 29 SERIES ****
 http:?
 						***** SERIES ****
-
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_1.png?raw=true", 29 Warner MX
-http://200.41.79.165:8000/play/a05p
-
-
-#EXTINF:-1,Warner -1
 http://190.61.102.67:31589/play/a01f/index.m3u8
+
 #EXTINF:-1,Warner
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/178
-#EXTINF:-1,Warner HD
-http://160.20.164.171:8001/play/a079
-
-
+	EXTINF:-1,Warner HD
+http://190.83.119.67:8000/play/a0tk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_2.png?raw=true",Warner +1hrs
 http://45.71.185.142:8500/play/a01a
 
 #EXTINF:-1,Sony
 http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/143
-#EXTINF:-1,Sony HD
-http://45.233.169.1:8000/play/a00x
+	EXTINF:-1,Sony HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
 #EXTINF:-1,Sony 2
 http://190.61.102.67:31589/play/a002/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Star_Channel.png?raw=true",Star Channel HD
-http://201.108.244.159:4000/play/a04c
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Star_Channel.png?raw=true",****Star Channel HD
+http://190.83.119.67:8000/play/a0si/index.m3u8
+
 
 
 
 #EXTINF:-1,A&E
-http://201.108.244.159:4000/play/a042
+http://190.83.119.67:8000/play/a0s8/index.m3u8
 #EXTINF:-1,A&E HD
-http://201.108.244.159:4000/play/a06g
+http://190.83.119.67:8000/play/a0q7/index.m3u8
 #EXTINF:-1,AXN
-http://201.108.244.159:4000/play/a07l
-#EXTINF:-1,AXN HD
-http://201.108.244.159:4000/play/a02j
+http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1,FX
-http://201.108.244.159:4000/play/a09y
+http://190.83.119.67:8000/play/a0r4/index.m3u8
 #EXTINF:-1,FX HD
-http://201.108.244.159:4000/play/a06j
+http://190.83.119.67:8000/play/a0qa/index.m3u8
 
 #EXTINF:-1,TNT Series
-http://201.108.244.159:4000/play/a07e
+http://190.83.119.67:8000/play/a0pi/index.m3u8
+
 
 #EXTINF:-1,Sun Channel
-http://201.108.244.159:4000/play/a0a3
+http://190.83.119.67:8000/play/a0r9/index.m3u8
+
 
 
 
@@ -150,43 +144,43 @@ http:?
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/europa-europa.png?raw=true", Europa HD
 http://sinlimitestv.com:8080/emanuelargenttina/fffggt4455/173420.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/Euro-channel.png?raw=true",Euro Channel
-http://201.108.244.159:4000/play/a0a0
+http://45.226.67.3:58001/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/Sony_Movies.png?raw=true",Sony Movies HD
-http://201.108.244.159:4000/play/a06l
+http://190.83.119.67:8000/play/a0qc/index.m3u8
 
 #EXTINF:-1,TNT
-http://201.108.244.159:4000/play/a07m
+http://190.83.119.67:8000/play/a0pq/index.m3u8
 #EXTINF:-1,TNT HD
-http://201.108.244.159:4000/play/a032
-
+http://190.83.119.67:8000/play/a0sq/index.m3u8
 #EXTINF:-1,AMC
-http://201.108.244.159:4000/play/a07n
+http://190.83.119.67:8000/play/a0pr/index.m3u8
 #EXTINF:-1,AMC HD
-http://201.108.244.159:4000/play/a06h
+http://190.83.119.67:8000/play/a0q8/index.m3u8
 #EXTINF:-1, DHE
 http://181.176.148.142:8000/play/a027
 #EXTINF:-1,Studio Universal HD
-http://201.108.244.159:4000/play/a06b
+http://190.83.119.67:8000/play/a0q2/index.m3u8
 #EXTINF:-1,Paramount
-http://201.108.244.159:4000/play/a08a
+http://190.83.119.67:8000/play/a0ol/index.m3u8
 #EXTINF:-1,Paramount HD
-http://201.108.244.159:4000/play/a017
+http://190.83.119.67:8000/play/a0t9/index.m3u8
 
 #EXTINF:-1,SPACE
-http://201.108.244.159:4000/play/a07d
+http://190.83.119.67:8000/play/a0ph/index.m3u8
 #EXTINF:-1,SyFy
-http://201.108.244.159:4000/play/a043
-
+http://190.83.119.67:8000/play/a0s9/index.m3u8
+#EXTINF:-1,SyFy HD
+http://190.83.119.67:8000/play/a0q3/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-cinema.png?raw=true",UNIVERSAL CINEMA
-http://201.108.244.159:4000/play/a08b
+http://190.83.119.67:8000/play/a0om/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-cinema-HD.png?raw=true",UNIVERSAL CINEMA HD
-http://201.108.244.159:4000/play/a01e
+http://190.83.119.67:8000/play/a0v2/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/PELICULAS/universal-premiere-HD.png?raw=true",UNIVERSAL PREMIERE HD
-http://201.108.244.159:4000/play/a039
+http://190.83.119.67:8000/play/a0uj/index.m3u8
 
 #EXTINF:-1,HBO
 http://45.71.185.142:8500/play/a02v
@@ -207,27 +201,29 @@ http://45.184.160.146:8000/play/a00k
 http://45.184.160.146:8000/play/a00l
 
 #EXTINF:-1,Golden
-http://201.108.244.159:4000/play/a0ab
-#EXTINF:-1,Golden Premiere 2 HD
-http://201.108.244.159:4000/play/a00s
-#EXTINF:-1,Golden Premiere HD
-http://201.108.244.159:4000/play/a091
+http://45.225.88.39:8000/play/a04o/index.m3u8
+#EXTINF:-1,Golden Edge HQ
+http://45.167.250.116:20023/play/a0f5/index.m3u8
+#EXTINF:-1,Golden + HQ
+http://qqtv.nl:8080/niloofar/niloofar/20420
+#EXTINF:-1,Golden Premier
+http://51.222.43.170:36995/A028/49TZXgbA38cd/260559
 
 
 #EXTINF:-1,CINECANAL HD
-http://201.108.244.159:4000/play/a04f
-#EXTINF:-1,CineMax
-http://201.108.244.159:4000/play/a027
+http://190.83.119.67:8000/play/a0sl/index.m3u8
+
 #EXTINF:-1,Multicinema
-http://201.108.244.159:4000/play/a00k
-#EXTINF:-1,Multipremier
-http://201.108.244.159:4000/play/a025
+http://190.83.119.67:8000/play/a0o5/index.m3u8
+
 
 #EXTINF:-1,TCM
-http://201.108.244.159:4000/play/a0ac
-
+http://190.83.119.67:8000/play/a0ri/index.m3u8
+#EXTINF:-1, De Pelicula
+http://hispanotv.net:8080/HERBERT01/HERBERT01/85912
 #EXTINF:-1,Cine Latino
-http://201.108.244.159:4000/play/a026
+http://190.83.119.67:8000/play/a0tl/index.m3u8
+
 
 
 
@@ -238,66 +234,70 @@ http:?
 
 #EXTINF:-1, BBC Earth
 http://77.89.204.105:8003/play/a00b/index.m3u8
-
 #EXTINF:-1,Animal Planet
-http://201.108.244.159:4000/play/a045
+http://190.83.119.67:8000/play/a0sb/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://201.108.244.159:4000/play/a06d
-
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://190.83.119.67:8000/play/a0t8/index.m3u8
 #EXTINF:-1,National Geographic
-http://201.108.244.159:4000/play/a07g
-
+http://190.83.119.67:8000/play/a0pk/index.m3u8
 #EXTINF:-1,National Geographic Wild
 http://qqtv.nl:8080/niloofar/niloofar/20246
 
 #EXTINF:-1,Discovery Science
-http://201.108.244.159:4000/play/a00d
+http://190.83.119.67:8000/play/a0ny/index.m3u8
 #EXTINF:-1,Discovery ID HD
-http://201.108.244.159:4000/play/a01d
+http://190.83.119.67:8000/play/a0tf/index.m3u8
 #EXTINF:-1,Discovery World HD
-http://201.108.244.159:4000/play/a01a
+http://190.83.119.67:8000/play/a0tc/index.m3u8
 
 #EXTINF:-1,Discovery Home & Health
 http://45.71.185.142:8500/play/a01w
 
 #EXTINF:-1,Home Garden Latino
-http://201.108.244.159:4000/play/a00c
+http://190.83.119.67:8000/play/a0nx/index.m3u8
 #EXTINF:-1,TLC
-http://201.108.244.159:4000/play/a047
+http://190.83.119.67:8000/play/a0sd/index.m3u8
+
 #EXTINF:-1,Mas Chic
-http://201.108.244.159:4000/play/a009
+http://190.83.119.67:8000/play/a0nu/index.m3u8
+
 
 #EXTINF:-1,Comedy Central HD
-http://201.108.244.159:4000/play/a036
-
+http://190.83.119.67:8000/play/a0su/index.m3u8
 #EXTINF:-1,TBS
-http://201.108.244.159:4000/play/a07f
+http://190.83.119.67:8000/play/a0pj/index.m3u8
 #EXTINF:-1,Tru TV
-http://201.108.244.159:4000/play/a07a
+http://190.83.119.67:8000/play/a0pe/index.m3u8
+
 
 #EXTINF:-1,*****  CANALES INTERNACIONALES  ****
 http:?
 						*****  CANALES INTERNACIONALES  ****
 
-
 #EXTINF:-1,BBC ONE
+http://213.7.193.54:4000/play/bbc1/index.m3u8
+#EXTINF:-1,BBC TWO
 http://93.152.174.144:4000/play/bbc2/index.m3u8
+
 #EXTINF:-1,BBC 1
 http://ott.riotelecomm.es:4512/m3u8/BBC1.m3u8
 #EXTINF:-1,BBC 2
 http://ott.riotelecomm.es:4512/m3u8/BBCTWO.m3u8
-#EXTINF:-1,BBC TWO
-http://213.7.193.54:4000/play/bbc1/index.m3u8
 
 #EXTINF:-1,BBC America
-https://list.iptvcat.com/my_list/s/24534ff166a246181b5b8153e9fb1834.m3u8
+https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 
 
+#EXTINF:-1,BBC One HD 
+http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
+#EXTINF:-1,BBC Two
+http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+#EXTINF:-1,BBC Four
+http://45.153.35.210:8000/play/UK_bbc_4_sd/index.m3u8
 #EXTINF:-1,BBC HOME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a88-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc32be4-4aaf-4114-8ef1-506a40b4c05f&userId=&serverSideAds=true
-#EXTINF:-1,BBC Home 2
-https://800abe2fa2ea4e6493cb0e68360fa45d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCHome/playlist.m3u8
-
 
 #EXTINF:-1,Telebasel
 https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
@@ -319,7 +319,18 @@ https://list.iptvcat.com/my_list/s/fe1c3841b4ac042e0a0d22fb17e8ac36.m3u8
 
 
 
-
+#EXTINF:-1,FRANCE 3 HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/61
+#EXTINF:-1,FRANCE 4 FULL HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/23758
+#EXTINF:-1,TMC HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/2570
+#EXTINF:-1,TV5
+http://ott.topstb.net:8000/50273111817787/77927202498065/2611
+#EXTINF:-1,TEVA FULL HD
+http://ott.topstb.net:8000/50273111817787/77927202498065/23693
+#EXTINF:-1,ARTE SD
+http://ott.topstb.net:8000/50273111817787/77927202498065/80989
 
 #EXTINF:-1,NHK Premium
 http://cdn.us195.jpnettv.live:1935/jptv/bspremium_720/playlist.m3u8
@@ -329,6 +340,16 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 
 #EXTINF:-1,Hallmark Movies & More (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
+
+#EXTINF:-1,CBS New York
+http://96.242.237.206:8000/play/a081/index.m3u8
+#EXTINF:-1,NBC
+http://96.242.237.206:8000/play/a07x/index.m3u8
+#EXTINF:-1,FOX 5
+http://96.242.237.206:8000/play/a075/index.m3u8
+
+
 
 
 
@@ -344,22 +365,26 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60fb00b4b6455d0007493b0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1,NatGeo Kids HQ
-http://201.108.244.159:4000/play/a016
+http://qqtv.nl:8080/niloofar/niloofar/20152
 #EXTINF:-1,Discovery Kids HD
-http://201.108.244.159:4000/play/a00q
+http://190.83.119.67:8000/play/a0ob/index.m3u8
+#EXTINF:-1,11.2 Once Niñas y Niños
+http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
 
-#EXTINF:-1,Disney Channel
-http://201.108.244.159:4000/play/a01u
+#EXTINF:-1,Disney ChannelL
+http://45.71.185.142:8500/play/a017
 #EXTINF:-1,Disney JR
-http://201.108.244.159:4000/play/a077
+http://190.83.119.67:8000/play/a0pb/index.m3u8
+#EXTINF:-1,Disney XD HQ
+http://qqtv.nl:8080/niloofar/niloofar/20233
 
 
 #EXTINF:-1, Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1,Nick Jr.
-http://201.108.244.159:4000/play/a075
+http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1,Nickelodeon
-http://201.108.244.159:4000/play/a01t
+http://190.83.119.67:8000/play/a0so/index.m3u8
 #EXTINF:-1,Nickelodeon Classic
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
@@ -368,10 +393,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-1, Planetatv kids
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1, *Babyfirst | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1,Baby First
-http://201.108.244.159:4000/play/a09x
+http://190.83.119.67:8000/play/a0r3/index.m3u8
+
 
 
 
@@ -381,10 +409,9 @@ http:?
 						*****  MÚSICA Y CONCIERTOS ****
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/MTV_00s.png?raw=true" group-title="MUSICA",MTV 00s HD
-http://201.108.244.159:4000/play/a038
+http://190.83.119.67:8000/play/a0sw/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/MTV_80s.png?raw=true" group-title="MUSICA",MTV 80s
-http://201.108.244.159:4000/play/a07k
-
+http://190.83.119.67:8000/play/a0po/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/mtv-unpluggedDE.jpg?raw=true" group-title="MUSICA",DE | MTV UNPLUGGED
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -397,7 +424,8 @@ http://190.7.192.162:8003/play/s7
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/Concert.png?raw=true" group-title="MUSICA", Concert Channel HD
-http://201.108.244.159:4000/play/a022
+http://190.83.119.67:8000/play/a0oq/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/Retro_Music_TV_logo.png?raw=true" group-title="MUSICA",Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
@@ -418,6 +446,10 @@ https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
 
 
 
+#EXTINF:-1,MEZZO FR
+http://ott.topstb.net:8000/50273111817787/77927202498065/46198
+#EXTINF:-1,MEZZO LIVE
+http://ott.topstb.net:8000/50273111817787/77927202498065/46199
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/vivaldi.png?raw=true" group-title="MUSICA",Vivaldi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=61bb9a63e0b39cfe304c9a8a
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/loop-80s.png?raw=true" group-title="MUSICA",Loop 80's HD
@@ -446,18 +478,15 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 						*****  HISPANOS  ****
 
 #EXTINF:-1,Univision HD
-http://201.108.244.159:4000/play/a01c
-
+http://190.83.119.67:8000/play/a0v0/index.m3u8
 #EXTINF:-1,TVE
-http://201.108.244.159:4000/play/a00l
-#EXTINF:-1,Star TVE HD
-http://201.108.244.159:4000/play/a06o
-
+http://190.83.119.67:8000/play/a0o6/index.m3u8
 #EXTINF:-1,TVChile
-http://201.108.244.159:4000/play/a00b
+http://190.83.119.67:8000/play/a0nw/index.m3u8
 #EXTINF:-1,Antena 3
-http://201.108.244.159:4000/play/a00a
-
+http://190.83.119.67:8000/play/a0nv/index.m3u8
+#EXTINF:-1,Star TVE HD
+http://190.83.119.67:8000/play/a0qf/index.m3u8
 
 
 
@@ -472,8 +501,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,BBC World
-http://201.108.244.159:4000/play/a07p
-
+http://190.83.119.67:8000/play/a0pt/index.m3u8
 #EXTINF:-1, Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 #EXTINF:-1, Weather Nation
@@ -483,9 +511,10 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 #EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,CNN Internacional
-http://201.108.244.159:4000/play/a00m
+http://190.83.119.67:8000/play/a0o7/index.m3u8
 #EXTINF:-1,CNN en Español
-http://201.108.244.159:4000/play/a07o
+http://190.83.119.67:8000/play/a0ps/index.m3u8
+
 
 
 
@@ -493,25 +522,28 @@ http://201.108.244.159:4000/play/a07o
 http:?
 						*****  DEPORTES ****
 #EXTINF:-1,FOX Sports 2
-http://201.108.244.159:4000/play/a0a6
+http://190.83.119.67:8000/play/a0rc/index.m3u8
 #EXTINF:-1,Fox Sport 3
-http://201.108.244.159:4000/play/a07i
+http://190.83.119.67:8000/play/a0pm/index.m3u8
+
 
 #EXTINF:-1,ESPN
-http://201.108.244.159:4000/play/a048
+http://190.83.119.67:8000/play/a0se/index.m3u8
 #EXTINF:-1,ESPN  +
-http://201.108.244.159:4000/play/a07u
+http://190.83.119.67:8000/play/a0py/index.m3u8
 #EXTINF:-1,ESPN 2
-http://201.108.244.159:4000/play/a049
+http://190.83.119.67:8000/play/a0sf/index.m3u8
 #EXTINF:-1,ESPN 3
-http://201.108.244.159:4000/play/a0a5
+http://190.83.119.67:8000/play/a0rb/index.m3u8
+
 
 #EXTINF:-1,Tigo Sports HD
-http://201.108.244.159:4000/play/a02z
+http://190.83.119.67:8000/play/a0sn/index.m3u8
 #EXTINF:-1,Claro Sports  HD
-http://201.108.244.159:4000/play/a08c
+http://190.83.119.67:8000/play/a0on/index.m3u8
 #EXTINF:-1,Golf Channel
-http://201.108.244.159:4000/play/a00i
+http://190.83.119.67:8000/play/a0o3/index.m3u8
+
 
 
 #EXTINF:-1,***** COCINA ****
@@ -531,7 +563,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61768
 http://86.127.241.115:8888/play/a02u
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png",El Gourmet
-http://201.108.244.159:4000/play/a0a2
+http://190.83.119.67:8000/play/a0r8/index.m3u8
 
 
 
