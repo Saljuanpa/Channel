@@ -84,15 +84,25 @@ http://190.61.102.67:31589/play/a03x/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
 http://45.233.169.1:8000/play/a00j
 
+#EXTINF:-1,Discovery Theater
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/78
+#EXTINF:-1,DISCOVERY THEATHER FHD
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/3137
+
 #EXTINF:-1,***** 29 SERIES ****
 http:?
 						***** SERIES ****
+
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_1.png?raw=true", 29 Warner MX
+http://200.41.79.165:8000/play/a05p
+
+
+#EXTINF:-1,Warner -1
 http://190.61.102.67:31589/play/a01f/index.m3u8
 #EXTINF:-1,Warner
-http://45.233.169.1:8000/play/a02v
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/178
 #EXTINF:-1,Warner HD
-http://201.108.244.159:4000/play/a04d
+http://160.20.164.171:8001/play/a079
 
 
 
@@ -100,7 +110,7 @@ http://201.108.244.159:4000/play/a04d
 http://45.71.185.142:8500/play/a01a
 
 #EXTINF:-1,Sony
-http://201.108.244.159:4000/play/a03z
+http://51.222.25.50:25461/h7apwKAtt2/xrj4U9RAkV/143
 #EXTINF:-1,Sony HD
 http://45.233.169.1:8000/play/a00x
 #EXTINF:-1,Sony 2
