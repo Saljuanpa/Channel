@@ -7,6 +7,8 @@ http://201.159.115.175:2000/play/a08d/index.m3u8
 #EXTINF:-1,TUDN-CH59
 http://45.228.234.77:4430/play/tudn
 
+#EXTINF:-1, SKY SPORTS 🇲🇽
+268	http://200.52.154.125:8000/play/a06t/index.m3u8
 
 ***** 2-  CANALES NACIONALES  ****
 #EXTINF:-1,***** CANALES NACIONALES  ****
@@ -30,7 +32,7 @@ http://190.61.102.67:31589/play/a044/index.m3u8
 #EXTINF:-1,34.1 Mexiquense
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist_w376735839.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDQ6MDg6MTEgQU0maGFzaF92YWx1ZT1ySG13SHNrSE5yTWx5RWJYcTQvZkhRPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-#EXTINF:-1,La Octava HD 
+#EXTINF:-1,Heraldo HD 
 http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/302677
 
 #EXTINF:-1,Milenio Televisión
