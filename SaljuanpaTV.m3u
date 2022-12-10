@@ -2,17 +2,16 @@
 #EXTINF:-1, TUDN
 http://190.61.102.67:31589/play/a08j/index.m3u8
 
-
 #EXTINF:-1,TUDN-CH59
 http://45.228.234.77:4430/play/tudn
-
+#EXTINF:-1,CHILEVISION 🇨🇱
+http://45.232.211.196:1080/play/a04d
 #EXTINF:-1,QATAR 🇶🇦
 http://181.176.148.142:8000/play/a009
 
 #EXTINF:-1,DIRECTV SPORTS 🇦🇷
 http://200.52.154.125:8000/play/a06p/index.m3u8
-#EXTINF:-1,CHILEVISION 🇨🇱
-http://45.232.211.196:1080/play/a04d
+
 #EXTINF:-1,beIN Sports 2 English HD 🇬🇧
 http://175.107.244.52:4457/play/a06z/index.m3u8
 #EXTINF:-1,ZDF HD 🇩🇪
@@ -471,8 +470,6 @@ http://181.176.148.142:8000/play/a009
 #EXTINF:-1,DIRECTV SPORTS 🇦🇷
 http://200.52.154.125:8000/play/a06p/index.m3u8
 
-#EXTINF:-1,TSN2 HD
-https://is.gd/MnvJnF
 
 #EXTINF:-1,BEIN SPORT 1 🇫🇷
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/14415.m3u8
