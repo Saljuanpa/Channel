@@ -64,6 +64,43 @@ http:?
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/FILMANDARTS.png?raw=true",Film & arts HD
 http://160.20.164.171:8001/play/a01t
 
+#EXTINF:-1,099. History Channel
+http://45.5.117.182:8000/play/a0hv/index.m3u8
+#EXTINF:-1,100 History HD
+http://45.5.117.182:8000/play/a0fb/index.m3u8
+
+
+#EXTINF:-1,053. DISC THEATHER HD
+http://45.5.117.182:8000/play/a0ia/index.m3u8
+#EXTINF:-1,054. Discovery Channel
+http://45.5.117.182:8000/play/a0ht/index.m3u8
+#EXTINF:-1,055. Discovery Channel HD
+http://45.5.117.182:8000/play/a0ju/index.m3u8
+
+#EXTINF:-1,Warner
+http://45.238.21.222:6688/play/a00f/index.m3u8
+
+#EXTINF:-1,133. SONY
+http://45.5.117.182:8000/play/a0ho/index.m3u8
+#EXTINF:-1,134. SONY HD
+http://45.5.117.182:8000/play/a0i3/index.m3u8
+#EXTINF:-1,135. Sony Movies HD
+http://45.5.117.182:8000/play/a0fr/index.m3u8
+
+#EXTINF:-1,159. TNT
+http://45.5.117.182:8000/play/a0f4/index.m3u8
+
+
+#EXTINF:-1,138. STAR CHANNEL
+http://45.5.117.182:8000/play/a0iu/index.m3u8
+#EXTINF:-1,139. STAR CHANNEL HD
+http://45.5.117.182:8000/play/a0i1/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1,History Channel
 http://190.61.102.67:31589/play/a017/index.m3u8
 #EXTINF:-1,21 History Channel 2
