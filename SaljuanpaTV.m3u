@@ -331,8 +331,6 @@ http://190.149.66.90:16000/play/a03v/index.m3u8
 http://190.149.66.90:16000/play/a04h/index.m3u8
 #EXTINF:-1,Univision HD
 http://190.149.66.90:16000/play/a054/index.m3u8
-#EXTINF:-1,VENUS
-http://190.149.66.90:16000/play/a02p/index.m3u8
 #EXTINF:-1,WARNER HD
 http://190.149.66.90:16000/play/a03f/index.m3u8
 #EXTINF:-1,Warner
