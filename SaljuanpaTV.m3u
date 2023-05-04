@@ -337,24 +337,24 @@ http:?
 #EXTINF:-1,NatGeo Kids HQ
 http://qqtv.nl:8080/niloofar/niloofar/20152
 #EXTINF:-1,Discovery Kids HD
-http://190.83.119.67:8000/play/a0ob/index.m3u8
+http://190.149.66.90:16000/play/a045/index.m3u8
+
 #EXTINF:-1,11.2 Once Niñas y Niños
-http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/Stream(05)/index.m3u8
 
 #EXTINF:-1,Disney ChannelL
-http://45.71.185.142:8500/play/a017
+http://190.149.66.90:16000/play/a047/index.m3u8
 #EXTINF:-1,Disney JR
-http://190.83.119.67:8000/play/a0pb/index.m3u8
+http://190.149.66.90:16000/play/a00r/index.m3u8
 #EXTINF:-1,Disney XD HQ
-http://qqtv.nl:8080/niloofar/niloofar/20233
 
 
 #EXTINF:-1, Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1,Nick Jr.
-http://190.83.119.67:8000/play/a0p9/index.m3u8
+http://190.149.66.90:16000/play/a00p/index.m3u8
+
 #EXTINF:-1,Nickelodeon
-http://190.83.119.67:8000/play/a0so/index.m3u8
+http://190.149.66.90:16000/play/a046/index.m3u8
 #EXTINF:-1,Nickelodeon Classic
 https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
@@ -363,12 +363,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1, Planetatv kids
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-1, *Babyfirst | HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1,Baby First
-http://190.83.119.67:8000/play/a0r3/index.m3u8
+
 
 
 
@@ -379,9 +376,9 @@ http:?
 						*****  MÚSICA Y CONCIERTOS ****
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/MTV_00s.png?raw=true" group-title="MUSICA",MTV 00s HD
-http://190.83.119.67:8000/play/a0sw/index.m3u8
+http://190.149.66.90:16000/play/a03s/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/MTV_80s.png?raw=true" group-title="MUSICA",MTV 80s
-http://190.83.119.67:8000/play/a0po/index.m3u8
+http://190.149.66.90:16000/play/a013/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/mtv-unpluggedDE.jpg?raw=true" group-title="MUSICA",DE | MTV UNPLUGGED
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -389,12 +386,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=0f290c3a-f68f-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 #EXTINF:- tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/VH1_Classic.png?raw=true" group-title="MUSICA",VH1 CLASSICS Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/Vintage%20Music.png?raw=true" group-title="MUSICA",Vintage Music
-http://190.7.192.162:8003/play/s7
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/Concert.png?raw=true" group-title="MUSICA", Concert Channel HD
-http://190.83.119.67:8000/play/a0oq/index.m3u8
+http://190.149.66.90:16000/play/a04g/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/Retro_Music_TV_logo.png?raw=true" group-title="MUSICA",Retro Music Television
@@ -407,25 +404,24 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/retro_plus2.png?raw=true" group-title="MUSICA",Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 
+
+
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/canal_38.png?raw=true" group-title="MUSICA",Canal 38 Musica
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/GospelmusicTV.png?raw=true" group-title="MUSICA",Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/GospelmusicTV.png?raw=true" group-title="MUSICA",Gospel Music Television
 https://stmv1.srvif.com/gmusic/gmusic/chunklist.m3u8
 
 
-
-#EXTINF:-1,MEZZO FR
-http://ott.topstb.net:8000/50273111817787/77927202498065/46198
-#EXTINF:-1,MEZZO LIVE
-http://ott.topstb.net:8000/50273111817787/77927202498065/46199
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/vivaldi.png?raw=true" group-title="MUSICA",Vivaldi
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-themahqfranceme-vivalditv-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=yBjzr_yRsN3hWwc9B6Di&channelId=61bb9a63e0b39cfe304c9a8a
+
+
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/loop-80s.png?raw=true" group-title="MUSICA",Loop 80's HD
-https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/loop-90s.png?raw=true" group-title="MUSICA",Loop 90's HD
-https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/M%C3%9ASICA%20Y%20CONCIERTOS/quelloconcerts.png?raw=true" group-title="MUSICA",Qello Concerts HD
@@ -445,20 +441,6 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 
 
-						*****  HISPANOS  ****
-
-#EXTINF:-1,Univision HD
-http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:-1,TVE
-http://190.83.119.67:8000/play/a0o6/index.m3u8
-#EXTINF:-1,TVChile
-http://190.83.119.67:8000/play/a0nw/index.m3u8
-#EXTINF:-1,Antena 3
-http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:-1,Star TVE HD
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-
-
 
 #EXTINF:-1,***** NOTICIAS  ****
 http:?
@@ -466,55 +448,29 @@ http:?
 
 #EXTINF:-1, *DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1, Euronews Español
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1,BBC World
-http://190.83.119.67:8000/play/a0pt/index.m3u8
+
 #EXTINF:-1, Usa Today
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
-#EXTINF:-1, Weather Nation
-https://siloh.pluto.tv/lilo/production/WeatherNation/master.m3u8
+
 #EXTINF:-1, NBC News
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_3_1896000.m3u8
 #EXTINF:-1,ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,CNN Internacional
-http://190.83.119.67:8000/play/a0o7/index.m3u8
-#EXTINF:-1,CNN en Español
-http://190.83.119.67:8000/play/a0ps/index.m3u8
 
+
+#EXTINF:-1,CNN Internacional
+
+
+#EXTINF:-1,CNN en Español
+http://190.149.66.90:16000/play/a017/index.m3u8
 
 
 
 #EXTINF:-1,***** DEPORTES   ****
 http:?
-						*****  DEPORTES ****
-#EXTINF:-1,FOX Sports 2
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-#EXTINF:-1,Fox Sport 3
-http://190.83.119.67:8000/play/a0pm/index.m3u8
-
-
-#EXTINF:-1,ESPN
-http://190.83.119.67:8000/play/a0se/index.m3u8
-#EXTINF:-1,ESPN  +
-http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1,ESPN 2
-http://190.83.119.67:8000/play/a0sf/index.m3u8
-#EXTINF:-1,ESPN 3
-http://190.83.119.67:8000/play/a0rb/index.m3u8
-
-
-#EXTINF:-1,Tigo Sports HD
-http://190.83.119.67:8000/play/a0sn/index.m3u8
-#EXTINF:-1,Claro Sports  HD
-http://190.83.119.67:8000/play/a0on/index.m3u8
-#EXTINF:-1,Golf Channel
-http://190.83.119.67:8000/play/a0o3/index.m3u8
-
-
+						
 
 #EXTINF:-1,***** COCINA ****
 http:?
@@ -524,16 +480,18 @@ http:?
 
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/bbcfood2.png?raw=true",BBC FOOD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a89-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8a9809e5-d2cc-4c81-83bd-f32abd6ba656&userId=&serverSideAds=true
+
+
+
 #EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Food_Food_logo.png?raw=true",Food Food
-http://14.199.164.20:4001/play/a0qx/index.m3u8
+
 #EXTINF:-1,Pluto TV Cuisine
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/61768f3c56cbce00075a06b6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:-1,MY CUISINE TV
+
 #EXTINF:-1,Canal Cocina
-http://86.127.241.115:8888/play/a02u
 
 #EXTINF:-1 tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0r8.png",El Gourmet
-http://190.83.119.67:8000/play/a0r8/index.m3u8
-
+http://190.149.66.90:16000/play/a02d/index.m3u8
 
 
