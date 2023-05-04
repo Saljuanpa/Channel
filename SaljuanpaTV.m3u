@@ -35,8 +35,12 @@ http://190.61.102.67:31589/play/a00i/index.m3u8
 #EXTINF:-1,estrella tv roku
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1,Multimedios
+#EXTINF:-1, *Canal 6 Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
+#EXTINF:-1,Multimedios
+#EXTINF:-1, *Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1,Milenio Televisión (XHTDMX-TDT2)
 http://190.61.102.67:31589/play/a00y/index.m3u8
@@ -50,24 +54,9 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,***** 19 ARTE Y APRENDIZAJE ****
 http:?
 						*****  ARTE Y APRENDIZAJE  ****
-
-
-#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/FILMANDARTS.png?raw=true",Film & arts HD
-http://190.149.66.90:16000/play/a005/index.m3u8
-
-
-
-#EXTINF:-1,21 History Channel
-http://190.149.66.90:16000/play/a038/index.m3u8
-#EXTINF:-1,History HD
-http://190.149.66.90:16000/play/a01c/index.m3u8
-#EXTINF:-1,History 2
-http://190.61.102.67:31589/play/a017/index.m3u8
-
-#EXTINF:-1,H2
-http://190.149.66.90:16000/play/a02c/index.m3u8
-
-
+						
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
+http://190.149.66.90:16000/play/a03n/index.m3u8						
 
 #EXTINF:-1, 25 Discovery Channel 
 http://45.5.117.182:8000/play/a0ht/index.m3u8
@@ -76,19 +65,28 @@ http://45.5.117.182:8000/play/a0ju/index.m3u8
 #EXTINF:-1,Discovery 2
 http://190.61.102.67:31589/play/a03x/index.m3u8
 
+#EXTINF:-1,21 History Channel
+http://190.149.66.90:16000/play/a038/index.m3u8
+#EXTINF:-1,History HD
+http://190.149.66.90:16000/play/a01c/index.m3u8
+#EXTINF:-1,History Channel 2
+http://190.61.102.67:31589/play/a017/index.m3u8
+
+#EXTINF:-1,H2
+http://190.149.66.90:16000/play/a02c/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/Discovery_theater_HD.png?raw=true", Discovery Theater
-http://190.149.66.90:16000/play/a03n/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/ARTE_Y_APRENDIZAJE/FILMANDARTS.png?raw=true",Film & arts HD
+http://190.149.66.90:16000/play/a005/index.m3u8
 
 
 
 #EXTINF:-1,***** 29 SERIES ****
 http:?
 						***** SERIES ****
-#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_1.png?raw=true", 29 Warner MX
+#EXTINF:-1,Warner
+http://45.179.140.242:8000/play/a0ia
+#EXTINF:-1 tvg-logo="https://github.com/Saljuanpa/IMG/blob/main/Logos/SERIES/Warner_Channel_1.png?raw=true", Warner
 http://190.61.102.67:31589/play/a01f/index.m3u8
 
 #EXTINF:-1,Warner HD
@@ -97,6 +95,8 @@ http://190.149.66.90:16000/play/a03f/index.m3u8
 http://190.149.66.90:16000/play/a032/index.m3u8
 
 
+#EXTINF:-1,Sony
+http://45.179.140.242:8000/play/a0j8
 #EXTINF:-1,Sony
 http://45.5.117.182:8000/play/a0ho/index.m3u8
 #EXTINF:-1,Sony HD
@@ -111,13 +111,16 @@ http://45.5.117.182:8000/play/a0i1/index.m3u8
 
 
 
-
+#EXTINF:-1,AE Mundo
+http://45.179.140.242:8000/play/a0ig
 #EXTINF:-1,A&E
 http://190.149.66.90:16000/play/a034/index.m3u8
 #EXTINF:-1,A&E HD
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/37973.m3u
 #EXTINF:-1,AXN
 http://190.149.66.90:16000/play/a014/index.m3u8
+#EXTINF:-1,FX
+http://45.179.140.242:8000/play/a0jb
 #EXTINF:-1,FX
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/16553.m3u
 #EXTINF:-1,FX HD
@@ -209,6 +212,8 @@ http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/37965.m3u
 #EXTINF:-1,Golden Premier
 http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/67228.m3u
 
+#EXTINF:-1,Cinemax
+http://45.179.140.242:8000/play/a0j7
 
 #EXTINF:-1,CINECANAL HD
 http://190.149.66.90:16000/play/a03h/index.m3u8
