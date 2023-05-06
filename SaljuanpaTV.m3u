@@ -297,6 +297,44 @@ http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/15060.m3u
 #EXTINF:-1,BBC HOME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a88-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc32be4-4aaf-4114-8ef1-506a40b4c05f&userId=&serverSideAds=true
 
+
+
+
+#EXTINF:-1,BBC CBBC
+http://85.4.116.126:8080/play/a01c
+#EXTINF:-1,BBC CBBC HD
+http://85.4.116.126:8080/play/a0aq
+#EXTINF:-1,BBC CBeebies / BBC Four
+http://85.4.116.126:8080/play/a01e
+#EXTINF:-1,BBC CBeebies HD / BBC Four HD
+http://85.4.116.126:8080/play/a0as
+#EXTINF:-1,BBC Four HD / BBC CBeebies HD
+http://85.4.116.126:8080/play/a0ar
+#EXTINF:-1,BBC Four/ BBC CBeebies
+http://85.4.116.126:8080/play/a01d
+#EXTINF:-1,BBC News HD
+http://85.4.116.126:8080/play/a0at
+#EXTINF:-1,BBC One
+http://85.4.116.126:8080/play/a01a
+#EXTINF:-1,BBC One HD
+http://85.4.116.126:8080/play/a0ao
+#EXTINF:-1,BBC Parliament
+http://85.4.116.126:8080/play/a0av
+#EXTINF:-1,BBC Parliament
+http://85.4.116.126:8080/play/a02b
+#EXTINF:-1,BBC Two
+http://85.4.116.126:8080/play/a01b
+#EXTINF:-1,BBC Two HD
+http://85.4.116.126:8080/play/a0ap
+#EXTINF:-1,BBC World News
+http://85.4.116.126:8080/play/a01f
+#EXTINF:-1,BBC World News HD
+http://85.4.116.126:8080/play/a0au
+
+
+
+
+
 #EXTINF:-1,Telebasel
 https://list.iptvcat.com/my_list/s/9f189cf41ef14687b5abd5d1f9b115fc.m3u8
 #EXTINF:-1, Kanal9
