@@ -4,8 +4,7 @@
 http:?
 #EXTINF:-1,Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
-#EXTINF:-1,Once Mexico
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/19660.m3u
+
 #EXTINF:-1,Canal 22-1
 https://5fc584f3f19c9.streamlock.net/canal22/videocanal22/playlist.m3u8
 #EXTINF:-1,Canal 22-2
