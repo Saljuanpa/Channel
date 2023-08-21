@@ -345,8 +345,7 @@ http://45.228.232.205:16000/play/a02b/index.m3u8
 http://45.228.232.205:16000/play/a06y/index.m3u8
 #EXTINF:-1,090 Paramount HD
 http://45.228.232.205:16000/play/a07w/index.m3u8
-#EXTINF:-1,091 Playboy
-http://45.228.232.205:16000/play/a045/index.m3u8
+
 #EXTINF:-1,092 Pasiones HD
 http://45.228.232.205:16000/play/a080/index.m3u8
 #EXTINF:-1,093 RCN Novelas
@@ -403,8 +402,7 @@ http://45.228.232.205:16000/play/a039/index.m3u8
 http://45.228.232.205:16000/play/a078/index.m3u8
 #EXTINF:-1,119 Univision HD
 http://45.228.232.205:16000/play/a081/index.m3u8
-#EXTINF:-1,120 VENUS
-http://45.228.232.205:16000/play/a05r/index.m3u8
+
 #EXTINF:-1,121 VTV Canal 35 ESA
 http://45.228.232.205:16000/play/a055/index.m3u8
 #EXTINF:-1,122 WARNER HD
