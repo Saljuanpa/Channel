@@ -1,7 +1,8 @@
-#EXTINF:-1,#EXTM3U
-***** 2-  CANALES NACIONALES  ****
+#EXTM3U
+
 #EXTINF:-1,***** CANALES NACIONALES  ****
 http:?
+
 #EXTINF:-1,Capital 21
 https://video.cdmx.gob.mx/livestream/stream.m3u8
 
