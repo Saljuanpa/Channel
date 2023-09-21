@@ -23,10 +23,21 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1,***** 19 ARTE Y APRENDIZAJE ****
 http:?
 						*****  ARTE Y APRENDIZAJE  ****
+#EXTINF:-1,Film & Arts
+http://45.228.234.41:16000/play/a07u/index.m3u8
+#EXTINF:-1,Film & arts HD
+http://45.228.234.41:16000/play/a09l/index.m3u8
+
 #EXTINF:-1, 25 Discovery Channel
 http://45.5.117.182:8000/play/a0ht/index.m3u8
 #EXTINF:-1, Discovery Channel HD
 http://45.5.117.182:8000/play/a0ju/index.m3u8
+#EXTINF:-1,DISC THEATHER HD
+http://45.228.234.41:16000/play/a0c6/index.m3u8
+
+#EXTINF:-1,History Channel
+http://45.228.234.41:16000/play/a0b3/index.m3u8
+
 #EXTINF:-1,***** 29 SERIES ****
 http:?
 						***** SERIES ****
