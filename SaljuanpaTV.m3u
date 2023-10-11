@@ -19,6 +19,26 @@ https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?w
 http://187.188.232.236:1021/play/a03d/index.m3u8
 #EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1, FORO 4.1
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1, CNNE
+https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
+
+#EXTINF:-1,34.2 AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
+#EXTINF:-1, MEXIQUENSE Tv 34.1
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
+#EXTINF:-1,ROO: SipseTv Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1,ROO: Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,QUE: RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,QUE: Super 9 Tv
+https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
+
+
 
 #EXTINF:-1, AZTECA UNO 1.1
 http://187.188.232.236:1021/play/a06j/index.m3u8
@@ -33,27 +53,10 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 #EXTINF:-1,estrella tv roku
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1, MEXIQUENSE Tv 34.1
-https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
-#EXTINF:-1,QUE: RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-#EXTINF:-1,QUE: Super 9 Tv
-https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
-#EXTINF:-1,ROO: SipseTv Cancun
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-#EXTINF:-1,ROO: Canal 10 Cancun
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 
-#EXTINF:-1, FORO 4.1
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-#EXTINF:-1, CNNE
-https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-#EXTINF:-1,34.2 AMX Noticias
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1,40.1 ADN 40
-https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
+
 
 
 #EXTINF:-1,***** 19 ARTE Y APRENDIZAJE ****
