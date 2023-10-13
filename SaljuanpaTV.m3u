@@ -7,15 +7,16 @@ http:?
 #EXTINF:-1, CAPITAL21
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8?
 
-#EXTINF:-1, TV UNAM 20.1
-https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
-#EXTINF:-1, ONCE 11.1
-http://187.188.232.236:1021/play/a06l/index.m3u8
+
 #EXTINF:-1, CANAL 22.1
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
 #EXTINF:-1, CANAL 22.2
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1,114 CANAL14
+#EXTINF:-1, TV UNAM 20.1
+https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
+#EXTINF:-1, ONCE 11.1
+http://187.188.232.236:1021/play/a06l/index.m3u8
+#EXTINF:-1, CANAL14
 http://187.188.232.236:1021/play/a03d/index.m3u8
 #EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -24,10 +25,10 @@ https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1, CNNE
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
 
-#EXTINF:-1,34.2 AMX Noticias
+#EXTINF:-1, AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-#EXTINF:-1, MEXIQUENSE Tv 34.1
+#EXTINF:-1, MEXIQUENSE
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 #EXTINF:-1,ROO: SipseTv Cancun
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
@@ -50,7 +51,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129033
 #EXTINF:-1,IMAGEN TV UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
-#EXTINF:-1,estrella tv roku
+#EXTINF:-1, ESTRELLA TV USA
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 
 
