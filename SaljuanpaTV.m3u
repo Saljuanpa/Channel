@@ -76,7 +76,8 @@ http://45.5.117.182:8000/play/a0ju/index.m3u8
 http://45.70.201.252:8889/play/a051/index.m3u8
 #EXTINF:-1,DISC THEATHER HD
 http://45.228.234.41:16000/play/a0c6/index.m3u8
-
+#EXTINF:-1,HISTORY
+http://187.188.232.236:1021/play/a02v/index.m3u8
 #EXTINF:-1,History Channel
 http://45.228.234.41:16000/play/a0b3/index.m3u8
 
