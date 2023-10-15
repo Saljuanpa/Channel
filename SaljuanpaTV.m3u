@@ -14,17 +14,17 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1, TV UNAM 20.1
 https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
-#EXTINF:-1, ONCE 11.1
-http://187.188.232.236:1021/play/a06l/index.m3u8
-#EXTINF:-1, CANAL14
-http://187.188.232.236:1021/play/a03d/index.m3u8
+
+
+
 #EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1, FORO 4.1
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1, CNNE
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
-
+#EXTINF:-1,356 Milenio
+http://187.188.232.236:1020/play/a00l/index.m3u8
 #EXTINF:-1, AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
@@ -41,14 +41,11 @@ https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 
 
 
-#EXTINF:-1, AZTECA UNO 1.1
-http://187.188.232.236:1021/play/a06j/index.m3u8
-#EXTINF:-1, LAS ESTRELLAS Mx 2.1
-http://187.188.232.236:1021/play/a06z/index.m3u8
+
 #EXTINF:-1, CANAL 5.1
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
-#EXTINF:-1, AZTECA 7.1 ma
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129033
+
+
 #EXTINF:-1,IMAGEN TV UHD
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 #EXTINF:-1, ESTRELLA TV USA
@@ -63,23 +60,22 @@ https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1,***** 19 ARTE Y APRENDIZAJE ****
 http:?
 						*****  ARTE Y APRENDIZAJE  ****
-#EXTINF:-1,Film & Arts
-http://45.228.234.41:16000/play/a07u/index.m3u8
-#EXTINF:-1,Film & arts HD
-http://45.228.234.41:16000/play/a09l/index.m3u8
+
+#EXTINF:-1,Film & Arts HD
+http://45.186.252.17:8000/play/a0b2
 
 #EXTINF:-1, 25 Discovery Channel
 http://45.5.117.182:8000/play/a0ht/index.m3u8
 #EXTINF:-1, Discovery Channel HD
 http://45.5.117.182:8000/play/a0ju/index.m3u8
+
 #EXTINF:-1,Discovery Theater HD
-http://45.70.201.252:8889/play/a051/index.m3u8
-#EXTINF:-1,DISC THEATHER HD
-http://45.228.234.41:16000/play/a0c6/index.m3u8
-#EXTINF:-1,HISTORY
-http://187.188.232.236:1021/play/a02v/index.m3u8
-#EXTINF:-1,History Channel
-http://45.228.234.41:16000/play/a0b3/index.m3u8
+http://45.186.252.17:8000/play/a0b1
+#EXTINF:-1,The History Channel HD
+http://45.186.252.17:8000/play/a09r
+
+#EXTINF:-1,El Gourmet
+http://45.186.252.17:8000/play/a0bm
 
 #EXTINF:-1,***** 29 SERIES ****
 http:?
