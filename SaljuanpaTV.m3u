@@ -14,7 +14,12 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1, TV UNAM 20.1
 https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
-
+#EXTINF:-1, UNAM
+http://187.188.232.236:1021/play/a03e/index.m3u8
+#EXTINF:-1,111 ONCE
+http://187.188.232.236:1021/play/a00u/index.m3u8
+#EXTINF:-1,CANAL14
+http://187.188.232.236:1021/play/a03d/index.m3u8
 
 
 #EXTINF:-1, DW
