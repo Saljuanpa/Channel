@@ -14,12 +14,7 @@ https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 #EXTINF:-1, TV UNAM 20.1
 https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
-#EXTINF:-1, UNAM
-http://187.188.232.236:1021/play/a03e/index.m3u8
-#EXTINF:-1,111 ONCE
-http://187.188.232.236:1021/play/a00u/index.m3u8
-#EXTINF:-1,CANAL14
-http://187.188.232.236:1021/play/a03d/index.m3u8
+
 
 
 #EXTINF:-1, DW
@@ -28,8 +23,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 #EXTINF:-1, CNNE
 https://turnerlive.akamaized.net/hls/live/2006634/cnnespanol/master.m3u8
-#EXTINF:-1,356 Milenio
-http://187.188.232.236:1020/play/a00l/index.m3u8
+
 #EXTINF:-1, AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
@@ -39,8 +33,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1,ROO: Canal 10 Cancun
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,QUE: RTQ Queretaro
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+
 #EXTINF:-1,QUE: Super 9 Tv
 https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 
