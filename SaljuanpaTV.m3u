@@ -8,15 +8,20 @@ http:?
 https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8?
 
 
-#EXTINF:-1, CANAL 22.1
+#EXTINF:-1, CANAL 22
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?
-#EXTINF:-1, CANAL 22.2
+#EXTINF:-1, MX Nuestro Cine
 https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjMgMTE6MDM6MTQgUE0maGFzaF92YWx1ZT12K01UNWdtZWkzSERVdFJGNUN2UXFnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
-#EXTINF:-1, TV UNAM 20.1
+
+#EXTINF:-1, Once TV
+http://167.114.156.136:25461/INFINITV/ZX89NM22/111
+
+#EXTINF:-1, TV UNAM
 https://5e50264bd6766.streamlock.net/tvunam2/videotvunam2/playlist.m3u8?
 
 
-
+#EXTINF:-1,RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1, FORO 4.1
@@ -40,17 +45,10 @@ https://tv.radiohosting.online:1936/TV344/TV344/playlist.m3u8
 
 
 
-#EXTINF:-1, CANAL 5.1
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/129037
 
 
-#EXTINF:-1,IMAGEN TV UHD
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/3767
 #EXTINF:-1, ESTRELLA TV USA
 https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
-
-
-
 
 
 
@@ -59,27 +57,29 @@ https://estrellatv-roku.amagi.tv/playlistR1080p.m3u8
 http:?
 						*****  ARTE Y APRENDIZAJE  ****
 
-#EXTINF:-1,Film & Arts
-http://190.211.102.42:8000/play/a010/index.m3u8
-#EXTINF:-1,Film & arts HD
-http://190.211.102.42:8000/play/a06r/index.m3u8
+#EXTINF:-1, Film & Arts
+http://138.59.177.34:8000/play/a01f/index.m3u8
+#EXTINF:-1, Film & arts HD
+http://138.59.177.34:8000/play/a031/index.m3u8x|x
 
-#EXTINF:-1, 25 Discovery Channel
-http://45.5.117.182:8000/play/a0ht/index.m3u8
+#EXTINF:-1, Discovery Channel
+http://138.59.177.34:8000/play/a054/index.m3u8
 #EXTINF:-1, Discovery Channel HD
-http://45.5.117.182:8000/play/a0ju/index.m3u8
+http://138.59.177.34:8000/play/a077/index.m3u8
 
 #EXTINF:-1,Discovery Theater HD
-http://190.211.102.42:8000/play/a07o/index.m3u8
+http://138.59.177.34:8000/play/a05m/index.m3u8
 
-#EXTINF:-1,The History Channel
-http://190.211.102.42:8000/play/a05a/index.m3u8
-#EXTINF:-1,The History Channel HD
-http://190.211.102.42:8000/play/a02d/index.m3u8
+#EXTINF:-1, History Channel
+http://138.59.177.34:8000/play/a056/index.m3u8
+#EXTINF:-1, History Channel HD
+http://138.59.177.34:8000/play/a02s/index.m3u8
+
+#EXTINF:-1, El Gourmet
+http://138.59.177.34:8000/play/a043/index.m3u8
 
 
-#EXTINF:-1,El Gourmet
-http://190.211.102.42:8000/play/a048/index.m3u8
+
 
 #EXTINF:-1,***** 29 SERIES ****
 http:?
@@ -105,31 +105,29 @@ http:?
 						*****  PELICULAS  ****
 #EXTINF:-1,Sony Movies HD
 http://45.5.117.182:8000/play/a0i3/index.m3u8
-#EXTINF:-1,AMC
-http://190.211.102.42:8000/play/a027/index.m3u8
-#EXTINF:-1,AMC HD
-http://190.211.102.42:8000/play/a06t/index.m3u8
-
-#EXTINF:-1,HBO Family HD
-http://190.211.102.42:8000/play/a01a/index.m3u8
-#EXTINF:-1,HBO HD
-http://190.211.102.42:8000/play/a017/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://190.211.102.42:8000/play/a019/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://190.211.102.42:8000/play/a01b/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://190.211.102.42:8000/play/a018/index.m3u8
 
 
+#EXTINF:-1, AMC HD
+http://138.59.177.34:8000/play/a033/index.m3u8
+
+#EXTINF:-1, HBO Family HD
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF:-1, HBO HD
+http://138.59.177.34:8000/play/a01m/index.m3u8
+#EXTINF:-1, HBO Plus HD
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF:-1, HBO XTREME
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF:-1, HBO2 HD
+http://138.59.177.34:8000/play/a01n/index.m3u8
 
 
-#EXTINF:-1,Golden
-http://190.211.102.42:8000/play/a04i/index.m3u8
-#EXTINF:-1,Golden Premiere 2 HD
-http://190.211.102.42:8000/play/a00w/index.m3u8
-#EXTINF:-1,Golden Premiere HD
-http://190.211.102.42:8000/play/a00v/index.m3u8
+#EXTINF:-1, Golden
+http://138.59.177.34:8000/play/a04d/index.m3u8
+#EXTINF:-1, Golden Premiere 2 HD
+http://138.59.177.34:8000/play/a019/index.m3u8
+#EXTINF:-1, Golden Premiere HD
+http://138.59.177.34:8000/play/a018/index.m3u8
 
 
 #EXTINF:-1,Cinemax
@@ -144,8 +142,8 @@ http:?
 #EXTINF:-1,*****  CANALES INTERNACIONALES  ****
 http:?
 						*****  CANALES INTERNACIONALES  ****
-#EXTINF:-1,BBC America
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/15060.m3u
+#EXTINF:-1, BBC America (USA)
+http://167.114.156.136:25461/INFINITV/ZX89NM22/166
 #EXTINF:-1,BBC HOME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=96ff3a88-964d-11ec-b1aa-99811bcbfe74&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5cc32be4-4aaf-4114-8ef1-506a40b4c05f&userId=&serverSideAds=true
 #EXTINF:-1,Telebasel
@@ -196,12 +194,17 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Retro Music Television
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Web TV Music
-https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1,Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1,Retro Plus TV Señal 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1, Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Retro Plus TV Señal 2
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, Retro Plus TV Señal 3
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8?caster
+
+
+
 #EXTINF:-1,Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,Gospel Music Television
